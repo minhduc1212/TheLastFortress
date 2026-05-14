@@ -1,18 +1,90 @@
 import requests
 from bs4 import BeautifulSoup
 import urllib.parse
+import json
+import time
 
-# Cấu hình URL mục tiêu
+def scrape_fmhy_exact_content(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+    response = requests.get(url, headers=headers)
+    
+    if response.status_code != 200:
+        print(f"Lỗi truy cập {url}. Status code: {response.status_code}")
+        return None
+
+    soup = BeautifulSoup(response.text, 'html.parser')
+    content_container = soup.select_one('.vp-doc') 
+    
+    if not content_container:
+        return None
+
+    data = {
+        "url": url,
+        "title": soup.title.get_text(strip=True) if soup.title else "No Title",
+        "sections": []
+    }
+
+    current_section = None
+
+    for element in content_container.find_all(['h2', 'h3', 'p', 'ul']):
+        if element.name in ['h2', 'h3']:
+            if current_section:
+                data["sections"].append(current_section)
+            
+            heading_text = element.get_text(strip=True).replace('#', '').replace('​', '').strip()
+            current_section = {
+                "heading": heading_text,
+                "level": element.name,
+                "text_explanations": [],
+                "resource_items": [] # Đổi tên thành items để chứa cả text mô tả + links
+            }
+            
+        elif current_section:
+            if element.name == 'p':
+                text = element.get_text(strip=True)
+                if text and "Got feedback?" not in text:
+                    current_section["text_explanations"].append(text)
+                    
+            elif element.name == 'ul':
+                for li_tag in element.find_all('li'):
+                    full_text = li_tag.get_text(separator=" ", strip=True)
+                    
+                    links_in_li = []
+                    for a_tag in li_tag.find_all('a', href=True):
+                        link_url = a_tag['href']
+                        if not link_url.startswith('#'):
+                            if link_url.startswith('/'):
+                                link_url = f"https://fmhy.net{link_url}"
+                                
+                            links_in_li.append({
+                                "name": a_tag.get_text(strip=True),
+                                "url": link_url
+                            })
+                    
+                    if links_in_li:
+                        current_section["resource_items"].append({
+                            "full_text": full_text, 
+                            "links": links_in_li
+                        })
+                    elif full_text:
+                        current_section["text_explanations"].append(full_text)
+
+    if current_section:
+        data["sections"].append(current_section)
+
+    return data
+
+#url config
 base_url = "https://fmhy.net"
 target_url = f"{base_url}/beginners-guide"
 
-# Gửi yêu cầu HTTP GET đến trang web
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 response = requests.get(target_url, headers=headers)
 
-# Kiểm tra nếu truy cập thành công
 if response.status_code == 200:
     soup = BeautifulSoup(response.text, 'html.parser')
     
@@ -20,21 +92,34 @@ if response.status_code == 200:
 
     if sidebar:
         links = sidebar.find_all('a')
-        print(f"Tìm thấy {len(links)} mục trong thanh bar bên trái:\n")
-        print("=" * 40)
+        print(f"Tìm thấy {len(links)} mục trong thanh bar bên trái. Bắt đầu tiến trình crawl...\n")
+        print("=" * 60)
         
+        all_crawled_data = []
+
         for item in links:
-            name = item.get_text(strip=True) # Lấy tên hiển thị và loại bỏ khoảng trắng thừa
-            href = item.get('href')          # Lấy đường dẫn (link)
+            name = item.get_text(strip=True)
+            href = item.get('href')
             
             if name and href:
                 full_link = urllib.parse.urljoin(base_url, href)
                 
-                print(f"Tên mục : {name}")
-                print(f"Link    : {full_link}")
-                print("-" * 40)
+                print(f"Đang crawl mục: {name} ({full_link})")
+                
+                scraped_data = scrape_fmhy_exact_content(full_link)
+                if scraped_data:
+                    all_crawled_data.append({
+                        "category_name": name,
+                        "content": scraped_data
+                    })
+                time.sleep(1)
+                
+        with open('fmhy_all_data.json', 'w', encoding='utf-8') as f:
+            json.dump(all_crawled_data, f, ensure_ascii=False, indent=4)
+            
+        print(f"\Crawl {len(all_crawled_data)} sections and save in file fmhy_all_data.json.")
     else:
-        print("Không tìm thấy phần tử đại diện cho thanh bar bên trái.")
-        print("Hãy nhấn F12 (Inspect) trên trình duyệt để kiểm tra xem thanh bên trái dùng thẻ/class HTML nào và cập nhật lại biến 'sidebar'.")
+    
+        print("error")
 else:
     print(f"Không thể truy cập trang web. Mã lỗi: {response.status_code}")
