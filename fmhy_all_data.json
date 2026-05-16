@@ -3248,6 +3248,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠RustNet - Network Monitor TUI",
+                            "links": [
+                                {
+                                    "name": "⁠RustNet",
+                                    "url": "https://github.com/domcyrus/rustnet"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Simplewall - Firewall",
                             "links": [
                                 {
@@ -3614,6 +3623,15 @@
                                 {
                                     "name": "Encrypted SNI",
                                     "url": "https://www.cloudflare.com/ssl/encrypted-sni/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Disable JavaScript - JavaScript Disabling Guide / Can Break Sites / Whitelisting Required",
+                            "links": [
+                                {
+                                    "name": "⁠Disable JavaScript",
+                                    "url": "https://disable-javascript.org/"
                                 }
                             ]
                         }
@@ -6648,15 +6666,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/Cge9FYjV4h"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠StepFun - Step 3.5 Flash / DeepSeek R1",
-                            "links": [
-                                {
-                                    "name": "⁠StepFun",
-                                    "url": "https://stepfun.ai/"
                                 }
                             ]
                         },
@@ -11542,6 +11551,19 @@
                             ]
                         },
                         {
+                            "full_text": "Cinema.BZ - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Cinema.BZ",
+                                    "url": "https://cinema.bz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/cinemabz"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SpenFlix , 2 or Lunara - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11580,19 +11602,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/the-one"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinema.BZ - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinema.BZ",
-                                    "url": "https://cinema.bz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/cinemabz"
                                 }
                             ]
                         },
@@ -12408,6 +12417,19 @@
                             ]
                         },
                         {
+                            "full_text": "TeleV - Movies / TV / Anime / Sign-Up Required /",
+                            "links": [
+                                {
+                                    "name": "TeleV",
+                                    "url": "https://stream.telev.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/bPez4gxuze"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mapple.tv - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -12534,23 +12556,6 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Flicker - Movies / TV / Anime / Proxy / /",
-                            "links": [
-                                {
-                                    "name": "Flicker",
-                                    "url": "https://flickermini.pages.dev/"
-                                },
-                                {
-                                    "name": "Proxy",
-                                    "url": "https://flickerminiproxy.pages.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/flickermini/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "VoidFlix or Flixzy - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -12654,24 +12659,28 @@
                             ]
                         },
                         {
-                            "full_text": "TeleV - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "TeleV",
-                                    "url": "https://stream.telev.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/bPez4gxuze"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "321Movies - Movies / TV / Anime",
                             "links": [
                                 {
                                     "name": "321Movies",
                                     "url": "https://321movies.xyz/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Flicker - Movies / TV / Anime / Proxy / /",
+                            "links": [
+                                {
+                                    "name": "Flicker",
+                                    "url": "https://flickermini.pages.dev/"
+                                },
+                                {
+                                    "name": "Proxy",
+                                    "url": "https://flickerminiproxy.pages.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/flickermini/"
                                 }
                             ]
                         },
@@ -17606,11 +17615,15 @@
                             ]
                         },
                         {
-                            "full_text": "M3u8DL-RE or M3u8DL-CLI - ⁠M3U8 Download Tools",
+                            "full_text": "M3u8DL-RE / GUI or M3u8DL-CLI - ⁠M3U8 Download Tools",
                             "links": [
                                 {
                                     "name": "M3u8DL-RE",
-                                    "url": "https://github.com/nilaoda/N_m3u8DL-RE"
+                                    "url": "https://github.com/nilaoda/N_m3u8DL-RE/blob/main/README.en.md"
+                                },
+                                {
+                                    "name": "GUI",
+                                    "url": "https://github.com/naravid19/N_m3u8DL_RE_GUI"
                                 },
                                 {
                                     "name": "M3u8DL-CLI",
@@ -26141,19 +26154,6 @@
                             ]
                         },
                         {
-                            "full_text": "Antra - Multi-Site / FLAC / ALAC / AAC / MP3 /",
-                            "links": [
-                                {
-                                    "name": "Antra",
-                                    "url": "https://github.com/anandprtp/Antra/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/antraaverse"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "OnTheSpot - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal /",
                             "links": [
                                 {
@@ -26167,11 +26167,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Antra - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites",
+                            "full_text": "⁠Antra - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites /",
                             "links": [
                                 {
                                     "name": "⁠Antra",
                                     "url": "https://github.com/anandprtp/Antra"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/antraaverse"
                                 }
                             ]
                         },
@@ -28264,7 +28268,7 @@
                             ]
                         },
                         {
-                            "full_text": "Last.fm / Tools or ListenBrainz - Track Listening Habits / Songs",
+                            "full_text": "Last.fm / Tools , Libre.fm or ListenBrainz - Track Listening Habits / Songs",
                             "links": [
                                 {
                                     "name": "Last.fm",
@@ -28273,6 +28277,10 @@
                                 {
                                     "name": "Tools",
                                     "url": "https://fmhy.net/audio/#last-fm-tools"
+                                },
+                                {
+                                    "name": "Libre.fm",
+                                    "url": "https://libre.fm/"
                                 },
                                 {
                                     "name": "ListenBrainz",
@@ -38644,6 +38652,19 @@
                             ]
                         },
                         {
+                            "full_text": "TCG ONE - Online Pokémon Card Game /",
+                            "links": [
+                                {
+                                    "name": "TCG ONE",
+                                    "url": "https://tcgone.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/MTBGxVE"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Wikipedia Gacha - Wikipedia Gacha / Card Game",
                             "links": [
                                 {
@@ -41597,6 +41618,27 @@
                             ]
                         },
                         {
+                            "full_text": "⁠PokéClicker - Incremental Pokémon Game / Wiki / /",
+                            "links": [
+                                {
+                                    "name": "⁠PokéClicker",
+                                    "url": "https://www.pokeclicker.com"
+                                },
+                                {
+                                    "name": "Wiki",
+                                    "url": "https://wiki.pokeclicker.com"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/a6DFe4p"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/pokeclicker/pokeclicker"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "The Thorp of Woodstock - Build a Civilization",
                             "links": [
                                 {
@@ -42011,7 +42053,7 @@
                             "links": [
                                 {
                                     "name": "⁠Toon Tone",
-                                    "url": "https://toon-tone.vercel.app/"
+                                    "url": "https://toontone.games/"
                                 }
                             ]
                         },
@@ -42530,6 +42572,160 @@
                                 {
                                     "name": "Fumen",
                                     "url": "https://harddrop.com/fumen/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Pokemon",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "️ Pokémon Resources / Tools",
+                            "links": [
+                                {
+                                    "name": "Pokémon Resources / Tools",
+                                    "url": "https://fmhy.net/gaming-tools/#pokemon-tools"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PokéRogue - Pokémon Roguelike / Wiki / Mobile / /",
+                            "links": [
+                                {
+                                    "name": "PokéRogue",
+                                    "url": "https://pokerogue.net/"
+                                },
+                                {
+                                    "name": "Wiki",
+                                    "url": "https://wiki.pokerogue.net/start"
+                                },
+                                {
+                                    "name": "Mobile",
+                                    "url": "https://github.com/Admiral-Billy/Pokerogue-App"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/pokerogue/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/uWpTfdKG49"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PokeMMO - Pokémon MMO",
+                            "links": [
+                                {
+                                    "name": "PokeMMO",
+                                    "url": "https://pokemmo.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Pokémon Showdown - Online Pokémon Battles",
+                            "links": [
+                                {
+                                    "name": "Pokémon Showdown",
+                                    "url": "https://pokemonshowdown.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DelugeRPG - Pokémon MMO",
+                            "links": [
+                                {
+                                    "name": "DelugeRPG",
+                                    "url": "https://www.delugerpg.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Pokemon Blaze Online - Pokémon MMO /",
+                            "links": [
+                                {
+                                    "name": "Pokemon Blaze Online",
+                                    "url": "https://pokemonblazeonline.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/b3ZnXuf5fk"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Pokémon Revolution Online - Pokémon MMO",
+                            "links": [
+                                {
+                                    "name": "Pokémon Revolution Online",
+                                    "url": "https://pokemonrevolution.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠PokéClicker - Incremental Pokémon Game / Wiki / /",
+                            "links": [
+                                {
+                                    "name": "⁠PokéClicker",
+                                    "url": "https://www.pokeclicker.com"
+                                },
+                                {
+                                    "name": "Wiki",
+                                    "url": "https://wiki.pokeclicker.com"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/a6DFe4p"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/pokeclicker/pokeclicker"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Pokelike - Pokémon Roguelike /",
+                            "links": [
+                                {
+                                    "name": "⁠Pokelike",
+                                    "url": "https://pokelike.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/YsakfWStYq"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Pokemon Auto Chess - Pokemon Style Teamfight Tactics / /",
+                            "links": [
+                                {
+                                    "name": "Pokemon Auto Chess",
+                                    "url": "https://pokemon-auto-chess.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/6JMS7tr"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/keldaanCommunity/pokemonAutoChess"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TCG ONE - Online Pokémon Card Game /",
+                            "links": [
+                                {
+                                    "name": "TCG ONE",
+                                    "url": "https://tcgone.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/MTBGxVE"
                                 }
                             ]
                         }
@@ -46096,19 +46292,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "ReadComicsOnline , 2 , 3",
+                            "full_text": "ReadComicOnline",
                             "links": [
                                 {
-                                    "name": "ReadComicsOnline",
-                                    "url": "https://readcomiconline.li/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://readcomiconline.lu/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://rco.linksgen.com/"
+                                    "name": "ReadComicOnline",
+                                    "url": "https://rcostation.xyz/"
                                 }
                             ]
                         },
@@ -61615,11 +61803,38 @@
                             ]
                         },
                         {
+                            "full_text": "Cost of Living - Cost of Living Map",
+                            "links": [
+                                {
+                                    "name": "Cost of Living",
+                                    "url": "https://www.numbeo.com/cost-of-living/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MoveMap - North America Property Costs Map",
+                            "links": [
+                                {
+                                    "name": "MoveMap",
+                                    "url": "https://www.movemap.io/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Opportunity Atlas - Interactive Future Success Impact Map",
                             "links": [
                                 {
                                     "name": "⁠Opportunity Atlas",
                                     "url": "https://www.opportunityatlas.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HungerMap - Global Hunger Map",
+                            "links": [
+                                {
+                                    "name": "HungerMap",
+                                    "url": "https://hungermap.wfp.org/"
                                 }
                             ]
                         },
@@ -77369,15 +77584,6 @@
                             ]
                         },
                         {
-                            "full_text": "Material Files - File Manager",
-                            "links": [
-                                {
-                                    "name": "Material Files",
-                                    "url": "https://github.com/zhanghai/MaterialFiles"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Fossify File Manager - File Manager",
                             "links": [
                                 {
@@ -85015,27 +85221,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/dM2RUMdSZV"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Mojuru - Movies / TV / Anime / Extension-Based / Modules / /",
-                            "links": [
-                                {
-                                    "name": "⁠Mojuru",
-                                    "url": "https://www.mojuru.app/"
-                                },
-                                {
-                                    "name": "Modules",
-                                    "url": "https://modulesbypaul.vercel.app/?supports=Mojuru"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/vv5nhvhqQD"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/mojuru-app/mojuru"
                                 }
                             ]
                         },
@@ -98364,11 +98549,15 @@
                             ]
                         },
                         {
-                            "full_text": "Aniworld - Anime / Sub / Dub / 720p",
+                            "full_text": "Aniworld - Anime / Sub / Dub / 720p /",
                             "links": [
                                 {
                                     "name": "Aniworld",
                                     "url": "https://aniworld.to"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/xTkw6292Uj"
                                 }
                             ]
                         },
@@ -108085,6 +108274,15 @@
                             ]
                         },
                         {
+                            "full_text": "vnepg - Vietnamese IPTV Resources",
+                            "links": [
+                                {
+                                    "name": "vnepg",
+                                    "url": "https://rentry.co/fmhyb64#iptv-playlists"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Phim4K - Desktop App /",
                             "links": [
                                 {
@@ -112893,11 +113091,11 @@
                             ]
                         },
                         {
-                            "full_text": "HungerMap - Global Hunger Map",
+                            "full_text": "⁠Tangram Heightmapper - World Terrain Height Map",
                             "links": [
                                 {
-                                    "name": "HungerMap",
-                                    "url": "https://hungermap.wfp.org/"
+                                    "name": "⁠Tangram Heightmapper",
+                                    "url": "https://tangrams.github.io/heightmapper"
                                 }
                             ]
                         },
@@ -112969,24 +113167,6 @@
                                 {
                                     "name": "Aporee",
                                     "url": "https://aporee.org/maps/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cost of Living - Cost of Living Map",
-                            "links": [
-                                {
-                                    "name": "Cost of Living",
-                                    "url": "https://www.numbeo.com/cost-of-living/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MoveMap - North America Property Costs Map",
-                            "links": [
-                                {
-                                    "name": "MoveMap",
-                                    "url": "https://www.movemap.io/"
                                 }
                             ]
                         },
@@ -133648,7 +133828,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google Drive - 15GB / 2 Years / ~$3.33 (5TB Google AI Pro)",
+                            "full_text": "Google Drive - 5GB (15GB w/ Phone) / 2 Years / ~$3.33 (5TB Google AI Pro)",
                             "links": [
                                 {
                                     "name": "Google Drive",
@@ -146989,7 +147169,7 @@
                             ]
                         },
                         {
-                            "full_text": "TwitchNoSub , Sub-Vod or twitchnosub - Watch Sub Only Twitch Videos",
+                            "full_text": "TwitchNoSub / , Sub-Vod or twitchnosub - Watch Sub Only Twitch Videos",
                             "links": [
                                 {
                                     "name": "TwitchNoSub",
@@ -162581,7 +162761,7 @@
                             ]
                         },
                         {
-                            "full_text": "spark - Minecraft Performance Profiler /",
+                            "full_text": "spark - Minecraft Performance Profiler / /",
                             "links": [
                                 {
                                     "name": "spark",
@@ -162590,6 +162770,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/PAGT2fu"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/lucko/spark"
                                 }
                             ]
                         },
@@ -164551,6 +164735,15 @@
                             ]
                         },
                         {
+                            "full_text": "️ Pokémon Browser Games",
+                            "links": [
+                                {
+                                    "name": "Pokémon Browser Games",
+                                    "url": "https://fmhy.net/gaming/#pokemon"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Bulbapedia - Pokémon Wiki",
                             "links": [
                                 {
@@ -164607,73 +164800,6 @@
                             ]
                         },
                         {
-                            "full_text": "PokeMMO , DelugeRPG , Pokemon Blaze Online / or Pokémon Revolution Online - Pokémon MMOs",
-                            "links": [
-                                {
-                                    "name": "PokeMMO",
-                                    "url": "https://pokemmo.com/"
-                                },
-                                {
-                                    "name": "DelugeRPG",
-                                    "url": "https://www.delugerpg.com/"
-                                },
-                                {
-                                    "name": "Pokemon Blaze Online",
-                                    "url": "https://pokemonblazeonline.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/b3ZnXuf5fk"
-                                },
-                                {
-                                    "name": "Pokémon Revolution Online",
-                                    "url": "https://pokemonrevolution.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PokéRogue / Wiki / Mobile / / or ⁠Pokelike / - Pokémon Roguelike Games",
-                            "links": [
-                                {
-                                    "name": "PokéRogue",
-                                    "url": "https://pokerogue.net/"
-                                },
-                                {
-                                    "name": "Wiki",
-                                    "url": "https://wiki.pokerogue.net/start"
-                                },
-                                {
-                                    "name": "Mobile",
-                                    "url": "https://github.com/Admiral-Billy/Pokerogue-App"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://reddit.com/r/pokerogue/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/uWpTfdKG49"
-                                },
-                                {
-                                    "name": "⁠Pokelike",
-                                    "url": "https://pokelike.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/YsakfWStYq"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pokémon Showdown - Online Pokémon Battles",
-                            "links": [
-                                {
-                                    "name": "Pokémon Showdown",
-                                    "url": "https://pokemonshowdown.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "PokeCommunity - Pokémon Community",
                             "links": [
                                 {
@@ -164723,37 +164849,11 @@
                             ]
                         },
                         {
-                            "full_text": "PokeGB - Pokémon Blue Emulator",
-                            "links": [
-                                {
-                                    "name": "PokeGB",
-                                    "url": "https://github.com/binji/pokegb"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "pret - Pokémon Disassembly / Decompilation Projects",
                             "links": [
                                 {
                                     "name": "pret",
                                     "url": "https://github.com/orgs/pret/repositories"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pokemon Auto Chess - Pokemon Style Teamfight Tactics / /",
-                            "links": [
-                                {
-                                    "name": "Pokemon Auto Chess",
-                                    "url": "https://pokemon-auto-chess.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/6JMS7tr"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/keldaanCommunity/pokemonAutoChess"
                                 }
                             ]
                         },
@@ -164825,19 +164925,6 @@
                                 {
                                     "name": "Limitless",
                                     "url": "https://limitlesstcg.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TCG ONE - Online Pokémon Card Game /",
-                            "links": [
-                                {
-                                    "name": "TCG ONE",
-                                    "url": "https://tcgone.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/MTBGxVE"
                                 }
                             ]
                         },
@@ -168352,7 +168439,7 @@
                             ]
                         },
                         {
-                            "full_text": "ImgFlip / Remove Watermarks , Meme Generator , Meme Town , MemeBetter , meme-generator , Classic Memes or Emacs Meme Generator - Meme Creators",
+                            "full_text": "ImgFlip / Remove Watermarks , 2 , Meme Generator , Meme Town , MemeBetter , meme-generator , Classic Memes or Emacs Meme Generator - Meme Creators",
                             "links": [
                                 {
                                     "name": "ImgFlip",
@@ -168360,6 +168447,10 @@
                                 },
                                 {
                                     "name": "Remove Watermarks",
+                                    "url": "https://greasyfork.org/en/scripts/485073"
+                                },
+                                {
+                                    "name": "2",
                                     "url": "https://greasyfork.org/scripts/470387"
                                 },
                                 {
@@ -173028,7 +173119,7 @@
                             ]
                         },
                         {
-                            "full_text": "Immich / Storage Server /",
+                            "full_text": "Immich / Storage Server / Bulk Uploader /",
                             "links": [
                                 {
                                     "name": "Immich",
@@ -173037,6 +173128,10 @@
                                 {
                                     "name": "Storage Server",
                                     "url": "https://pixelunion.eu/"
+                                },
+                                {
+                                    "name": "Bulk Uploader",
+                                    "url": "https://github.com/simulot/immich-go"
                                 },
                                 {
                                     "name": "",
@@ -183041,19 +183136,6 @@
                             ]
                         },
                         {
-                            "full_text": "Antra - Multi-Site / FLAC / ALAC / AAC / MP3 /",
-                            "links": [
-                                {
-                                    "name": "Antra",
-                                    "url": "https://github.com/anandprtp/Antra/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/antraaverse"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "OnTheSpot - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal /",
                             "links": [
                                 {
@@ -183067,11 +183149,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Antra - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites",
+                            "full_text": "⁠Antra - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites /",
                             "links": [
                                 {
                                     "name": "⁠Antra",
                                     "url": "https://github.com/anandprtp/Antra"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/antraaverse"
                                 }
                             ]
                         },
@@ -185164,7 +185250,7 @@
                             ]
                         },
                         {
-                            "full_text": "Last.fm / Tools or ListenBrainz - Track Listening Habits / Songs",
+                            "full_text": "Last.fm / Tools , Libre.fm or ListenBrainz - Track Listening Habits / Songs",
                             "links": [
                                 {
                                     "name": "Last.fm",
@@ -185173,6 +185259,10 @@
                                 {
                                     "name": "Tools",
                                     "url": "https://fmhy.net/audio/#last-fm-tools"
+                                },
+                                {
+                                    "name": "Libre.fm",
+                                    "url": "https://libre.fm/"
                                 },
                                 {
                                     "name": "ListenBrainz",
@@ -195711,11 +195801,38 @@
                             ]
                         },
                         {
+                            "full_text": "Cost of Living - Cost of Living Map",
+                            "links": [
+                                {
+                                    "name": "Cost of Living",
+                                    "url": "https://www.numbeo.com/cost-of-living/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MoveMap - North America Property Costs Map",
+                            "links": [
+                                {
+                                    "name": "MoveMap",
+                                    "url": "https://www.movemap.io/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Opportunity Atlas - Interactive Future Success Impact Map",
                             "links": [
                                 {
                                     "name": "⁠Opportunity Atlas",
                                     "url": "https://www.opportunityatlas.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HungerMap - Global Hunger Map",
+                            "links": [
+                                {
+                                    "name": "HungerMap",
+                                    "url": "https://hungermap.wfp.org/"
                                 }
                             ]
                         },
@@ -206843,15 +206960,6 @@
                             ]
                         },
                         {
-                            "full_text": "dnSpyEx - .NET Debugger and Assembly Editor",
-                            "links": [
-                                {
-                                    "name": "dnSpyEx",
-                                    "url": "https://github.com/dnSpyEx/dnSpy"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Crontab Guru - Crontab Editor / Job Scheduler",
                             "links": [
                                 {
@@ -210719,23 +210827,6 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Aider - Terminal Coding AI / /",
-                            "links": [
-                                {
-                                    "name": "Aider",
-                                    "url": "https://aider.chat/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/Y7X7bhMQFV"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/Aider-AI/aider"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "OpenCode - Coding AI / GPT-5 nano / Minimax-M2.5 / Resources / /",
                             "links": [
                                 {
@@ -210753,6 +210844,23 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/anomalyco/opencode"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Aider - Terminal Coding AI / /",
+                            "links": [
+                                {
+                                    "name": "Aider",
+                                    "url": "https://aider.chat/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/Y7X7bhMQFV"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Aider-AI/aider"
                                 }
                             ]
                         },
@@ -217313,6 +217421,15 @@
                             ]
                         },
                         {
+                            "full_text": "dnSpyEx - .NET Debugger and Assembly Editor",
+                            "links": [
+                                {
+                                    "name": "dnSpyEx",
+                                    "url": "https://github.com/dnSpyEx/dnSpy"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ROP Emporium - Learn Return-Oriented Programming",
                             "links": [
                                 {
@@ -217844,7 +217961,20 @@
                             ]
                         },
                         {
-                            "full_text": "Nekogram - Known for logging peoples phone numbers / 2 via a hidden backdoor to one of their own bots.",
+                            "full_text": "LD Cloud / LDPlayer / LD Shop - Got caught tracking peoples keystrokes / 2 on payment screens.",
+                            "links": [
+                                {
+                                    "name": "tracking peoples keystrokes",
+                                    "url": "https://redd.it/1tcrr3p"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://x.com/NTE_WL/status/2054627592054153273"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Nekogram - Got caught logging peoples phone numbers / 2 via a hidden backdoor to one of their own bots.",
                             "links": [
                                 {
                                     "name": "logging peoples phone numbers",
@@ -217985,6 +218115,33 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "Material Files - File Manager (Removed in 6cd254c )",
+                            "links": [
+                                {
+                                    "name": "6cd254c",
+                                    "url": "https://github.com/fmhy/edit/commit/6cd254c97b0d33ba756d24cbcd6d2afae94394b5"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠StepFun - Step 3.5 Flash / DeepSeek R1 (Removed in 2ca3537 )",
+                            "links": [
+                                {
+                                    "name": "2ca3537",
+                                    "url": "https://github.com/fmhy/edit/commit/2ca3537c738159f51d84e97e4eb0f3ded27be351"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PokeGB - Pokémon Blue Emulator (Removed in 2ca3537 )",
+                            "links": [
+                                {
+                                    "name": "2ca3537",
+                                    "url": "https://github.com/fmhy/edit/commit/2ca3537c738159f51d84e97e4eb0f3ded27be351"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Perspective API - Toxicity Reduction API (Removed in d244759 )",
                             "links": [
@@ -219107,42 +219264,6 @@
                                 {
                                     "name": "a052434",
                                     "url": "https://github.com/fmhy/edit/commit/a05243495a86c5b4d39c643acb4fcc741e8ec33c"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TVMienPhi - Live TV / 1080p (Removed in 56cc49f : removed 2 dead sites)",
-                            "links": [
-                                {
-                                    "name": "56cc49f",
-                                    "url": "https://github.com/fmhy/edit/commit/56cc49f4c57d32b7a194308fd2934fcf18761bca"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "XemPhim - Movies / TV / Sub / 720p (Removed in 56cc49f : removed 2 dead sites)",
-                            "links": [
-                                {
-                                    "name": "56cc49f",
-                                    "url": "https://github.com/fmhy/edit/commit/56cc49f4c57d32b7a194308fd2934fcf18761bca"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Qwen Code - Coding AI / Qwen3.6-Plus / Qwen3.5-Plus (Qwen3.5-397B-A17B) / Docs / Limits (Removed in 875677c )",
-                            "links": [
-                                {
-                                    "name": "875677c",
-                                    "url": "https://github.com/fmhy/edit/commit/875677c5e41eb52fa377dd12c37347a2183e319b"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Movix - Movies / TV / Anime (Removed in 875677c )",
-                            "links": [
-                                {
-                                    "name": "875677c",
-                                    "url": "https://github.com/fmhy/edit/commit/875677c5e41eb52fa377dd12c37347a2183e319b"
                                 }
                             ]
                         }
