@@ -2,6 +2,6 @@
   - using Sqlite
 
 # TODO
-  - [] present in web 
-  - [] auto crawl annually
+  [x] present in web 
+  [x] auto crawl annually
    

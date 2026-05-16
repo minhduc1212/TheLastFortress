@@ -15,29 +15,36 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-DATA_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "fmhy_all_data.json")
+# Use Render's persistent disk if available, otherwise use local path
+RENDER_DISK_PATH = "/opt/render/project/src/data/fmhy_all_data.json"
+LOCAL_DATA_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "fmhy_all_data.json")
+
+DATA_PATH = RENDER_DISK_PATH if os.path.exists("/opt/render/project/src/data") else LOCAL_DATA_PATH
 
 def load_data():
+    if not os.path.exists(DATA_PATH):
+        return []
     with open(DATA_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
-# Load data into memory on startup
-data = load_data()
-
 @app.get("/api/categories")
 async def get_categories():
+    data = load_data()
     return [item["category_name"] for item in data]
 
 @app.get("/api/data")
 async def get_data(category: Optional[str] = None):
+    data = load_data()
     if category:
         return [item for item in data if item["category_name"] == category]
     return data
 
 @app.get("/api/search")
 async def search(q: str = Query(..., min_length=1)):
+    data = load_data()
     q = q.lower()
     results = []
+    # ... rest of search logic ...
     for category in data:
         matching_sections = []
         content = category.get("content", {})

@@ -45,6 +45,9 @@ export default function Home() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
   const [loading, setLoading] = useState(false);
 
+  // Use environment variable for production, fallback to localhost for dev
+  const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+
   useEffect(() => {
     fetchCategories();
   }, []);
@@ -57,7 +60,7 @@ export default function Home() {
 
   const fetchCategories = async () => {
     try {
-      const res = await fetch("http://localhost:8000/api/categories");
+      const res = await fetch(`${API_BASE}/api/categories`);
       const json = await res.json();
       setCategories(json);
       if (json.length > 0 && !selectedCategory) {
@@ -71,7 +74,7 @@ export default function Home() {
   const fetchData = async (category: string) => {
     setLoading(true);
     try {
-      const res = await fetch(`http://localhost:8000/api/data?category=${encodeURIComponent(category)}`);
+      const res = await fetch(`${API_BASE}/api/data?category=${encodeURIComponent(category)}`);
       const json = await res.json();
       setData(json);
     } catch (err) {
@@ -86,7 +89,7 @@ export default function Home() {
     if (!searchQuery) return;
     setLoading(true);
     try {
-      const res = await fetch(`http://localhost:8000/api/search?q=${encodeURIComponent(searchQuery)}`);
+      const res = await fetch(`${API_BASE}/api/search?q=${encodeURIComponent(searchQuery)}`);
       const json = await res.json();
       setData(json);
       setSelectedCategory(""); // Clear selection to show search results

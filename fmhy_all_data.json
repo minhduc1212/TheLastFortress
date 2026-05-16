@@ -2116,11 +2116,19 @@
                             ]
                         },
                         {
-                            "full_text": "Triage or Cuckoo / 2 - Online Sandboxes",
+                            "full_text": "Triage , ANY.RUN / DIscord / or Cuckoo / 2 - Online Sandboxes",
                             "links": [
                                 {
                                     "name": "Triage",
                                     "url": "https://tria.ge/"
+                                },
+                                {
+                                    "name": "ANY.RUN",
+                                    "url": "https://any.run/"
+                                },
+                                {
+                                    "name": "DIscord",
+                                    "url": "https://discord.gg/anyrun"
                                 },
                                 {
                                     "name": "Cuckoo",
@@ -3643,7 +3651,7 @@
                             "links": [
                                 {
                                     "name": "Ente Auth",
-                                    "url": "https://ente.io/auth/"
+                                    "url": "https://ente.com/auth/"
                                 },
                                 {
                                     "name": "",
@@ -6350,7 +6358,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Z.ai - GLM-5.1 / GLM-5-Turbo / Slides /",
+                            "full_text": "⁠Z.ai - GLM-5.1 / GLM-5-Turbo / Slides / Sign-Up /",
                             "links": [
                                 {
                                     "name": "⁠Z.ai",
@@ -6793,7 +6801,7 @@
                                 },
                                 {
                                     "name": "Limits and Models",
-                                    "url": "https://enter.pollinations.ai/"
+                                    "url": "https://enter.pollinations.ai/sign-in##models"
                                 },
                                 {
                                     "name": "",
@@ -8401,7 +8409,7 @@
                                 },
                                 {
                                     "name": "Limits and models",
-                                    "url": "https://enter.pollinations.ai/"
+                                    "url": "https://enter.pollinations.ai/sign-in##models"
                                 },
                                 {
                                     "name": "",
@@ -9232,7 +9240,7 @@
                                 },
                                 {
                                     "name": "Limits and Models",
-                                    "url": "https://enter.pollinations.ai/"
+                                    "url": "https://enter.pollinations.ai/sign-in##models"
                                 },
                                 {
                                     "name": "",
@@ -9505,7 +9513,7 @@
                                 },
                                 {
                                     "name": "Limits and Models",
-                                    "url": "https://enter.pollinations.ai/"
+                                    "url": "https://enter.pollinations.ai/sign-in##models"
                                 },
                                 {
                                     "name": "",
@@ -11373,7 +11381,7 @@
                             ]
                         },
                         {
-                            "full_text": "Rive , 2 , 3 or CorsFlix , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
+                            "full_text": "Rive , 2 , 3 or CorsFlix - Movies / TV / Anime / Auto-Next / Status /",
                             "links": [
                                 {
                                     "name": "Rive",
@@ -11389,14 +11397,6 @@
                                 },
                                 {
                                     "name": "CorsFlix",
-                                    "url": "https://watch.corsflix.net"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://watch.corsflix.dpdns.org/"
-                                },
-                                {
-                                    "name": "3",
                                     "url": "https://corsflix.net"
                                 },
                                 {
@@ -11563,7 +11563,7 @@
                             ]
                         },
                         {
-                            "full_text": "1Shows , 1Flex or 1Tube - Movies / TV / Anime / 4K Note /",
+                            "full_text": "1Shows , 1Flex or 1Tube - Movies / TV / Anime / /",
                             "links": [
                                 {
                                     "name": "1Shows",
@@ -11576,10 +11576,6 @@
                                 {
                                     "name": "1Tube",
                                     "url": "https://www.1tube.org/"
-                                },
-                                {
-                                    "name": "4K Note",
-                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md"
                                 },
                                 {
                                     "name": "",
@@ -11704,16 +11700,8 @@
                             ]
                         },
                         {
-                            "full_text": "StreamM4u , 2 or M4uHD - Movies / TV / Anime / Clones",
+                            "full_text": "M4uHD - Movies / TV / Anime / Clones",
                             "links": [
-                                {
-                                    "name": "StreamM4u",
-                                    "url": "https://streamm4u.com.co/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://m4uhd.page/"
-                                },
                                 {
                                     "name": "M4uHD",
                                     "url": "https://m4uhd.vip"
@@ -11813,6 +11801,15 @@
                                 {
                                     "name": "RIPS",
                                     "url": "https://rips.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PonTv - Movies / TV / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "PonTv",
+                                    "url": "https://pontv.to/"
                                 }
                             ]
                         },
@@ -12077,7 +12074,7 @@
                             ]
                         },
                         {
-                            "full_text": "CinemaOS , 2 , 3 or NoirX https://noirx.me/ ), 2 - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "CinemaOS , 2 , 3 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "CinemaOS",
@@ -12090,18 +12087,6 @@
                                 {
                                     "name": "3",
                                     "url": "https://cinemaos.me/"
-                                },
-                                {
-                                    "name": "NoirX",
-                                    "url": "./"
-                                },
-                                {
-                                    "name": "https://noirx.me/",
-                                    "url": "https://noirx.me/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://noirx.live/"
                                 },
                                 {
                                     "name": "",
@@ -12295,19 +12280,6 @@
                             ]
                         },
                         {
-                            "full_text": "Stigstream - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Stigstream",
-                                    "url": "https://stigstream.ru/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/7MV8Z3Vyfm"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠FilmU , 2 - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -12427,6 +12399,15 @@
                             ]
                         },
                         {
+                            "full_text": "Stigstream - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Stigstream",
+                                    "url": "https://stigstream.ru/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mapple.tv - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -12436,6 +12417,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/V8XUhQb2MZ"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Watch Surface - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Watch Surface",
+                                    "url": "https://watchsurface.stream/"
                                 }
                             ]
                         },
@@ -12462,6 +12452,19 @@
                                 {
                                     "name": "2",
                                     "url": "https://watch-v2.autoembed.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "StreamVaults - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "StreamVaults",
+                                    "url": "https://streamvaults.ru/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/+IgR5C4TUDAFkY2Rk"
                                 }
                             ]
                         },
@@ -21687,11 +21690,15 @@
                             ]
                         },
                         {
-                            "full_text": "Subshifter , ffsubsync , autosubsync-mpv or autosubsync - Sync Subtitles",
+                            "full_text": "Subshifter , ⁠AutoSubSync , ffsubsync , autosubsync-mpv or autosubsync - Sync Subtitles",
                             "links": [
                                 {
                                     "name": "Subshifter",
                                     "url": "https://subshifter.bitsnbites.eu/"
+                                },
+                                {
+                                    "name": "⁠AutoSubSync",
+                                    "url": "https://github.com/denizsafak/AutoSubSync"
                                 },
                                 {
                                     "name": "ffsubsync",
@@ -22892,23 +22899,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/monochrome-music/monochrome"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DAB Music Player - Browser Music / Lossless / /",
-                            "links": [
-                                {
-                                    "name": "DAB Music Player",
-                                    "url": "https://dabmusic.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/+RnrXmKyOPNY0ZGY9"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/rmzH6ttgcC"
                                 }
                             ]
                         },
@@ -25513,11 +25503,15 @@
                             ]
                         },
                         {
-                            "full_text": "Spicetify - Spotify Themes & Plugins / / /",
+                            "full_text": "Spicetify - Spotify Themes & Plugins / Improved Lyrics / / /",
                             "links": [
                                 {
                                     "name": "Spicetify",
                                     "url": "https://spicetify.app/"
+                                },
+                                {
+                                    "name": "Improved Lyrics",
+                                    "url": "https://spicylyrics.org/"
                                 },
                                 {
                                     "name": "",
@@ -25967,27 +25961,6 @@
                             ]
                         },
                         {
-                            "full_text": "DAB Music Player - FLAC / Download CLI / /",
-                            "links": [
-                                {
-                                    "name": "DAB Music Player",
-                                    "url": "https://dabmusic.xyz"
-                                },
-                                {
-                                    "name": "Download CLI",
-                                    "url": "https://github.com/PrathxmOp/dab-downloader"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/+RnrXmKyOPNY0ZGY9"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/rmzH6ttgcC"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Jumo-DL - FLAC / MP3",
                             "links": [
                                 {
@@ -26011,6 +25984,19 @@
                                 {
                                     "name": "⁠am-dl",
                                     "url": "https://am-dl.pages.dev/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Antra Web - Multi-Site / FLAC / ALAC / AAC / MP3 /",
+                            "links": [
+                                {
+                                    "name": "Antra Web",
+                                    "url": "https://antra.hoshi.cfd/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/antraaverse"
                                 }
                             ]
                         },
@@ -26151,6 +26137,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/uqfQbzHj6K"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Antra - Multi-Site / FLAC / ALAC / AAC / MP3 /",
+                            "links": [
+                                {
+                                    "name": "Antra",
+                                    "url": "https://github.com/anandprtp/Antra/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/antraaverse"
                                 }
                             ]
                         },
@@ -28022,19 +28021,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Khinsider - Game Soundtracks / MP3 / FLAC / ALAC / Downloader , 2",
+                            "full_text": "Khinsider - Game Soundtracks / MP3 / FLAC / ALAC",
                             "links": [
                                 {
                                     "name": "Khinsider",
                                     "url": "https://downloads.khinsider.com/"
-                                },
-                                {
-                                    "name": "Downloader",
-                                    "url": "https://github.com/killshott3r/khinsider"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://github.com/weespin/KhinsiderDownloader"
                                 }
                             ]
                         },
@@ -32563,19 +32554,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/appnetica_info"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AtopGames - Download / Pre-Installed /",
-                            "links": [
-                                {
-                                    "name": "AtopGames",
-                                    "url": "https://atopgames.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/KSG9Tg2s7b"
                                 }
                             ]
                         },
@@ -48123,10 +48101,10 @@
                             ]
                         },
                         {
-                            "full_text": "EarlyModernTexts - Historical Texts",
+                            "full_text": "Early Modern Texts - Historical Texts",
                             "links": [
                                 {
-                                    "name": "EarlyModernTexts",
+                                    "name": "Early Modern Texts",
                                     "url": "https://www.earlymoderntexts.com"
                                 }
                             ]
@@ -48922,8 +48900,12 @@
                             ]
                         },
                         {
-                            "full_text": "Mendeley - Research Papers / Data / Reference Manager",
+                            "full_text": "Zotero or Mendeley / Data / Reference Manager - Research Managers",
                             "links": [
+                                {
+                                    "name": "Zotero",
+                                    "url": "https://www.zotero.org/"
+                                },
                                 {
                                     "name": "Mendeley",
                                     "url": "https://www.mendeley.com/"
@@ -52471,7 +52453,7 @@
                             ]
                         },
                         {
-                            "full_text": "CracksURL / Download Guide /",
+                            "full_text": "CracksURL / Download Guide",
                             "links": [
                                 {
                                     "name": "CracksURL",
@@ -52480,10 +52462,6 @@
                                 {
                                     "name": "Download Guide",
                                     "url": "https://cracksurl.com/how-to-download/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/cracksurldotcom"
                                 }
                             ]
                         },
@@ -52797,7 +52775,7 @@
                                 },
                                 {
                                     "name": "Awesome Free Apps",
-                                    "url": "https://github.com/1337Core/awesome-free-apps"
+                                    "url": "https://github.com/Axorax/awesome-free-apps"
                                 },
                                 {
                                     "name": "Windows Ultimate Collection",
@@ -53595,15 +53573,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Cocoleech , DownloaderNow , ⁠Downloader Zone or ⁠MixDebrid (use shortlink bypass) - Bypass Premium Link Limits",
+                            "full_text": "⁠Cocoleech , ⁠Downloader Zone or ⁠MixDebrid (use shortlink bypass) - Bypass Premium Link Limits",
                             "links": [
                                 {
                                     "name": "⁠Cocoleech",
                                     "url": "https://cocoleech.com/premium-link-generator"
-                                },
-                                {
-                                    "name": "DownloaderNow",
-                                    "url": "https://downloader.now/"
                                 },
                                 {
                                     "name": "⁠Downloader Zone",
@@ -59278,6 +59252,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Folding@home - Donate Idle PC to Disease Research",
+                            "links": [
+                                {
+                                    "name": "⁠Folding@home",
+                                    "url": "https://foldingathome.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Epidemic Calculator - COVID Data",
                             "links": [
                                 {
@@ -60646,11 +60629,15 @@
                             ]
                         },
                         {
-                            "full_text": "Historical Recipes - Historical Recipes Collection",
+                            "full_text": "Historical Recipes or Tasting History - Historical Recipes",
                             "links": [
                                 {
                                     "name": "Historical Recipes",
                                     "url": "https://l-lists.com/en/lists/55cbww.html"
+                                },
+                                {
+                                    "name": "Tasting History",
+                                    "url": "https://www.tastinghistory.com/"
                                 }
                             ]
                         },
@@ -60660,6 +60647,15 @@
                                 {
                                     "name": "⁠Gode Cookery",
                                     "url": "http://www.godecookery.com/godeboke/godeboke.htm"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠The Food Historian - Food History Blog",
+                            "links": [
+                                {
+                                    "name": "⁠The Food Historian",
+                                    "url": "https://www.thefoodhistorian.com/"
                                 }
                             ]
                         },
@@ -66682,15 +66678,11 @@
                             ]
                         },
                         {
-                            "full_text": "OpenVim or Vim Hero - Interactive Vim Tutorials",
+                            "full_text": "OpenVim - Interactive Vim Tutorials",
                             "links": [
                                 {
                                     "name": "OpenVim",
                                     "url": "https://openvim.com/"
-                                },
-                                {
-                                    "name": "Vim Hero",
-                                    "url": "https://www.vim-hero.com/"
                                 }
                             ]
                         },
@@ -73075,19 +73067,6 @@
                             ]
                         },
                         {
-                            "full_text": "GPlay APK Downloader - Google Play Store Direct APK Downloader /",
-                            "links": [
-                                {
-                                    "name": "GPlay APK Downloader",
-                                    "url": "https://apkdl.dietdroid.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/alltechdev/gplay-apk-downloader"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "CorePatch - Disable Signature Verification /",
                             "links": [
                                 {
@@ -73148,10 +73127,14 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Morphe Patch Index - Morphe Patch Index",
+                            "full_text": "Morphe Patch Index , 2 - Morphe Patch Index",
                             "links": [
                                 {
                                     "name": "Morphe Patch Index",
+                                    "url": "https://morphe-patches.software/"
+                                },
+                                {
+                                    "name": "2",
                                     "url": "https://redd.it/1ta0bek"
                                 }
                             ]
@@ -73175,7 +73158,7 @@
                             ]
                         },
                         {
-                            "full_text": "Morphe - Android App Patcher / / Resources / / Patch Index /",
+                            "full_text": "Morphe - Android App Patcher / / Resources / /",
                             "links": [
                                 {
                                     "name": "Morphe",
@@ -73192,10 +73175,6 @@
                                 {
                                     "name": "",
                                     "url": "https://reddit.com/r/MorpheApp"
-                                },
-                                {
-                                    "name": "Patch Index",
-                                    "url": "https://redd.it/1ta0bek"
                                 },
                                 {
                                     "name": "",
@@ -75673,7 +75652,7 @@
                             "links": [
                                 {
                                     "name": "Ente",
-                                    "url": "https://ente.io/"
+                                    "url": "https://ente.com/"
                                 },
                                 {
                                     "name": "",
@@ -79103,19 +79082,6 @@
                                 {
                                     "name": "Debloat",
                                     "url": "https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "LDPlayer - Android Emulator / Debloat",
-                            "links": [
-                                {
-                                    "name": "LDPlayer",
-                                    "url": "https://www.ldplayer.net/"
-                                },
-                                {
-                                    "name": "Debloat",
-                                    "url": "https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/"
                                 }
                             ]
                         }
@@ -86670,7 +86636,7 @@
                             "links": [
                                 {
                                     "name": "emplace",
-                                    "url": "https://github.com/tversteeg/emplace"
+                                    "url": "https://codeberg.org/fosk/emplace"
                                 }
                             ]
                         },
@@ -87422,11 +87388,15 @@
                             ]
                         },
                         {
-                            "full_text": "Spicetify - Spotify Themes & Plugins / / /",
+                            "full_text": "Spicetify - Spotify Themes & Plugins/ / Improved Lyrics / / /",
                             "links": [
                                 {
                                     "name": "Spicetify",
                                     "url": "https://spicetify.app/"
+                                },
+                                {
+                                    "name": "Improved Lyrics",
+                                    "url": "https://spicylyrics.org/"
                                 },
                                 {
                                     "name": "",
@@ -92103,11 +92073,15 @@
                             ]
                         },
                         {
-                            "full_text": "Spicetify - Spotify Themes & Plugins / / /",
+                            "full_text": "Spicetify - Spotify Themes & Plugins / Improved Lyrics / / /",
                             "links": [
                                 {
                                     "name": "Spicetify",
                                     "url": "https://spicetify.app/"
+                                },
+                                {
+                                    "name": "Improved Lyrics",
+                                    "url": "https://spicylyrics.org/"
                                 },
                                 {
                                     "name": "",
@@ -102499,7 +102473,7 @@
                             ]
                         },
                         {
-                            "full_text": "Naikamu ) - Anime Streaming App /",
+                            "full_text": "Naikamu - Anime Streaming App /",
                             "links": [
                                 {
                                     "name": "Naikamu",
@@ -109966,6 +109940,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Folding@home - Donate Idle PC to Disease Research",
+                            "links": [
+                                {
+                                    "name": "⁠Folding@home",
+                                    "url": "https://foldingathome.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠e-NABLE - Volunteer Own 3D Printer for use in Prosthetic Limb Printing",
                             "links": [
                                 {
@@ -110241,6 +110224,15 @@
                                     "url": "https://www.slavefreechocolate.org/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "⁠The Food Historian - Food History Blog",
+                            "links": [
+                                {
+                                    "name": "⁠The Food Historian",
+                                    "url": "https://www.thefoodhistorian.com/"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -110511,11 +110503,24 @@
                             ]
                         },
                         {
-                            "full_text": "Historical Recipes - Historical Recipes",
+                            "full_text": "Historical Recipes or Tasting History - Historical Recipes",
                             "links": [
                                 {
                                     "name": "Historical Recipes",
                                     "url": "https://l-lists.com/en/lists/55cbww.html"
+                                },
+                                {
+                                    "name": "Tasting History",
+                                    "url": "https://www.tastinghistory.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Gode Cookery - Authentic Medieval Recipes & Historical Info",
+                            "links": [
+                                {
+                                    "name": "⁠Gode Cookery",
+                                    "url": "http://www.godecookery.com/godeboke/godeboke.htm"
                                 }
                             ]
                         },
@@ -115980,7 +115985,7 @@
                             ]
                         },
                         {
-                            "full_text": "cringeMDb , Age Rating JuJu , CommonSenseMedia or Unconsenting Media - Find SFW Movies",
+                            "full_text": "cringeMDb , Age Rating JuJu , Common Sense Media or Unconsenting Media - Find SFW Movies",
                             "links": [
                                 {
                                     "name": "cringeMDb",
@@ -115991,7 +115996,7 @@
                                     "url": "https://www.ageratingjuju.com/"
                                 },
                                 {
-                                    "name": "CommonSenseMedia",
+                                    "name": "Common Sense Media",
                                     "url": "https://www.commonsensemedia.org/"
                                 },
                                 {
@@ -131696,15 +131701,6 @@
                             ]
                         },
                         {
-                            "full_text": "OpenHashTab - Compare / Display File Hashes",
-                            "links": [
-                                {
-                                    "name": "OpenHashTab",
-                                    "url": "https://github.com/namazso/OpenHashTab"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "TagSpaces or Tagging for Windows - Tag-Based File Systems",
                             "links": [
                                 {
@@ -135848,7 +135844,7 @@
                             ]
                         },
                         {
-                            "full_text": "SimilarSiteSearch , SimilarWeb , SitesLikes , TopSimilarSites , SimilarSites , OpenDirectory or SiteLike.org - Similar Site Searches",
+                            "full_text": "SimilarSiteSearch , SimilarWeb , SitesLikes , TopSimilarSites , SimilarSites or OpenDirectory - Similar Site Searches",
                             "links": [
                                 {
                                     "name": "SimilarSiteSearch",
@@ -135873,10 +135869,6 @@
                                 {
                                     "name": "OpenDirectory",
                                     "url": "https://odir.us/"
-                                },
-                                {
-                                    "name": "SiteLike.org",
-                                    "url": "https://www.sitelike.org/"
                                 }
                             ]
                         },
@@ -158759,7 +158751,7 @@
                             "links": [
                                 {
                                     "name": "t7patch",
-                                    "url": "https://github.com/shiversoftdev/t7patch"
+                                    "url": "https://github.com/Scroptss/T7Patch"
                                 }
                             ]
                         }
@@ -171205,11 +171197,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Blender - FOSS 3D Modeling App",
+                            "full_text": "Blender - FOSS 3D Modeling App /",
                             "links": [
                                 {
                                     "name": "Blender",
                                     "url": "https://www.blender.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://projects.blender.org/blender/blender"
                                 }
                             ]
                         },
@@ -171679,6 +171675,15 @@
                                 {
                                     "name": "⁠SpoolScout",
                                     "url": "https://www.spoolscout.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠step.parts - 3D Printing Step Files",
+                            "links": [
+                                {
+                                    "name": "⁠step.parts",
+                                    "url": "https://www.step.parts/"
                                 }
                             ]
                         },
@@ -173098,7 +173103,7 @@
                             "links": [
                                 {
                                     "name": "Ente",
-                                    "url": "https://help.ente.io/self-hosting/"
+                                    "url": "https://help.ente.com/self-hosting/"
                                 }
                             ]
                         },
@@ -173301,7 +173306,7 @@
                             "links": [
                                 {
                                     "name": "Ente",
-                                    "url": "https://ente.io/"
+                                    "url": "https://ente.com/"
                                 }
                             ]
                         },
@@ -177933,6 +177938,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠YT-DLP Online , 2 - Multi-Site / Online",
+                            "links": [
+                                {
+                                    "name": "⁠YT-DLP Online",
+                                    "url": "https://ytdlp.online/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://ytdlp.wiki/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠imov.life - Multi-Site / Online",
                             "links": [
                                 {
@@ -179781,23 +179799,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/monochrome-music/monochrome"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DAB Music Player - Browser Music / Lossless / /",
-                            "links": [
-                                {
-                                    "name": "DAB Music Player",
-                                    "url": "https://dabmusic.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/+RnrXmKyOPNY0ZGY9"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/rmzH6ttgcC"
                                 }
                             ]
                         },
@@ -182402,11 +182403,15 @@
                             ]
                         },
                         {
-                            "full_text": "Spicetify - Spotify Themes & Plugins / / /",
+                            "full_text": "Spicetify - Spotify Themes & Plugins / Improved Lyrics / / /",
                             "links": [
                                 {
                                     "name": "Spicetify",
                                     "url": "https://spicetify.app/"
+                                },
+                                {
+                                    "name": "Improved Lyrics",
+                                    "url": "https://spicylyrics.org/"
                                 },
                                 {
                                     "name": "",
@@ -182856,27 +182861,6 @@
                             ]
                         },
                         {
-                            "full_text": "DAB Music Player - FLAC / Download CLI / /",
-                            "links": [
-                                {
-                                    "name": "DAB Music Player",
-                                    "url": "https://dabmusic.xyz"
-                                },
-                                {
-                                    "name": "Download CLI",
-                                    "url": "https://github.com/PrathxmOp/dab-downloader"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/+RnrXmKyOPNY0ZGY9"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/rmzH6ttgcC"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Jumo-DL - FLAC / MP3",
                             "links": [
                                 {
@@ -182900,6 +182884,19 @@
                                 {
                                     "name": "⁠am-dl",
                                     "url": "https://am-dl.pages.dev/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Antra Web - Multi-Site / FLAC / ALAC / AAC / MP3 /",
+                            "links": [
+                                {
+                                    "name": "Antra Web",
+                                    "url": "https://antra.hoshi.cfd/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/antraaverse"
                                 }
                             ]
                         },
@@ -183040,6 +183037,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/uqfQbzHj6K"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Antra - Multi-Site / FLAC / ALAC / AAC / MP3 /",
+                            "links": [
+                                {
+                                    "name": "Antra",
+                                    "url": "https://github.com/anandprtp/Antra/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/antraaverse"
                                 }
                             ]
                         },
@@ -184911,19 +184921,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Khinsider - Game Soundtracks / MP3 / FLAC / ALAC / Downloader , 2",
+                            "full_text": "Khinsider - Game Soundtracks / MP3 / FLAC / ALAC",
                             "links": [
                                 {
                                     "name": "Khinsider",
                                     "url": "https://downloads.khinsider.com/"
-                                },
-                                {
-                                    "name": "Downloader",
-                                    "url": "https://github.com/killshott3r/khinsider"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://github.com/weespin/KhinsiderDownloader"
                                 }
                             ]
                         },
@@ -193346,6 +193348,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Folding@home - Donate Idle PC to Disease Research",
+                            "links": [
+                                {
+                                    "name": "⁠Folding@home",
+                                    "url": "https://foldingathome.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Epidemic Calculator - COVID Data",
                             "links": [
                                 {
@@ -194714,11 +194725,15 @@
                             ]
                         },
                         {
-                            "full_text": "Historical Recipes - Historical Recipes Collection",
+                            "full_text": "Historical Recipes or Tasting History - Historical Recipes",
                             "links": [
                                 {
                                     "name": "Historical Recipes",
                                     "url": "https://l-lists.com/en/lists/55cbww.html"
+                                },
+                                {
+                                    "name": "Tasting History",
+                                    "url": "https://www.tastinghistory.com/"
                                 }
                             ]
                         },
@@ -194728,6 +194743,15 @@
                                 {
                                     "name": "⁠Gode Cookery",
                                     "url": "http://www.godecookery.com/godeboke/godeboke.htm"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠The Food Historian - Food History Blog",
+                            "links": [
+                                {
+                                    "name": "⁠The Food Historian",
+                                    "url": "https://www.thefoodhistorian.com/"
                                 }
                             ]
                         },
@@ -200750,15 +200774,11 @@
                             ]
                         },
                         {
-                            "full_text": "OpenVim or Vim Hero - Interactive Vim Tutorials",
+                            "full_text": "OpenVim - Interactive Vim Tutorials",
                             "links": [
                                 {
                                     "name": "OpenVim",
                                     "url": "https://openvim.com/"
-                                },
-                                {
-                                    "name": "Vim Hero",
-                                    "url": "https://www.vim-hero.com/"
                                 }
                             ]
                         },
@@ -208541,7 +208561,7 @@
                             ]
                         },
                         {
-                            "full_text": "Mockable , {JSON} Placeholder , jsoning or MockLab - Mock APIs",
+                            "full_text": "Mockable , {JSON} Placeholder , jsoning or WireMmock Cloud - Mock APIs",
                             "links": [
                                 {
                                     "name": "Mockable",
@@ -208556,7 +208576,7 @@
                                     "url": "https://jsoning.com/api/"
                                 },
                                 {
-                                    "name": "MockLab",
+                                    "name": "WireMmock Cloud",
                                     "url": "https://www.wiremock.io/"
                                 }
                             ]
@@ -208646,15 +208666,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/codebam/cf-workers-telegram-bot"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Perspective API - Toxicity Reduction API",
-                            "links": [
-                                {
-                                    "name": "Perspective API",
-                                    "url": "https://www.perspectiveapi.com/"
                                 }
                             ]
                         },
@@ -217975,6 +217986,33 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Perspective API - Toxicity Reduction API (Removed in d244759 )",
+                            "links": [
+                                {
+                                    "name": "d244759",
+                                    "url": "https://github.com/fmhy/edit/commit/d244759c9b94756f2815006eeb3dae7877cfd031"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OpenHashTab - Compare / Display File Hashes (Removed in 050f115 )",
+                            "links": [
+                                {
+                                    "name": "050f115",
+                                    "url": "https://github.com/fmhy/edit/commit/050f115494ff67d77b23f06d654211f49799608b"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LDPlayer - Android Emulator / Debloat (Removed in 050f115 )",
+                            "links": [
+                                {
+                                    "name": "050f115",
+                                    "url": "https://github.com/fmhy/edit/commit/050f115494ff67d77b23f06d654211f49799608b"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Arete Codex - Physical Health / Bodybuilding Guide (Removed in fe8263e )",
                             "links": [
                                 {
@@ -219105,15 +219143,6 @@
                                 {
                                     "name": "875677c",
                                     "url": "https://github.com/fmhy/edit/commit/875677c5e41eb52fa377dd12c37347a2183e319b"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GeoHack - Uncensored Google Satellite View (Removed in 01d2fad )",
-                            "links": [
-                                {
-                                    "name": "01d2fad",
-                                    "url": "https://github.com/fmhy/edit/commit/01d2fad0a027f1d6fe4b332e4d0733ea1f85c5e7"
                                 }
                             ]
                         }
