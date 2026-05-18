@@ -11,7 +11,7 @@
                     "text_explanations": [
                         "How important is using an adblocker?",
                         "Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.",
-                        "For browsers, we recommenduBlock Origin (uBO), and you can also use aRedirect Skipperto skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called browser below for our recommended ones.",
+                        "For browsers, we recommenduBlock Origin (uBO), and you can also use aRedirect Skipperto skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called browser below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.",
                         "For mobileAdGuard Premium/iOSorRethink DNS, and you can block YouTube and Reddit ads withMorphe, which you can optionallyset up easily. Note that uBO works on mobile browsers like Firefox too.",
                         "INFO",
                         "Using several ad blockers, like uBO and AdGuard at the same time canmess things up. This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock."
@@ -1376,7 +1376,7 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "Many sites contain ads, popups or redirects, so wehighly recommendusing an adblocker. Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously toavoid breakage. Combining general adblockers with tools like SponsorBlock is fine."
+                        "Many sites contain ads, popups or redirects, so wehighly recommendusing an adblocker. Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously toavoid breakage. Combining general adblockers with tools like SponsorBlock is fine. Also note full version of uBO works significantly better than the lite version."
                     ],
                     "resource_items": [
                         {
@@ -1416,19 +1416,19 @@
                             ]
                         },
                         {
-                            "full_text": "uBlock Origin , uBO Lite (MV3) or AdGuard - Adblockers / Redundant Extensions",
+                            "full_text": "uBlock Origin , AdGuard or uBO Lite (MV3) / - Adblockers / Redundant Extensions",
                             "links": [
                                 {
                                     "name": "uBlock Origin",
                                     "url": "https://github.com/gorhill/uBlock"
                                 },
                                 {
-                                    "name": "uBO Lite",
-                                    "url": "https://github.com/uBlockOrigin/uBOL-home"
-                                },
-                                {
                                     "name": "AdGuard",
                                     "url": "https://github.com/AdguardTeam/AdguardBrowserExtension"
+                                },
+                                {
+                                    "name": "uBO Lite",
+                                    "url": "https://github.com/uBlockOrigin/uBOL-home"
                                 },
                                 {
                                     "name": "Redundant Extensions",
@@ -2270,15 +2270,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "The Second Opinion , 2 - Portable Malware Scanners / Removal Tools /",
+                            "full_text": "The Second Opinion - Portable Malware Scanners / Removal Tools /",
                             "links": [
                                 {
                                     "name": "The Second Opinion",
                                     "url": "https://jijirae.github.io/thesecondopinion/index.html"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://rentry.co/thesecondopinion"
                                 },
                                 {
                                     "name": "",
@@ -3782,14 +3778,22 @@
                             ]
                         },
                         {
-                            "full_text": "KeePassXC - 2FA / Local / , Linux Guide /",
+                            "full_text": "KeePassXC - 2FA / Local / / Resources / Guide / Video /",
                             "links": [
                                 {
                                     "name": "KeePassXC",
                                     "url": "https://keepassxc.org/"
                                 },
                                 {
+                                    "name": "Resources",
+                                    "url": "https://github.com/lgg/awesome-keepass"
+                                },
+                                {
                                     "name": "Guide",
+                                    "url": "https://keepassxc.org/docs/KeePassXC_GettingStarted"
+                                },
+                                {
+                                    "name": "Video",
                                     "url": "https://youtu.be/ckWPHaQwft8"
                                 },
                                 {
@@ -9537,7 +9541,7 @@
                             ]
                         },
                         {
-                            "full_text": "Pollinations Chat - Whisper Large V3/ AssemblyAI Universal-2 / Qwen3-TTS Flash / Limits and Models /",
+                            "full_text": "Pollinations Chat - Whisper Large V3 / AssemblyAI Universal-2 / Qwen3-TTS Flash / Limits and Models /",
                             "links": [
                                 {
                                     "name": "Pollinations Chat",
@@ -11807,15 +11811,6 @@
                             ]
                         },
                         {
-                            "full_text": "PonTv - Movies / TV / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "PonTv",
-                                    "url": "https://pontv.to/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "MovieBox , 2 , 3 , 4 , 5 , 6 , 7 - Movies / TV / Anime",
                             "links": [
                                 {
@@ -12059,6 +12054,23 @@
                             ]
                         },
                         {
+                            "full_text": "bCine or 1Embed - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "bCine",
+                                    "url": "https://bcine.app/"
+                                },
+                                {
+                                    "name": "1Embed",
+                                    "url": "https://1embed.cc/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/FekgaSAtJa"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "CinemaOS , 2 , 3 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -12136,23 +12148,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/5eqRhKeywG"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "bCine or 1Embed - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "bCine",
-                                    "url": "https://bcine.app/"
-                                },
-                                {
-                                    "name": "1Embed",
-                                    "url": "https://1embed.cc/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/FekgaSAtJa"
                                 }
                             ]
                         },
@@ -12471,11 +12466,15 @@
                             ]
                         },
                         {
-                            "full_text": "StreamVaults - Movies / TV / Anime /",
+                            "full_text": "StreamVaults or ReelStream - Movies / TV / Anime /",
                             "links": [
                                 {
                                     "name": "StreamVaults",
                                     "url": "https://streamvaults.ru/"
+                                },
+                                {
+                                    "name": "ReelStream",
+                                    "url": "https://rreelstream.live/"
                                 },
                                 {
                                     "name": "",
@@ -23089,7 +23088,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠VersusMedia - Independant Music Video Feed",
+                            "full_text": "⁠VersusMedia - Independent Music Video Feed",
                             "links": [
                                 {
                                     "name": "⁠VersusMedia",
@@ -33413,15 +33412,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "My Abandonware - Abandonware",
-                            "links": [
-                                {
-                                    "name": "My Abandonware",
-                                    "url": "https://www.myabandonware.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "AbandonwareGames - Abandonware",
                             "links": [
                                 {
@@ -33467,6 +33457,15 @@
                                 {
                                     "name": "CollectionChamber",
                                     "url": "https://collectionchamber.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "My Abandonware - Abandonware",
+                            "links": [
+                                {
+                                    "name": "My Abandonware",
+                                    "url": "https://www.myabandonware.com/"
                                 }
                             ]
                         },
@@ -37763,6 +37762,15 @@
                                 {
                                     "name": "⁠TiledWords",
                                     "url": "https://tiledwords.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Three Letters Game - Daily Word Game",
+                            "links": [
+                                {
+                                    "name": "Three Letters Game",
+                                    "url": "https://threelettersgame.com/"
                                 }
                             ]
                         },
@@ -54330,7 +54338,7 @@
                             ]
                         },
                         {
-                            "full_text": "Deluge - Torrent Client / / Plugins / Config / Telegram Plugin",
+                            "full_text": "Deluge - Torrent Client / Plugins / Config / Telegram Plugin /",
                             "links": [
                                 {
                                     "name": "Deluge",
@@ -54360,7 +54368,7 @@
                             ]
                         },
                         {
-                            "full_text": "rTorrent - Torrent Client / / Extended / Tools , 2 / Mods /",
+                            "full_text": "rTorrent - Torrent Client / Extended / Tools , 2 / Mods / /",
                             "links": [
                                 {
                                     "name": "rTorrent",
@@ -59733,6 +59741,15 @@
                                 {
                                     "name": "NASA Ebooks",
                                     "url": "https://www.nasa.gov/ebooks/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Ask an Astronaut - Astronaut Q&A Interview Search",
+                            "links": [
+                                {
+                                    "name": "⁠Ask an Astronaut",
+                                    "url": "https://askanastronaut.issinrealtime.org/"
                                 }
                             ]
                         },
@@ -76951,11 +76968,15 @@
                             ]
                         },
                         {
-                            "full_text": "KeePassDX , Bitwarden / Alt Client / / / , Proton Pass , AuthPass , KeyPass or Keepass2Android / - Password Managers",
+                            "full_text": "KeePassDX / Resources , Bitwarden / Alt Client / / / , Proton Pass , AuthPass , KeyPass or Keepass2Android / - Password Managers",
                             "links": [
                                 {
                                     "name": "KeePassDX",
                                     "url": "https://www.keepassdx.com/"
+                                },
+                                {
+                                    "name": "Resources",
+                                    "url": "https://github.com/lgg/awesome-keepass"
                                 },
                                 {
                                     "name": "Bitwarden",
@@ -77099,7 +77120,7 @@
                             ]
                         },
                         {
-                            "full_text": "Bookmark Manager Zero , Linkora / , Link Manager , Shiori - Bookmark Managers",
+                            "full_text": "Bookmark Manager Zero , Linkora / , Link Manager , ⁠Deepr or Shiori - Bookmark Managers",
                             "links": [
                                 {
                                     "name": "Bookmark Manager Zero",
@@ -77116,6 +77137,10 @@
                                 {
                                     "name": "Link Manager",
                                     "url": "https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager"
+                                },
+                                {
+                                    "name": "⁠Deepr",
+                                    "url": "https://github.com/yogeshpaliyal/Deepr"
                                 },
                                 {
                                     "name": "Shiori",
@@ -87583,7 +87608,7 @@
                             ]
                         },
                         {
-                            "full_text": "Spicetify - Spotify Themes & Plugins/ / Improved Lyrics / / /",
+                            "full_text": "Spicetify - Spotify Themes & Plugins / Improved Lyrics / / /",
                             "links": [
                                 {
                                     "name": "Spicetify",
@@ -93039,11 +93064,19 @@
                             ]
                         },
                         {
-                            "full_text": "KeePassXC (local) or Strongbox - Password Managers",
+                            "full_text": "KeePassXC (local) / Guide / Resources or Strongbox - Password Managers",
                             "links": [
                                 {
                                     "name": "KeePassXC",
                                     "url": "https://keepassxc.org/download/#macos"
+                                },
+                                {
+                                    "name": "Guide",
+                                    "url": "https://keepassxc.org/docs/KeePassXC_GettingStarted"
+                                },
+                                {
+                                    "name": "Resources",
+                                    "url": "https://github.com/lgg/awesome-keepass"
                                 },
                                 {
                                     "name": "Strongbox",
@@ -123157,6 +123190,19 @@
                             ]
                         },
                         {
+                            "full_text": "Jellify - Turn Websites to Jelly /",
+                            "links": [
+                                {
+                                    "name": "Jellify",
+                                    "url": "https://sc420.github.io/jellify-ur-website/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/sc420/jellify-ur-website"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Ballooning - Procedurally Generated Balloon Simulator",
                             "links": [
                                 {
@@ -128540,7 +128586,7 @@
                             ]
                         },
                         {
-                            "full_text": "VIA / , SharpKeys , Kanata , keymapper , Ergogen , Mahou - Custom Keyboard Layouts / Remapping",
+                            "full_text": "VIA / , SharpKeys , Kanata , keymapper , Mahou - Custom Keyboard Layouts / Remapping",
                             "links": [
                                 {
                                     "name": "VIA",
@@ -128563,10 +128609,6 @@
                                     "url": "https://github.com/houmain/keymapper"
                                 },
                                 {
-                                    "name": "Ergogen",
-                                    "url": "https://ergogen.xyz/"
-                                },
-                                {
                                     "name": "Mahou",
                                     "url": "https://gitea.com/BladeMight/Mahou"
                                 }
@@ -128582,6 +128624,15 @@
                                 {
                                     "name": "KeebTalk",
                                     "url": "https://www.keebtalk.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Ergogen - Design / Make Ergonomic Keyboards",
+                            "links": [
+                                {
+                                    "name": "Ergogen",
+                                    "url": "https://ergogen.xyz/"
                                 }
                             ]
                         },
@@ -132912,7 +132963,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Sendme - P2P File Transfer CLI /",
+                            "full_text": "⁠Sendme / or Alt⁠Sendme / - P2P File Transfer CLI",
                             "links": [
                                 {
                                     "name": "⁠Sendme",
@@ -132921,6 +132972,14 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/n0-computer/sendme"
+                                },
+                                {
+                                    "name": "Alt⁠Sendme",
+                                    "url": "https://www.altsendme.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/tonyantony300/alt-sendme"
                                 }
                             ]
                         },
@@ -134871,11 +134930,19 @@
                             ]
                         },
                         {
-                            "full_text": "KeePassXC or KeePass / Forks / Plugins / Resources / Read-Only - Local Manager",
+                            "full_text": "KeePassXC / Guide / Resources or KeePass / Forks / Plugins / Resources / Read-Only - Local Manager",
                             "links": [
                                 {
                                     "name": "KeePassXC",
                                     "url": "https://keepassxc.org/"
+                                },
+                                {
+                                    "name": "Guide",
+                                    "url": "https://keepassxc.org/docs/KeePassXC_GettingStarted"
+                                },
+                                {
+                                    "name": "Resources",
+                                    "url": "https://github.com/lgg/awesome-keepass"
                                 },
                                 {
                                     "name": "KeePass",
@@ -146860,15 +146927,11 @@
                             ]
                         },
                         {
-                            "full_text": "Favoree or ChannelCrawler - Discover / Search YouTube Channels",
+                            "full_text": "Favoree - Discover / Search YouTube Channels",
                             "links": [
                                 {
                                     "name": "Favoree",
                                     "url": "https://www.favoree.io/"
-                                },
-                                {
-                                    "name": "ChannelCrawler",
-                                    "url": "https://channelcrawler.com/"
                                 }
                             ]
                         },
@@ -154663,6 +154726,15 @@
                                 {
                                     "name": "DFonts",
                                     "url": "https://www.dfonts.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Font.Download",
+                            "links": [
+                                {
+                                    "name": "⁠Font.Download",
+                                    "url": "https://font.download/"
                                 }
                             ]
                         },
@@ -177340,7 +177412,7 @@
                             ]
                         },
                         {
-                            "full_text": "TRaSH Guides / or The Complete Guide - Server Setup Guides",
+                            "full_text": "TRaSH Guides / , ⁠Duck Guides or The Complete Guide - Server Setup Guides",
                             "links": [
                                 {
                                     "name": "TRaSH Guides",
@@ -177349,6 +177421,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/4K2kdvwzFh"
+                                },
+                                {
+                                    "name": "⁠Duck Guides",
+                                    "url": "https://duckkota.gitlab.io/guides/"
                                 },
                                 {
                                     "name": "The Complete Guide",
@@ -180279,7 +180355,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠VersusMedia - Independant Music Video Feed",
+                            "full_text": "⁠VersusMedia - Independent Music Video Feed",
                             "links": [
                                 {
                                     "name": "⁠VersusMedia",
@@ -193926,6 +194002,15 @@
                                 {
                                     "name": "NASA Ebooks",
                                     "url": "https://www.nasa.gov/ebooks/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Ask an Astronaut - Astronaut Q&A Interview Search",
+                            "links": [
+                                {
+                                    "name": "⁠Ask an Astronaut",
+                                    "url": "https://askanastronaut.issinrealtime.org/"
                                 }
                             ]
                         },
@@ -218283,6 +218368,15 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "PonTv - Movies / TV / Auto-Next (Removed in 460460d )",
+                            "links": [
+                                {
+                                    "name": "460460d",
+                                    "url": "https://github.com/fmhy/edit/commit/460460d0ed99b3144606bb832c17221d5624bd3c"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠am-dl - Apple Music / AAC-M4A / ALAC / Atmos (Removed in 52b06d5 )",
                             "links": [
                                 {
@@ -219332,42 +219426,6 @@
                                 {
                                     "name": "37147b7",
                                     "url": "https://github.com/fmhy/edit/commit/37147b775bce0d96956cbd4cbd6ba9f753c76c9f"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RgShows - Movies / TV / Anime / 4K / Guide (Removed in 910c60a : small fixes)",
-                            "links": [
-                                {
-                                    "name": "910c60a",
-                                    "url": "https://github.com/fmhy/edit/commit/910c60a5a19c2808630c7d37382c905906c9dfb1"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "animesultra - Anime / Sub / Dub (Removed in 910c60a : small fixes)",
-                            "links": [
-                                {
-                                    "name": "910c60a",
-                                    "url": "https://github.com/fmhy/edit/commit/910c60a5a19c2808630c7d37382c905906c9dfb1"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Download1Music - Music / MP3 (Removed in 910c60a : small fixes)",
-                            "links": [
-                                {
-                                    "name": "910c60a",
-                                    "url": "https://github.com/fmhy/edit/commit/910c60a5a19c2808630c7d37382c905906c9dfb1"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "myket - Movies / TV / Region Locked (Removed in 910c60a : small fixes)",
-                            "links": [
-                                {
-                                    "name": "910c60a",
-                                    "url": "https://github.com/fmhy/edit/commit/910c60a5a19c2808630c7d37382c905906c9dfb1"
                                 }
                             ]
                         }
