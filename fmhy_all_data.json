@@ -5024,27 +5024,6 @@
                             ]
                         },
                         {
-                            "full_text": "Nym - Paid / 5-Hop Mixnet / /",
-                            "links": [
-                                {
-                                    "name": "Nym",
-                                    "url": "https://nym.com/"
-                                },
-                                {
-                                    "name": "5-Hop Mixnet",
-                                    "url": "https://nym.com/mixnet"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/nym/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/nymtech/nym"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "RiseupVPN - Free / Unlimited / No Port Forwarding /",
                             "links": [
                                 {
@@ -11650,7 +11629,7 @@
                                 },
                                 {
                                     "name": "Flixway",
-                                    "url": "https://flixway.pro/"
+                                    "url": "https://flixway.ru/"
                                 },
                                 {
                                     "name": "",
@@ -12370,7 +12349,7 @@
                             "links": [
                                 {
                                     "name": "Youflex",
-                                    "url": "https://youflex.live/"
+                                    "url": "http://youflex.lol/"
                                 }
                             ]
                         },
@@ -44179,15 +44158,6 @@
                             ]
                         },
                         {
-                            "full_text": "FBReader - Ebook Reader /",
-                            "links": [
-                                {
-                                    "name": "FBReader",
-                                    "url": "https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "FF PDF - PDF /",
                             "links": [
                                 {
@@ -63025,11 +62995,15 @@
                             ]
                         },
                         {
-                            "full_text": "Drawabox , Drawing Starter Pack Playlist , FarsiTuts or Bill Martin's Guide to Drawing - Drawing Lessons",
+                            "full_text": "Drawabox / , Drawing Starter Pack Playlist , FarsiTuts or Bill Martin's Guide to Drawing - Drawing Lessons",
                             "links": [
                                 {
                                     "name": "Drawabox",
                                     "url": "https://drawabox.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/drawabox"
                                 },
                                 {
                                     "name": "Drawing Starter Pack Playlist",
@@ -197286,11 +197260,15 @@
                             ]
                         },
                         {
-                            "full_text": "Drawabox , Drawing Starter Pack Playlist , FarsiTuts or Bill Martin's Guide to Drawing - Drawing Lessons",
+                            "full_text": "Drawabox / , Drawing Starter Pack Playlist , FarsiTuts or Bill Martin's Guide to Drawing - Drawing Lessons",
                             "links": [
                                 {
                                     "name": "Drawabox",
                                     "url": "https://drawabox.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/drawabox"
                                 },
                                 {
                                     "name": "Drawing Starter Pack Playlist",
@@ -218367,6 +218345,15 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "Nym - Paid / 5-Hop Mixnet / Subreddit / GitHub (Removed in 887e64d )",
+                            "links": [
+                                {
+                                    "name": "887e64d",
+                                    "url": "https://github.com/fmhy/edit/commit/887e64de03b59155d985cb4725da1ddda1f00c96"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "PonTv - Movies / TV / Auto-Next (Removed in 460460d )",
                             "links": [
