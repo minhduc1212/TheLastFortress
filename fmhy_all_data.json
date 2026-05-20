@@ -6394,7 +6394,7 @@
                             ]
                         },
                         {
-                            "full_text": "Qwen - Qwen3.6-Plus / Qwen3.5-Plus / Sign-Up / / /",
+                            "full_text": "Qwen - Qwen3.7-Max-Preview / Qwen3.7-Plus-Preview / Sign-Up / / /",
                             "links": [
                                 {
                                     "name": "Qwen",
@@ -6415,7 +6415,7 @@
                             ]
                         },
                         {
-                            "full_text": "Gemini - Gemini 3.1 Pro Preview (5 daily) / Gemini 3 Flash (unlimited) / Add Features / Limits / /",
+                            "full_text": "Gemini - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.5 Flash (unlimited) / Add Features / Limits / /",
                             "links": [
                                 {
                                     "name": "Gemini",
@@ -11383,7 +11383,7 @@
                             ]
                         },
                         {
-                            "full_text": "Rive , 2 , 3 or CorsFlix - Movies / TV / Anime / Auto-Next / Status /",
+                            "full_text": "Rive , 2 , 3 or CorsFlix , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
                             "links": [
                                 {
                                     "name": "Rive",
@@ -11399,7 +11399,15 @@
                                 },
                                 {
                                     "name": "CorsFlix",
+                                    "url": "https://watch.corsflix.net"
+                                },
+                                {
+                                    "name": "2",
                                     "url": "https://corsflix.net"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://watch.corsflix.dpdns.org"
                                 },
                                 {
                                     "name": "Status",
@@ -11408,23 +11416,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/6xJmJja8fV"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "PopcornMovies",
-                                    "url": "https://popcornmovies.org/"
-                                },
-                                {
-                                    "name": "BingeBox",
-                                    "url": "https://bingebox.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/JAxTMkmcpd"
                                 }
                             ]
                         },
@@ -11442,6 +11433,23 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/MadMF7xb5q"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "PopcornMovies",
+                                    "url": "https://popcornmovies.org/"
+                                },
+                                {
+                                    "name": "BingeBox",
+                                    "url": "https://bingebox.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/JAxTMkmcpd"
                                 }
                             ]
                         },
@@ -11642,6 +11650,23 @@
                             ]
                         },
                         {
+                            "full_text": "Smashystream , 2 - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "Smashystream",
+                                    "url": "https://flix.smashystream.xyz/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://smashystream.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://telegram.me/+vekZX4KtMPtiYmRl"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "TVids , 2 , 3 , 4 , 5 - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11663,6 +11688,15 @@
                                 {
                                     "name": "5",
                                     "url": "https://tvids.tv/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "VidPlay - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "VidPlay",
+                                    "url": "https://vidplay.to/"
                                 }
                             ]
                         },
@@ -12256,6 +12290,23 @@
                             ]
                         },
                         {
+                            "full_text": "ZXCSTREAM - Movies / TV / /",
+                            "links": [
+                                {
+                                    "name": "ZXCSTREAM",
+                                    "url": "https://zxcprime.icu/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/zxc_stream"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/yv7wJV97Jd"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠FilmU , 2 - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -12311,23 +12362,6 @@
                             ]
                         },
                         {
-                            "full_text": "ZXCSTREAM - Movies / TV / /",
-                            "links": [
-                                {
-                                    "name": "ZXCSTREAM",
-                                    "url": "https://zxcprime.icu/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/zxc_stream"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/yv7wJV97Jd"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Netplay or Cinelove - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -12345,11 +12379,20 @@
                             ]
                         },
                         {
+                            "full_text": "CineWave - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "CineWave",
+                                    "url": "https://watch.cinewave.qzz.io/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Youflex - Movies / TV / Anime",
                             "links": [
                                 {
                                     "name": "Youflex",
-                                    "url": "http://youflex.lol/"
+                                    "url": "https://youflex.top/"
                                 }
                             ]
                         },
@@ -12380,6 +12423,15 @@
                                 {
                                     "name": "Stigstream",
                                     "url": "https://stigstream.ru/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Fireflix - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Fireflix",
+                                    "url": "https://fireflixhd.vercel.app/"
                                 }
                             ]
                         },
@@ -12441,6 +12493,15 @@
                                 {
                                     "name": "2",
                                     "url": "https://watch-v2.autoembed.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Flixtrz - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Flixtrz",
+                                    "url": "https://flixtrz.com/"
                                 }
                             ]
                         },
@@ -14108,6 +14169,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Anistream - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "⁠Anistream",
+                                    "url": "https://anistream.one/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "AniDoor - Sub / Dub / Auto-Next",
                             "links": [
                                 {
@@ -14126,15 +14196,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/gDfz5SaM3K"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Anistream - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "⁠Anistream",
-                                    "url": "https://anistream.one/"
                                 }
                             ]
                         },
@@ -16861,6 +16922,15 @@
                             ]
                         },
                         {
+                            "full_text": "xyzstreams",
+                            "links": [
+                                {
+                                    "name": "xyzstreams",
+                                    "url": "https://xyzstreams.shop/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "FawaNews",
                             "links": [
                                 {
@@ -18441,11 +18511,11 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://watch.corsflix.dpdns.org/"
+                                    "url": "https://corsflix.net"
                                 },
                                 {
                                     "name": "3",
-                                    "url": "https://corsflix.net"
+                                    "url": "https://watch.corsflix.dpdns.org"
                                 },
                                 {
                                     "name": "Status",
@@ -20117,15 +20187,15 @@
                             ]
                         },
                         {
-                            "full_text": "Bye Sudo , Viren070's Guides or ⁠Stremio Perfect Setup - Stremio Guides",
+                            "full_text": "Viren070's Guides , Bye Sudo or ⁠Stremio Perfect Setup - Stremio Guides",
                             "links": [
-                                {
-                                    "name": "Bye Sudo",
-                                    "url": "https://bye.undi.rest/"
-                                },
                                 {
                                     "name": "Viren070's Guides",
                                     "url": "https://guides.viren070.me/stremio"
+                                },
+                                {
+                                    "name": "Bye Sudo",
+                                    "url": "https://bye.undi.rest/"
                                 },
                                 {
                                     "name": "⁠Stremio Perfect Setup",
@@ -20283,11 +20353,11 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://watch.corsflix.dpdns.org/"
+                                    "url": "https://corsflix.net"
                                 },
                                 {
                                     "name": "3",
-                                    "url": "https://corsflix.net"
+                                    "url": "https://watch.corsflix.dpdns.org"
                                 },
                                 {
                                     "name": "Status",
@@ -25570,7 +25640,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Spotify Karaoke - Karaoke, Romanization + Translation for Web Player Lyrics",
+                            "full_text": "⁠Spotify Karaoke - Fetching, Romanization & Translation for Web Player Lyrics",
                             "links": [
                                 {
                                     "name": "⁠Spotify Karaoke",
@@ -32272,11 +32342,15 @@
                             ]
                         },
                         {
-                            "full_text": "AnkerGames - Download / Torrent (signup) / Pre-Installed / /",
+                            "full_text": "AnkerGames - Download / Torrent (signup) / Pre-Installed / Fluxer / / , 2",
                             "links": [
                                 {
                                     "name": "AnkerGames",
                                     "url": "https://ankergames.net/"
+                                },
+                                {
+                                    "name": "Fluxer",
+                                    "url": "https://fluxer.gg/1Tt9Lw5B"
                                 },
                                 {
                                     "name": "",
@@ -32285,6 +32359,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/nnMnGzDbwg"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://discord.gg/RpxHjjXwSB"
                                 }
                             ]
                         },
@@ -32366,6 +32444,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/yExgFYncMD"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "GameBounty - Download /",
+                            "links": [
+                                {
+                                    "name": "GameBounty",
+                                    "url": "https://gamebounty.world/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/dmjUJ4xCEV"
                                 }
                             ]
                         },
@@ -32469,19 +32560,6 @@
                                 {
                                     "name": "Translator",
                                     "url": "https://fmhy.net/text-tools/#translators"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GameBounty - Download /",
-                            "links": [
-                                {
-                                    "name": "GameBounty",
-                                    "url": "https://gamebounty.world/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/dmjUJ4xCEV"
                                 }
                             ]
                         },
@@ -36120,6 +36198,15 @@
                             ]
                         },
                         {
+                            "full_text": "RomSim - ROMs / Switch",
+                            "links": [
+                                {
+                                    "name": "RomSim",
+                                    "url": "https://romsim.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SwitchROMS - ROMs / Switch",
                             "links": [
                                 {
@@ -36618,6 +36705,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠ArcadeSpace - Retro Consoles / Multiple-Emulators / Sign-Up Required",
+                            "links": [
+                                {
+                                    "name": "⁠ArcadeSpace",
+                                    "url": "https://www.arcadespace.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠FreebieGames - Retro Consoles / Multiple-Emulators",
                             "links": [
                                 {
@@ -36747,15 +36843,6 @@
                                 {
                                     "name": "Virtual Consoles",
                                     "url": "https://virtualconsoles.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠ArcadeSpace - Retro Consoles / Multiple-Emulators / Sign-Up Required",
-                            "links": [
-                                {
-                                    "name": "⁠ArcadeSpace",
-                                    "url": "https://www.arcadespace.org/"
                                 }
                             ]
                         },
@@ -37741,6 +37828,15 @@
                                 {
                                     "name": "⁠TiledWords",
                                     "url": "https://tiledwords.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠PlausibleGame - Daily Word Game",
+                            "links": [
+                                {
+                                    "name": "⁠PlausibleGame",
+                                    "url": "https://plausiblegame.com/"
                                 }
                             ]
                         },
@@ -42576,15 +42672,6 @@
                             ]
                         },
                         {
-                            "full_text": "PokeMMO - Pokémon MMO",
-                            "links": [
-                                {
-                                    "name": "PokeMMO",
-                                    "url": "https://pokemmo.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Pokémon Showdown - Online Pokémon Battles",
                             "links": [
                                 {
@@ -47296,11 +47383,15 @@
                             ]
                         },
                         {
-                            "full_text": "FlipHTML5 - Online Reading",
+                            "full_text": "FlipHTML5 - Online Reading / Downloader",
                             "links": [
                                 {
                                     "name": "FlipHTML5",
                                     "url": "https://fliphtml5.com/exploring"
+                                },
+                                {
+                                    "name": "Downloader",
+                                    "url": "https://fliphtml5.aivaded.com/"
                                 }
                             ]
                         },
@@ -63694,7 +63785,7 @@
                             ]
                         },
                         {
-                            "full_text": "r/Chess Books - Recommended Chess Books",
+                            "full_text": "r/Chess Books - Community Recommended Books",
                             "links": [
                                 {
                                     "name": "r/Chess Books",
@@ -63712,7 +63803,25 @@
                             ]
                         },
                         {
-                            "full_text": "Scid vs. PC - Learn / Practice Chess",
+                            "full_text": "Lucas Chess - Chess Training Software",
+                            "links": [
+                                {
+                                    "name": "Lucas Chess",
+                                    "url": "https://lucaschess.pythonanywhere.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Chess Tempo - Tactics Training / Endgame Solver",
+                            "links": [
+                                {
+                                    "name": "Chess Tempo",
+                                    "url": "https://chesstempo.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Scid vs. PC - Chess Database Software",
                             "links": [
                                 {
                                     "name": "Scid vs. PC",
@@ -63730,7 +63839,7 @@
                             ]
                         },
                         {
-                            "full_text": "ChessLab - Chess Lessons /",
+                            "full_text": "ChessLab - Learning Community /",
                             "links": [
                                 {
                                     "name": "ChessLab",
@@ -63743,7 +63852,7 @@
                             ]
                         },
                         {
-                            "full_text": "Listudy - Chess Lessons",
+                            "full_text": "Listudy - Blindfolded Tactics / Openings",
                             "links": [
                                 {
                                     "name": "Listudy",
@@ -63752,7 +63861,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chessable - Chess Lessons",
+                            "full_text": "Chessable - Openings / Endgames",
                             "links": [
                                 {
                                     "name": "Chessable",
@@ -63766,24 +63875,6 @@
                                 {
                                     "name": "TheChessWebsite",
                                     "url": "https://www.thechesswebsite.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Chess Tempo - Chess Practice",
-                            "links": [
-                                {
-                                    "name": "Chess Tempo",
-                                    "url": "https://chesstempo.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Lucas Chess - Chess Practice",
-                            "links": [
-                                {
-                                    "name": "Lucas Chess",
-                                    "url": "https://lucaschess.pythonanywhere.com/"
                                 }
                             ]
                         },
@@ -63806,7 +63897,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Shâh Kur - Blind Chess Practice / Improve Board Visualization",
+                            "full_text": "⁠Shâh Kur - Blindfolded Chess Practice",
                             "links": [
                                 {
                                     "name": "⁠Shâh Kur",
@@ -63815,7 +63906,7 @@
                             ]
                         },
                         {
-                            "full_text": "WintrChess , 2 - Chess Game / Move Analysis",
+                            "full_text": "WintrChess , 2 - Engine Analysis",
                             "links": [
                                 {
                                     "name": "WintrChess",
@@ -63828,7 +63919,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Chess Analysis - Chess Game / Move Analysis /",
+                            "full_text": "⁠Chess Analysis - Engine Analysis /",
                             "links": [
                                 {
                                     "name": "⁠Chess Analysis",
@@ -63841,7 +63932,7 @@
                             ]
                         },
                         {
-                            "full_text": "Pawn Appétit - Chess Game / Move Analysis /",
+                            "full_text": "Pawn Appétit - Engine Analysis /",
                             "links": [
                                 {
                                     "name": "Pawn Appétit",
@@ -63854,7 +63945,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chesskit - Chess Game / Move Analysis / /",
+                            "full_text": "Chesskit - Engine Analysis / /",
                             "links": [
                                 {
                                     "name": "Chesskit",
@@ -63871,7 +63962,7 @@
                             ]
                         },
                         {
-                            "full_text": "YottaChess - Chess Game / Move Analysis",
+                            "full_text": "YottaChess - Professional Player Database",
                             "links": [
                                 {
                                     "name": "YottaChess",
@@ -63880,7 +63971,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Chessigma - Chess Game / Move Analysis /",
+                            "full_text": "⁠Chessigma - Engine Analysis /",
                             "links": [
                                 {
                                     "name": "⁠Chessigma",
@@ -63893,7 +63984,7 @@
                             ]
                         },
                         {
-                            "full_text": "En Croissant - Chess Game / Move Analysis",
+                            "full_text": "En Croissant - Chess Analysis Tool",
                             "links": [
                                 {
                                     "name": "En Croissant",
@@ -63902,7 +63993,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chess Vision - Chess Game / Move Analysis",
+                            "full_text": "Chess Vision - Import Images Into Chess Engine",
                             "links": [
                                 {
                                     "name": "Chess Vision",
@@ -63911,7 +64002,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Tactic or Not - Chess Move Analysis / Practice /",
+                            "full_text": "⁠Tactic or Not - Evaluate Tactics /",
                             "links": [
                                 {
                                     "name": "⁠Tactic or Not",
@@ -63924,7 +64015,7 @@
                             ]
                         },
                         {
-                            "full_text": "OpeningTree - Download / Visualize Chess Games",
+                            "full_text": "OpeningTree - Import Lichess and Chess.com Analysis",
                             "links": [
                                 {
                                     "name": "OpeningTree",
@@ -63933,7 +64024,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chess Monitor - Track Chess Analytics",
+                            "full_text": "Chess Monitor - Aggregate Lichess and Chess.com Match History",
                             "links": [
                                 {
                                     "name": "Chess Monitor",
@@ -63942,7 +64033,7 @@
                             ]
                         },
                         {
-                            "full_text": "2700chess - Live Chess Player Ratings",
+                            "full_text": "2700chess - Live Ratings for Super Grandmasters",
                             "links": [
                                 {
                                     "name": "2700chess",
@@ -63960,7 +64051,7 @@
                             ]
                         },
                         {
-                            "full_text": "ChessVariants - 1000+ Chess Variants + Guides",
+                            "full_text": "ChessVariants - Chess Variant Encyclopedia",
                             "links": [
                                 {
                                     "name": "ChessVariants",
@@ -64481,8 +64572,12 @@
                             ]
                         },
                         {
-                            "full_text": "Ba Ba Dum - Language Learning Game",
+                            "full_text": "⁠Danobang or Ba Ba Dum - Language Learning Games",
                             "links": [
+                                {
+                                    "name": "⁠Danobang",
+                                    "url": "https://danobang.com/"
+                                },
                                 {
                                     "name": "Ba Ba Dum",
                                     "url": "https://babadum.com/"
@@ -69384,6 +69479,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠WeChall - Cybersecurity Practice Games + Rankings",
+                            "links": [
+                                {
+                                    "name": "⁠WeChall",
+                                    "url": "https://www.wechall.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "OverTheWire - Cybersecurity Learning Game",
                             "links": [
                                 {
@@ -72214,7 +72318,7 @@
                             ]
                         },
                         {
-                            "full_text": "Virgil APK Search , Android APK CSE / CSE 2 / CSE 3 or Apps & Games Search - APK Search Engines",
+                            "full_text": "Virgil APK Search , Android APK CSE / 2 / 3 or Apps & Games Search - APK Search Engines",
                             "links": [
                                 {
                                     "name": "Virgil APK Search",
@@ -72225,11 +72329,11 @@
                                     "url": "https://cse.google.com/cse?cx=e0d1769ccf74236e8"
                                 },
                                 {
-                                    "name": "CSE 2",
+                                    "name": "2",
                                     "url": "https://cse.google.com/cse?cx=73948689c2c206528"
                                 },
                                 {
-                                    "name": "CSE 3",
+                                    "name": "3",
                                     "url": "https://cse.google.com/cse?cx=a805854b6a196d6a6"
                                 },
                                 {
@@ -72286,6 +72390,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠LeeAPK",
+                            "links": [
+                                {
+                                    "name": "⁠LeeAPK",
+                                    "url": "https://leeapk.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Nsane Forums",
                             "links": [
                                 {
@@ -72335,11 +72448,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Android Oyun Club",
+                            "full_text": "⁠Android Oyun Club - Use Translator",
                             "links": [
                                 {
                                     "name": "⁠Android Oyun Club",
                                     "url": "https://androidoyun.club/"
+                                },
+                                {
+                                    "name": "Translator",
+                                    "url": "https://fmhy.net/text-tools/#translators"
                                 }
                             ]
                         },
@@ -72348,11 +72465,11 @@
                             "links": [
                                 {
                                     "name": "Androeed",
-                                    "url": "https://androeed.ru/"
+                                    "url": "https://androeed.store/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://androeed.store/"
+                                    "url": "https://androeed.ru/"
                                 },
                                 {
                                     "name": "",
@@ -73581,7 +73698,7 @@
                             ]
                         },
                         {
-                            "full_text": "piko / / , ⁠QuaX or Squawker - Twitter / X Apps",
+                            "full_text": "piko / / , ⁠Nitterium , ⁠QuaX or Squawker - Twitter / X Apps",
                             "links": [
                                 {
                                     "name": "piko",
@@ -73594,6 +73711,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/crimera/piko"
+                                },
+                                {
+                                    "name": "⁠Nitterium",
+                                    "url": "https://github.com/kaleedtc/Nitterium"
                                 },
                                 {
                                     "name": "⁠QuaX",
@@ -74045,7 +74166,7 @@
                             ]
                         },
                         {
-                            "full_text": "XDA - Android Discussion Forum /",
+                            "full_text": "XDA / or 4PDA - Android Discussion Forums",
                             "links": [
                                 {
                                     "name": "XDA",
@@ -74054,6 +74175,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/e4v8qtkcBw"
+                                },
+                                {
+                                    "name": "4PDA",
+                                    "url": "https://4pda.to/forum/"
                                 }
                             ]
                         },
@@ -74239,7 +74364,7 @@
                             ]
                         },
                         {
-                            "full_text": "TaskManager - Task Manager for Android",
+                            "full_text": "TaskManager (root) - Task Manager for Android",
                             "links": [
                                 {
                                     "name": "TaskManager",
@@ -75956,6 +76081,23 @@
                             ]
                         },
                         {
+                            "full_text": "Gadgetbridge - Gadget Manager / Supported Devices /",
+                            "links": [
+                                {
+                                    "name": "Gadgetbridge",
+                                    "url": "https://gadgetbridge.org/"
+                                },
+                                {
+                                    "name": "Supported Devices",
+                                    "url": "https://gadgetbridge.org/gadgets/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://codeberg.org/Freeyourgadget/Gadgetbridge"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Tooly or fooView - Multi-Tool Apps",
                             "links": [
                                 {
@@ -76245,23 +76387,6 @@
                                 {
                                     "name": "⁠Mopria Scan",
                                     "url": "https://play.google.com/store/apps/details?id=org.mopria.scan.application"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Gadgetbridge - Gadget Manager / Supported Devices /",
-                            "links": [
-                                {
-                                    "name": "Gadgetbridge",
-                                    "url": "https://gadgetbridge.org/"
-                                },
-                                {
-                                    "name": "Supported Devices",
-                                    "url": "https://gadgetbridge.org/gadgets/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://codeberg.org/Freeyourgadget/Gadgetbridge"
                                 }
                             ]
                         },
@@ -80131,14 +80256,14 @@
                             ]
                         },
                         {
-                            "full_text": "⁠LibrePods - Add AirPod Features to Android / Root Requirments",
+                            "full_text": "⁠LibrePods - Add AirPod Features to Android / Root Requirements",
                             "links": [
                                 {
                                     "name": "⁠LibrePods",
                                     "url": "https://github.com/kavishdevar/librepods"
                                 },
                                 {
-                                    "name": "Root Requirments",
+                                    "name": "Root Requirements",
                                     "url": "https://github.com/kavishdevar/librepods#root-requirement"
                                 }
                             ]
@@ -90125,7 +90250,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Waydroid - Containerized Android on Linux / Scripts /",
+                            "full_text": "Waydroid - Containerized Android on Linux / Scripts / Magisk Installer /",
                             "links": [
                                 {
                                     "name": "Waydroid",
@@ -90134,6 +90259,10 @@
                                 {
                                     "name": "Scripts",
                                     "url": "https://github.com/casualsnek/waydroid_script"
+                                },
+                                {
+                                    "name": "Magisk Installer",
+                                    "url": "https://github.com/mistrmochov/WaydroidSU"
                                 },
                                 {
                                     "name": "",
@@ -95832,15 +95961,6 @@
                             ]
                         },
                         {
-                            "full_text": "555dy - Movies / TV / Anime / NSFW / Sub / 1080p",
-                            "links": [
-                                {
-                                    "name": "555dy",
-                                    "url": "https://577938.vip/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "BiliBili or BiliBili.tv / Resources / Tools",
                             "links": [
                                 {
@@ -97669,20 +97789,24 @@
                             ]
                         },
                         {
+                            "full_text": "French Stream - Movies / TV / Anime / Status",
+                            "links": [
+                                {
+                                    "name": "French Stream",
+                                    "url": "https://fs09.lol/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://fstream.info/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Purstream - Movies / TV / Anime",
                             "links": [
                                 {
                                     "name": "⁠Purstream",
                                     "url": "https://purstream.wiki/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FS02 - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "FS02",
-                                    "url": "https://fs02.lol/"
                                 }
                             ]
                         },
@@ -97799,15 +97923,6 @@
                                 {
                                     "name": "myfluneo",
                                     "url": "https://myfluneo.eu/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "fs6 - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "fs6",
-                                    "url": "https://fs6.lol/"
                                 }
                             ]
                         },
@@ -98506,6 +98621,23 @@
                                 {
                                     "name": "Cine",
                                     "url": "https://cine.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Aether , 2 - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Aether",
+                                    "url": "https://aether.mom/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://aether.bar/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/MadMF7xb5q"
                                 }
                             ]
                         },
@@ -100810,6 +100942,23 @@
                                 {
                                     "name": "CasaCinema",
                                     "url": "https://casacinema.lat/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Aether , 2 - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Aether",
+                                    "url": "https://aether.mom/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://aether.bar/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/MadMF7xb5q"
                                 }
                             ]
                         },
@@ -106447,6 +106596,23 @@
                             ]
                         },
                         {
+                            "full_text": "Aether , 2 - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Aether",
+                                    "url": "https://aether.mom/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://aether.bar/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/MadMF7xb5q"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cinezo - Movies / TV / Anime / Auto-Next / Watch Parties /",
                             "links": [
                                 {
@@ -108275,6 +108441,15 @@
                                 {
                                     "name": "Phimmoi",
                                     "url": "https://vuaphimmoi.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Sofaflix - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "⁠Sofaflix",
+                                    "url": "https://sofaflix.site/"
                                 }
                             ]
                         },
@@ -112859,6 +113034,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠UrbanRail.Net - Railway Maps",
+                            "links": [
+                                {
+                                    "name": "⁠UrbanRail.Net",
+                                    "url": "https://www.urbanrail.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Vanshnookenraggen Track Maps - Detailed Subway Maps / History",
                             "links": [
                                 {
@@ -115380,15 +115564,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Evidence-Based Training Wiki - Evidence-Based Training Resources",
-                            "links": [
-                                {
-                                    "name": "Evidence-Based Training Wiki",
-                                    "url": "https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "ExRx.net - Exercise Resources",
                             "links": [
                                 {
@@ -115694,15 +115869,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/wger-project/wger"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Start Bodyweight - Bodyweight Training",
-                            "links": [
-                                {
-                                    "name": "Start Bodyweight",
-                                    "url": "http://www.startbodyweight.com/"
                                 }
                             ]
                         },
@@ -121301,11 +121467,23 @@
                             ]
                         },
                         {
-                            "full_text": "LettuceMeet , Event Rally / , Cally , Mobilizon or Gancio - Event Date Organizing",
+                            "full_text": "LettuceMeet , Star Fit , Samay , Pick Time , Event Rally / , Cally , Mobilizon or Gancio - Event Planning / Schedule Voting",
                             "links": [
                                 {
                                     "name": "LettuceMeet",
                                     "url": "https://lettucemeet.com"
+                                },
+                                {
+                                    "name": "Star Fit",
+                                    "url": "https://starbestfit.com/"
+                                },
+                                {
+                                    "name": "Samay",
+                                    "url": "https://samay.app/"
+                                },
+                                {
+                                    "name": "Pick Time",
+                                    "url": "https://pick-time.io/"
                                 },
                                 {
                                     "name": "Event Rally",
@@ -121351,29 +121529,11 @@
                             ]
                         },
                         {
-                            "full_text": "Samay - Meeting Time Polls",
-                            "links": [
-                                {
-                                    "name": "Samay",
-                                    "url": "https://samay.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "GanttProject - Project Scheduling App",
                             "links": [
                                 {
                                     "name": "GanttProject",
                                     "url": "https://www.ganttproject.biz/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pick Time - Easily Schedule Times with Friends",
-                            "links": [
-                                {
-                                    "name": "Pick Time",
-                                    "url": "https://pick-time.io/"
                                 }
                             ]
                         },
@@ -131835,20 +131995,20 @@
                             ]
                         },
                         {
+                            "full_text": "DMDE - File Recovery",
+                            "links": [
+                                {
+                                    "name": "DMDE",
+                                    "url": "https://dmde.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PhotoRec - File Recovery",
                             "links": [
                                 {
                                     "name": "PhotoRec",
                                     "url": "https://www.cgsecurity.org/wiki/PhotoRec"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DMDE - File Recovery",
-                            "links": [
-                                {
-                                    "name": "DMDE",
-                                    "url": "https://dmde.com/download.html"
                                 }
                             ]
                         },
@@ -133287,6 +133447,19 @@
                                 {
                                     "name": "Send.now",
                                     "url": "https://send.now/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Patrins - 1TB / 7 Days /",
+                            "links": [
+                                {
+                                    "name": "⁠Patrins",
+                                    "url": "https://patrins.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/TrSHTfUaSN"
                                 }
                             ]
                         },
@@ -137156,7 +137329,7 @@
                             ]
                         },
                         {
-                            "full_text": "Virgil APK Search , Android APK CSE , 2 , 3 or Apps & Games Search - Search Android APK Sites",
+                            "full_text": "Virgil APK Search , Android APK CSE / 2 / 3 or Apps & Games Search - Search Android APK Sites",
                             "links": [
                                 {
                                     "name": "Virgil APK Search",
@@ -143644,19 +143817,6 @@
                             ]
                         },
                         {
-                            "full_text": "WebCord - Privacy-Hardened Client /",
-                            "links": [
-                                {
-                                    "name": "WebCord",
-                                    "url": "https://github.com/SpacingBat3/WebCord"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/aw7WbDMua5"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Equicord / / or ⁠Equibop / - Discord Client Mod / Plugins",
                             "links": [
                                 {
@@ -143682,6 +143842,19 @@
                                 {
                                     "name": "Plugins",
                                     "url": "https://equicord.org/plugins"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WebCord - Privacy-Hardened Client /",
+                            "links": [
+                                {
+                                    "name": "WebCord",
+                                    "url": "https://github.com/SpacingBat3/WebCord"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/aw7WbDMua5"
                                 }
                             ]
                         },
@@ -159200,6 +159373,15 @@
                             ]
                         },
                         {
+                            "full_text": "PokeMMO - Pokémon MMO Mod",
+                            "links": [
+                                {
+                                    "name": "PokeMMO",
+                                    "url": "https://pokemmo.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Balatro Multiplayer - Balatro Multiplayer Mod / /",
                             "links": [
                                 {
@@ -173360,6 +173542,19 @@
                             ]
                         },
                         {
+                            "full_text": "Lap /",
+                            "links": [
+                                {
+                                    "name": "Lap",
+                                    "url": "https://julyx10.github.io/lap/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/julyx10/lap"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "HomeGallery",
                             "links": [
                                 {
@@ -174526,8 +174721,12 @@
                             ]
                         },
                         {
-                            "full_text": "darktable / , ⁠RapidRAW / / , RawTherapee / or ⁠LightZone - RAW Photo Editors /",
+                            "full_text": "⁠DaVinci Resolve , darktable / , ⁠RapidRAW / / , RawTherapee / or ⁠LightZone - RAW Photo Editors /",
                             "links": [
+                                {
+                                    "name": "⁠DaVinci Resolve",
+                                    "url": "https://www.blackmagicdesign.com/products/davinciresolve"
+                                },
                                 {
                                     "name": "darktable",
                                     "url": "https://www.darktable.org/"
@@ -178277,6 +178476,28 @@
                                 {
                                     "name": "⁠OFA Downloader",
                                     "url": "https://oneforalldownloader.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠YT-DLP Online , 2 - Multi-Site / Online",
+                            "links": [
+                                {
+                                    "name": "⁠YT-DLP Online",
+                                    "url": "https://ytdlp.online/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://ytdlp.wiki/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠dltkk - Multi-Site / Online",
+                            "links": [
+                                {
+                                    "name": "⁠dltkk",
+                                    "url": "https://dltkk.to/"
                                 }
                             ]
                         },
@@ -182832,7 +183053,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Spotify Karaoke - Karaoke, Romanization + Translation for Web Player Lyrics",
+                            "full_text": "⁠Spotify Karaoke - Fetching, Romanization & Translation for Web Player Lyrics",
                             "links": [
                                 {
                                     "name": "⁠Spotify Karaoke",
@@ -197959,7 +198180,7 @@
                             ]
                         },
                         {
-                            "full_text": "r/Chess Books - Recommended Chess Books",
+                            "full_text": "r/Chess Books - Community Recommended Books",
                             "links": [
                                 {
                                     "name": "r/Chess Books",
@@ -197977,7 +198198,25 @@
                             ]
                         },
                         {
-                            "full_text": "Scid vs. PC - Learn / Practice Chess",
+                            "full_text": "Lucas Chess - Chess Training Software",
+                            "links": [
+                                {
+                                    "name": "Lucas Chess",
+                                    "url": "https://lucaschess.pythonanywhere.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Chess Tempo - Tactics Training / Endgame Solver",
+                            "links": [
+                                {
+                                    "name": "Chess Tempo",
+                                    "url": "https://chesstempo.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Scid vs. PC - Chess Database Software",
                             "links": [
                                 {
                                     "name": "Scid vs. PC",
@@ -197995,7 +198234,7 @@
                             ]
                         },
                         {
-                            "full_text": "ChessLab - Chess Lessons /",
+                            "full_text": "ChessLab - Learning Community /",
                             "links": [
                                 {
                                     "name": "ChessLab",
@@ -198008,7 +198247,7 @@
                             ]
                         },
                         {
-                            "full_text": "Listudy - Chess Lessons",
+                            "full_text": "Listudy - Blindfolded Tactics / Openings",
                             "links": [
                                 {
                                     "name": "Listudy",
@@ -198017,7 +198256,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chessable - Chess Lessons",
+                            "full_text": "Chessable - Openings / Endgames",
                             "links": [
                                 {
                                     "name": "Chessable",
@@ -198031,24 +198270,6 @@
                                 {
                                     "name": "TheChessWebsite",
                                     "url": "https://www.thechesswebsite.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Chess Tempo - Chess Practice",
-                            "links": [
-                                {
-                                    "name": "Chess Tempo",
-                                    "url": "https://chesstempo.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Lucas Chess - Chess Practice",
-                            "links": [
-                                {
-                                    "name": "Lucas Chess",
-                                    "url": "https://lucaschess.pythonanywhere.com/"
                                 }
                             ]
                         },
@@ -198071,7 +198292,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Shâh Kur - Blind Chess Practice / Improve Board Visualization",
+                            "full_text": "⁠Shâh Kur - Blindfolded Chess Practice",
                             "links": [
                                 {
                                     "name": "⁠Shâh Kur",
@@ -198080,7 +198301,7 @@
                             ]
                         },
                         {
-                            "full_text": "WintrChess , 2 - Chess Game / Move Analysis",
+                            "full_text": "WintrChess , 2 - Engine Analysis",
                             "links": [
                                 {
                                     "name": "WintrChess",
@@ -198093,7 +198314,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Chess Analysis - Chess Game / Move Analysis /",
+                            "full_text": "⁠Chess Analysis - Engine Analysis /",
                             "links": [
                                 {
                                     "name": "⁠Chess Analysis",
@@ -198106,7 +198327,7 @@
                             ]
                         },
                         {
-                            "full_text": "Pawn Appétit - Chess Game / Move Analysis /",
+                            "full_text": "Pawn Appétit - Engine Analysis /",
                             "links": [
                                 {
                                     "name": "Pawn Appétit",
@@ -198119,7 +198340,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chesskit - Chess Game / Move Analysis / /",
+                            "full_text": "Chesskit - Engine Analysis / /",
                             "links": [
                                 {
                                     "name": "Chesskit",
@@ -198136,7 +198357,7 @@
                             ]
                         },
                         {
-                            "full_text": "YottaChess - Chess Game / Move Analysis",
+                            "full_text": "YottaChess - Professional Player Database",
                             "links": [
                                 {
                                     "name": "YottaChess",
@@ -198145,7 +198366,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Chessigma - Chess Game / Move Analysis /",
+                            "full_text": "⁠Chessigma - Engine Analysis /",
                             "links": [
                                 {
                                     "name": "⁠Chessigma",
@@ -198158,7 +198379,7 @@
                             ]
                         },
                         {
-                            "full_text": "En Croissant - Chess Game / Move Analysis",
+                            "full_text": "En Croissant - Chess Analysis Tool",
                             "links": [
                                 {
                                     "name": "En Croissant",
@@ -198167,7 +198388,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chess Vision - Chess Game / Move Analysis",
+                            "full_text": "Chess Vision - Import Images Into Chess Engine",
                             "links": [
                                 {
                                     "name": "Chess Vision",
@@ -198176,7 +198397,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Tactic or Not - Chess Move Analysis / Practice /",
+                            "full_text": "⁠Tactic or Not - Evaluate Tactics /",
                             "links": [
                                 {
                                     "name": "⁠Tactic or Not",
@@ -198189,7 +198410,7 @@
                             ]
                         },
                         {
-                            "full_text": "OpeningTree - Download / Visualize Chess Games",
+                            "full_text": "OpeningTree - Import Lichess and Chess.com Analysis",
                             "links": [
                                 {
                                     "name": "OpeningTree",
@@ -198198,7 +198419,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chess Monitor - Track Chess Analytics",
+                            "full_text": "Chess Monitor - Aggregate Lichess and Chess.com Match History",
                             "links": [
                                 {
                                     "name": "Chess Monitor",
@@ -198207,7 +198428,7 @@
                             ]
                         },
                         {
-                            "full_text": "2700chess - Live Chess Player Ratings",
+                            "full_text": "2700chess - Live Ratings for Super Grandmasters",
                             "links": [
                                 {
                                     "name": "2700chess",
@@ -198225,7 +198446,7 @@
                             ]
                         },
                         {
-                            "full_text": "ChessVariants - 1000+ Chess Variants + Guides",
+                            "full_text": "ChessVariants - Chess Variant Encyclopedia",
                             "links": [
                                 {
                                     "name": "ChessVariants",
@@ -198746,8 +198967,12 @@
                             ]
                         },
                         {
-                            "full_text": "Ba Ba Dum - Language Learning Game",
+                            "full_text": "⁠Danobang or Ba Ba Dum - Language Learning Games",
                             "links": [
+                                {
+                                    "name": "⁠Danobang",
+                                    "url": "https://danobang.com/"
+                                },
                                 {
                                     "name": "Ba Ba Dum",
                                     "url": "https://babadum.com/"
@@ -203645,6 +203870,15 @@
                                 {
                                     "name": "pwn.college",
                                     "url": "https://pwn.college/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠WeChall - Cybersecurity Practice Games + Rankings",
+                            "links": [
+                                {
+                                    "name": "⁠WeChall",
+                                    "url": "https://www.wechall.net/"
                                 }
                             ]
                         },
@@ -218346,6 +218580,51 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Evidence-Based Training Wiki - Evidence-Based Training Resources (Removed in 867ae3a )",
+                            "links": [
+                                {
+                                    "name": "867ae3a",
+                                    "url": "https://github.com/fmhy/edit/commit/867ae3a9af27a2c8156e0ba99a8a4ce8f197f267"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Start Bodyweight - Bodyweight Training (Removed in 867ae3a )",
+                            "links": [
+                                {
+                                    "name": "867ae3a",
+                                    "url": "https://github.com/fmhy/edit/commit/867ae3a9af27a2c8156e0ba99a8a4ce8f197f267"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "555dy - Movies / TV / Anime / NSFW / Sub / 1080p (Removed in 867ae3a )",
+                            "links": [
+                                {
+                                    "name": "867ae3a",
+                                    "url": "https://github.com/fmhy/edit/commit/867ae3a9af27a2c8156e0ba99a8a4ce8f197f267"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FS02 - Movies / TV / Anime (Removed in 867ae3a )",
+                            "links": [
+                                {
+                                    "name": "867ae3a",
+                                    "url": "https://github.com/fmhy/edit/commit/867ae3a9af27a2c8156e0ba99a8a4ce8f197f267"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "fs6 - Movies / TV / Anime (Removed in 867ae3a )",
+                            "links": [
+                                {
+                                    "name": "867ae3a",
+                                    "url": "https://github.com/fmhy/edit/commit/867ae3a9af27a2c8156e0ba99a8a4ce8f197f267"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Nym - Paid / 5-Hop Mixnet / Subreddit / GitHub (Removed in 887e64d )",
                             "links": [
                                 {
@@ -219395,24 +219674,6 @@
                                 {
                                     "name": "317bcb7",
                                     "url": "https://github.com/fmhy/edit/commit/317bcb78bc25e868b57fb3b9a42b8ca6dfecd4b0"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CORS Proxy - Free CORS Proxy (Removed in 37147b7 )",
-                            "links": [
-                                {
-                                    "name": "37147b7",
-                                    "url": "https://github.com/fmhy/edit/commit/37147b775bce0d96956cbd4cbd6ba9f753c76c9f"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GGHY - GeoGuessr Resources (Removed in 37147b7 )",
-                            "links": [
-                                {
-                                    "name": "37147b7",
-                                    "url": "https://github.com/fmhy/edit/commit/37147b775bce0d96956cbd4cbd6ba9f753c76c9f"
                                 }
                             ]
                         }
@@ -221461,7 +221722,7 @@
                     "heading": "Poll Sites",
                     "level": "h2",
                     "text_explanations": [
-                        "⁠BetterVoting,PollCode,minipoll,PickVote,StrawPoll,framadate,polltab,polling-app,poal.me,poll.ly,typeform"
+                        "⁠BetterVoting/Info,PollCode,minipoll,PickVote,StrawPoll,framadate,polltab,polling-app,poal.me,poll.ly,typeform"
                     ],
                     "resource_items": []
                 },
