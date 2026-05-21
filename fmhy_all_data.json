@@ -6641,19 +6641,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Cohere - Command A Reasoning / 1000 Monthly / Sign-Up /",
-                            "links": [
-                                {
-                                    "name": "⁠Cohere",
-                                    "url": "https://dashboard.cohere.com/playground/chat"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/co-mmunity"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Solar - Solar Pro 3 / No Sign-Up /",
                             "links": [
                                 {
@@ -12230,11 +12217,29 @@
                             ]
                         },
                         {
+                            "full_text": "Fireflix - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Fireflix",
+                                    "url": "https://fireflixhd.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "P-Stream (Fork) - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "P-Stream (Fork)",
                                     "url": "https://pstream.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Flixtrz - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Flixtrz",
+                                    "url": "https://flixtrz.com/"
                                 }
                             ]
                         },
@@ -12321,24 +12326,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/Dxq6bFv4FP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Flixtrz - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Flixtrz",
-                                    "url": "https://flixtrz.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Fireflix - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Fireflix",
-                                    "url": "https://fireflixhd.vercel.app/"
                                 }
                             ]
                         },
@@ -13495,15 +13482,11 @@
                             ]
                         },
                         {
-                            "full_text": "odysee / Instances",
+                            "full_text": "odysee",
                             "links": [
                                 {
                                     "name": "odysee",
                                     "url": "https://odysee.com/"
-                                },
-                                {
-                                    "name": "Instances",
-                                    "url": "https://codeberg.org/librarian/librarian#instances"
                                 }
                             ]
                         },
@@ -16721,6 +16704,15 @@
                             ]
                         },
                         {
+                            "full_text": "xyzstreams",
+                            "links": [
+                                {
+                                    "name": "xyzstreams",
+                                    "url": "https://xyzstreams.shop/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "FoxTrend , 2 /",
                             "links": [
                                 {
@@ -16915,15 +16907,6 @@
                                 {
                                     "name": "BuffStream",
                                     "url": "https://app.buffstream.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "xyzstreams",
-                            "links": [
-                                {
-                                    "name": "xyzstreams",
-                                    "url": "https://xyzstreams.shop/"
                                 }
                             ]
                         },
@@ -18754,15 +18737,6 @@
                             ]
                         },
                         {
-                            "full_text": "KiraStreams - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "KiraStreams",
-                                    "url": "https://kirastreamsv3.vercel.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "isaiDub - Movies / TV / 720p",
                             "links": [
                                 {
@@ -20184,7 +20158,7 @@
                             ]
                         },
                         {
-                            "full_text": "Viren070's Guides , Bye Sudo or ⁠Stremio Perfect Setup - Stremio Guides",
+                            "full_text": "Viren070's Guides , Bye Sudo or ⁠Stremio Perfect Setup / - Stremio Guides",
                             "links": [
                                 {
                                     "name": "Viren070's Guides",
@@ -20197,6 +20171,10 @@
                                 {
                                     "name": "⁠Stremio Perfect Setup",
                                     "url": "https://luckynumb3rs.github.io/stremio-perfect-setup/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/luckynumb3rs/stremio-perfect-setup"
                                 }
                             ]
                         },
@@ -50872,15 +50850,6 @@
                             ]
                         },
                         {
-                            "full_text": "Sirah - AI-Powered Hadith Translation / Collections",
-                            "links": [
-                                {
-                                    "name": "Sirah",
-                                    "url": "https://www.sirah.xyz/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Awesome Islam - Islam Related Projects / Apps",
                             "links": [
                                 {
@@ -76856,7 +76825,7 @@
                             "links": [
                                 {
                                     "name": "⁠AppLock",
-                                    "url": "https://github.com/PranavPurwar/AppLock"
+                                    "url": "https://github.com/aload0/AppLock"
                                 }
                             ]
                         },
@@ -138741,7 +138710,7 @@
                             ]
                         },
                         {
-                            "full_text": "EduMail , Zenvex / 2 / 3 / 4 / 5 , GetEduMail or etempmail - .Edu Addresses",
+                            "full_text": "EduMail , Zenvex / 2 / 3 / 4 , GetEduMail or etempmail - .Edu Addresses",
                             "links": [
                                 {
                                     "name": "EduMail",
@@ -138753,18 +138722,14 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://tempsmail.org/"
+                                    "url": "https://tempsmail.org/free-edu-mail"
                                 },
                                 {
                                     "name": "3",
-                                    "url": "https://tempmail.pw"
-                                },
-                                {
-                                    "name": "4",
                                     "url": "https://www.emailgenerator.org/"
                                 },
                                 {
-                                    "name": "5",
+                                    "name": "4",
                                     "url": "https://edumail.su/"
                                 },
                                 {
@@ -159588,7 +159553,7 @@
                             ]
                         },
                         {
-                            "full_text": "Nitrox - Subnautica Multiplayer Mod / / /",
+                            "full_text": "Nitrox - Subnautica Multiplayer Mod / Requires Clean Files / / /",
                             "links": [
                                 {
                                     "name": "Nitrox",
@@ -217991,7 +217956,7 @@
                             ]
                         },
                         {
-                            "full_text": "IGG Games / Load Games - Highly distrusted for doxxing another sites owner / 2 / 3 / 4 , click hijack ads, and getting demoted on 1337x / 2 / 3 for malware",
+                            "full_text": "IGG Games / Load Games - Highly distrusted for doxxing another sites owner / 2 / 3 / 4 , click hijack ads, and getting demoted on 1337x for malware",
                             "links": [
                                 {
                                     "name": "doxxing another sites owner",
@@ -218008,18 +217973,6 @@
                                 {
                                     "name": "4",
                                     "url": "https://imgur.com/a/jg9mLIa"
-                                },
-                                {
-                                    "name": "demoted on 1337x",
-                                    "url": "https://i.imgur.com/MwAYARu.png"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://i.ibb.co/39WDrb0m/image.png"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://www.reddit.com/r/PiratedGames/comments/muc5wz/comment/gv4wfqq/"
                                 }
                             ]
                         },
@@ -218531,6 +218484,24 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "Sirah - AI-Powered Hadith Translation / Collections (Removed in d78238b )",
+                            "links": [
+                                {
+                                    "name": "d78238b",
+                                    "url": "https://github.com/fmhy/edit/commit/d78238bf82806cb59e6dcbf1f31c7d97a6ff4bc0"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KiraStreams - Movies / TV / Anime (Removed in d78238b )",
+                            "links": [
+                                {
+                                    "name": "d78238b",
+                                    "url": "https://github.com/fmhy/edit/commit/d78238bf82806cb59e6dcbf1f31c7d97a6ff4bc0"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Wudooh - Make Arabic Text Clearer (Removed in c4b50f8 )",
                             "links": [
