@@ -382,7 +382,7 @@
                             ]
                         },
                         {
-                            "full_text": "Audiobooks: Mobilism Audiobooks / AudiobookBay / / Tokybook",
+                            "full_text": "Audiobooks: Mobilism Audiobooks / AudiobookBay /",
                             "links": [
                                 {
                                     "name": "Mobilism Audiobooks",
@@ -391,10 +391,6 @@
                                 {
                                     "name": "AudiobookBay",
                                     "url": "https://audiobookbay.lu/"
-                                },
-                                {
-                                    "name": "Tokybook",
-                                    "url": "https://tokybook.com/"
                                 }
                             ]
                         },
@@ -2914,7 +2910,7 @@
                             ]
                         },
                         {
-                            "full_text": "The OPSEC Bible (.onion), 2 , 3 - Online Anonymity Guide / SimpleX Chat",
+                            "full_text": "The OPSEC Bible (.onion), 2 - Online Anonymity Guide / SimpleX Chat",
                             "links": [
                                 {
                                     "name": "The OPSEC Bible",
@@ -2922,10 +2918,6 @@
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://opsec.hackliberty.org/"
-                                },
-                                {
-                                    "name": "3",
                                     "url": "https://bible.beginnerprivacy.com/opsec/"
                                 },
                                 {
@@ -6360,7 +6352,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Studio - Gemini 3.1 Pro / Google Sign-Up / Add Features / /",
+                            "full_text": "Google AI Studio - Gemini 3.1 Pro / Gemini 3.5 Flash / Google Sign-Up / Add Features / /",
                             "links": [
                                 {
                                     "name": "Google AI Studio",
@@ -6415,7 +6407,7 @@
                             ]
                         },
                         {
-                            "full_text": "Gemini - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.5 Flash (unlimited) / Add Features / Limits / /",
+                            "full_text": "Gemini - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.1 Flash Lite / Add Features / Limits / /",
                             "links": [
                                 {
                                     "name": "Gemini",
@@ -7026,6 +7018,15 @@
                                 {
                                     "name": "⁠iAsk AI",
                                     "url": "https://iask.ai/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AI Roundtable - Run Multi-Model Debates on Any Question",
+                            "links": [
+                                {
+                                    "name": "⁠AI Roundtable",
+                                    "url": "https://opper.ai/ai-roundtable/chat"
                                 }
                             ]
                         },
@@ -11383,6 +11384,23 @@
                             ]
                         },
                         {
+                            "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "PopcornMovies",
+                                    "url": "https://popcornmovies.org/"
+                                },
+                                {
+                                    "name": "BingeBox",
+                                    "url": "https://bingebox.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/JAxTMkmcpd"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Rive , 2 , 3 or CorsFlix , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
                             "links": [
                                 {
@@ -11433,23 +11451,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/MadMF7xb5q"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "PopcornMovies",
-                                    "url": "https://popcornmovies.org/"
-                                },
-                                {
-                                    "name": "BingeBox",
-                                    "url": "https://bingebox.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/JAxTMkmcpd"
                                 }
                             ]
                         },
@@ -12324,6 +12325,24 @@
                             ]
                         },
                         {
+                            "full_text": "Flixtrz - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Flixtrz",
+                                    "url": "https://flixtrz.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Fireflix - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Fireflix",
+                                    "url": "https://fireflixhd.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Vidbox , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
                             "links": [
                                 {
@@ -12427,15 +12446,6 @@
                             ]
                         },
                         {
-                            "full_text": "Fireflix - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Fireflix",
-                                    "url": "https://fireflixhd.vercel.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "TeleV - Movies / TV / Anime / Sign-Up Required /",
                             "links": [
                                 {
@@ -12493,15 +12503,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://watch-v2.autoembed.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Flixtrz - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Flixtrz",
-                                    "url": "https://flixtrz.com/"
                                 }
                             ]
                         },
@@ -16699,19 +16700,15 @@
                             ]
                         },
                         {
-                            "full_text": "StreamCorner , 2 , 3 / Status /",
+                            "full_text": "StreamCorner , 2 / Status /",
                             "links": [
                                 {
                                     "name": "StreamCorner",
-                                    "url": "https://streamcorner.vu/"
+                                    "url": "https://streamcorner.cc/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://streamcorner.cc"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://streamcorner.info/"
+                                    "url": "https://streamcorner.site/"
                                 },
                                 {
                                     "name": "Status",
@@ -20423,7 +20420,7 @@
                             "links": [
                                 {
                                     "name": "LimeTorrents",
-                                    "url": "https://www.limetorrents.lol/"
+                                    "url": "https://www.limetorrents.fun/"
                                 }
                             ]
                         },
@@ -32448,7 +32445,7 @@
                             ]
                         },
                         {
-                            "full_text": "GameBounty - Download /",
+                            "full_text": "GameBounty - Download / Pre-installed / Achievments /",
                             "links": [
                                 {
                                     "name": "GameBounty",
@@ -46058,23 +46055,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Tokybook / Downloader , 2",
-                            "links": [
-                                {
-                                    "name": "Tokybook",
-                                    "url": "https://tokybook.com/"
-                                },
-                                {
-                                    "name": "Downloader",
-                                    "url": "https://github.com/rahaaatul/TokySnatcher"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://github.com/nazdridoy/audiobooksnatcher"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "NEPU Audiobooks",
                             "links": [
                                 {
@@ -54021,7 +54001,7 @@
                             "links": [
                                 {
                                     "name": "LimeTorrents",
-                                    "url": "https://www.limetorrents.lol/"
+                                    "url": "https://www.limetorrents.fun/"
                                 }
                             ]
                         },
@@ -72846,7 +72826,7 @@
                             ]
                         },
                         {
-                            "full_text": "APKMirror / Firefox / Chrome",
+                            "full_text": "APKMirror / Firefox / Chrome / Installer",
                             "links": [
                                 {
                                     "name": "APKMirror",
@@ -72859,6 +72839,10 @@
                                 {
                                     "name": "Chrome",
                                     "url": "https://chrome.google.com/webstore/detail/toolbox-for-google-play-s/fepaalfjfchbdianlgginbmpeeacahoo"
+                                },
+                                {
+                                    "name": "Installer",
+                                    "url": "https://github.com/AbdurazaaqMohammed/AntiSplit-M"
                                 }
                             ]
                         },
@@ -79982,7 +79966,7 @@
                             ]
                         },
                         {
-                            "full_text": "Futon - Manga Reader / /",
+                            "full_text": "Futon / / or ⁠Kotatsu-Redo / - Manga Readers / Kotatsu Forks",
                             "links": [
                                 {
                                     "name": "Futon",
@@ -79995,6 +79979,14 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/AppFuton/Futon/"
+                                },
+                                {
+                                    "name": "⁠Kotatsu-Redo",
+                                    "url": "https://github.com/Kotatsu-Redo/Kotatsu-Redo"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/sfPJSQNxfW"
                                 }
                             ]
                         },
@@ -80008,19 +80000,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/EjfBuYahsP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Kotatsu-Redo - Manga Reader /",
-                            "links": [
-                                {
-                                    "name": "⁠Kotatsu-Redo",
-                                    "url": "https://github.com/Kotatsu-Redo/Kotatsu-Redo"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/sfPJSQNxfW"
                                 }
                             ]
                         },
@@ -94251,15 +94230,6 @@
                             ]
                         },
                         {
-                            "full_text": "Wudooh - Make Arabic Text Clearer",
-                            "links": [
-                                {
-                                    "name": "Wudooh",
-                                    "url": "https://wudooh.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "AdslGate - Arabic Tech Forum",
                             "links": [
                                 {
@@ -102101,15 +102071,6 @@
                                 {
                                     "name": "Free VPN Telegram Channels",
                                     "url": "https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Wudooh - Make Persian Text Clearer",
-                            "links": [
-                                {
-                                    "name": "Wudooh",
-                                    "url": "https://wudooh.app/"
                                 }
                             ]
                         },
@@ -116039,15 +116000,6 @@
                                 {
                                     "name": "⁠CaffeineHealth",
                                     "url": "https://github.com/ohuc/CaffeineHealth"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Child Nutrition - Child Nutrition / Cooking Course",
-                            "links": [
-                                {
-                                    "name": "Child Nutrition",
-                                    "url": "https://www.coursera.org/learn/childnutrition"
                                 }
                             ]
                         },
@@ -148012,7 +147964,7 @@
                             ]
                         },
                         {
-                            "full_text": "PurpleTV / Alpha / or TwitchAdBlock - Mobile Ad-Free Twitch Apps",
+                            "full_text": "PurpleTV - Mobile Ad-Free Twitch App / Alpha /",
                             "links": [
                                 {
                                     "name": "PurpleTV",
@@ -148025,10 +147977,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/pubTw"
-                                },
-                                {
-                                    "name": "TwitchAdBlock",
-                                    "url": "https://github.com/level3tjg/TwitchAdBlock"
                                 }
                             ]
                         }
@@ -167881,7 +167829,7 @@
                             ]
                         },
                         {
-                            "full_text": "Krita - Painting App / / AI Generation /",
+                            "full_text": "Krita - Painting App / / AI Generation / Docs /",
                             "links": [
                                 {
                                     "name": "Krita",
@@ -167890,6 +167838,10 @@
                                 {
                                     "name": "AI Generation",
                                     "url": "https://github.com/Acly/krita-ai-diffusion/"
+                                },
+                                {
+                                    "name": "Docs",
+                                    "url": "https://docs.krita.org/en/"
                                 },
                                 {
                                     "name": "",
@@ -218580,6 +218532,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Wudooh - Make Arabic Text Clearer (Removed in c4b50f8 )",
+                            "links": [
+                                {
+                                    "name": "c4b50f8",
+                                    "url": "https://github.com/fmhy/edit/commit/c4b50f898683bf1911d0423c2812f5c1efd662ba"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Child Nutrition - Child Nutrition / Cooking Course (Removed in fbf87e1 )",
+                            "links": [
+                                {
+                                    "name": "fbf87e1",
+                                    "url": "https://github.com/fmhy/edit/commit/fbf87e16b9d955d6c1d6887f8590bfd1979436fb"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Evidence-Based Training Wiki - Evidence-Based Training Resources (Removed in 867ae3a )",
                             "links": [
                                 {
@@ -219656,24 +219626,6 @@
                                 {
                                     "name": "82d2d89",
                                     "url": "https://github.com/fmhy/edit/commit/82d2d89b9dc0016ed27d5684b695a4191cdc4c28"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Producer.ai (Removed in 317bcb7 )",
-                            "links": [
-                                {
-                                    "name": "317bcb7",
-                                    "url": "https://github.com/fmhy/edit/commit/317bcb78bc25e868b57fb3b9a42b8ca6dfecd4b0"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "VAFT UBO Script - Twitch Adblocker (Removed in 317bcb7 )",
-                            "links": [
-                                {
-                                    "name": "317bcb7",
-                                    "url": "https://github.com/fmhy/edit/commit/317bcb78bc25e868b57fb3b9a42b8ca6dfecd4b0"
                                 }
                             ]
                         }
