@@ -11553,15 +11553,11 @@
                             ]
                         },
                         {
-                            "full_text": "SpenFlix , 2 or Lunara - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "SpenFlix or Lunara - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "SpenFlix",
                                     "url": "https://watch.spencerdevs.xyz/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://spenflix.ru/"
                                 },
                                 {
                                     "name": "Lunara",
@@ -13482,11 +13478,15 @@
                             ]
                         },
                         {
-                            "full_text": "odysee",
+                            "full_text": "odysee /",
                             "links": [
                                 {
                                     "name": "odysee",
                                     "url": "https://odysee.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/OdyseeTeam"
                                 }
                             ]
                         },
@@ -14370,7 +14370,7 @@
                             "links": [
                                 {
                                     "name": "⁠Animelok",
-                                    "url": "https://animelok.xyz/"
+                                    "url": "https://animelok.online/"
                                 },
                                 {
                                     "name": "Mirrors",
@@ -20133,7 +20133,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Stremio Addons / / or Midnight's Addons / Status - Stremio Addons",
+                            "full_text": "Stremio Addons / / or Midnight's Addons - Stremio Addons",
                             "links": [
                                 {
                                     "name": "Stremio Addons",
@@ -20150,10 +20150,6 @@
                                 {
                                     "name": "Midnight's Addons",
                                     "url": "https://addonsfortheweebs.midnightignite.me/addons"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://status.dinsden.top/status/stremio-addons"
                                 }
                             ]
                         },
@@ -30314,6 +30310,15 @@
                             ]
                         },
                         {
+                            "full_text": "SongGuesser - Identify Songs via Keyboard Taps / Melody",
+                            "links": [
+                                {
+                                    "name": "SongGuesser",
+                                    "url": "https://songguesser.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SampleSeek - Find Sample Origins",
                             "links": [
                                 {
@@ -30446,7 +30451,7 @@
                             ]
                         },
                         {
-                            "full_text": "LRCLIB - Synced Lyrics Search / Uploader",
+                            "full_text": "LRCLIB - Synced Lyrics Search / Uploader /",
                             "links": [
                                 {
                                     "name": "LRCLIB",
@@ -30455,6 +30460,10 @@
                                 {
                                     "name": "Uploader",
                                     "url": "https://lrclibup.boidu.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/tranxuanthang/lrclib"
                                 }
                             ]
                         },
@@ -32569,7 +32578,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Cracked-Games - Download /",
+                            "full_text": "⁠Cracked-Games - Download / Use Adblock /",
                             "links": [
                                 {
                                     "name": "⁠Cracked-Games",
@@ -37236,6 +37245,15 @@
                                 {
                                     "name": "⁠Queens Game",
                                     "url": "https://queensgame.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Pips - Daily Domino Puzzle",
+                            "links": [
+                                {
+                                    "name": "⁠Pips",
+                                    "url": "https://www.nytimes.com/games/pips"
                                 }
                             ]
                         },
@@ -55070,15 +55088,11 @@
                             ]
                         },
                         {
-                            "full_text": "InfoTorrent or Webtorrent Checker - Check Torrent File Health",
+                            "full_text": "InfoTorrent - Check Torrent File Health",
                             "links": [
                                 {
                                     "name": "InfoTorrent",
                                     "url": "https://infotorrent.tnl.one/"
-                                },
-                                {
-                                    "name": "Webtorrent Checker",
-                                    "url": "https://checker.openwebtorrent.com/"
                                 }
                             ]
                         },
@@ -61693,8 +61707,12 @@
                             ]
                         },
                         {
-                            "full_text": "FlagLog or Flaglookup - Flag Databases",
+                            "full_text": "Flags of the World , FlagLog or Flaglookup - Flag Databases",
                             "links": [
+                                {
+                                    "name": "Flags of the World",
+                                    "url": "https://www.crwflags.com/fotw/flags/"
+                                },
                                 {
                                     "name": "FlagLog",
                                     "url": "https://www.flaglog.com/"
@@ -61702,6 +61720,15 @@
                                 {
                                     "name": "Flaglookup",
                                     "url": "https://flaglookup.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PrideFlags - LGBT Flag Database",
+                            "links": [
+                                {
+                                    "name": "PrideFlags",
+                                    "url": "https://www.prideflags.org/"
                                 }
                             ]
                         },
@@ -66629,7 +66656,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠ma pona pi toki pona (discord) - Toki Pona Community / Learning",
+                            "full_text": "⁠ma pona pi toki pona (discord) - Toki Pona Community / Learning / Resources",
                             "links": [
                                 {
                                     "name": "⁠ma pona pi toki pona",
@@ -71834,15 +71861,6 @@
                             ]
                         },
                         {
-                            "full_text": "PrideFlags - LGBT Flag Index",
-                            "links": [
-                                {
-                                    "name": "PrideFlags",
-                                    "url": "https://www.prideflags.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "TheDevilsDictionary - Cynical Dictionary",
                             "links": [
                                 {
@@ -73168,7 +73186,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "App Manager / , Inure (search) or Package Manager / - Package Managers",
+                            "full_text": "App Manager / , Inure (search), ⁠Universal Installer or Package Manager / - Package Managers",
                             "links": [
                                 {
                                     "name": "App Manager",
@@ -73181,6 +73199,10 @@
                                 {
                                     "name": "Inure",
                                     "url": "https://fmhy.net/mobile/#modded-apks"
+                                },
+                                {
+                                    "name": "⁠Universal Installer",
+                                    "url": "https://github.com/pass-with-high-score/universal-installer"
                                 },
                                 {
                                     "name": "Package Manager",
@@ -73680,11 +73702,15 @@
                             ]
                         },
                         {
-                            "full_text": "Nobook - Ad-Free Facebook Lite",
+                            "full_text": "Nobook or Materialbook - Ad-Free Facebook Lite",
                             "links": [
                                 {
                                     "name": "Nobook",
                                     "url": "https://github.com/ycngmn/Nobook"
+                                },
+                                {
+                                    "name": "Materialbook",
+                                    "url": "https://github.com/eepiemi/Materialbook"
                                 }
                             ]
                         },
@@ -99845,7 +99871,7 @@
                             "links": [
                                 {
                                     "name": "⁠Animelok",
-                                    "url": "https://animelok.xyz/"
+                                    "url": "https://animelok.online/"
                                 },
                                 {
                                     "name": "Mirrors",
@@ -108312,6 +108338,15 @@
                                 {
                                     "name": "Anonyviet",
                                     "url": "https://anonyviet.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠HocMai Hướng Nghiệp - Career + University Guidance",
+                            "links": [
+                                {
+                                    "name": "⁠HocMai Hướng Nghiệp",
+                                    "url": "https://huongnghiep.hocmai.vn/"
                                 }
                             ]
                         },
@@ -132020,6 +132055,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠HashCheck - Checksum / Hash Verifier",
+                            "links": [
+                                {
+                                    "name": "⁠HashCheck",
+                                    "url": "https://github.com/idrassi/HashCheck"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "MediaInfo - Media File Analysis / Metadata Viewer / Online",
                             "links": [
                                 {
@@ -133018,7 +133062,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Sendme / or Alt⁠Sendme / - P2P File Transfer CLI",
+                            "full_text": "⁠Sendme / or Alt⁠Sendme / - File Transfer CLIs",
                             "links": [
                                 {
                                     "name": "⁠Sendme",
@@ -133035,6 +133079,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/tonyantony300/alt-sendme"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "termscp - File Transfer TUI /",
+                            "links": [
+                                {
+                                    "name": "termscp",
+                                    "url": "https://termscp.veeso.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/veeso/termscp"
                                 }
                             ]
                         },
@@ -156221,7 +156278,7 @@
                             ]
                         },
                         {
-                            "full_text": "Lossless Scaling (search), Magpie or OptiScaler - Game Upscaling /",
+                            "full_text": "Lossless Scaling (search), Magpie or OptiScaler / Manager - Game Upscaling /",
                             "links": [
                                 {
                                     "name": "Lossless Scaling",
@@ -156234,6 +156291,10 @@
                                 {
                                     "name": "OptiScaler",
                                     "url": "https://github.com/optiscaler/OptiScaler"
+                                },
+                                {
+                                    "name": "Manager",
+                                    "url": "https://github.com/Agustinm28/Optiscaler-Client"
                                 }
                             ]
                         },
@@ -158709,7 +158770,7 @@
                             ]
                         },
                         {
-                            "full_text": "Steam-Auto-Crack or SteamAutoCracker / GUI - Auto Apply Cracks / Guide",
+                            "full_text": "Steam-Auto-Crack or SteamAutoCracker / GUI - Auto Apply Cracks",
                             "links": [
                                 {
                                     "name": "Steam-Auto-Crack",
@@ -158722,10 +158783,6 @@
                                 {
                                     "name": "GUI",
                                     "url": "https://github.com/harryeffinpotter/Steam-Autocracker-GUI/"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://codeberg.org/fernbacher/How-To-Crack"
                                 }
                             ]
                         },
@@ -162962,10 +163019,18 @@
                             ]
                         },
                         {
-                            "full_text": "Arnis - Generate Real-world Locations in Minecraft",
+                            "full_text": "Arnis - Generate Real-world Locations in Minecraft / /",
                             "links": [
                                 {
                                     "name": "Arnis",
+                                    "url": "https://arnismc.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/mA2g69Fhxq"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://github.com/louis-e/arnis"
                                 }
                             ]
@@ -187669,6 +187734,15 @@
                             ]
                         },
                         {
+                            "full_text": "SongGuesser - Identify Songs via Keyboard Taps / Melody",
+                            "links": [
+                                {
+                                    "name": "SongGuesser",
+                                    "url": "https://songguesser.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SampleSeek - Find Sample Origins",
                             "links": [
                                 {
@@ -187801,7 +187875,7 @@
                             ]
                         },
                         {
-                            "full_text": "LRCLIB - Synced Lyrics Search / Uploader",
+                            "full_text": "LRCLIB - Synced Lyrics Search / Uploader /",
                             "links": [
                                 {
                                     "name": "LRCLIB",
@@ -187810,6 +187884,10 @@
                                 {
                                     "name": "Uploader",
                                     "url": "https://lrclibup.boidu.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/tranxuanthang/lrclib"
                                 }
                             ]
                         },
@@ -196056,8 +196134,12 @@
                             ]
                         },
                         {
-                            "full_text": "FlagLog or Flaglookup - Flag Databases",
+                            "full_text": "Flags of the World , FlagLog or Flaglookup - Flag Databases",
                             "links": [
+                                {
+                                    "name": "Flags of the World",
+                                    "url": "https://www.crwflags.com/fotw/flags/"
+                                },
                                 {
                                     "name": "FlagLog",
                                     "url": "https://www.flaglog.com/"
@@ -196065,6 +196147,15 @@
                                 {
                                     "name": "Flaglookup",
                                     "url": "https://flaglookup.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PrideFlags - LGBT Flag Database",
+                            "links": [
+                                {
+                                    "name": "PrideFlags",
+                                    "url": "https://www.prideflags.org/"
                                 }
                             ]
                         },
@@ -200992,7 +201083,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠ma pona pi toki pona (discord) - Toki Pona Community / Learning",
+                            "full_text": "⁠ma pona pi toki pona (discord) - Toki Pona Community / Learning / Resources",
                             "links": [
                                 {
                                     "name": "⁠ma pona pi toki pona",
@@ -206197,15 +206288,6 @@
                             ]
                         },
                         {
-                            "full_text": "PrideFlags - LGBT Flag Index",
-                            "links": [
-                                {
-                                    "name": "PrideFlags",
-                                    "url": "https://www.prideflags.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "TheDevilsDictionary - Cynical Dictionary",
                             "links": [
                                 {
@@ -209527,19 +209609,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/ValveResourceFormat/ValveResourceFormat"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Fortnite Porting - Extract Fortnite Assets /",
-                            "links": [
-                                {
-                                    "name": "⁠Fortnite Porting",
-                                    "url": "https://fortniteporting.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/h4lfheart/FortnitePorting"
                                 }
                             ]
                         }
@@ -220635,6 +220704,32 @@
                                 {
                                     "name": "IDL",
                                     "url": "https://insanedemonlist.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HPPL - Hardest Physically Possible Levels List / Discord",
+                            "links": [
+                                {
+                                    "name": "HPPL",
+                                    "url": "https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/"
+                                },
+                                {
+                                    "name": "Discord",
+                                    "url": "https://discord.com/invite/CGxaTGJaGV"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HTPL - Hardest Theoretically Possible Levels List / Discord",
+                            "links": [
+                                {
+                                    "name": "HTPL",
+                                    "url": "https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/"
+                                },
+                                {
+                                    "name": "Discord",
+                                    "url": "https://discord.com/invite/F5U8CQshJv"
                                 }
                             ]
                         },
