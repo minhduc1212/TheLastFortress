@@ -1500,7 +1500,7 @@
                             ]
                         },
                         {
-                            "full_text": "Popup Blocker (strict) , Popupblocker All or PopUpOFF - Popup Blockers / Userscript",
+                            "full_text": "Popup Blocker (strict) , Popupblocker All / 2 or PopUpOFF - Popup Blockers / Userscript",
                             "links": [
                                 {
                                     "name": "Popup Blocker (strict)",
@@ -1509,6 +1509,10 @@
                                 {
                                     "name": "Popupblocker All",
                                     "url": "https://addons.mozilla.org/firefox/addon/popupblockerall/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://chromewebstore.google.com/detail/popupblocker/doklmegfghlnanggfgligimnnikiekde"
                                 },
                                 {
                                     "name": "PopUpOFF",
@@ -6705,7 +6709,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠ISH - Claude Opus 4.6 / Claude Sonnet 4.6 / Multiple Models / Sign-Up (GitHub) / / /",
+                            "full_text": "⁠ISH - Claude Opus 4.7 / Claude Sonnet 4.6 / Multiple Models / Sign-Up (GitHub) / / /",
                             "links": [
                                 {
                                     "name": "⁠ISH",
@@ -10533,6 +10537,15 @@
                             ]
                         },
                         {
+                            "full_text": "AI Leaks - AI Leaks / Feature News Server",
+                            "links": [
+                                {
+                                    "name": "AI Leaks",
+                                    "url": "https://discord.gg/MFCU6sKSNs"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Models.dev - AI Model Database / Pricing /",
                             "links": [
                                 {
@@ -11552,6 +11565,19 @@
                             ]
                         },
                         {
+                            "full_text": "Coreflix - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Coreflix",
+                                    "url": "https://coreflix.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/FkaeFU32nr"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Movish - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11803,6 +11829,19 @@
                                 {
                                     "name": "CinemaCity",
                                     "url": "https://cinemacity.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WatchFlixAD , 2 - Movies / TV / Anime / Requires Sign-Up",
+                            "links": [
+                                {
+                                    "name": "WatchFlixAD",
+                                    "url": "https://watchflixad.com/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://watchflx.tv/"
                                 }
                             ]
                         },
@@ -12145,14 +12184,18 @@
                             ]
                         },
                         {
-                            "full_text": "Anixtv , 2 - Movies / TV / Anime / Auto-Next / Status /",
+                            "full_text": "Anixtv , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
                             "links": [
                                 {
                                     "name": "Anixtv",
-                                    "url": "https://anixtv.us.cc/"
+                                    "url": "https://anixx.fun/"
                                 },
                                 {
                                     "name": "2",
+                                    "url": "https://anixtv.us.cc/"
+                                },
+                                {
+                                    "name": "3",
                                     "url": "https://anixtv.in/"
                                 },
                                 {
@@ -12451,6 +12494,15 @@
                                 {
                                     "name": "2",
                                     "url": "https://watch-v2.autoembed.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CandleStream - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "CandleStream",
+                                    "url": "https://candlestream.xyz/#home"
                                 }
                             ]
                         },
@@ -14097,6 +14149,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Kiroku - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠Kiroku",
+                                    "url": "https://kiroku.my/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Re:ANIME , 2 - Sub / Dub / Auto-Next / /",
                             "links": [
                                 {
@@ -14231,15 +14292,6 @@
                                 {
                                     "name": "AnimeNoSub",
                                     "url": "https://animenosub.to/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Kiroku - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "⁠Kiroku",
-                                    "url": "https://kiroku.my/"
                                 }
                             ]
                         },
@@ -16638,6 +16690,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Streami",
+                            "links": [
+                                {
+                                    "name": "⁠Streami",
+                                    "url": "https://streami.click/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "xyzstreams",
                             "links": [
                                 {
@@ -16686,15 +16747,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/FPgKwtXcYV"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Streami",
-                            "links": [
-                                {
-                                    "name": "⁠Streami",
-                                    "url": "https://streami.top/"
                                 }
                             ]
                         },
@@ -25916,7 +25968,7 @@
                             ]
                         },
                         {
-                            "full_text": "cobalt - SoundCloud / 320kb / MP3 / Instances / / /",
+                            "full_text": "cobalt - SoundCloud / 128kb / MP3 / Instances / / /",
                             "links": [
                                 {
                                     "name": "cobalt",
@@ -26085,7 +26137,7 @@
                             "links": [
                                 {
                                     "name": "SpotiFLAC",
-                                    "url": "https://github.com/afkarxyz/SpotiFLAC"
+                                    "url": "https://github.com/spotbye/SpotiFLAC"
                                 }
                             ]
                         },
@@ -26268,15 +26320,6 @@
                                 {
                                     "name": "Meph Bot",
                                     "url": "https://t.me/mephbot"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "soundcloudaudiodownloader - YouTube / SoundCloud / 128kb MP3",
-                            "links": [
-                                {
-                                    "name": "soundcloudaudiodownloader",
-                                    "url": "https://t.me/soundcloudaudiodownloader"
                                 }
                             ]
                         },
@@ -38975,15 +39018,6 @@
                             ]
                         },
                         {
-                            "full_text": "Flappy Bird - HTML5 Flappy Bird",
-                            "links": [
-                                {
-                                    "name": "Flappy Bird",
-                                    "url": "https://flappybird.io/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Lain Game - Lain Game Browser Emulator",
                             "links": [
                                 {
@@ -45932,6 +45966,15 @@
                                 {
                                     "name": "BookAudiobook",
                                     "url": "https://bookaudiobook.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CozyAudiobooks / Some NSFW",
+                            "links": [
+                                {
+                                    "name": "CozyAudiobooks",
+                                    "url": "https://cozyaudiobooks.com/category/"
                                 }
                             ]
                         },
@@ -57920,6 +57963,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠HeliStart - Helicopter Aerodynamics / Flight Mechanics Guides + History",
+                            "links": [
+                                {
+                                    "name": "⁠HeliStart",
+                                    "url": "http://www.helistart.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Boeing 737 Technical Site - B737 Technical Engineering Guides / History / / YouTube",
                             "links": [
                                 {
@@ -59717,11 +59769,15 @@
                             ]
                         },
                         {
-                            "full_text": "Space Weather News or SpaceWeather - Space Weather Updates / Videos",
+                            "full_text": "Space Weather News , SolarHam or SpaceWeather - Space Weather Updates / Videos",
                             "links": [
                                 {
                                     "name": "Space Weather News",
                                     "url": "https://spaceweathernews.com/"
+                                },
+                                {
+                                    "name": "SolarHam",
+                                    "url": "https://solarham.com/"
                                 },
                                 {
                                     "name": "SpaceWeather",
@@ -78429,15 +78485,6 @@
                             ]
                         },
                         {
-                            "full_text": "one sec (search) - App Blocker",
-                            "links": [
-                                {
-                                    "name": "one sec",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠ScreenZen - Website / App Blocker",
                             "links": [
                                 {
@@ -93647,7 +93694,7 @@
                                 },
                                 {
                                     "name": "Keka",
-                                    "url": "https://www.keka.io/"
+                                    "url": "https://www.keka.io/en/"
                                 }
                             ]
                         },
@@ -111684,6 +111731,15 @@
                                 {
                                     "name": "SkyVector",
                                     "url": "https://skyvector.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠METAR-TAF - Airport Weather Tracking Tool",
+                            "links": [
+                                {
+                                    "name": "⁠METAR-TAF",
+                                    "url": "https://metar-taf.com/"
                                 }
                             ]
                         },
@@ -131361,11 +131417,15 @@
                             ]
                         },
                         {
-                            "full_text": "TestDisk - File Recovery",
+                            "full_text": "TestDisk - File Recovery /",
                             "links": [
                                 {
                                     "name": "TestDisk",
                                     "url": "https://www.cgsecurity.org/wiki/TestDisk"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://git.cgsecurity.org/cgit/testdisk/tree/"
                                 }
                             ]
                         },
@@ -134549,15 +134609,6 @@
                             ]
                         },
                         {
-                            "full_text": "Spectre",
-                            "links": [
-                                {
-                                    "name": "Spectre",
-                                    "url": "https://spectre.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "VaultWarden - Self-Hosted",
                             "links": [
                                 {
@@ -136532,7 +136583,7 @@
                             ]
                         },
                         {
-                            "full_text": "Virgil Game Search / , ⁠HizSearch , Game Download CSE or r/PiratedGames CSE - Multi-Site Search Engines",
+                            "full_text": "Virgil Game Search / , ⁠HizSearch , Game Download CSE or r/PiratedGames CSE - Multi-Site Game Search Engines",
                             "links": [
                                 {
                                     "name": "Virgil Game Search",
@@ -158407,7 +158458,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠GameDate - Game Session Scheduling Platform /",
+                            "full_text": "⁠GameDate - Game Session Scheduling / Group Finder /",
                             "links": [
                                 {
                                     "name": "⁠GameDate",
@@ -161719,15 +161770,6 @@
                             ]
                         },
                         {
-                            "full_text": "MCPEDL - Bedrock Mod Resources",
-                            "links": [
-                                {
-                                    "name": "MCPEDL",
-                                    "url": "https://mcpedl.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "ViaFabricPlus , 2 - Fabric Mod for Joining All Versions / /",
                             "links": [
                                 {
@@ -162353,7 +162395,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Custom Worlds - Bedrock Custom Superflat World Generator",
+                            "full_text": "⁠Custom Worlds - Bedrock Custom Superflat / Single Biome World Generator",
                             "links": [
                                 {
                                     "name": "⁠Custom Worlds",
@@ -165400,6 +165442,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Geometry Dash Wiki - ⁠Geometry Dash Wiki",
+                            "links": [
+                                {
+                                    "name": "⁠Geometry Dash Wiki",
+                                    "url": "https://geometrydash.wiki.gg/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "GDDP or GD Demon Ladder - Practice & Improve Your Skills",
                             "links": [
                                 {
@@ -165409,15 +165460,6 @@
                                 {
                                     "name": "GD Demon Ladder",
                                     "url": "https://gdladder.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Geometry Dash Wiki - ⁠Geometry Dash Wiki",
-                            "links": [
-                                {
-                                    "name": "⁠Geometry Dash Wiki",
-                                    "url": "https://geometrydash.wiki.gg/"
                                 }
                             ]
                         },
@@ -165787,11 +165829,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "RimWorld Wiki - Official Wiki",
+                            "full_text": "RimWorld Wiki - Official Wiki /",
                             "links": [
                                 {
                                     "name": "RimWorld Wiki",
                                     "url": "https://rimworldwiki.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/UTaMDWc"
                                 }
                             ]
                         },
@@ -174779,14 +174825,14 @@
                             ]
                         },
                         {
-                            "full_text": "Streamtape - 15GB / Requires Sign-Up / .to",
+                            "full_text": "Streamtape , 2 - 15GB / Requires Sign-Up",
                             "links": [
                                 {
                                     "name": "Streamtape",
                                     "url": "https://streamtape.com/"
                                 },
                                 {
-                                    "name": ".to",
+                                    "name": "2",
                                     "url": "https://streamtape.to/"
                                 }
                             ]
@@ -182675,7 +182721,7 @@
                             ]
                         },
                         {
-                            "full_text": "cobalt - SoundCloud / 320kb / MP3 / Instances / / /",
+                            "full_text": "cobalt - SoundCloud / 128kb / MP3 / Instances / / /",
                             "links": [
                                 {
                                     "name": "cobalt",
@@ -182844,7 +182890,7 @@
                             "links": [
                                 {
                                     "name": "SpotiFLAC",
-                                    "url": "https://github.com/afkarxyz/SpotiFLAC"
+                                    "url": "https://github.com/spotbye/SpotiFLAC"
                                 }
                             ]
                         },
@@ -183027,15 +183073,6 @@
                                 {
                                     "name": "Meph Bot",
                                     "url": "https://t.me/mephbot"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "soundcloudaudiodownloader - YouTube / SoundCloud / 128kb MP3",
-                            "links": [
-                                {
-                                    "name": "soundcloudaudiodownloader",
-                                    "url": "https://t.me/soundcloudaudiodownloader"
                                 }
                             ]
                         },
@@ -191767,6 +191804,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠HeliStart - Helicopter Aerodynamics / Flight Mechanics Guides + History",
+                            "links": [
+                                {
+                                    "name": "⁠HeliStart",
+                                    "url": "http://www.helistart.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Boeing 737 Technical Site - B737 Technical Engineering Guides / History / / YouTube",
                             "links": [
                                 {
@@ -193564,11 +193610,15 @@
                             ]
                         },
                         {
-                            "full_text": "Space Weather News or SpaceWeather - Space Weather Updates / Videos",
+                            "full_text": "Space Weather News , SolarHam or SpaceWeather - Space Weather Updates / Videos",
                             "links": [
                                 {
                                     "name": "Space Weather News",
                                     "url": "https://spaceweathernews.com/"
+                                },
+                                {
+                                    "name": "SolarHam",
+                                    "url": "https://solarham.com/"
                                 },
                                 {
                                     "name": "SpaceWeather",
@@ -217687,6 +217737,33 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "soundcloudaudiodownloader - YouTube / SoundCloud / 128kb MP3 (Removed in c41b89e )",
+                            "links": [
+                                {
+                                    "name": "c41b89e",
+                                    "url": "https://github.com/fmhy/edit/commit/c41b89e660592fed97d66d29b69ffdb7983b89a4"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Flappy Bird - HTML5 Flappy Bird (Removed in c41b89e )",
+                            "links": [
+                                {
+                                    "name": "c41b89e",
+                                    "url": "https://github.com/fmhy/edit/commit/c41b89e660592fed97d66d29b69ffdb7983b89a4"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Spectre (Removed in c41b89e )",
+                            "links": [
+                                {
+                                    "name": "c41b89e",
+                                    "url": "https://github.com/fmhy/edit/commit/c41b89e660592fed97d66d29b69ffdb7983b89a4"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "APKPure, 2 / Telegram / Avoid Their App (Removed in fc9a041 )",
                             "links": [
                                 {
@@ -219449,24 +219526,6 @@
                                     "url": "https://github.com/fmhy/edit/commit/96b993a8c4a3f13cdd7fec12193fa9a35f4ee7ea"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "Dreamily - Story Writing AI (Removed in 25470ce )",
-                            "links": [
-                                {
-                                    "name": "25470ce",
-                                    "url": "https://github.com/fmhy/edit/commit/25470ce01574631c39da0eac51baf144e89cbbd4"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Goldberg - Steam Multiplayer Client Emulator (Removed in 25470ce )",
-                            "links": [
-                                {
-                                    "name": "25470ce",
-                                    "url": "https://github.com/fmhy/edit/commit/25470ce01574631c39da0eac51baf144e89cbbd4"
-                                }
-                            ]
                         }
                     ]
                 }
@@ -220965,6 +221024,15 @@
                                 {
                                     "name": "Discord",
                                     "url": "https://discord.com/invite/QQSWwyg"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MCPEDL - Bedrock Mods",
+                            "links": [
+                                {
+                                    "name": "MCPEDL",
+                                    "url": "https://mcpedl.com/"
                                 }
                             ]
                         },
