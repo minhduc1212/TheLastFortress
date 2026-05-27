@@ -98330,7 +98330,7 @@
                             ]
                         },
                         {
-                            "full_text": "ardmediathek - Free w/ Ads",
+                            "full_text": "ardmediathek - Public Broadcast",
                             "links": [
                                 {
                                     "name": "ardmediathek",
@@ -98339,7 +98339,7 @@
                             ]
                         },
                         {
-                            "full_text": "zdf - Free w/ Ads",
+                            "full_text": "zdf - Public Broadcast",
                             "links": [
                                 {
                                     "name": "zdf",
@@ -102680,15 +102680,6 @@
                                 {
                                     "name": "WR Educacional",
                                     "url": "https://www.wreducacional.com.br"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Curso_vip - Courses / Books",
-                            "links": [
-                                {
-                                    "name": "Curso_vip",
-                                    "url": "https://t.me/Curso_vip"
                                 }
                             ]
                         },
@@ -176735,11 +176726,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Synkplay - App",
+                            "full_text": "Syncplay - App /",
                             "links": [
                                 {
-                                    "name": "Synkplay",
+                                    "name": "Syncplay",
                                     "url": "https://syncplay.pl/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Syncplay/syncplay"
                                 }
                             ]
                         },
