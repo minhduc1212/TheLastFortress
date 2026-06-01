@@ -6956,6 +6956,23 @@
                             ]
                         },
                         {
+                            "full_text": "TextFX / or Rytr - AI Creative Writing Tools / No Sign-Up",
+                            "links": [
+                                {
+                                    "name": "TextFX",
+                                    "url": "https://textfx.withgoogle.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx"
+                                },
+                                {
+                                    "name": "Rytr",
+                                    "url": "https://rytr.me/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Perplexity - AI Search Engine / Enhancements /",
                             "links": [
                                 {
@@ -7942,48 +7959,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/aislop"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "AI Writing Tools",
-                    "level": "h2",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Toolbaz - Online AI Text Tools",
-                            "links": [
-                                {
-                                    "name": "Toolbaz",
-                                    "url": "https://toolbaz.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TextFX / or Rytr - AI Creative Writing Tools / No Sign-Up",
-                            "links": [
-                                {
-                                    "name": "TextFX",
-                                    "url": "https://textfx.withgoogle.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx"
-                                },
-                                {
-                                    "name": "Rytr",
-                                    "url": "https://rytr.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Quarkle - AI Writing Assistant",
-                            "links": [
-                                {
-                                    "name": "Quarkle",
-                                    "url": "https://quarkle.ai/"
                                 }
                             ]
                         }
@@ -46734,11 +46709,37 @@
                             ]
                         },
                         {
+                            "full_text": "Kagane /",
+                            "links": [
+                                {
+                                    "name": "Kagane",
+                                    "url": "https://kagane.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/kBPYVSzwUE"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Weeb Central / Use Adblocker",
                             "links": [
                                 {
                                     "name": "Weeb Central",
                                     "url": "https://weebcentral.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Atsumaru /",
+                            "links": [
+                                {
+                                    "name": "Atsumaru",
+                                    "url": "https://atsu.moe/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/Tj4QmEF4uV"
                                 }
                             ]
                         },
@@ -46760,6 +46761,19 @@
                             ]
                         },
                         {
+                            "full_text": "MangaDotNet /",
+                            "links": [
+                                {
+                                    "name": "MangaDotNet",
+                                    "url": "https://mangadot.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/XCdaT6tyy8"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "MangaFire / /",
                             "links": [
                                 {
@@ -46773,6 +46787,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/KRQQKzQ6CS"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠OniSaga",
+                            "links": [
+                                {
+                                    "name": "⁠OniSaga",
+                                    "url": "https://onisaga.com/"
                                 }
                             ]
                         },
@@ -46802,41 +46825,6 @@
                             ]
                         },
                         {
-                            "full_text": "Atsumaru /",
-                            "links": [
-                                {
-                                    "name": "Atsumaru",
-                                    "url": "https://atsu.moe/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/Tj4QmEF4uV"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MangaDotNet /",
-                            "links": [
-                                {
-                                    "name": "MangaDotNet",
-                                    "url": "https://mangadot.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/XCdaT6tyy8"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠OniSaga - Manga + Scanlation Groups",
-                            "links": [
-                                {
-                                    "name": "⁠OniSaga",
-                                    "url": "https://onisaga.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "MangaNato , 2 , 3 , 4 /",
                             "links": [
                                 {
@@ -46858,19 +46846,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/Qhz84GGvE9"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Kagane - Manhwa /",
-                            "links": [
-                                {
-                                    "name": "Kagane",
-                                    "url": "https://kagane.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/kBPYVSzwUE"
                                 }
                             ]
                         },
@@ -87024,6 +86999,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠AppManager - AppImage Installer / Manager",
+                            "links": [
+                                {
+                                    "name": "⁠AppManager",
+                                    "url": "https://github.com/kem-a/AppManager"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Apps for GNOME - GNOME Apps",
                             "links": [
                                 {
@@ -115629,7 +115613,7 @@
                             "links": [
                                 {
                                     "name": "BuffBook",
-                                    "url": "https://buffbook.chitilivorno.workers.dev/"
+                                    "url": "https://buffbook.org/"
                                 },
                                 {
                                     "name": "",
@@ -120783,15 +120767,6 @@
                                 {
                                     "name": "10015.io",
                                     "url": "https://10015.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Disroot - Text / Social Media",
-                            "links": [
-                                {
-                                    "name": "Disroot",
-                                    "url": "https://disroot.org/en/#services"
                                 }
                             ]
                         },
@@ -135690,6 +135665,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Proton Meet - Video Chat",
+                            "links": [
+                                {
+                                    "name": "⁠Proton Meet",
+                                    "url": "https://proton.me/meet"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "MiroTalk / 2 or MiroTalk SFU - Video Chat /",
                             "links": [
                                 {
@@ -142290,11 +142274,15 @@
                             ]
                         },
                         {
-                            "full_text": "Kiwix / Zim Reader / Wiki DL Guide / / or DownloadNet (dn) - Offline Website Readers",
+                            "full_text": "Kiwix / Library / Zim Reader / Wiki DL Guide / / or DownloadNet (dn) - Offline Website Readers",
                             "links": [
                                 {
                                     "name": "Kiwix",
                                     "url": "https://get.kiwix.org/en/solutions/applications/download-options/"
+                                },
+                                {
+                                    "name": "Library",
+                                    "url": "https://browse.library.kiwix.org/"
                                 },
                                 {
                                     "name": "Zim Reader",
@@ -143013,7 +143001,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Farside / 2 , ⁠Radical Servers , canine.tools , ⁠NerdVPN , ⁠Privacy Redirect , ⁠Nadeko or alternative-frontends - Frontend Indexes",
+                            "full_text": "Farside / 2 , Disroot , ⁠Radical Servers , canine.tools , ⁠NerdVPN , ⁠Privacy Redirect , ⁠Nadeko or alternative-frontends - Frontend Indexes",
                             "links": [
                                 {
                                     "name": "Farside",
@@ -143022,6 +143010,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://cf.farside.link/"
+                                },
+                                {
+                                    "name": "Disroot",
+                                    "url": "https://disroot.org/en/#services"
                                 },
                                 {
                                     "name": "⁠Radical Servers",
@@ -153144,15 +153136,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "️ AI Writing Tools",
-                            "links": [
-                                {
-                                    "name": "AI Writing Tools",
-                                    "url": "https://fmhy.net/ai/#ai-writing-tools"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "️ RPG / Fantasy Writing Tools",
                             "links": [
                                 {
@@ -153258,6 +153241,23 @@
                                 {
                                     "name": "jrnl.sh",
                                     "url": "https://jrnl.sh/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TextFX / or Rytr - AI Creative Writing Tools / No Sign-Up",
+                            "links": [
+                                {
+                                    "name": "TextFX",
+                                    "url": "https://textfx.withgoogle.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx"
+                                },
+                                {
+                                    "name": "Rytr",
+                                    "url": "https://rytr.me/"
                                 }
                             ]
                         },
@@ -167449,23 +167449,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "ObjectRemover , Lama Cleaner , Inpaint , Cleanup.pictures or HAMA - Object Removers",
+                            "full_text": "ObjectRemover , Inpaint or HAMA - Object Removers",
                             "links": [
                                 {
                                     "name": "ObjectRemover",
                                     "url": "https://objectremover.com/"
                                 },
                                 {
-                                    "name": "Lama Cleaner",
-                                    "url": "https://lama-cleaner-docs.vercel.app/"
-                                },
-                                {
                                     "name": "Inpaint",
                                     "url": "https://theinpaint.com/"
-                                },
-                                {
-                                    "name": "Cleanup.pictures",
-                                    "url": "https://cleanup.pictures/"
                                 },
                                 {
                                     "name": "HAMA",
@@ -167492,15 +167484,6 @@
                                 {
                                     "name": "Pixelcut",
                                     "url": "https://www.pixelcut.ai/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Ripolas Background Remover - Background Remover / Non-AI",
-                            "links": [
-                                {
-                                    "name": "Ripolas Background Remover",
-                                    "url": "https://ripolas.org/background-remover/"
                                 }
                             ]
                         },
@@ -167674,15 +167657,6 @@
                                 {
                                     "name": "Bigjpg",
                                     "url": "https://bigjpg.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Ilaria_Upscaler - Image Upscaling / Online",
-                            "links": [
-                                {
-                                    "name": "Ilaria_Upscaler",
-                                    "url": "https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler"
                                 }
                             ]
                         },
@@ -176924,19 +176898,24 @@
                             ]
                         },
                         {
-                            "full_text": "MPV Clients , MPC-QT or MPV (Official) - Video Player / Custom Builder / Frontends /",
+                            "full_text": "MPV Clients - MPV Based Client Index",
                             "links": [
                                 {
                                     "name": "MPV Clients",
                                     "url": "https://mpv.rocks/"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MPV - Video Player / Improved UI / Custom Builder / Frontends /",
+                            "links": [
                                 {
-                                    "name": "MPC-QT",
-                                    "url": "https://mpc-qt.github.io/"
-                                },
-                                {
-                                    "name": "MPV (Official)",
+                                    "name": "MPV",
                                     "url": "https://mpv.io/"
+                                },
+                                {
+                                    "name": "Improved UI",
+                                    "url": "https://github.com/tomasklaen/uosc"
                                 },
                                 {
                                     "name": "Custom Builder",
@@ -176966,6 +176945,15 @@
                                 {
                                     "name": "YT-DL Support",
                                     "url": "https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MPC-QT - Video Player / MPC UI w/ MPV Internal Player / Easy Setup",
+                            "links": [
+                                {
+                                    "name": "MPC-QT",
+                                    "url": "https://mpc-qt.github.io/"
                                 }
                             ]
                         },
@@ -218818,6 +218806,51 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "Toolbaz - Online AI Text Tools (Removed in 3dcff0c )",
+                            "links": [
+                                {
+                                    "name": "3dcff0c",
+                                    "url": "https://github.com/fmhy/edit/commit/3dcff0c6ca0fe45f06948030acdd9059469fdfff#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L146"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Quarkle - AI Writing Assistant (Removed in 3dcff0c )",
+                            "links": [
+                                {
+                                    "name": "3dcff0c",
+                                    "url": "https://github.com/fmhy/edit/commit/3dcff0c6ca0fe45f06948030acdd9059469fdfff#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L148"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Ripolas Background Remover - Background Remover / Non-AI (Removed in 3dcff0c )",
+                            "links": [
+                                {
+                                    "name": "3dcff0c",
+                                    "url": "https://github.com/fmhy/edit/commit/3dcff0c6ca0fe45f06948030acdd9059469fdfff#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL70"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Ilaria_Upscaler - Image Upscaling / Online (Removed in 3dcff0c )",
+                            "links": [
+                                {
+                                    "name": "3dcff0c",
+                                    "url": "https://github.com/fmhy/edit/commit/3dcff0c6ca0fe45f06948030acdd9059469fdfff#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL90"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ AI Writing Tools (Removed in 3dcff0c )",
+                            "links": [
+                                {
+                                    "name": "3dcff0c",
+                                    "url": "https://github.com/fmhy/edit/commit/3dcff0c6ca0fe45f06948030acdd9059469fdfff#diff-22677cf783b082896ee54428761a2137c7e8e2b6385dee44f986c2f72194e222L376"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "UsernameGenerator - Username Generator (Removed in 086868e )",
                             "links": [
