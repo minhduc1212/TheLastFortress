@@ -11447,6 +11447,19 @@
                             ]
                         },
                         {
+                            "full_text": "Coreflix - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Coreflix",
+                                    "url": "https://coreflix.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/FkaeFU32nr"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "bCine - Movies / TV / Anime / 4K /",
                             "links": [
                                 {
@@ -11482,19 +11495,6 @@
                                 {
                                     "name": "Cinegram",
                                     "url": "https://cinegram.tv/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Coreflix - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Coreflix",
-                                    "url": "https://coreflix.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/FkaeFU32nr"
                                 }
                             ]
                         },
@@ -11740,11 +11740,15 @@
                             ]
                         },
                         {
-                            "full_text": "Watchott - Movies / TV / Anime",
+                            "full_text": "Watchott - Movies / TV / Anime /",
                             "links": [
                                 {
                                     "name": "Watchott",
-                                    "url": "https://nf.watchott.ru/"
+                                    "url": "https://watchott.ru/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/q3p2j5zbg"
                                 }
                             ]
                         },
@@ -15870,7 +15874,7 @@
                             "links": [
                                 {
                                     "name": "EasyWebTV",
-                                    "url": "https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html"
+                                    "url": "https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/tv.html"
                                 },
                                 {
                                     "name": "IPTV Web",
@@ -16825,23 +16829,27 @@
                             ]
                         },
                         {
-                            "full_text": "StreamCorner , 2 or StreamNinja , 2 / Status /",
+                            "full_text": "StreamCorner , [2]( https://streamcorner.io/ , 3 ) or StreamNinja , 2 / Status /",
                             "links": [
                                 {
                                     "name": "StreamCorner",
-                                    "url": "https://streamcorner.cc/"
+                                    "url": "https://streamcorner.fyi/"
                                 },
                                 {
-                                    "name": "2",
+                                    "name": "https://streamcorner.io/",
+                                    "url": "https://streamcorner.io/"
+                                },
+                                {
+                                    "name": "3",
                                     "url": "https://streamcorner.site/"
                                 },
                                 {
                                     "name": "StreamNinja",
-                                    "url": "https://streamninja.cc/"
+                                    "url": "https://streamninja.xyz/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://streamninja.site/"
+                                    "url": "https://streamninja.online/"
                                 },
                                 {
                                     "name": "Status",
@@ -60056,11 +60064,15 @@
                             ]
                         },
                         {
-                            "full_text": "Webb Compare - Webb / Hubble Images",
+                            "full_text": "Webb Compare - Webb / Hubble Images /",
                             "links": [
                                 {
                                     "name": "Webb Compare",
                                     "url": "https://www.webbcompare.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/JohnEdChristensen/WebbCompare/tree/gh-pages"
                                 }
                             ]
                         },
@@ -77349,23 +77361,6 @@
                             ]
                         },
                         {
-                            "full_text": "Cromite - Chromium-Based / Extensions (Settings > Dev Options) / Built-in Adblock / Filter / Adblock Scripts",
-                            "links": [
-                                {
-                                    "name": "Cromite",
-                                    "url": "https://github.com/uazo/cromite"
-                                },
-                                {
-                                    "name": "Filter",
-                                    "url": "https://github.com/xarantolus/filtrite"
-                                },
-                                {
-                                    "name": "Adblock Scripts",
-                                    "url": "https://userscripts.010.one/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "IronFox - Mull Browser Fork / Extensions / Privacy-Focused / /",
                             "links": [
                                 {
@@ -77405,6 +77400,23 @@
                                 {
                                     "name": "Iceraven Browser",
                                     "url": "https://github.com/fork-maintainers/iceraven-browser"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cromite - Chromium-Based / Extensions (Settings > Dev Options) / Built-in Adblock / Filter / Adblock Scripts",
+                            "links": [
+                                {
+                                    "name": "Cromite",
+                                    "url": "https://github.com/uazo/cromite"
+                                },
+                                {
+                                    "name": "Filter",
+                                    "url": "https://github.com/xarantolus/filtrite"
+                                },
+                                {
+                                    "name": "Adblock Scripts",
+                                    "url": "https://userscripts.010.one/"
                                 }
                             ]
                         },
@@ -77666,7 +77678,7 @@
                             "links": [
                                 {
                                     "name": "ZArchiver",
-                                    "url": "https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver"
+                                    "url": "https://zdevs.ru/en/"
                                 }
                             ]
                         },
@@ -78281,7 +78293,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Tasks - Customizable To-Do App with Sync Support /",
+                            "full_text": "Tasks - Customizable To-Do App with Sync Support / Use F-Droid Version /",
                             "links": [
                                 {
                                     "name": "Tasks",
@@ -89913,7 +89925,7 @@
                             ]
                         },
                         {
-                            "full_text": "lf , ranger / Codeberg , ⁠broot / , nnn , clifm , fm , superfile , Joshuto - Terminal File Managers",
+                            "full_text": "lf , ranger / Codeberg , ⁠broot / , nnn , clifm , fm , superfile , walk or Joshuto - Terminal File Managers",
                             "links": [
                                 {
                                     "name": "lf",
@@ -89950,6 +89962,10 @@
                                 {
                                     "name": "superfile",
                                     "url": "https://github.com/yorukot/superfile"
+                                },
+                                {
+                                    "name": "walk",
+                                    "url": "https://github.com/antonmedv/walk"
                                 },
                                 {
                                     "name": "Joshuto",
@@ -107838,7 +107854,7 @@
                     ]
                 },
                 {
-                    "heading": "Torrenting",
+                    "heading": "Torrenting / Торрентінг",
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
@@ -107872,7 +107888,7 @@
                     ]
                 },
                 {
-                    "heading": "Reading",
+                    "heading": "Reading / Читання",
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
@@ -107888,7 +107904,7 @@
                     ]
                 },
                 {
-                    "heading": "Streaming",
+                    "heading": "Streaming / Стрімінг",
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
@@ -194530,11 +194546,15 @@
                             ]
                         },
                         {
-                            "full_text": "Webb Compare - Webb / Hubble Images",
+                            "full_text": "Webb Compare - Webb / Hubble Images /",
                             "links": [
                                 {
                                     "name": "Webb Compare",
                                     "url": "https://www.webbcompare.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/JohnEdChristensen/WebbCompare/tree/gh-pages"
                                 }
                             ]
                         },
@@ -218482,19 +218502,6 @@
                             ]
                         },
                         {
-                            "full_text": "LD Cloud / LDPlayer / LD Shop - Got caught tracking peoples keystrokes / 2 on payment screens.",
-                            "links": [
-                                {
-                                    "name": "tracking peoples keystrokes",
-                                    "url": "https://redd.it/1tcrr3p"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://x.com/NTE_WL/status/2054627592054153273"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Nekogram - Got caught logging peoples phone numbers / 2 via a hidden backdoor to one of their own bots.",
                             "links": [
                                 {
@@ -220640,42 +220647,6 @@
                                 {
                                     "name": "02e57a3",
                                     "url": "https://github.com/fmhy/edit/commit/02e57a367481674d43eb0396c776626a5d64b8f6#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L530"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Tagify - Create Tagged Playlists from Spotify Library (Removed in 425143a )",
-                            "links": [
-                                {
-                                    "name": "425143a",
-                                    "url": "https://github.com/fmhy/edit/commit/425143a9e823ca3cfa5153741e471ad6d30f20bc#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L369"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hyperion - YouTube Frontend (Removed in 425143a )",
-                            "links": [
-                                {
-                                    "name": "425143a",
-                                    "url": "https://github.com/fmhy/edit/commit/425143a9e823ca3cfa5153741e471ad6d30f20bc#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L1071"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Mavi Manga - Manga (Removed in 425143a )",
-                            "links": [
-                                {
-                                    "name": "425143a",
-                                    "url": "https://github.com/fmhy/edit/commit/425143a9e823ca3cfa5153741e471ad6d30f20bc#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1695"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NextFlick - Random Trailers (Removed in 425143a )",
-                            "links": [
-                                {
-                                    "name": "425143a",
-                                    "url": "https://github.com/fmhy/edit/commit/425143a9e823ca3cfa5153741e471ad6d30f20bc#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL1007"
                                 }
                             ]
                         }
