@@ -71,7 +71,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Streaming: Cineby / NEPU / XPrime",
+                            "full_text": "Streaming: Cineby / NEPU",
                             "links": [
                                 {
                                     "name": "Cineby",
@@ -80,10 +80,6 @@
                                 {
                                     "name": "NEPU",
                                     "url": "https://nepu.to/"
-                                },
-                                {
-                                    "name": "XPrime",
-                                    "url": "https://xprime.su/"
                                 }
                             ]
                         },
@@ -1592,11 +1588,15 @@
                             ]
                         },
                         {
-                            "full_text": "Hagezi Blocklists - Blocklist Collection / Use Mini Edition /",
+                            "full_text": "Hagezi Blocklists / 2 - Blocklist Collection / Use Mini Edition /",
                             "links": [
                                 {
                                     "name": "Hagezi Blocklists",
                                     "url": "https://github.com/hagezi/dns-blocklists"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://gitlab.com/hagezi/mirror"
                                 }
                             ]
                         },
@@ -4418,15 +4418,11 @@
                             ]
                         },
                         {
-                            "full_text": "BreachDirectory , Snusbase , Leak Lookup , Trufflehog / / or LeakPeek / - Data Breach Search Engines",
+                            "full_text": "BreachDirectory , Leak Lookup , Trufflehog / / or LeakPeek / - Data Breach Search Engines",
                             "links": [
                                 {
                                     "name": "BreachDirectory",
                                     "url": "https://breachdirectory.org"
-                                },
-                                {
-                                    "name": "Snusbase",
-                                    "url": "https://snusbase.com/"
                                 },
                                 {
                                     "name": "Leak Lookup",
@@ -10032,24 +10028,6 @@
                                 {
                                     "name": "Splitter",
                                     "url": "https://www.bandlab.com/splitter"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MDX23",
-                            "links": [
-                                {
-                                    "name": "MDX23",
-                                    "url": "https://github.com/jarredou/MVSEP-MDX23-Colab_v2"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Music-Source-Separation",
-                            "links": [
-                                {
-                                    "name": "Music-Source-Separation",
-                                    "url": "https://github.com/jarredou/Music-Source-Separation-Training-Colab-Inference"
                                 }
                             ]
                         },
@@ -16006,6 +15984,23 @@
                                 {
                                     "name": "IPTV Web",
                                     "url": "https://iptv-web.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DamiTV , 2 or 90minutes - TV / Sports",
+                            "links": [
+                                {
+                                    "name": "DamiTV",
+                                    "url": "https://dami-tv.pro/livetv"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://damitvsports.com/"
+                                },
+                                {
+                                    "name": "90minutes",
+                                    "url": "https://www.90minutes.xyz/"
                                 }
                             ]
                         },
@@ -58131,11 +58126,37 @@
                             ]
                         },
                         {
-                            "full_text": "⁠openMotor - Internal Ballistics Simulator",
+                            "full_text": "openMotor - Internal Ballistics Simulator",
                             "links": [
                                 {
-                                    "name": "⁠openMotor",
+                                    "name": "openMotor",
                                     "url": "https://github.com/reilleya/openMotor"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CKAN - Kerbal Space Program Mod / Dependency Manager",
+                            "links": [
+                                {
+                                    "name": "CKAN",
+                                    "url": "https://github.com/KSP-CKAN/CKAN"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DMP - Kerbal Space Program Multiplayer Mod / /",
+                            "links": [
+                                {
+                                    "name": "DMP",
+                                    "url": "https://lunamultiplayer.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/wKVMhWQ"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/LunaMultiplayer/LunaMultiplayer"
                                 }
                             ]
                         },
@@ -58212,24 +58233,6 @@
                                 {
                                     "name": "",
                                     "url": "https://gitlab.com/flightgear/flightgear"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CKAN - Kerbal Space Program Mod / Dependency Manager",
-                            "links": [
-                                {
-                                    "name": "CKAN",
-                                    "url": "https://github.com/KSP-CKAN/CKAN"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DMP - Kerbal Space Program Multiplayer Mod",
-                            "links": [
-                                {
-                                    "name": "DMP",
-                                    "url": "https://d-mp.org/"
                                 }
                             ]
                         },
@@ -96329,6 +96332,15 @@
                                 {
                                     "name": "xigua2",
                                     "url": "https://xigua2.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "j315 - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "j315",
+                                    "url": "https://www.j315.cc/"
                                 }
                             ]
                         },
@@ -192687,11 +192699,37 @@
                             ]
                         },
                         {
-                            "full_text": "⁠openMotor - Internal Ballistics Simulator",
+                            "full_text": "openMotor - Internal Ballistics Simulator",
                             "links": [
                                 {
-                                    "name": "⁠openMotor",
+                                    "name": "openMotor",
                                     "url": "https://github.com/reilleya/openMotor"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CKAN - Kerbal Space Program Mod / Dependency Manager",
+                            "links": [
+                                {
+                                    "name": "CKAN",
+                                    "url": "https://github.com/KSP-CKAN/CKAN"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DMP - Kerbal Space Program Multiplayer Mod / /",
+                            "links": [
+                                {
+                                    "name": "DMP",
+                                    "url": "https://lunamultiplayer.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/wKVMhWQ"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/LunaMultiplayer/LunaMultiplayer"
                                 }
                             ]
                         },
@@ -192768,24 +192806,6 @@
                                 {
                                     "name": "",
                                     "url": "https://gitlab.com/flightgear/flightgear"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CKAN - Kerbal Space Program Mod / Dependency Manager",
-                            "links": [
-                                {
-                                    "name": "CKAN",
-                                    "url": "https://github.com/KSP-CKAN/CKAN"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DMP - Kerbal Space Program Multiplayer Mod",
-                            "links": [
-                                {
-                                    "name": "DMP",
-                                    "url": "https://d-mp.org/"
                                 }
                             ]
                         },
@@ -209448,8 +209468,12 @@
                             ]
                         },
                         {
-                            "full_text": "Shizuku / Tools / , Shizuku Fork or Dhizuku - Let Apps Use System API (Android)",
+                            "full_text": "Shizuku Fork , Shizuku / Tools / or Dhizuku - Let Apps Use System API (Android)",
                             "links": [
+                                {
+                                    "name": "Shizuku Fork",
+                                    "url": "https://github.com/thedjchi/Shizuku"
+                                },
                                 {
                                     "name": "Shizuku",
                                     "url": "https://shizuku.rikka.app/"
@@ -209461,10 +209485,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/RikkaApps/Shizuku"
-                                },
-                                {
-                                    "name": "Shizuku Fork",
-                                    "url": "https://github.com/thedjchi/Shizuku"
                                 },
                                 {
                                     "name": "Dhizuku",
@@ -219037,6 +219057,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "MDX23 (Removed in b0aa7c7 )",
+                            "links": [
+                                {
+                                    "name": "b0aa7c7",
+                                    "url": "https://github.com/fmhy/edit/commit/b0aa7c7e3cde735b38e6e9f698a10a4b6f151496#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L343"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Music-Source-Separation (Removed in b0aa7c7 )",
+                            "links": [
+                                {
+                                    "name": "b0aa7c7",
+                                    "url": "https://github.com/fmhy/edit/commit/b0aa7c7e3cde735b38e6e9f698a10a4b6f151496#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L344"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "minitorch - Machine Learning Engineering Course Code (Removed in 5aee787 )",
                             "links": [
                                 {
@@ -219060,15 +219098,6 @@
                                 {
                                     "name": "5aee787",
                                     "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L376"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "j315 - Movies / TV / Anime (Removed in 5aee787 )",
-                            "links": [
-                                {
-                                    "name": "5aee787",
-                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L232"
                                 }
                             ]
                         },
