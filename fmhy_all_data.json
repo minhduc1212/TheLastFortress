@@ -11240,15 +11240,6 @@
                             ]
                         },
                         {
-                            "full_text": "minitorch - Machine Learning Engineering Course Code",
-                            "links": [
-                                {
-                                    "name": "minitorch",
-                                    "url": "https://github.com/minitorch/minitorch"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "ML YouTube Courses or Deep Learning Drizzle - Machine Learning Courses on YouTube",
                             "links": [
                                 {
@@ -11371,9 +11362,18 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each sites respective pros & cons."
+                        "Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each site's respective pros & cons."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "️ P-Stream Forks - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "P-Stream Forks",
+                                    "url": "https://fmhy.net/video/#p-stream-forks"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Cineby , Bitcine or Fmovies+ - Movies / TV / Anime / Auto-Next /",
                             "links": [
@@ -11392,23 +11392,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/C2zGTdUbHE"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "XPrime , 2 - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "XPrime",
-                                    "url": "https://xprime.su/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://xprime.stream/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/nqwzv8U6Pg"
                                 }
                             ]
                         },
@@ -11447,6 +11430,19 @@
                             ]
                         },
                         {
+                            "full_text": "bCine - Movies / TV / Anime / 4K /",
+                            "links": [
+                                {
+                                    "name": "bCine",
+                                    "url": "https://bcine.ru/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/6ZXNmPedkG"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cinevibe , 2 , 3 - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -11481,15 +11477,19 @@
                             ]
                         },
                         {
-                            "full_text": "bCine - Movies / TV / Anime / 4K /",
+                            "full_text": "Lunara or SpenFlix - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
-                                    "name": "bCine",
-                                    "url": "https://bcine.ru/"
+                                    "name": "Lunara",
+                                    "url": "https://lunara.watch/"
+                                },
+                                {
+                                    "name": "SpenFlix",
+                                    "url": "https://watch.spencerdevs.xyz/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/FekgaSAtJa"
+                                    "url": "https://discord.gg/RF8vMBRtTs"
                                 }
                             ]
                         },
@@ -11619,6 +11619,19 @@
                             ]
                         },
                         {
+                            "full_text": "TouStream - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "TouStream",
+                                    "url": "https://toustream.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/us5-and-toustream-1157125685178007672"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "IceFY - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11650,19 +11663,6 @@
                                 {
                                     "name": "Flixtrz",
                                     "url": "https://flixtrz.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TouStream - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "TouStream",
-                                    "url": "https://toustream.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/us5-and-toustream-1157125685178007672"
                                 }
                             ]
                         },
@@ -11922,11 +11922,15 @@
                             ]
                         },
                         {
-                            "full_text": "XP-Stream - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "XP-Stream - Movies / TV / Anime / Auto-Next / Mirrors /",
                             "links": [
                                 {
                                     "name": "XP-Stream",
                                     "url": "https://pstream.net/"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://rentry.co/xpstream"
                                 },
                                 {
                                     "name": "",
@@ -11965,7 +11969,7 @@
                             ]
                         },
                         {
-                            "full_text": "StreamWatch , 2 - Movies / TV / Anime / Auto-Next / /",
+                            "full_text": "StreamWatch , 2 , 3 - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
                                     "name": "StreamWatch",
@@ -11973,6 +11977,10 @@
                                 },
                                 {
                                     "name": "2",
+                                    "url": "https://pstream.site/"
+                                },
+                                {
+                                    "name": "3",
                                     "url": "https://streamwatch.youplex.site/"
                                 },
                                 {
@@ -11992,7 +12000,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each sites respective pros & cons."
+                        "Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each site's respective pros & cons."
                     ],
                     "resource_items": [
                         {
@@ -12315,7 +12323,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each sites respective pros & cons."
+                        "Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each site's respective pros & cons."
                     ],
                     "resource_items": [
                         {
@@ -12437,23 +12445,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/cinemabz"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SpenFlix or Lunara - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "SpenFlix",
-                                    "url": "https://watch.spencerdevs.xyz/"
-                                },
-                                {
-                                    "name": "Lunara",
-                                    "url": "https://lunara.watch/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/RF8vMBRtTs"
                                 }
                             ]
                         },
@@ -12893,7 +12884,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each sites respective pros & cons."
+                        "More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each site's respective pros & cons."
                     ],
                     "resource_items": [
                         {
@@ -13172,19 +13163,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/snowstreamchat"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ViewfFix - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "ViewfFix",
-                                    "url": "https://flixwatch.online/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/wisnuwirayuda15/cinextma"
                                 }
                             ]
                         },
@@ -16100,7 +16078,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠TV Freedom , 2 , 3 , 4 , 5 , 6 , 7 , 8 - TV / Sports / Mirrors / /",
+                            "full_text": "⁠TV Freedom , 2 , 3 , 4 , 5 , 6 , 7 - TV / Sports / Mirrors / /",
                             "links": [
                                 {
                                     "name": "⁠TV Freedom",
@@ -16120,18 +16098,14 @@
                                 },
                                 {
                                     "name": "5",
-                                    "url": "https://guzesqdro.surge.sh/"
-                                },
-                                {
-                                    "name": "6",
                                     "url": "https://guzes.surge.sh/"
                                 },
                                 {
-                                    "name": "7",
+                                    "name": "6",
                                     "url": "https://tvfredom.surge.sh/"
                                 },
                                 {
-                                    "name": "8",
+                                    "name": "7",
                                     "url": "https://tvmirror.surge.sh/"
                                 },
                                 {
@@ -16751,6 +16725,23 @@
                             ]
                         },
                         {
+                            "full_text": "DamiTV , 2 or 90minutes - Stream Aggregator",
+                            "links": [
+                                {
+                                    "name": "DamiTV",
+                                    "url": "https://dami-tv.pro"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://damitvsports.com/"
+                                },
+                                {
+                                    "name": "90minutes",
+                                    "url": "https://www.90minutes.xyz/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "RoxieStreams , 2 / Status /",
                             "links": [
                                 {
@@ -16893,23 +16884,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/mdEsarNMyF"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DamiTV / 2 or 90minutes - Stream Aggregator",
-                            "links": [
-                                {
-                                    "name": "DamiTV",
-                                    "url": "https://dami-tv.pro"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://damitvsports.com/"
-                                },
-                                {
-                                    "name": "90minutes",
-                                    "url": "https://www.90minutes.xyz/"
                                 }
                             ]
                         },
@@ -18255,7 +18229,7 @@
                                 },
                                 {
                                     "name": "Nuvio",
-                                    "url": "https://nuvioapp.space/"
+                                    "url": "https://nuvio.tv/"
                                 },
                                 {
                                     "name": "Plugins",
@@ -31403,11 +31377,15 @@
                             ]
                         },
                         {
-                            "full_text": "Mixxx , VirtualDJ or Serato - DJ Software",
+                            "full_text": "Mixxx / , VirtualDJ or Serato - DJ Software",
                             "links": [
                                 {
                                     "name": "Mixxx",
                                     "url": "https://mixxx.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/mixxxdj/mixxx"
                                 },
                                 {
                                     "name": "VirtualDJ",
@@ -43485,24 +43463,6 @@
                             ]
                         },
                         {
-                            "full_text": "eBookBB - Books / Download",
-                            "links": [
-                                {
-                                    "name": "eBookBB",
-                                    "url": "https://ebookbb.in/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "iBookPile - Books / Download",
-                            "links": [
-                                {
-                                    "name": "iBookPile",
-                                    "url": "https://ibookpile.in/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Liber3 - Book Search / Download",
                             "links": [
                                 {
@@ -54954,15 +54914,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Private Trackers General , 2 , r/TrackersInfo or Graph - Private Tracker Guides",
+                            "full_text": "Private Trackers General , r/TrackersInfo or Graph - Private Tracker Guides",
                             "links": [
                                 {
                                     "name": "Private Trackers General",
-                                    "url": "https://claraiscute.neocities.org/Guides/private-trackers"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://claraiscute.pages.dev/Guides/private-trackers/"
+                                    "url": "https://web.archive.org/web/20260420175200/https://claraiscute.neocities.org/Guides/private-trackers/"
                                 },
                                 {
                                     "name": "r/TrackersInfo",
@@ -81500,7 +81456,7 @@
                             "links": [
                                 {
                                     "name": "Nuvio",
-                                    "url": "https://nuvioapp.space/"
+                                    "url": "https://nuvio.tv/"
                                 },
                                 {
                                     "name": "Plugins",
@@ -85483,7 +85439,7 @@
                             "links": [
                                 {
                                     "name": "Nuvio",
-                                    "url": "https://nuvioapp.space/"
+                                    "url": "https://nuvio.tv/"
                                 },
                                 {
                                     "name": "Plugins",
@@ -96377,15 +96333,6 @@
                             ]
                         },
                         {
-                            "full_text": "j315 - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "j315",
-                                    "url": "https://www.j315.cc/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Imaple - Movies / TV / Sub / 1080p",
                             "links": [
                                 {
@@ -99231,15 +99178,6 @@
                             ]
                         },
                         {
-                            "full_text": "Kanjiku - Manga",
-                            "links": [
-                                {
-                                    "name": "Kanjiku",
-                                    "url": "https://kanjiku.net/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Projekt Gutenberg. - Classic German Books",
                             "links": [
                                 {
@@ -100854,15 +100792,6 @@
                                 {
                                     "name": "sontolfilm",
                                     "url": "https://sontolmovie.xyz/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "baladfilm - Movies / TV",
-                            "links": [
-                                {
-                                    "name": "baladfilm",
-                                    "url": "https://tv4.baladfilm.asia/"
                                 }
                             ]
                         },
@@ -115486,7 +115415,7 @@
                             ]
                         },
                         {
-                            "full_text": "Sleeping Guide or Insomnia Guide / 2 - Sleep Hygiene Guides / Tips",
+                            "full_text": "Sleeping Guide or Insomnia Guide - Sleep Hygiene Guides / Tips",
                             "links": [
                                 {
                                     "name": "Sleeping Guide",
@@ -115494,11 +115423,7 @@
                                 },
                                 {
                                     "name": "Insomnia Guide",
-                                    "url": "https://claraiscute.neocities.org/Guides/insomnia-guide/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://claraiscute.pages.dev/Guides/insomnia-guide/"
+                                    "url": "https://web.archive.org/web/20260507191145/https://claraiscute.neocities.org/Guides/insomnia-guide/"
                                 }
                             ]
                         },
@@ -127022,7 +126947,7 @@
                             ]
                         },
                         {
-                            "full_text": "psmux / or Zellij - Terminal Multiplexers (Tmux for Windows)",
+                            "full_text": "psmux (Windows Tmux) / or Zellij - Terminal Multiplexers",
                             "links": [
                                 {
                                     "name": "psmux",
@@ -138384,15 +138309,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠1sh - 1sh.pl/qIPAbZ",
-                            "links": [
-                                {
-                                    "name": "⁠1sh",
-                                    "url": "https://www.1sh.pl/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "s.id - s.id/EQBsg",
                             "links": [
                                 {
@@ -138416,15 +138332,6 @@
                                 {
                                     "name": "tny.lv",
                                     "url": "https://tny.lv/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Jii.Li - jii.li/hNFXP",
-                            "links": [
-                                {
-                                    "name": "Jii.Li",
-                                    "url": "https://jii.li/"
                                 }
                             ]
                         },
@@ -150657,7 +150564,7 @@
                             ]
                         },
                         {
-                            "full_text": "Opengist / Demo / or MicroBin / - Self-Hosted Pastebins",
+                            "full_text": "Opengist / Demo / / or MicroBin / - Self-Hosted Pastebins",
                             "links": [
                                 {
                                     "name": "Opengist",
@@ -150670,6 +150577,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/9Pm3X5scZT"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/thomiceli/opengist"
                                 },
                                 {
                                     "name": "MicroBin",
@@ -172985,15 +172896,11 @@
                             ]
                         },
                         {
-                            "full_text": "Squoosh - Compressor / Converter /",
+                            "full_text": "Squoosh - Compressor / Converter",
                             "links": [
                                 {
                                     "name": "Squoosh",
                                     "url": "https://squoosh.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/GoogleChromeLabs/squoosh"
                                 }
                             ]
                         },
@@ -188943,11 +188850,15 @@
                             ]
                         },
                         {
-                            "full_text": "Mixxx , VirtualDJ or Serato - DJ Software",
+                            "full_text": "Mixxx / , VirtualDJ or Serato - DJ Software",
                             "links": [
                                 {
                                     "name": "Mixxx",
                                     "url": "https://mixxx.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/mixxxdj/mixxx"
                                 },
                                 {
                                     "name": "VirtualDJ",
@@ -219126,6 +219037,78 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "minitorch - Machine Learning Engineering Course Code (Removed in 5aee787 )",
+                            "links": [
+                                {
+                                    "name": "5aee787",
+                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L476"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠1sh - 1sh.pl/qIPAbZ (Removed in 5aee787 )",
+                            "links": [
+                                {
+                                    "name": "5aee787",
+                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L372"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Jii.Li - jii.li/hNFXP (Removed in 5aee787 )",
+                            "links": [
+                                {
+                                    "name": "5aee787",
+                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L376"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "j315 - Movies / TV / Anime (Removed in 5aee787 )",
+                            "links": [
+                                {
+                                    "name": "5aee787",
+                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L232"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Kanjiku - Manga (Removed in 5aee787 )",
+                            "links": [
+                                {
+                                    "name": "5aee787",
+                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L588"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "baladfilm - Movies / TV (Removed in 5aee787 )",
+                            "links": [
+                                {
+                                    "name": "5aee787",
+                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L793"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "eBookBB - Books / Download (Removed in 5aee787 )",
+                            "links": [
+                                {
+                                    "name": "5aee787",
+                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L19"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "iBookPile - Books / Download (Removed in 5aee787 )",
+                            "links": [
+                                {
+                                    "name": "5aee787",
+                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L20"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Anoboye - Anime / Donghua / Sub (Removed in decd45b )",
                             "links": [
                                 {
@@ -220913,15 +220896,6 @@
                                 {
                                     "name": "248cd20",
                                     "url": "https://github.com/fmhy/edit/commit/248cd209b776eecfd064ac52944eae18bd4837c4#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL753"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MandoBot - Mandarin Translation / Segmentation (Removed in 05a1e07 : removed site)",
-                            "links": [
-                                {
-                                    "name": "05a1e07",
-                                    "url": "https://github.com/fmhy/edit/commit/05a1e07a7281570bed131ea675491aa4aaa44f5e#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL1086"
                                 }
                             ]
                         }
