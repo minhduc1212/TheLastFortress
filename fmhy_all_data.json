@@ -71,8 +71,12 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Streaming: Cineby / NEPU / Aether",
+                            "full_text": "Streaming: Rive / Cineby / NEPU / Aether *",
                             "links": [
+                                {
+                                    "name": "Rive",
+                                    "url": "https://www.rivestream.app/"
+                                },
                                 {
                                     "name": "Cineby",
                                     "url": "https://cineby.at/"
@@ -11402,6 +11406,43 @@
                             ]
                         },
                         {
+                            "full_text": "Rive , 2 , 3 or CorsFlix , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
+                            "links": [
+                                {
+                                    "name": "Rive",
+                                    "url": "https://www.rivestream.app/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://rivestream.ru/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://rivestream.vip/"
+                                },
+                                {
+                                    "name": "CorsFlix",
+                                    "url": "https://watch.corsflix.net"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://corsflix.net"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://watch.corsflix.dpdns.org"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://rentry.co/rivestream"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/6xJmJja8fV"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cineby , Cineplay or Fmovies+ - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11499,6 +11540,19 @@
                             ]
                         },
                         {
+                            "full_text": "bCine - Movies / TV / Anime / 4K / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "bCine",
+                                    "url": "https://bcine.ru/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/6ZXNmPedkG"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Coreflix - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11555,19 +11609,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/Wvxr9YsHHf"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "bCine - Movies / TV / Anime / 4K / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "bCine",
-                                    "url": "https://bcine.ru/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/6ZXNmPedkG"
                                 }
                             ]
                         },
@@ -12113,7 +12154,7 @@
                             ]
                         },
                         {
-                            "full_text": "MovieBox , 2 , 3 , 4 , 5 , 6 , 7 - Movies / TV / Anime",
+                            "full_text": "MovieBox , 2 , 3 , 4 - Movies / TV / Anime",
                             "links": [
                                 {
                                     "name": "MovieBox",
@@ -12130,18 +12171,6 @@
                                 {
                                     "name": "4",
                                     "url": "https://netnaija.film"
-                                },
-                                {
-                                    "name": "5",
-                                    "url": "https://moviebox.pk"
-                                },
-                                {
-                                    "name": "6",
-                                    "url": "https://moviebox.ph"
-                                },
-                                {
-                                    "name": "7",
-                                    "url": "https://movieboxapp.in/"
                                 }
                             ]
                         },
@@ -12679,43 +12708,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/kPUWwAQCzk"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rive , 2 , 3 or CorsFlix , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
-                            "links": [
-                                {
-                                    "name": "Rive",
-                                    "url": "https://www.rivestream.app/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://rivestream.ru/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://rivestream.top/"
-                                },
-                                {
-                                    "name": "CorsFlix",
-                                    "url": "https://watch.corsflix.net"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://corsflix.net"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://watch.corsflix.dpdns.org"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://rentry.co/rivestream"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/6xJmJja8fV"
                                 }
                             ]
                         },
@@ -14596,19 +14588,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Av1please - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "⁠Av1please",
-                                    "url": "https://av1encodes.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/MFN6eQW9W"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "AnimeNoSub - Sub / Dub",
                             "links": [
                                 {
@@ -14652,7 +14631,7 @@
                                 },
                                 {
                                     "name": "3",
-                                    "url": "https://rivestream.top/"
+                                    "url": "https://rivestream.vip/"
                                 },
                                 {
                                     "name": "Status",
@@ -15437,7 +15416,7 @@
                                 },
                                 {
                                     "name": "3",
-                                    "url": "https://rivestream.top/kdrama"
+                                    "url": "https://rivestream.vip/kdrama"
                                 },
                                 {
                                     "name": "",
@@ -19869,19 +19848,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Av1please - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "⁠Av1please",
-                                    "url": "https://av1encodes.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/MFN6eQW9W"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "AniDL - Sub / Dub / /",
                             "links": [
                                 {
@@ -20929,19 +20895,6 @@
                                 {
                                     "name": "Hi10Anime",
                                     "url": "https://hi10anime.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Av1please - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "⁠Av1please",
-                                    "url": "https://av1encodes.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/MFN6eQW9W"
                                 }
                             ]
                         },
@@ -32683,19 +32636,6 @@
                             ]
                         },
                         {
-                            "full_text": "GOG Games - Download / Torrent / GOG Games Only /",
-                            "links": [
-                                {
-                                    "name": "GOG Games",
-                                    "url": "https://gog-games.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Online Fix - Download / Torrent / Multiplayer / PW: online-fix.me / Use Translator / /",
                             "links": [
                                 {
@@ -32859,6 +32799,19 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/appnetica_info"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "GOG Games - Download / Torrent / GOG Games Only /",
+                            "links": [
+                                {
+                                    "name": "GOG Games",
+                                    "url": "https://gog-games.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/"
                                 }
                             ]
                         },
@@ -52079,12 +52032,8 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Scribd DL , Scribd PDF or ScribdVPDF / 2 / 3 / 4 / 5 - Scribd Downloaders",
+                            "full_text": "Scribd PDF or ScribdVPDF / 2 / 3 / 4 / 5 - Scribd Downloaders",
                             "links": [
-                                {
-                                    "name": "⁠Scribd DL",
-                                    "url": "https://github.com/rkwyu/scribd-dl"
-                                },
                                 {
                                     "name": "Scribd PDF",
                                     "url": "https://scribd.pdfdownloaders.com/"
@@ -145460,23 +145409,6 @@
                             ]
                         },
                         {
-                            "full_text": "RedditMetis , Reddit-User-Analyser or Redective - Reddit Profile Information",
-                            "links": [
-                                {
-                                    "name": "RedditMetis",
-                                    "url": "https://redditmetis.com/"
-                                },
-                                {
-                                    "name": "Reddit-User-Analyser",
-                                    "url": "https://reddit-user-analyser.netlify.app/"
-                                },
-                                {
-                                    "name": "Redective",
-                                    "url": "https://www.redective.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "rComments - Explore Comments / Replies without Clicking a Post",
                             "links": [
                                 {
@@ -147247,7 +147179,7 @@
                             ]
                         },
                         {
-                            "full_text": "yoink.tools / , ⁠YT1s , ⁠YTDown , CNVMP3 / , SongCharts - Online YT-DL Downloaders",
+                            "full_text": "yoink.tools / , ⁠YT1s , ⁠YTDown or CNVMP3 / - Online YT-DL Downloaders",
                             "links": [
                                 {
                                     "name": "yoink.tools",
@@ -147272,10 +147204,6 @@
                                 {
                                     "name": "",
                                     "url": "https://www.reddit.com/r/cnvmp3"
-                                },
-                                {
-                                    "name": "SongCharts",
-                                    "url": "https://dl2mp3.to/"
                                 }
                             ]
                         },
@@ -219500,6 +219428,15 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "RedditMetis, Reddit-User-Analyser or Redective - Reddit Profile Information (Removed in 2a0feb7 )",
+                            "links": [
+                                {
+                                    "name": "2a0feb7",
+                                    "url": "https://github.com/fmhy/edit/commit/2a0feb78e94fcdb1ef48ab3798d5029a15e52d64#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L220"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠EWG Tap Water Database - US Drinking Water Quality Database (Removed in c7faf29 )",
                             "links": [
                                 {
@@ -221377,33 +221314,6 @@
                                 {
                                     "name": "9188cf4",
                                     "url": "https://github.com/fmhy/edit/commit/9188cf4cf2152d3f41350327a8de2205683df5b1#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL790"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Anixtv Music - Browser Music (Removed in 8e1e10b )",
-                            "links": [
-                                {
-                                    "name": "8e1e10b",
-                                    "url": "https://github.com/fmhy/edit/commit/8e1e10b8366215bc161fae59fd3598aaefe9aa70#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L45"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Reference Angle - Human Photo Reference Search (Removed in 6dcb296 )",
-                            "links": [
-                                {
-                                    "name": "6dcb296",
-                                    "url": "https://github.com/fmhy/edit/commit/6dcb296d6ea34875359923ef83d7b9aa0da6c789#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL834"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SanuFlix - Movies / TV / Anime (Removed in 6dcb296 )",
-                            "links": [
-                                {
-                                    "name": "6dcb296",
-                                    "url": "https://github.com/fmhy/edit/commit/6dcb296d6ea34875359923ef83d7b9aa0da6c789#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL88"
                                 }
                             ]
                         }
