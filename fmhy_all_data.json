@@ -6965,7 +6965,7 @@
                             ]
                         },
                         {
-                            "full_text": "TextFX / , Toolbaz / 2 or Rytr - AI Creative Writing Tools / No Sign-Up",
+                            "full_text": "TextFX / , NeverWrite / , Toolbaz / 2 or Rytr - AI Creative Writing Tools",
                             "links": [
                                 {
                                     "name": "TextFX",
@@ -6974,6 +6974,14 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx"
+                                },
+                                {
+                                    "name": "NeverWrite",
+                                    "url": "https://neverwrite.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/jsgrrchg/NeverWrite"
                                 },
                                 {
                                     "name": "Toolbaz",
@@ -12050,10 +12058,10 @@
                             ]
                         },
                         {
-                            "full_text": "XP-Stream - Movies / TV / Anime / Auto-Next / Mirrors /",
+                            "full_text": "Z-Stream - Movies / TV / Anime / Auto-Next / Mirrors /",
                             "links": [
                                 {
-                                    "name": "XP-Stream",
+                                    "name": "Z-Stream",
                                     "url": "https://zstream.mov/"
                                 },
                                 {
@@ -12131,28 +12139,6 @@
                         "Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each site's respective pros & cons."
                     ],
                     "resource_items": [
-                        {
-                            "full_text": "Movish - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Movish",
-                                    "url": "https://movish.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/FsbU2BQcjQ"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Streamo",
-                                    "url": "https://streamo.pro/"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "EE3 or RIPS - Movies / Invite Codes: mpgh or 1hack / Requires Sign-Up",
                             "links": [
@@ -12725,6 +12711,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/VGQKGPM9Ej"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Movish - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Movish",
+                                    "url": "https://movish.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/FsbU2BQcjQ"
                                 }
                             ]
                         },
@@ -16129,18 +16128,14 @@
                             ]
                         },
                         {
-                            "full_text": "SportsBite TV , 2 , 3 - TV / Sports / Status / /",
+                            "full_text": "SportsBite TV , 2 - TV / Sports / Status / /",
                             "links": [
                                 {
                                     "name": "SportsBite TV",
-                                    "url": "https://sportsbite.online/channels"
-                                },
-                                {
-                                    "name": "2",
                                     "url": "https://sportsbite.lol/channels"
                                 },
                                 {
-                                    "name": "3",
+                                    "name": "2",
                                     "url": "https://sportsbite.xyz/channels"
                                 },
                                 {
@@ -16171,27 +16166,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/+8uBUT1-0B741NTll"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TVPass , 2 , 3 - TV / Sports / US Only /",
-                            "links": [
-                                {
-                                    "name": "TVPass",
-                                    "url": "https://tvpass.org/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://thetvapp.to/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://the-tv.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/4qMfKq6NMH"
                                 }
                             ]
                         },
@@ -16523,15 +16497,6 @@
                             ]
                         },
                         {
-                            "full_text": "s7-tv - TV",
-                            "links": [
-                                {
-                                    "name": "s7-tv",
-                                    "url": "https://s7-tv.blogspot.com/p/t.html"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "DistroTV - TV",
                             "links": [
                                 {
@@ -16814,18 +16779,14 @@
                             ]
                         },
                         {
-                            "full_text": "SportsBite , 2 , 3 - Stream Aggregator / Status / /",
+                            "full_text": "SportsBite , 2 - Stream Aggregator / Status / /",
                             "links": [
                                 {
                                     "name": "SportsBite",
-                                    "url": "https://sportsbite.online/"
-                                },
-                                {
-                                    "name": "2",
                                     "url": "https://sportsbite.lol/"
                                 },
                                 {
-                                    "name": "3",
+                                    "name": "2",
                                     "url": "https://sportsbite.xyz/"
                                 },
                                 {
@@ -17159,6 +17120,19 @@
                                 {
                                     "name": "xyzstreams",
                                     "url": "https://xyzstreams.shop/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TVPass - US Only /",
+                            "links": [
+                                {
+                                    "name": "TVPass",
+                                    "url": "https://the-tv.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/4qMfKq6NMH"
                                 }
                             ]
                         },
@@ -20112,11 +20086,19 @@
                             ]
                         },
                         {
-                            "full_text": "Stremio , ⁠Stremio Desktop (full mpv) or Stremio Kai (full mpv) - Torrent Streaming App / WebUI / Tools / /",
+                            "full_text": "Stremio / / , ⁠Stremio Desktop (full mpv) or Stremio Kai / (full mpv) - Torrent Streaming App / WebUI / Tools",
                             "links": [
                                 {
                                     "name": "Stremio",
                                     "url": "https://www.stremio.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/Stremio/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Stremio"
                                 },
                                 {
                                     "name": "⁠Stremio Desktop",
@@ -20124,6 +20106,10 @@
                                 },
                                 {
                                     "name": "Stremio Kai",
+                                    "url": "https://allecsc.github.io/Stremio-Kai/"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://github.com/allecsc/Stremio-Kai"
                                 },
                                 {
@@ -20133,14 +20119,6 @@
                                 {
                                     "name": "Tools",
                                     "url": "https://fmhy.net/video/#stremio-tools"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/Stremio/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/Stremio"
                                 }
                             ]
                         },
@@ -58035,6 +58013,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Datasheet4U - Electronic Components Datasheet",
+                            "links": [
+                                {
+                                    "name": "⁠Datasheet4U",
+                                    "url": "https://datasheet4u.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Electronics Tutorials or Instrumentacion - Electronic Guides",
                             "links": [
                                 {
@@ -86277,6 +86264,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠YouProEXTRA - YouTube IPA Builder",
+                            "links": [
+                                {
+                                    "name": "⁠YouProEXTRA",
+                                    "url": "https://github.com/mrdrvt99/YouProEXTRA"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠ProTube - YouTube App",
                             "links": [
                                 {
@@ -110859,6 +110855,15 @@
                             ]
                         },
                         {
+                            "full_text": "Too Good To Go - Surplus Food Marketplace",
+                            "links": [
+                                {
+                                    "name": "Too Good To Go",
+                                    "url": "https://www.toogoodtogo.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Sporked - Packaged Food Reviews",
                             "links": [
                                 {
@@ -111024,15 +111029,6 @@
                                 {
                                     "name": "HackTheMenu",
                                     "url": "https://hackthemenu.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Too Good To Go - Surplus Food Marketplace",
-                            "links": [
-                                {
-                                    "name": "Too Good To Go",
-                                    "url": "https://www.toogoodtogo.com/"
                                 }
                             ]
                         },
@@ -125131,6 +125127,15 @@
                                 {
                                     "name": "BalticLiveCam",
                                     "url": "https://balticlivecam.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "EarthCamTv",
+                            "links": [
+                                {
+                                    "name": "EarthCamTv",
+                                    "url": "https://www.earthcamtv.com/"
                                 }
                             ]
                         },
@@ -144060,23 +144065,6 @@
                             ]
                         },
                         {
-                            "full_text": "Voice Playground - Enhance Discord Voice Call Quality / /",
-                            "links": [
-                                {
-                                    "name": "Voice Playground",
-                                    "url": "https://discord-voice.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/AEXcgPjqgx"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://codeberg.org/UnpackedX/Discord-Experimental-Subsystem"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "dsc.gg - Create Custom Discord Invites",
                             "links": [
                                 {
@@ -157232,6 +157220,15 @@
                                 {
                                     "name": "HidHide",
                                     "url": "https://docs.nefarius.at/projects/HidHide/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠KeyboardSplitterXbox - Split Multiple Keyboards into 4 Unique Virtual Xbox 360 Controllers",
+                            "links": [
+                                {
+                                    "name": "⁠KeyboardSplitterXbox",
+                                    "url": "https://github.com/djlastnight/KeyboardSplitterXbox"
                                 }
                             ]
                         },
@@ -170421,15 +170418,6 @@
                                 {
                                     "name": "Gumroad",
                                     "url": "https://gumroad.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Freeject",
-                            "links": [
-                                {
-                                    "name": "Freeject",
-                                    "url": "https://www.freeject.net/"
                                 }
                             ]
                         },
@@ -192873,6 +192861,15 @@
                                 {
                                     "name": "BatteryUniversity",
                                     "url": "https://batteryuniversity.com/articles"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Datasheet4U - Electronic Components Datasheet",
+                            "links": [
+                                {
+                                    "name": "⁠Datasheet4U",
+                                    "url": "https://datasheet4u.com/"
                                 }
                             ]
                         },
@@ -219763,6 +219760,42 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "Voice Playground - Enhance Discord Voice Call Quality / Discord / Source Code (Removed in 13cacfb : small update)",
+                            "links": [
+                                {
+                                    "name": "13cacfb",
+                                    "url": "https://github.com/fmhy/edit/commit/13cacfb4d4d159e676ced4034d47922c48de5b4b#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L51"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Freeject (Removed in b7ff3ca )",
+                            "links": [
+                                {
+                                    "name": "b7ff3ca",
+                                    "url": "https://github.com/fmhy/edit/commit/b7ff3ca96305a35cda97f17d7a6dc1211c1ba4e4#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL340"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next (Removed in b7ff3ca )",
+                            "links": [
+                                {
+                                    "name": "b7ff3ca",
+                                    "url": "https://github.com/fmhy/edit/commit/b7ff3ca96305a35cda97f17d7a6dc1211c1ba4e4#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL79"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "s7-tv - TV (Removed in b7ff3ca )",
+                            "links": [
+                                {
+                                    "name": "b7ff3ca",
+                                    "url": "https://github.com/fmhy/edit/commit/b7ff3ca96305a35cda97f17d7a6dc1211c1ba4e4#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL494"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Arcane - Desktop Client (Removed in 5901ab3 )",
                             "links": [
