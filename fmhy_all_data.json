@@ -1609,11 +1609,15 @@
                             ]
                         },
                         {
-                            "full_text": "blacklist - Blocklist Collection",
+                            "full_text": "blacklist - Blocklist Collection / Whitelist Note",
                             "links": [
                                 {
                                     "name": "blacklist",
                                     "url": "https://github.com/anudeepND/blacklist"
+                                },
+                                {
+                                    "name": "Whitelist Note",
+                                    "url": "https://github.com/anudeepND/blacklist#common-issues"
                                 }
                             ]
                         },
@@ -6041,7 +6045,7 @@
                             "links": [
                                 {
                                     "name": "zapret",
-                                    "url": "https://github.com/bol-van/zapret"
+                                    "url": "https://github.com/bol-van/zapret2"
                                 },
                                 {
                                     "name": "SpoofDPI",
@@ -11889,6 +11893,24 @@
                             ]
                         },
                         {
+                            "full_text": "Chillflix - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Chillflix",
+                                    "url": "https://chillflix.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Surface Stream - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Surface Stream",
+                                    "url": "https://watchsurface.stream/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mapple.tv - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -11919,15 +11941,6 @@
                             ]
                         },
                         {
-                            "full_text": "Watch Surface - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Watch Surface",
-                                    "url": "https://watchsurface.stream/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Watchott - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -11954,15 +11967,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/streamvaultscrew"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Chillflix - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "Chillflix",
-                                    "url": "https://chillflix.to/"
                                 }
                             ]
                         },
@@ -12114,19 +12118,6 @@
                             ]
                         },
                         {
-                            "full_text": "AfterStream - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "AfterStream",
-                                    "url": "https://afterstream.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/thingfoil/afterstream"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Basement - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
@@ -12140,6 +12131,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/xp-technologies-dev/p-stream"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AfterStream - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "AfterStream",
+                                    "url": "https://afterstream.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/thingfoil/afterstream"
                                 }
                             ]
                         },
@@ -12857,6 +12861,19 @@
                             ]
                         },
                         {
+                            "full_text": "321Movies - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "321Movies",
+                                    "url": "https://321movies.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/5CETfHBD7R"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Redflix , 2 or CineHub - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -12957,19 +12974,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/VHDedCcbGY"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "321Movies - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "321Movies",
-                                    "url": "https://321movies.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/5CETfHBD7R"
                                 }
                             ]
                         },
@@ -15158,7 +15162,24 @@
                             ]
                         },
                         {
-                            "full_text": "Best Series , 2 , 3 - TV / Anime / 3rd Party Hosts",
+                            "full_text": "PrimeWire , 2 - V / Anime / Mostly 3rd Party Hosts / Status / Mirrors",
+                            "links": [
+                                {
+                                    "name": "PrimeWire",
+                                    "url": "https://www.primewire.mov/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://primewire.zip/"
+                                },
+                                {
+                                    "name": "Status / Mirrors",
+                                    "url": "https://primewire.nexus/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Best Series , 2 , 3 - TV / 3rd Party Hosts",
                             "links": [
                                 {
                                     "name": "Best Series",
@@ -15189,6 +15210,32 @@
                                 {
                                     "name": "AZ Series",
                                     "url": "https://azseries.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Levidia , 2 , 3 - TV / 3rd Party Hosts",
+                            "links": [
+                                {
+                                    "name": "Levidia",
+                                    "url": "https://www.levidia.ch/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://supernova.to/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://ww1.goojara.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ProjectFreeTV - Movies / TV / Anime / 3rd Party Hosts",
+                            "links": [
+                                {
+                                    "name": "ProjectFreeTV",
+                                    "url": "https://projectfreetv.sx/"
                                 }
                             ]
                         },
@@ -21842,6 +21889,15 @@
                                 {
                                     "name": "TrailerPunk",
                                     "url": "https://trailerpunk.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠The Digital Theater - High Res Trailer Downloads",
+                            "links": [
+                                {
+                                    "name": "⁠The Digital Theater",
+                                    "url": "https://thedigitaltheater.com/"
                                 }
                             ]
                         },
@@ -34578,6 +34634,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠ZVitor - OpenBOR / MUGEN Fighting Game Index",
+                            "links": [
+                                {
+                                    "name": "⁠ZVitor",
+                                    "url": "https://www.zvitor.com/home.html"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Super Smash Flash / or Smash Crusade / Forum / - Flash Super Smash Bros.",
                             "links": [
                                 {
@@ -41806,6 +41871,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Stravaeger - Retro Survival Crafting RPG /",
+                            "links": [
+                                {
+                                    "name": "⁠Stravaeger",
+                                    "url": "https://stravaeger.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/SV5rS8Xs6B"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Dynast - Survival Browser Game",
                             "links": [
                                 {
@@ -42661,6 +42739,15 @@
                                 {
                                     "name": "⁠Musicle",
                                     "url": "https://musicle.fun/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠CluesBySam - Clue Style Guessing Game",
+                            "links": [
+                                {
+                                    "name": "⁠CluesBySam",
+                                    "url": "https://cluesbysam.com/"
                                 }
                             ]
                         },
@@ -43877,6 +43964,15 @@
                                 {
                                     "name": "Libraries / Tools",
                                     "url": "https://fmhy.net/reading/#calibre-libraries"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Grimmory - Ebook Manager / Reader / Self-Hosted",
+                            "links": [
+                                {
+                                    "name": "⁠Grimmory",
+                                    "url": "https://grimmory.org/"
                                 }
                             ]
                         },
@@ -45431,6 +45527,15 @@
                                 {
                                     "name": "NovelNext",
                                     "url": "https://novelnext.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Cyrisia - Online Reading",
+                            "links": [
+                                {
+                                    "name": "⁠Cyrisia",
+                                    "url": "https://cyrisia.com/"
                                 }
                             ]
                         },
@@ -52165,15 +52270,6 @@
                             ]
                         },
                         {
-                            "full_text": "Calibre - Ebook Manager & Reader /",
-                            "links": [
-                                {
-                                    "name": "Calibre",
-                                    "url": "https://calibre-ebook.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Kindle Comic Converter - Multi-Format Converter / App",
                             "links": [
                                 {
@@ -56433,6 +56529,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠simloops - Educational Simulations",
+                            "links": [
+                                {
+                                    "name": "⁠simloops",
+                                    "url": "https://www.simloops.com/communities"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "AnimaGraffs - Animated Infographs",
                             "links": [
                                 {
@@ -56952,7 +57057,7 @@
                             ]
                         },
                         {
-                            "full_text": "Physics Simulations , Mujoco , Physics Animations , oPhysics or MyPhysicsLab - Physics Simulations / Animations",
+                            "full_text": "Physics Simulations , Mujoco , Physics Animations , oPhysics , ⁠simloops or MyPhysicsLab - Physics Simulations / Animations",
                             "links": [
                                 {
                                     "name": "Physics Simulations",
@@ -56969,6 +57074,10 @@
                                 {
                                     "name": "oPhysics",
                                     "url": "https://ophysics.com/index.html"
+                                },
+                                {
+                                    "name": "⁠simloops",
+                                    "url": "https://www.simloops.com/communities"
                                 },
                                 {
                                     "name": "MyPhysicsLab",
@@ -57936,11 +58045,33 @@
                             ]
                         },
                         {
+                            "full_text": "BOMwiki - Product Blueprint Components Database /",
+                            "links": [
+                                {
+                                    "name": "BOMwiki",
+                                    "url": "https://bomwiki.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/protosphinx"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Sanfoundry - Engineering Questions & Answers",
                             "links": [
                                 {
                                     "name": "Sanfoundry",
                                     "url": "https://www.sanfoundry.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SOLIDWORKS Practice Problems - CAD Engineering Practice Exercises ⁠",
+                            "links": [
+                                {
+                                    "name": "SOLIDWORKS Practice Problems",
+                                    "url": "https://www.solidworks.com/solution/education/practice-problems"
                                 }
                             ]
                         },
@@ -58571,6 +58702,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Zperiod - Interactive Table /",
+                            "links": [
+                                {
+                                    "name": "⁠Zperiod",
+                                    "url": "https://zperiod.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/xfKQD65udk"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Images-of-elements - Element Images",
                             "links": [
                                 {
@@ -58619,15 +58763,6 @@
                                 {
                                     "name": "Atomic",
                                     "url": "https://play.google.com/store/apps/details?id=com.jlindemann.science"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Zperiod - Interactive Table",
-                            "links": [
-                                {
-                                    "name": "⁠Zperiod",
-                                    "url": "https://zperiod.app/"
                                 }
                             ]
                         },
@@ -58751,6 +58886,15 @@
                                 {
                                     "name": "LibreTexts Biology",
                                     "url": "https://bio.libretexts.org/Bookshelves"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Project ⁠Alveus Sanctuary - 24/7 Educational Wildlife Live Streams / Conservation Project",
+                            "links": [
+                                {
+                                    "name": "Project ⁠Alveus Sanctuary",
+                                    "url": "https://www.alveussanctuary.org/"
                                 }
                             ]
                         },
@@ -61012,19 +61156,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/arpanghosh8453/drone-logbook"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Langostino - Decentralized AI Drone Pilot Platform / Learning /",
-                            "links": [
-                                {
-                                    "name": "⁠Langostino",
-                                    "url": "https://github.com/swarm-subnet/Langostino"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://x.com/SwarmSubnet"
                                 }
                             ]
                         },
@@ -73169,7 +73300,7 @@
                             ]
                         },
                         {
-                            "full_text": "RockMods /",
+                            "full_text": "RockMods / /",
                             "links": [
                                 {
                                     "name": "RockMods",
@@ -73178,6 +73309,10 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/RBMods"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/wruVz7nAe"
                                 }
                             ]
                         },
@@ -92065,7 +92200,7 @@
                             ]
                         },
                         {
-                            "full_text": "Hyprland - Dynamic Tiling Wayland Compositor / Resources / Arch Wiki / Simple Config , 2",
+                            "full_text": "Hyprland - Dynamic Tiling Wayland Compositor / Resources / Arch Wiki / Simple Config , 2 / Test Configs",
                             "links": [
                                 {
                                     "name": "Hyprland",
@@ -92086,6 +92221,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://ii.clsty.link/en/"
+                                },
+                                {
+                                    "name": "Test Configs",
+                                    "url": "https://github.com/amarsbar/rice-cooker"
                                 }
                             ]
                         },
@@ -95649,6 +95788,27 @@
                                     "url": "https://www.al-fann.net/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "PlayTorrio - Streaming Desktop App / Use Streaming Mode / / /",
+                            "links": [
+                                {
+                                    "name": "PlayTorrio",
+                                    "url": "https://playtorrio.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/PlayTorrio/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/bbkVHRHnRk"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ayman708-UX/PlayTorrioV2"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -98837,6 +98997,19 @@
                             ]
                         },
                         {
+                            "full_text": "Stigstream - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Stigstream",
+                                    "url": "https://stigstream.ru/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/VjHhPyuZX"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "TF1 - Live TV / Movies / TV / Anime / Requires French VPN for Some Content",
                             "links": [
                                 {
@@ -98927,6 +99100,15 @@
                                 {
                                     "name": "TFO",
                                     "url": "https://www.tfo.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Voiranime - Anime / Sub / 1080p",
+                            "links": [
+                                {
+                                    "name": "Voiranime",
+                                    "url": "https://voir-anime.to/"
                                 }
                             ]
                         },
@@ -102276,11 +102458,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Rawmangaz - List of Raw Manga Sites",
+                            "full_text": "Rawmangaz or EverythingMoe Raws - List of Raw Manga Sites",
                             "links": [
                                 {
                                     "name": "Rawmangaz",
                                     "url": "https://clarasguide.valeena.workers.dev/Guides/rawmangaz/"
+                                },
+                                {
+                                    "name": "EverythingMoe Raws",
+                                    "url": "https://everythingmoe.com/section/manhwa?filter=Raws"
                                 }
                             ]
                         },
@@ -103635,6 +103821,19 @@
                                 {
                                     "name": "radioyanosik",
                                     "url": "https://radioyanosik.pl/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Purevideo - Streaming App / /",
+                            "links": [
+                                {
+                                    "name": "Purevideo",
+                                    "url": "https://majusss.github.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/majusss/purevideo"
                                 }
                             ]
                         },
@@ -106856,15 +107055,6 @@
                             ]
                         },
                         {
-                            "full_text": "MandraAnime - Anime / Sub",
-                            "links": [
-                                {
-                                    "name": "MandraAnime",
-                                    "url": "https://mandranime.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Animegafirex - Anime / Sub",
                             "links": [
                                 {
@@ -107146,19 +107336,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Cineby - Movies / TV / Anime / 1080p / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cineby",
-                                    "url": "https://www.cineby.at/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/C2zGTdUbHE"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "HDFull - Movies / TV / Anime / 1080p / Requires Sign-Up / Castilian / Latino",
                             "links": [
                                 {
@@ -107231,6 +107408,19 @@
                                 {
                                     "name": "cineplus",
                                     "url": "https://www.cineplus.lat"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cineby - Movies / TV / Anime / 1080p / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Cineby",
+                                    "url": "https://www.cineby.at/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/C2zGTdUbHE"
                                 }
                             ]
                         },
@@ -108362,7 +108552,7 @@
                             "links": [
                                 {
                                     "name": "diziyo",
-                                    "url": "https://diziyo.sh/"
+                                    "url": "https://diziyo.so/"
                                 }
                             ]
                         },
@@ -125487,6 +125677,15 @@
                             ]
                         },
                         {
+                            "full_text": "Project ⁠Alveus Sanctuary - 24/7 Educational Wildlife Live Streams / Conservation Project",
+                            "links": [
+                                {
+                                    "name": "Project ⁠Alveus Sanctuary",
+                                    "url": "https://www.alveussanctuary.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Monterey Bay Aquarium or AquariumOfPacific - Aquarium Webcams",
                             "links": [
                                 {
@@ -132301,11 +132500,15 @@
                             ]
                         },
                         {
-                            "full_text": "VeraCrypt - Disk Encryptor / Use w/ External Drives",
+                            "full_text": "VeraCrypt - Disk Encryptor / Use w/ External Drives /",
                             "links": [
                                 {
                                     "name": "VeraCrypt",
                                     "url": "https://www.veracrypt.fr/en/Home.html"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/veracrypt/VeraCrypt"
                                 }
                             ]
                         },
@@ -132362,7 +132565,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "SyncThing - Cross-Platform File Sync / Android / Tray Support /",
+                            "full_text": "SyncThing - Cross-Platform File Sync / Android , 2 / Tray Support /",
                             "links": [
                                 {
                                     "name": "SyncThing",
@@ -132370,6 +132573,10 @@
                                 },
                                 {
                                     "name": "Android",
+                                    "url": "https://github.com/researchxxl/syncthing-android"
+                                },
+                                {
+                                    "name": "2",
                                     "url": "https://github.com/chenxiaolong/BasicSync"
                                 },
                                 {
@@ -134150,6 +134357,23 @@
                                 {
                                     "name": "FileMirage",
                                     "url": "https://filemirage.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "0807 - 4GB / 30 Days (>500MB) / Forever (<500MB) / /",
+                            "links": [
+                                {
+                                    "name": "0807",
+                                    "url": "https://0807.st/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "http://44jv5o3dj7hgitfafkms7t66gvzswuj63icdwm2p3y4wfylgb7pohkid.onion"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/filehosting0807"
                                 }
                             ]
                         },
@@ -159509,6 +159733,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/FroggMaster/CreamInstaller"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Koalageddon - Steam DLC / Family Unlocker",
+                            "links": [
+                                {
+                                    "name": "Koalageddon",
+                                    "url": "https://gitlab.com/DumbCodeGenerator/koalageddon"
                                 }
                             ]
                         },
@@ -191559,6 +191792,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠simloops - Educational Simulations",
+                            "links": [
+                                {
+                                    "name": "⁠simloops",
+                                    "url": "https://www.simloops.com/communities"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "AnimaGraffs - Animated Infographs",
                             "links": [
                                 {
@@ -192078,7 +192320,7 @@
                             ]
                         },
                         {
-                            "full_text": "Physics Simulations , Mujoco , Physics Animations , oPhysics or MyPhysicsLab - Physics Simulations / Animations",
+                            "full_text": "Physics Simulations , Mujoco , Physics Animations , oPhysics , ⁠simloops or MyPhysicsLab - Physics Simulations / Animations",
                             "links": [
                                 {
                                     "name": "Physics Simulations",
@@ -192095,6 +192337,10 @@
                                 {
                                     "name": "oPhysics",
                                     "url": "https://ophysics.com/index.html"
+                                },
+                                {
+                                    "name": "⁠simloops",
+                                    "url": "https://www.simloops.com/communities"
                                 },
                                 {
                                     "name": "MyPhysicsLab",
@@ -193062,11 +193308,33 @@
                             ]
                         },
                         {
+                            "full_text": "BOMwiki - Product Blueprint Components Database /",
+                            "links": [
+                                {
+                                    "name": "BOMwiki",
+                                    "url": "https://bomwiki.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/protosphinx"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Sanfoundry - Engineering Questions & Answers",
                             "links": [
                                 {
                                     "name": "Sanfoundry",
                                     "url": "https://www.sanfoundry.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SOLIDWORKS Practice Problems - CAD Engineering Practice Exercises ⁠",
+                            "links": [
+                                {
+                                    "name": "SOLIDWORKS Practice Problems",
+                                    "url": "https://www.solidworks.com/solution/education/practice-problems"
                                 }
                             ]
                         },
@@ -193697,6 +193965,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Zperiod - Interactive Table /",
+                            "links": [
+                                {
+                                    "name": "⁠Zperiod",
+                                    "url": "https://zperiod.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/xfKQD65udk"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Images-of-elements - Element Images",
                             "links": [
                                 {
@@ -193745,15 +194026,6 @@
                                 {
                                     "name": "Atomic",
                                     "url": "https://play.google.com/store/apps/details?id=com.jlindemann.science"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Zperiod - Interactive Table",
-                            "links": [
-                                {
-                                    "name": "⁠Zperiod",
-                                    "url": "https://zperiod.app/"
                                 }
                             ]
                         },
@@ -193877,6 +194149,15 @@
                                 {
                                     "name": "LibreTexts Biology",
                                     "url": "https://bio.libretexts.org/Bookshelves"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Project ⁠Alveus Sanctuary - 24/7 Educational Wildlife Live Streams / Conservation Project",
+                            "links": [
+                                {
+                                    "name": "Project ⁠Alveus Sanctuary",
+                                    "url": "https://www.alveussanctuary.org/"
                                 }
                             ]
                         },
@@ -196138,19 +196419,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/arpanghosh8453/drone-logbook"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Langostino - Decentralized AI Drone Pilot Platform / Learning /",
-                            "links": [
-                                {
-                                    "name": "⁠Langostino",
-                                    "url": "https://github.com/swarm-subnet/Langostino"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://x.com/SwarmSubnet"
                                 }
                             ]
                         },
@@ -220232,6 +220500,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "⁠Langostino - Decentralized AI Drone Pilot Platform / Learning / X (Removed in f658c3a )",
+                            "links": [
+                                {
+                                    "name": "f658c3a",
+                                    "url": "https://github.com/fmhy/edit/commit/f658c3ab289e498696a6517ea9ad992ffb76af3d#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL568"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MandraAnime - Anime / Sub (Removed in f658c3a )",
+                            "links": [
+                                {
+                                    "name": "f658c3a",
+                                    "url": "https://github.com/fmhy/edit/commit/f658c3ab289e498696a6517ea9ad992ffb76af3d#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1457"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Flowind - Cartoons (Removed in 0fae050 )",
                             "links": [
                                 {
@@ -222217,24 +222503,6 @@
                                 {
                                     "name": "6b4187b",
                                     "url": "https://github.com/fmhy/edit/commit/6b4187bcd336005b9355f6c6f9f86e9ade8539d4#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L62"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠StepFun - Step 3.5 Flash / DeepSeek R1 (Removed in 2ca3537 )",
-                            "links": [
-                                {
-                                    "name": "2ca3537",
-                                    "url": "https://github.com/fmhy/edit/commit/2ca3537c738159f51d84e97e4eb0f3ded27be351#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L35"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PokeGB - Pokémon Blue Emulator (Removed in 2ca3537 )",
-                            "links": [
-                                {
-                                    "name": "2ca3537",
-                                    "url": "https://github.com/fmhy/edit/commit/2ca3537c738159f51d84e97e4eb0f3ded27be351#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L984"
                                 }
                             ]
                         }
