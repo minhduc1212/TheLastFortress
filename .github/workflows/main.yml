@@ -1,4 +1,4 @@
-name: Run FMHY Crawler
+name: Run Crawlers
 
 on:
   schedule:
@@ -24,11 +24,14 @@ jobs:
         run: |
           pip install requests beautifulsoup4
 
-      - name: Run Crawler
+      - name: Run FMHY Crawler
         run: python crawler.py
+
+      - name: Run EverythingMoe Crawler
+        run: python everythingmoe.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: auto-update fmhy_all_data.json"
-          file_pattern: "fmhy_all_data.json"
+          commit_message: "chore: auto-update crawled data files"
+          file_pattern: "fmhy_all_data.json everythingmoe_data.json everythingmoe.json"
