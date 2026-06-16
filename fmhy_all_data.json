@@ -4523,7 +4523,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "CreepJS , webkay , browserrecon , TZP , Cover Your Tracks , ⁠BrowserScan or PersonalData - Tracking / Fingerprinting Tests",
+                            "full_text": "CreepJS , webkay , browserrecon , TZP , Cover Your Tracks , ⁠DeviceInfo , ⁠BrowserScan or PersonalData - Tracking / Fingerprinting Tests",
                             "links": [
                                 {
                                     "name": "CreepJS",
@@ -4544,6 +4544,10 @@
                                 {
                                     "name": "Cover Your Tracks",
                                     "url": "https://coveryourtracks.eff.org/"
+                                },
+                                {
+                                    "name": "⁠DeviceInfo",
+                                    "url": "https://www.deviceinfo.me/"
                                 },
                                 {
                                     "name": "⁠BrowserScan",
@@ -6406,11 +6410,15 @@
                             ]
                         },
                         {
-                            "full_text": "DeepSeek - V4-Pro (Expert) / V4-Flash (Instant) / Sign-Up / Unlimited / / /",
+                            "full_text": "DeepSeek - V4-Pro (Expert) / V4-Flash (Instant) / Sign-Up / Unlimited / Add Features / / /",
                             "links": [
                                 {
                                     "name": "DeepSeek",
                                     "url": "https://chat.deepseek.com/"
+                                },
+                                {
+                                    "name": "Add Features",
+                                    "url": "https://github.com/EdgeTypE/better-deepseek/"
                                 },
                                 {
                                     "name": "",
@@ -11837,7 +11845,7 @@
                             "links": [
                                 {
                                     "name": "CineBolt",
-                                    "url": "https://cinebolt.net/"
+                                    "url": "https://cinebolt.org/"
                                 },
                                 {
                                     "name": "",
@@ -12135,19 +12143,6 @@
                             ]
                         },
                         {
-                            "full_text": "AfterStream - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "AfterStream",
-                                    "url": "https://afterstream.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/thingfoil/afterstream"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "StreamWatch , 2 - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
@@ -12165,6 +12160,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/steveyout/streamwatch"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AfterStream - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "AfterStream",
+                                    "url": "https://afterstream.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/thingfoil/afterstream"
                                 }
                             ]
                         }
@@ -12917,6 +12925,31 @@
                             ]
                         },
                         {
+                            "full_text": "FluxTV , 2 , 3 - Movies / TV / Anime / Status /",
+                            "links": [
+                                {
+                                    "name": "FluxTV",
+                                    "url": "https://fluxtv.cc/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://fluxtv.co.uk/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://fluxtv.qzz.io/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://rentry.co/fluxtv"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/xyB8MHGV"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Nelvix - Movies / TV / Anime",
                             "links": [
                                 {
@@ -13207,23 +13240,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/PFvCNcZCQC"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FluxTV , 2 - Movies / TV / Anime / Status",
-                            "links": [
-                                {
-                                    "name": "FluxTV",
-                                    "url": "https://fluxtv.qzz.io/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://fluxustv.vercel.app/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://rentry.co/fluxtv"
                                 }
                             ]
                         },
@@ -16370,7 +16386,7 @@
                             "links": [
                                 {
                                     "name": "CineBolt TV",
-                                    "url": "https://cinebolt.net/live"
+                                    "url": "https://cinebolt.org/live"
                                 }
                             ]
                         },
@@ -16813,6 +16829,19 @@
                             ]
                         },
                         {
+                            "full_text": "TimStreams - Live Events /",
+                            "links": [
+                                {
+                                    "name": "TimStreams",
+                                    "url": "https://timstreams.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/p3aJ7rJGrz"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "RoxieStreams , 2 / Status /",
                             "links": [
                                 {
@@ -16974,19 +17003,6 @@
                             ]
                         },
                         {
-                            "full_text": "TimStreams - Live Events /",
-                            "links": [
-                                {
-                                    "name": "TimStreams",
-                                    "url": "https://timstreams.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/p3aJ7rJGrz"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "SportDB - Stream Aggregator",
                             "links": [
                                 {
@@ -17039,6 +17055,27 @@
                                 {
                                     "name": "90minutes",
                                     "url": "https://www.90minutes.xyz/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Tap4Sport , 2 - Stream Aggregator / Status / TG",
+                            "links": [
+                                {
+                                    "name": "Tap4Sport",
+                                    "url": "https://tap4sport.cc/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://tap4sport.nl/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "http://tap4sport.link/"
+                                },
+                                {
+                                    "name": "TG",
+                                    "url": "https://t.me/+LWp6SUzrbVUwZjE0"
                                 }
                             ]
                         },
@@ -19087,7 +19124,7 @@
                             "links": [
                                 {
                                     "name": "CineBolt",
-                                    "url": "https://cinebolt.net/"
+                                    "url": "https://cinebolt.org/"
                                 }
                             ]
                         },
@@ -23059,15 +23096,6 @@
                             ]
                         },
                         {
-                            "full_text": "Pear Desktop - YouTube Music Client w/ Adblock",
-                            "links": [
-                                {
-                                    "name": "Pear Desktop",
-                                    "url": "https://github.com/pear-devs/pear-desktop"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Moosync - YouTube / Spotify / /",
                             "links": [
                                 {
@@ -23098,6 +23126,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/dupitydumb/Audion"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Pear Desktop - YouTube Music Client w/ Adblock",
+                            "links": [
+                                {
+                                    "name": "Pear Desktop",
+                                    "url": "https://github.com/pear-devs/pear-desktop"
                                 }
                             ]
                         },
@@ -32572,6 +32609,15 @@
                             ]
                         },
                         {
+                            "full_text": "The Sounds Resource - Game Sounds Effects",
+                            "links": [
+                                {
+                                    "name": "The Sounds Resource",
+                                    "url": "https://sounds.spriters-resource.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SampleBrain , rFXGen , Bfxr / , ChipTone or SFXR - Sound Effect Creators",
                             "links": [
                                 {
@@ -41293,6 +41339,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Planedrift - Web-Based Text Adventure Player",
+                            "links": [
+                                {
+                                    "name": "⁠Planedrift",
+                                    "url": "https://planedrift.app/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Muds - Text Adventure ROMs",
                             "links": [
                                 {
@@ -43919,15 +43974,6 @@
                             ]
                         },
                         {
-                            "full_text": "BooksMania - Books / Telegram",
-                            "links": [
-                                {
-                                    "name": "BooksMania",
-                                    "url": "https://t.me/booksmania"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "FreeBannedBooks - US Banned Books",
                             "links": [
                                 {
@@ -43964,15 +44010,6 @@
                                 {
                                     "name": "Libraries / Tools",
                                     "url": "https://fmhy.net/reading/#calibre-libraries"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Grimmory - Ebook Manager / Reader / Self-Hosted",
-                            "links": [
-                                {
-                                    "name": "⁠Grimmory",
-                                    "url": "https://grimmory.org/"
                                 }
                             ]
                         },
@@ -44623,6 +44660,15 @@
                                 {
                                     "name": "Features",
                                     "url": "https://fmhy.net/downloading/#software-sites"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Grimmory - Ebook Manager / Reader / Self-Hosted",
+                            "links": [
+                                {
+                                    "name": "⁠Grimmory",
+                                    "url": "https://grimmory.org/"
                                 }
                             ]
                         },
@@ -51823,19 +51869,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Midloop - Book Release Date Tracker /",
-                            "links": [
-                                {
-                                    "name": "⁠Midloop",
-                                    "url": "https://midloop.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/AvUxR59Yv5"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Talpa Search - Find Books by Describing Them",
                             "links": [
                                 {
@@ -58067,11 +58100,24 @@
                             ]
                         },
                         {
-                            "full_text": "SOLIDWORKS Practice Problems - CAD Engineering Practice Exercises ⁠",
+                            "full_text": "SOLIDWORKS Practice Problems - CAD Engineering Practice Exercises",
                             "links": [
                                 {
                                     "name": "SOLIDWORKS Practice Problems",
                                     "url": "https://www.solidworks.com/solution/education/practice-problems"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SendCutSend Education - CAD Engineering Study Guide / Videos /",
+                            "links": [
+                                {
+                                    "name": "SendCutSend Education",
+                                    "url": "https://sendcutsend.com/education/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/sendcutsend"
                                 }
                             ]
                         },
@@ -64859,6 +64905,15 @@
                                     "url": "https://www.chessvariants.com/index/favorites.php"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "⁠Visual History of Chessmen - Chessmen History Guide",
+                            "links": [
+                                {
+                                    "name": "⁠Visual History of Chessmen",
+                                    "url": "https://chesshistory.github.io/"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -65241,6 +65296,15 @@
                                 {
                                     "name": "Brickognize",
                                     "url": "https://brickognize.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠MinifigScan - LEGO Minifigure Blind Box Identification Tool",
+                            "links": [
+                                {
+                                    "name": "⁠MinifigScan",
+                                    "url": "https://pacolabs.com/MinifigScan/"
                                 }
                             ]
                         }
@@ -66014,11 +66078,15 @@
                             ]
                         },
                         {
-                            "full_text": "Frenglish or English E-Reader - English Learning Books",
+                            "full_text": "Frenglish , BooksMania or English E-Reader - English Learning Books",
                             "links": [
                                 {
                                     "name": "Frenglish",
                                     "url": "https://frenglish.ru/"
+                                },
+                                {
+                                    "name": "BooksMania",
+                                    "url": "https://t.me/booksmania"
                                 },
                                 {
                                     "name": "English E-Reader",
@@ -81370,6 +81438,27 @@
                             ]
                         },
                         {
+                            "full_text": "Echo - Multi-Platform Streaming / Nightly / / Github",
+                            "links": [
+                                {
+                                    "name": "Echo",
+                                    "url": "https://echomusicdocs.vercel.app/"
+                                },
+                                {
+                                    "name": "Nightly",
+                                    "url": "https://github.com/itsmechinmoy/echo-nightly/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/J3WvbBUU8Z"
+                                },
+                                {
+                                    "name": "Github",
+                                    "url": "https://github.com/brahmkshatriya/echo"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "BeatBoss - Multi-Platform Streaming /",
                             "links": [
                                 {
@@ -87393,7 +87482,7 @@
                             ]
                         },
                         {
-                            "full_text": "rofi / Emoji Selector , vicinae , Fuzzel , Ulauncher or wofi - App Launchers / Keystroke Launchers",
+                            "full_text": "rofi / Emoji Selector , vicinae / , Fuzzel , Ulauncher or wofi - App Launchers / Keystroke Launchers",
                             "links": [
                                 {
                                     "name": "rofi",
@@ -87405,6 +87494,10 @@
                                 },
                                 {
                                     "name": "vicinae",
+                                    "url": "https://www.vicinae.com/"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://github.com/vicinaehq/vicinae"
                                 },
                                 {
@@ -88882,6 +88975,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠LibrePods - Use AirPod Features on Linux",
+                            "links": [
+                                {
+                                    "name": "⁠LibrePods",
+                                    "url": "https://github.com/kavishdevar/librepods"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "puddletag - Metadata Organizer /",
                             "links": [
                                 {
@@ -89109,15 +89211,6 @@
                                 {
                                     "name": "TUI Audio Mixer",
                                     "url": "https://github.com/tsowell/wiremix"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠LibrePods - Use AirPod Features on Linux",
-                            "links": [
-                                {
-                                    "name": "⁠LibrePods",
-                                    "url": "https://github.com/kavishdevar/librepods"
                                 }
                             ]
                         },
@@ -91497,10 +91590,14 @@
                             ]
                         },
                         {
-                            "full_text": "Awesome TUIs or TerminalTrove - TUI Indexes",
+                            "full_text": "Awesome TUI / or TerminalTrove - TUI Indexes",
                             "links": [
                                 {
-                                    "name": "Awesome TUIs",
+                                    "name": "Awesome TUI",
+                                    "url": "https://awesometui.com/"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://github.com/rothgar/awesome-tuis"
                                 },
                                 {
@@ -103385,15 +103482,6 @@
                             ]
                         },
                         {
-                            "full_text": "animezone - Anime / Sub / 720p",
-                            "links": [
-                                {
-                                    "name": "animezone",
-                                    "url": "https://www.animezone.pl/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Polish Abandonware - Abandonware /",
                             "links": [
                                 {
@@ -103715,6 +103803,15 @@
                                 {
                                     "name": "animedesu",
                                     "url": "https://animedesu.pl/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "animezone - Anime / Sub / 720p",
+                            "links": [
+                                {
+                                    "name": "animezone",
+                                    "url": "https://www.animezone.pl/"
                                 }
                             ]
                         },
@@ -109634,6 +109731,15 @@
                                 {
                                     "name": "Keyman",
                                     "url": "https://keyman.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SignWiki - Sign Language Wiki Index / Multi Language",
+                            "links": [
+                                {
+                                    "name": "SignWiki",
+                                    "url": "http://signwiki.org/"
                                 }
                             ]
                         },
@@ -120662,6 +120768,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠RetroSizer - Compare Sizes of Handhelds",
+                            "links": [
+                                {
+                                    "name": "⁠RetroSizer",
+                                    "url": "https://retrosizer.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "RetroCatalog or Handheld Emulation Compatibility - Handheld Game Emulation Compatibility / Info",
                             "links": [
                                 {
@@ -121114,6 +121229,15 @@
                                 {
                                     "name": "Bricklink",
                                     "url": "https://www.bricklink.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠MinifigScan - LEGO Minifigure Blind Box Identification Tool",
+                            "links": [
+                                {
+                                    "name": "⁠MinifigScan",
+                                    "url": "https://pacolabs.com/MinifigScan/"
                                 }
                             ]
                         },
@@ -127697,6 +127821,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Awesome TUI - TUI App Index /",
+                            "links": [
+                                {
+                                    "name": "Awesome TUI",
+                                    "url": "https://awesometui.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/rothgar/awesome-tuis"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Awesome Terminals - Terminal Emulator List",
                             "links": [
                                 {
@@ -129377,15 +129514,6 @@
                                 {
                                     "name": "YouTube",
                                     "url": "https://youtu.be/f_3XWlmyat4"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Display Calc - Display Distance / Dimension Calculator",
-                            "links": [
-                                {
-                                    "name": "Display Calc",
-                                    "url": "https://www.tools.rodrigopolo.com/display_calc/"
                                 }
                             ]
                         },
@@ -131281,11 +131409,15 @@
                             ]
                         },
                         {
-                            "full_text": "Lively or ScreenPlay - Live Wallpaper Manager",
+                            "full_text": "Lively / or ScreenPlay - Live Wallpaper Manager",
                             "links": [
                                 {
                                     "name": "Lively",
                                     "url": "https://www.rocksdanister.com/lively/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/rocksdanister/lively"
                                 },
                                 {
                                     "name": "ScreenPlay",
@@ -131390,8 +131522,12 @@
                             ]
                         },
                         {
-                            "full_text": "czkawka or dupeGuru - Duplicate File Finders",
+                            "full_text": "Krokiet , czkawka or dupeGuru - Duplicate File Finders",
                             "links": [
+                                {
+                                    "name": "Krokiet",
+                                    "url": "https://github.com/qarmin/czkawka/blob/master/krokiet/README.md"
+                                },
                                 {
                                     "name": "czkawka",
                                     "url": "https://github.com/qarmin/czkawka"
@@ -131593,23 +131729,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/GopeedLab/gopeed"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Brisk - Download Manager / Extension / /",
-                            "links": [
-                                {
-                                    "name": "⁠Brisk",
-                                    "url": "https://github.com/BrisklyDev/brisk"
-                                },
-                                {
-                                    "name": "Extension",
-                                    "url": "https://github.com/BrisklyDev/brisk-browser-extension"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/hGBDWNDHG3"
                                 }
                             ]
                         },
@@ -134352,16 +134471,7 @@
                             ]
                         },
                         {
-                            "full_text": "FileMirage - 50GB / 30 Days After Last View",
-                            "links": [
-                                {
-                                    "name": "FileMirage",
-                                    "url": "https://filemirage.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "0807 - 4GB / 30 Days (>500MB) / Forever (<500MB) / /",
+                            "full_text": "0807 - 20GB / Forever / /",
                             "links": [
                                 {
                                     "name": "0807",
@@ -134374,6 +134484,15 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/filehosting0807"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FileMirage - 50GB / 30 Days After Last View",
+                            "links": [
+                                {
+                                    "name": "FileMirage",
+                                    "url": "https://filemirage.com/"
                                 }
                             ]
                         },
@@ -136349,6 +136468,19 @@
                                 {
                                     "name": "AlsoAt",
                                     "url": "https://alsoat.app"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Haunt.gg - 25 Links /",
+                            "links": [
+                                {
+                                    "name": "⁠Haunt.gg",
+                                    "url": "https://haunt.gg/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/hauntbio"
                                 }
                             ]
                         }
@@ -144064,7 +144196,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Farside / 2 , Disroot , ⁠Radical Servers , canine.tools , ⁠NerdVPN , ⁠Privacy Redirect , ⁠Nadeko or alternative-frontends - Frontend Indexes",
+                            "full_text": "Farside / 2 , Disroot , ⁠Radical Servers , canine.tools , Vern , ⁠NerdVPN , ⁠Privacy Redirect , ⁠Nadeko or alternative-frontends - Frontend Indexes",
                             "links": [
                                 {
                                     "name": "Farside",
@@ -144085,6 +144217,10 @@
                                 {
                                     "name": "canine.tools",
                                     "url": "https://canine.tools/services/"
+                                },
+                                {
+                                    "name": "Vern",
+                                    "url": "https://vern.cc/eng/services"
                                 },
                                 {
                                     "name": "⁠NerdVPN",
@@ -144655,18 +144791,10 @@
                             ]
                         },
                         {
-                            "full_text": "axinstagram / , ⁠Axinstagram / or InstagramEmbed - Fix Instagram Embeds",
+                            "full_text": "axinstagram / or InstagramEmbed - Fix Instagram Embeds",
                             "links": [
                                 {
                                     "name": "axinstagram",
-                                    "url": "https://axinstagram.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/edideaur/axinstagram/"
-                                },
-                                {
-                                    "name": "⁠Axinstagram",
                                     "url": "https://axinstagram.com/"
                                 },
                                 {
@@ -148754,12 +148882,8 @@
                             ]
                         },
                         {
-                            "full_text": "Orion , Twitch App or Tress - Twitch Desktop Clients",
+                            "full_text": "Twitch App or Tress - Twitch Desktop Clients",
                             "links": [
-                                {
-                                    "name": "Orion",
-                                    "url": "https://alamminsalo.github.io/orion/"
-                                },
                                 {
                                     "name": "Twitch App",
                                     "url": "https://gitlab.com/linuxbombay/twitch-application/application"
@@ -156501,7 +156625,7 @@
                             ]
                         },
                         {
-                            "full_text": "r/CrackWatch , r/RepackWorld , GameStatus or GitGud - Scene Release Trackers",
+                            "full_text": "r/CrackWatch , r/RepackWorld , ⁠IsItCracked , GameStatus or GitGud - Scene Release Trackers",
                             "links": [
                                 {
                                     "name": "r/CrackWatch",
@@ -156510,6 +156634,10 @@
                                 {
                                     "name": "r/RepackWorld",
                                     "url": "https://reddit.com/r/RepackWorld"
+                                },
+                                {
+                                    "name": "⁠IsItCracked",
+                                    "url": "https://isitcracked.com/"
                                 },
                                 {
                                     "name": "GameStatus",
@@ -172291,7 +172419,7 @@
                             ]
                         },
                         {
-                            "full_text": "freeillustrations , DrawKit , NiceIllustrations or manypixels - Misc Illustrations",
+                            "full_text": "freeillustrations , DrawKit , Irasutoya , NiceIllustrations or manypixels - Misc Illustrations",
                             "links": [
                                 {
                                     "name": "freeillustrations",
@@ -172300,6 +172428,10 @@
                                 {
                                     "name": "DrawKit",
                                     "url": "https://www.drawkit.com/"
+                                },
+                                {
+                                    "name": "Irasutoya",
+                                    "url": "https://irasutoya.com/"
                                 },
                                 {
                                     "name": "NiceIllustrations",
@@ -174703,11 +174835,15 @@
                             ]
                         },
                         {
-                            "full_text": "Immich / Extension / Storage Server / Bulk Uploader / Power Tools /",
+                            "full_text": "Immich / Resources / Extension / Storage Server / Bulk Uploader / Power Tools /",
                             "links": [
                                 {
                                     "name": "Immich",
                                     "url": "https://immich.app/"
+                                },
+                                {
+                                    "name": "Resources",
+                                    "url": "https://awesome.immich.app/"
                                 },
                                 {
                                     "name": "Extension",
@@ -179758,15 +179894,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠imov.life - Multi-Site / Online",
-                            "links": [
-                                {
-                                    "name": "⁠imov.life",
-                                    "url": "https://imov.life/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "you-get - Multi-Site / CLI /",
                             "links": [
                                 {
@@ -181383,15 +181510,6 @@
                             ]
                         },
                         {
-                            "full_text": "Pear Desktop - YouTube Music Client w/ Adblock",
-                            "links": [
-                                {
-                                    "name": "Pear Desktop",
-                                    "url": "https://github.com/pear-devs/pear-desktop"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Moosync - YouTube / Spotify / /",
                             "links": [
                                 {
@@ -181422,6 +181540,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/dupitydumb/Audion"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Pear Desktop - YouTube Music Client w/ Adblock",
+                            "links": [
+                                {
+                                    "name": "Pear Desktop",
+                                    "url": "https://github.com/pear-devs/pear-desktop"
                                 }
                             ]
                         },
@@ -190896,6 +191023,15 @@
                             ]
                         },
                         {
+                            "full_text": "The Sounds Resource - Game Sounds Effects",
+                            "links": [
+                                {
+                                    "name": "The Sounds Resource",
+                                    "url": "https://sounds.spriters-resource.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SampleBrain , rFXGen , Bfxr / , ChipTone or SFXR - Sound Effect Creators",
                             "links": [
                                 {
@@ -193330,11 +193466,24 @@
                             ]
                         },
                         {
-                            "full_text": "SOLIDWORKS Practice Problems - CAD Engineering Practice Exercises ⁠",
+                            "full_text": "SOLIDWORKS Practice Problems - CAD Engineering Practice Exercises",
                             "links": [
                                 {
                                     "name": "SOLIDWORKS Practice Problems",
                                     "url": "https://www.solidworks.com/solution/education/practice-problems"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SendCutSend Education - CAD Engineering Study Guide / Videos /",
+                            "links": [
+                                {
+                                    "name": "SendCutSend Education",
+                                    "url": "https://sendcutsend.com/education/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/sendcutsend"
                                 }
                             ]
                         },
@@ -200122,6 +200271,15 @@
                                     "url": "https://www.chessvariants.com/index/favorites.php"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "⁠Visual History of Chessmen - Chessmen History Guide",
+                            "links": [
+                                {
+                                    "name": "⁠Visual History of Chessmen",
+                                    "url": "https://chesshistory.github.io/"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -200504,6 +200662,15 @@
                                 {
                                     "name": "Brickognize",
                                     "url": "https://brickognize.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠MinifigScan - LEGO Minifigure Blind Box Identification Tool",
+                            "links": [
+                                {
+                                    "name": "⁠MinifigScan",
+                                    "url": "https://pacolabs.com/MinifigScan/"
                                 }
                             ]
                         }
@@ -201277,11 +201444,15 @@
                             ]
                         },
                         {
-                            "full_text": "Frenglish or English E-Reader - English Learning Books",
+                            "full_text": "Frenglish , BooksMania or English E-Reader - English Learning Books",
                             "links": [
                                 {
                                     "name": "Frenglish",
                                     "url": "https://frenglish.ru/"
+                                },
+                                {
+                                    "name": "BooksMania",
+                                    "url": "https://t.me/booksmania"
                                 },
                                 {
                                     "name": "English E-Reader",
@@ -211651,15 +211822,6 @@
                             ]
                         },
                         {
-                            "full_text": "The Sounds Resource - Game Sounds Examples",
-                            "links": [
-                                {
-                                    "name": "The Sounds Resource",
-                                    "url": "https://www.sounds-resource.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "EZ Conversion - Game Audio Converter",
                             "links": [
                                 {
@@ -220500,6 +220662,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Display Calc - Display Distance / Dimension Calculator (Removed in 27256b4 )",
+                            "links": [
+                                {
+                                    "name": "27256b4",
+                                    "url": "https://github.com/fmhy/edit/commit/27256b41d0d46ff5b42edaa923ca716adcea07a2#diff-b35ef55ca61a4c86623997efc3296e00f7eae488e1cd3409d4645c8f8d355cf5L290"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠imov.life - Multi-Site / Online (Removed in 27256b4 )",
+                            "links": [
+                                {
+                                    "name": "27256b4",
+                                    "url": "https://github.com/fmhy/edit/commit/27256b41d0d46ff5b42edaa923ca716adcea07a2#diff-4beefdf2c5ab826161d5d11bb50853585bff157b69a9e83e36b6e143ddb744a3L385"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Langostino - Decentralized AI Drone Pilot Platform / Learning / X (Removed in f658c3a )",
                             "links": [
                                 {
@@ -222847,7 +223027,7 @@
                     "heading": "Digital Brushes",
                     "level": "h2",
                     "text_explanations": [
-                        "gfxfever,fbrushes,brushes_and_patterns,myphotoshopbrushes,brusheezy,brushking,tala,BrushBase,⁠daBrushes"
+                        "fbrushes,brushes_and_patterns,myphotoshopbrushes,brusheezy,brushking,tala,BrushBase,⁠daBrushes"
                     ],
                     "resource_items": []
                 },
@@ -224813,15 +224993,6 @@
                                 {
                                     "name": "Free eBooks",
                                     "url": "https://t.me/free_ebooks_pdfs"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BooksMania - Decorative Worksheets",
-                            "links": [
-                                {
-                                    "name": "BooksMania",
-                                    "url": "https://t.me/booksmania"
                                 }
                             ]
                         },
