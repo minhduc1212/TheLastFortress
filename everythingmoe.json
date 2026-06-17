@@ -1478,6 +1478,54 @@
           }
         },
         {
+          "id": "animotvslash",
+          "title": "Animotvslash",
+          "link": "https://www.animotvslash.org/",
+          "icon": "https://static.everythingmoe.com/icons/animotvslash.png",
+          "tags": [
+            "Self-host",
+            "Hard-sub",
+            "Soft-sub",
+            "Easy download"
+          ],
+          "rank": 34,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "streaming",
+          "details": {
+            "positives": [
+              "Upload to multiple host",
+              "Provides both soft & hard subs",
+              "Multi languages multi audio"
+            ],
+            "negatives": [
+              "Medium-small library"
+            ],
+            "altlinks": [
+              {
+                "name": ".nl",
+                "url": "https://animotvslash.nl/"
+              },
+              {
+                "name": ".ru",
+                "url": "https://animotv.ru/"
+              },
+              {
+                "name": "TV app",
+                "url": "https://animotvslash.org/app/"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": ".ru",
+                "url": "https://animotvslash.ru/"
+              }
+            ]
+          }
+        },
+        {
           "id": "hidive",
           "title": "HIDIVE",
           "link": "https://www.hidive.com/",
@@ -1487,7 +1535,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -1518,7 +1566,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1537,54 +1585,6 @@
               {
                 "name": "anicore",
                 "url": "https://anicore.tv/home"
-              }
-            ]
-          }
-        },
-        {
-          "id": "animotvslash",
-          "title": "Animotvslash",
-          "link": "https://www.animotvslash.org/",
-          "icon": "https://static.everythingmoe.com/icons/animotvslash.png",
-          "tags": [
-            "Self-host",
-            "Hard-sub",
-            "Soft-sub",
-            "Easy download"
-          ],
-          "rank": 36,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "streaming",
-          "details": {
-            "positives": [
-              "Upload to multiple host",
-              "Provides both soft & hard subs",
-              "Multi languages multi audio"
-            ],
-            "negatives": [
-              "Small library"
-            ],
-            "altlinks": [
-              {
-                "name": ".nl",
-                "url": "https://animotvslash.nl/"
-              },
-              {
-                "name": ".ru",
-                "url": "https://animotv.ru/"
-              },
-              {
-                "name": "TV app",
-                "url": "https://animotvslash.org/app/"
-              }
-            ],
-            "ex-altlinks": [
-              {
-                "name": ".ru",
-                "url": "https://animotvslash.ru/"
               }
             ]
           }
@@ -22437,12 +22437,30 @@
           }
         },
         {
+          "id": "comikfind",
+          "title": "komikfind",
+          "link": "https://komikfind.talyer.dev/",
+          "icon": "https://static.everythingmoe.com/icons/comikfind.png",
+          "tags": [],
+          "rank": 14,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "utils",
+          "details": {
+            "positives": [
+              "Search manga by description / vibe"
+            ]
+          }
+        },
+        {
           "id": "panelsdesu",
           "title": "PanelsDesu",
           "link": "https://panelsdesu.com/",
           "icon": "https://static.everythingmoe.com/icons/panelsdesu.png",
           "tags": [],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22458,7 +22476,7 @@
           "link": "https://iqdb.org/",
           "icon": "https://static.everythingmoe.com/icons/iqdb.png",
           "tags": [],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22474,7 +22492,7 @@
           "link": "https://mydublist.com/",
           "icon": "https://static.everythingmoe.com/icons/mydublist.png",
           "tags": [],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22499,7 +22517,7 @@
           "link": "https://fancaps.net/anime/",
           "icon": "https://static.everythingmoe.com/icons/fancaps.png",
           "tags": [],
-          "rank": 17,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22526,7 +22544,7 @@
           "tags": [
             "desktop"
           ],
-          "rank": 18,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22551,7 +22569,7 @@
           "tags": [
             "desktop"
           ],
-          "rank": 19,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22575,7 +22593,7 @@
           "tags": [
             "desktop"
           ],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22594,7 +22612,7 @@
           "link": "https://wrongopinions.moe/",
           "icon": "https://static.everythingmoe.com/icons/wrongopinions.png",
           "tags": [],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22613,7 +22631,7 @@
           "link": "https://relatedanime.com/",
           "icon": "https://static.everythingmoe.com/icons/relatedanime.png",
           "tags": [],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22631,7 +22649,7 @@
           "link": "https://www.randomanime.org/",
           "icon": "https://static.everythingmoe.com/icons/randomanime.png",
           "tags": [],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22653,7 +22671,7 @@
           "link": "https://spin.moe/",
           "icon": "https://static.everythingmoe.com/icons/spinmoe.png",
           "tags": [],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22673,7 +22691,7 @@
           "link": "https://animebracket.com/",
           "icon": "https://static.everythingmoe.com/icons/animebracket.png",
           "tags": [],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22694,7 +22712,7 @@
           "link": "https://pnganime.com/",
           "icon": "https://static.everythingmoe.com/icons/pnganime.png",
           "tags": [],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -36547,6 +36565,54 @@
         "domains": "playhydrax.com,vidhosters.com,mofl.pro"
       }
     },
+    "animotvslash": {
+      "id": "animotvslash",
+      "title": "Animotvslash",
+      "link": "https://www.animotvslash.org/",
+      "icon": "https://static.everythingmoe.com/icons/animotvslash.png",
+      "tags": [
+        "Self-host",
+        "Hard-sub",
+        "Soft-sub",
+        "Easy download"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "streaming"
+      ],
+      "details": {
+        "positives": [
+          "Upload to multiple host",
+          "Provides both soft & hard subs",
+          "Multi languages multi audio"
+        ],
+        "negatives": [
+          "Medium-small library"
+        ],
+        "altlinks": [
+          {
+            "name": ".nl",
+            "url": "https://animotvslash.nl/"
+          },
+          {
+            "name": ".ru",
+            "url": "https://animotv.ru/"
+          },
+          {
+            "name": "TV app",
+            "url": "https://animotvslash.org/app/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": ".ru",
+            "url": "https://animotvslash.ru/"
+          }
+        ]
+      }
+    },
     "hidive": {
       "id": "hidive",
       "title": "HIDIVE",
@@ -36607,54 +36673,6 @@
           {
             "name": "anicore",
             "url": "https://anicore.tv/home"
-          }
-        ]
-      }
-    },
-    "animotvslash": {
-      "id": "animotvslash",
-      "title": "Animotvslash",
-      "link": "https://www.animotvslash.org/",
-      "icon": "https://static.everythingmoe.com/icons/animotvslash.png",
-      "tags": [
-        "Self-host",
-        "Hard-sub",
-        "Soft-sub",
-        "Easy download"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "streaming"
-      ],
-      "details": {
-        "positives": [
-          "Upload to multiple host",
-          "Provides both soft & hard subs",
-          "Multi languages multi audio"
-        ],
-        "negatives": [
-          "Small library"
-        ],
-        "altlinks": [
-          {
-            "name": ".nl",
-            "url": "https://animotvslash.nl/"
-          },
-          {
-            "name": ".ru",
-            "url": "https://animotv.ru/"
-          },
-          {
-            "name": "TV app",
-            "url": "https://animotvslash.org/app/"
-          }
-        ],
-        "ex-altlinks": [
-          {
-            "name": ".ru",
-            "url": "https://animotvslash.ru/"
           }
         ]
       }
@@ -57359,6 +57377,24 @@
         "negatives": [
           "Display only basic information",
           "Limited to images from few sites"
+        ]
+      }
+    },
+    "comikfind": {
+      "id": "comikfind",
+      "title": "komikfind",
+      "link": "https://komikfind.talyer.dev/",
+      "icon": "https://static.everythingmoe.com/icons/comikfind.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "utils"
+      ],
+      "details": {
+        "positives": [
+          "Search manga by description / vibe"
         ]
       }
     },
