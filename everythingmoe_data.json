@@ -2128,6 +2128,9 @@
           "link": "https://animedex.fun/",
           "icon": "https://static.everythingmoe.com/icons/animedex.png",
           "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
             "mult"
           ],
           "rank": 52,
@@ -2175,6 +2178,33 @@
           }
         },
         {
+          "id": "anilight",
+          "title": "AniLight",
+          "link": "https://anilight.live/",
+          "icon": "https://static.everythingmoe.com/icons/anilight.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
+            "mult"
+          ],
+          "rank": 54,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "streaming",
+          "details": {
+            "positives": [
+              "Multiple sources options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "justanime",
           "title": "JustAnime",
           "link": "https://www.justanime.to/",
@@ -2186,7 +2216,7 @@
             "Easy download",
             "mult"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2218,9 +2248,12 @@
           "link": "https://animekizz.live/",
           "icon": "https://static.everythingmoe.com/icons/animekizz.png",
           "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
             "mult"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2242,9 +2275,12 @@
           "link": "https://kyren.moe/",
           "icon": "https://static.everythingmoe.com/icons/kyren.png",
           "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
             "mult"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2271,7 +2307,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2313,9 +2349,12 @@
           "link": "https://anistream.one/home",
           "icon": "https://static.everythingmoe.com/icons/anistream.png",
           "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
             "mult"
           ],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2342,7 +2381,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2368,7 +2407,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2431,7 +2470,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2458,7 +2497,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2486,7 +2525,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2516,7 +2555,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2545,7 +2584,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2560,10 +2599,6 @@
               "Short track record"
             ],
             "altlinks": [
-              {
-                "name": "AniLight",
-                "url": "https://anilight.live/"
-              },
               {
                 "name": "AnimeXTV",
                 "url": "https://anime.streamxtv.tech/"
@@ -2604,7 +2639,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2680,7 +2715,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2705,7 +2740,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2730,7 +2765,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2756,7 +2791,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2782,7 +2817,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2819,7 +2854,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2866,7 +2901,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2893,7 +2928,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2938,7 +2973,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2966,7 +3001,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2998,7 +3033,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3046,7 +3081,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3073,7 +3108,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3100,7 +3135,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3140,7 +3175,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3174,7 +3209,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3247,7 +3282,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14903,6 +14938,55 @@
           }
         },
         {
+          "id": "seanime",
+          "title": "Seanime",
+          "link": "https://seanime.app/",
+          "icon": "https://static.everythingmoe.com/icons/seanime.png",
+          "tags": [
+            "Windows",
+            "MacOS",
+            "Linux",
+            "Anime",
+            "Manga",
+            "UNIVERSAL"
+          ],
+          "rank": 8,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Support both anime & manga",
+              "Support viewing & download",
+              "Support debrid services",
+              "Cross platform (Android, iOS, Mac, Windows, Linux)",
+              "Nice interface",
+              "Actively developed",
+              "Open source"
+            ],
+            "negatives": [
+              "Some features depend on torrent connection"
+            ],
+            "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
+            "altlinks": [
+              {
+                "name": "Git repo",
+                "url": "https://github.com/5rahim/seanime"
+              },
+              {
+                "name": "Docs",
+                "url": "https://seanime.app/download"
+              },
+              {
+                "name": "Android port",
+                "url": "https://github.com/Seanime-contributions/Seanime-Android"
+              }
+            ]
+          }
+        },
+        {
           "id": "mangayomi",
           "title": "Mangayomi",
           "link": "https://github.com/kodjodevf/mangayomi",
@@ -14917,7 +15001,7 @@
             "Manga",
             "UNIVERSAL"
           ],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14965,7 +15049,7 @@
             "Novel",
             "UNIVERSAL"
           ],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15021,7 +15105,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15060,7 +15144,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15114,7 +15198,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15165,7 +15249,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15212,7 +15296,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15250,7 +15334,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15291,7 +15375,7 @@
             "Manga",
             "Novel"
           ],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15323,55 +15407,6 @@
               }
             ],
             "info": "notes: Mostly the same with Suwayomi, but added features such as OCR and more focus as learning tools."
-          }
-        },
-        {
-          "id": "seanime",
-          "title": "Seanime",
-          "link": "https://seanime.rahim.app/",
-          "icon": "https://static.everythingmoe.com/icons/seanime.png",
-          "tags": [
-            "Windows",
-            "MacOS",
-            "Linux",
-            "Anime",
-            "Manga",
-            "DESKTOP"
-          ],
-          "rank": 17,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "apps",
-          "details": {
-            "positives": [
-              "Support both anime & manga",
-              "Support viewing & download",
-              "Support debrid services",
-              "Nice interface",
-              "Actively developed",
-              "Open source"
-            ],
-            "negatives": [
-              "Desktop only",
-              "Some features depend on torrent connection"
-            ],
-            "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
-            "altlinks": [
-              {
-                "name": "Git repo",
-                "url": "https://github.com/5rahim/seanime"
-              },
-              {
-                "name": "Docs",
-                "url": "https://seanime.rahim.app/docs"
-              },
-              {
-                "name": "Android port",
-                "url": "https://github.com/Seanime-contributions/Seanime-Android"
-              }
-            ]
           }
         },
         {
@@ -37216,6 +37251,9 @@
       "link": "https://animedex.fun/",
       "icon": "https://static.everythingmoe.com/icons/animedex.png",
       "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
         "mult"
       ],
       "is_licensed": false,
@@ -37256,6 +37294,33 @@
         "positives": [
           "Multiple source options",
           "Separate page for each sources"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
+    "anilight": {
+      "id": "anilight",
+      "title": "AniLight",
+      "link": "https://anilight.live/",
+      "icon": "https://static.everythingmoe.com/icons/anilight.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "streaming"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options",
+          "Nice interface"
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
@@ -37306,6 +37371,9 @@
       "link": "https://animekizz.live/",
       "icon": "https://static.everythingmoe.com/icons/animekizz.png",
       "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
         "mult"
       ],
       "is_licensed": false,
@@ -37330,6 +37398,9 @@
       "link": "https://kyren.moe/",
       "icon": "https://static.everythingmoe.com/icons/kyren.png",
       "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
         "mult"
       ],
       "is_licensed": false,
@@ -37401,6 +37472,9 @@
       "link": "https://anistream.one/home",
       "icon": "https://static.everythingmoe.com/icons/anistream.png",
       "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
         "mult"
       ],
       "is_licensed": false,
@@ -37648,10 +37722,6 @@
           "Short track record"
         ],
         "altlinks": [
-          {
-            "name": "AniLight",
-            "url": "https://anilight.live/"
-          },
           {
             "name": "AnimeXTV",
             "url": "https://anime.streamxtv.tech/"
@@ -49909,6 +49979,55 @@
         "info": "note: This app forked from Tachiyomi (<a href=\"/s/mihon\">Mihon</a>)"
       }
     },
+    "seanime": {
+      "id": "seanime",
+      "title": "Seanime",
+      "link": "https://seanime.app/",
+      "icon": "https://static.everythingmoe.com/icons/seanime.png",
+      "tags": [
+        "Windows",
+        "MacOS",
+        "Linux",
+        "Anime",
+        "Manga",
+        "UNIVERSAL"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Support both anime & manga",
+          "Support viewing & download",
+          "Support debrid services",
+          "Cross platform (Android, iOS, Mac, Windows, Linux)",
+          "Nice interface",
+          "Actively developed",
+          "Open source"
+        ],
+        "negatives": [
+          "Some features depend on torrent connection"
+        ],
+        "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
+        "altlinks": [
+          {
+            "name": "Git repo",
+            "url": "https://github.com/5rahim/seanime"
+          },
+          {
+            "name": "Docs",
+            "url": "https://seanime.app/download"
+          },
+          {
+            "name": "Android port",
+            "url": "https://github.com/Seanime-contributions/Seanime-Android"
+          }
+        ]
+      }
+    },
     "mangayomi": {
       "id": "mangayomi",
       "title": "Mangayomi",
@@ -50330,55 +50449,6 @@
           }
         ],
         "info": "notes: Mostly the same with Suwayomi, but added features such as OCR and more focus as learning tools."
-      }
-    },
-    "seanime": {
-      "id": "seanime",
-      "title": "Seanime",
-      "link": "https://seanime.rahim.app/",
-      "icon": "https://static.everythingmoe.com/icons/seanime.png",
-      "tags": [
-        "Windows",
-        "MacOS",
-        "Linux",
-        "Anime",
-        "Manga",
-        "DESKTOP"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "apps"
-      ],
-      "details": {
-        "positives": [
-          "Support both anime & manga",
-          "Support viewing & download",
-          "Support debrid services",
-          "Nice interface",
-          "Actively developed",
-          "Open source"
-        ],
-        "negatives": [
-          "Desktop only",
-          "Some features depend on torrent connection"
-        ],
-        "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
-        "altlinks": [
-          {
-            "name": "Git repo",
-            "url": "https://github.com/5rahim/seanime"
-          },
-          {
-            "name": "Docs",
-            "url": "https://seanime.rahim.app/docs"
-          },
-          {
-            "name": "Android port",
-            "url": "https://github.com/Seanime-contributions/Seanime-Android"
-          }
-        ]
       }
     },
     "tsundoku": {
