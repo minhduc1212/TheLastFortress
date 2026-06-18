@@ -6307,6 +6307,43 @@
           }
         },
         {
+          "id": "comix",
+          "title": "Comix",
+          "link": "https://comix.to/",
+          "icon": "https://static.everythingmoe.com/icons/comix.png",
+          "tags": [
+            "Official Rips",
+            "Mostly Scans",
+            "Modern interface",
+            "Scanlator Hub",
+            "HUB"
+          ],
+          "rank": 2,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Very Large library",
+              "Nice interface",
+              "Multi scan/TL support",
+              "Advance manga info & filtering"
+            ],
+            "negatives": [
+              "Some image loading issue"
+            ],
+            "altlinks": [
+              {
+                "name": "browse",
+                "url": "https://comix.to/browse"
+              }
+            ],
+            "info": "note: reupload manga from many websites, english content only. Also allow scanlator direct upload."
+          }
+        },
+        {
           "id": "mangafire",
           "title": "MangaFire",
           "link": "https://mangafire.to/home",
@@ -6317,7 +6354,7 @@
             "Modern interface",
             "Raws"
           ],
-          "rank": 2,
+          "rank": 3,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -6340,44 +6377,6 @@
             ],
             "ex-info": "mangahaven is mirror site managed by different people",
             "info": "note: The library are curated / managed by site admin, some taken from scanlator, some from official TL."
-          }
-        },
-        {
-          "id": "comix",
-          "title": "Comix",
-          "link": "https://comix.to/",
-          "icon": "https://static.everythingmoe.com/icons/comix.png",
-          "tags": [
-            "Official Rips",
-            "Mostly Scans",
-            "Modern interface",
-            "Scanlator Hub",
-            "HUB"
-          ],
-          "rank": 3,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Very Large library",
-              "Nice interface",
-              "Multi scan/TL support",
-              "Advance manga info & filtering"
-            ],
-            "negatives": [
-              "Some image loading issue",
-              "Add watermark"
-            ],
-            "altlinks": [
-              {
-                "name": "browse",
-                "url": "https://comix.to/browse"
-              }
-            ],
-            "info": "note: reupload manga from many websites, english content only. Also allow scanlator direct upload."
           }
         },
         {
@@ -41393,6 +41392,43 @@
         "info": "note: Library curated by site admin. Users also can directly upload here"
       }
     },
+    "comix": {
+      "id": "comix",
+      "title": "Comix",
+      "link": "https://comix.to/",
+      "icon": "https://static.everythingmoe.com/icons/comix.png",
+      "tags": [
+        "Official Rips",
+        "Mostly Scans",
+        "Modern interface",
+        "Scanlator Hub",
+        "HUB"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Very Large library",
+          "Nice interface",
+          "Multi scan/TL support",
+          "Advance manga info & filtering"
+        ],
+        "negatives": [
+          "Some image loading issue"
+        ],
+        "altlinks": [
+          {
+            "name": "browse",
+            "url": "https://comix.to/browse"
+          }
+        ],
+        "info": "note: reupload manga from many websites, english content only. Also allow scanlator direct upload."
+      }
+    },
     "mangafire": {
       "id": "mangafire",
       "title": "MangaFire",
@@ -41427,44 +41463,6 @@
         ],
         "ex-info": "mangahaven is mirror site managed by different people",
         "info": "note: The library are curated / managed by site admin, some taken from scanlator, some from official TL."
-      }
-    },
-    "comix": {
-      "id": "comix",
-      "title": "Comix",
-      "link": "https://comix.to/",
-      "icon": "https://static.everythingmoe.com/icons/comix.png",
-      "tags": [
-        "Official Rips",
-        "Mostly Scans",
-        "Modern interface",
-        "Scanlator Hub",
-        "HUB"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Very Large library",
-          "Nice interface",
-          "Multi scan/TL support",
-          "Advance manga info & filtering"
-        ],
-        "negatives": [
-          "Some image loading issue",
-          "Add watermark"
-        ],
-        "altlinks": [
-          {
-            "name": "browse",
-            "url": "https://comix.to/browse"
-          }
-        ],
-        "info": "note: reupload manga from many websites, english content only. Also allow scanlator direct upload."
       }
     },
     "mangaball": {

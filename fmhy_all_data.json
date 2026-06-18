@@ -495,7 +495,7 @@
                     "text_explanations": [
                         "I don't have anything to hide, why should I care about privacy?",
                         "Privacy is about controlling your personal information, not just keeping things secret. Non-sensitive data is used by companies to track your behavior, target ads, and influence your choices.",
-                        "For email privacy, we recommendProtonand for searchSearXNG. It's also good to check sites likeHaveIBeenPwnedto make sure your info hasn't been part of any recent data breaches.",
+                        "For email privacy, we recommendProtonand for searchSearXNG. It's also good to check the HaveIBeenPwnedemailandpasswordengines to make sure your info hasn't been part of any recent data breaches.",
                         "INFO",
                         "Remember never to use your real email or password on any site you're not sure is trustworthy. It's good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised. You can also use emailaliasing.",
                         "INFO",
@@ -3635,11 +3635,15 @@
                             ]
                         },
                         {
-                            "full_text": "Brave Browser - Privacy Chromium Browser / /",
+                            "full_text": "Brave Browser - Privacy Chromium Browser / Debloat / Hardening / /",
                             "links": [
                                 {
                                     "name": "Brave Browser",
                                     "url": "https://brave.com/"
+                                },
+                                {
+                                    "name": "Debloat / Hardening",
+                                    "url": "https://github.com/ChaoticSi1ence/SlimBrave-Neo"
                                 },
                                 {
                                     "name": "",
@@ -6448,7 +6452,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Z.ai - GLM-5.1 / GLM-5-Turbo / Slides / Sign-Up /",
+                            "full_text": "⁠Z.ai - GLM-5.2 / GLM-5-Turbo / Slides / Sign-Up / /",
                             "links": [
                                 {
                                     "name": "⁠Z.ai",
@@ -6457,6 +6461,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/QR7SARHRxK"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/zai-org"
                                 }
                             ]
                         },
@@ -10433,6 +10441,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠WhichLLM - LLM Performance Comparison Tool",
+                            "links": [
+                                {
+                                    "name": "⁠WhichLLM",
+                                    "url": "https://github.com/Andyyyy64/whichllm"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LLM Model VRAM Calculator - LLM Requirement Calculators",
                             "links": [
                                 {
@@ -11189,7 +11206,7 @@
                             ]
                         },
                         {
-                            "full_text": "LLM Visualization , KO MicroGPT / , Machine Learning Roadmap , SAAYN , machine-learning-zoomcamp , ML Engineering , udlbook / , mlsysbook , Everything AI/ML / , ML Visualized / or LLM Course - Learn Machine Learning",
+                            "full_text": "LLM Visualization , KO MicroGPT / , Machine Learning Roadmap , SAAYN , machine-learning-zoomcamp , ML Engineering , udlbook / , mlsysbook , ⁠Anthropic Courses , Everything AI/ML / , ML Visualized / or LLM Course - Learn Machine Learning",
                             "links": [
                                 {
                                     "name": "LLM Visualization",
@@ -11230,6 +11247,10 @@
                                 {
                                     "name": "mlsysbook",
                                     "url": "https://www.mlsysbook.ai/"
+                                },
+                                {
+                                    "name": "⁠Anthropic Courses",
+                                    "url": "https://anthropic.skilljar.com/"
                                 },
                                 {
                                     "name": "Everything AI/ML",
@@ -11708,6 +11729,27 @@
                             ]
                         },
                         {
+                            "full_text": "ArrowTV , Cinezo or Flikhub - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "ArrowTV",
+                                    "url": "https://arrowtv.net/"
+                                },
+                                {
+                                    "name": "Cinezo",
+                                    "url": "https://www.cinezo.net/"
+                                },
+                                {
+                                    "name": "Flikhub",
+                                    "url": "https://www.flikhub.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/Gx27YMK73d"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Stigstream - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11760,15 +11802,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/us5-and-toustream-1157125685178007672"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "IceFY - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "IceFY",
-                                    "url": "https://icefy.top/"
                                 }
                             ]
                         },
@@ -11876,6 +11909,23 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/NCH4rzxJ36"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Smashystream , 2 - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "Smashystream",
+                                    "url": "https://flix.smashystream.xyz/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://smashystream.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://telegram.me/+vekZX4KtMPtiYmRl"
                                 }
                             ]
                         },
@@ -11993,23 +12043,6 @@
                             ]
                         },
                         {
-                            "full_text": "Smashystream , 2 - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "Smashystream",
-                                    "url": "https://flix.smashystream.xyz/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://smashystream.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://telegram.me/+vekZX4KtMPtiYmRl"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "VidPlay - Movies / TV / Anime",
                             "links": [
                                 {
@@ -12118,11 +12151,15 @@
                             ]
                         },
                         {
-                            "full_text": "Basement - Movies / TV / Anime / Auto-Next / /",
+                            "full_text": "Basement , 2 - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
                                     "name": "Basement",
                                     "url": "https://basementx.xyz/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://basementx.pro/"
                                 },
                                 {
                                     "name": "",
@@ -12165,6 +12202,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/thingfoil/afterstream"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "IceFY - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "IceFY",
+                                    "url": "https://icefy.top/"
                                 }
                             ]
                         }
@@ -12222,6 +12268,19 @@
                             ]
                         },
                         {
+                            "full_text": "Moonflix - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "Moonflix",
+                                    "url": "https://moonflix.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/Moonflix_official_Channel"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "WatchFlix - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -12261,19 +12320,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/2cG7pyvq38"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Moonflix - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "Moonflix",
-                                    "url": "https://moonflix.site/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/Moonflix_official_Channel"
                                 }
                             ]
                         },
@@ -12537,27 +12583,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/4SJ5c9gZUQ"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinezo , ArrowTV or Flikhub - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinezo",
-                                    "url": "https://www.cinezo.net/"
-                                },
-                                {
-                                    "name": "ArrowTV",
-                                    "url": "https://arrowtv.net/"
-                                },
-                                {
-                                    "name": "Flikhub",
-                                    "url": "https://www.flikhub.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/Gx27YMK73d"
                                 }
                             ]
                         },
@@ -12895,11 +12920,15 @@
                             ]
                         },
                         {
-                            "full_text": "Flyflix - Movies / TV / Anime",
+                            "full_text": "Flyflix - Movies / TV / Anime /",
                             "links": [
                                 {
                                     "name": "Flyflix",
                                     "url": "https://flyflix.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/sssvheMsVT"
                                 }
                             ]
                         },
@@ -21303,6 +21332,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Movie Mistakes - Movie Mistakes Database w/ Community Voting",
+                            "links": [
+                                {
+                                    "name": "⁠Movie Mistakes",
+                                    "url": "https://www.moviemistakes.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "DMDb or Sign on Screen - Deaf Movie Databases / Sign Language Films / Deaf Actors",
                             "links": [
                                 {
@@ -21592,6 +21630,15 @@
                                 {
                                     "name": "Sight and Sound",
                                     "url": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠The Closet - 3D Criterion Collection Closest",
+                            "links": [
+                                {
+                                    "name": "⁠The Closet",
+                                    "url": "https://the-criterion-closet.vercel.app/"
                                 }
                             ]
                         },
@@ -23040,6 +23087,15 @@
                             ]
                         },
                         {
+                            "full_text": "Pear Desktop - YouTube Music Client w/ Adblock",
+                            "links": [
+                                {
+                                    "name": "Pear Desktop",
+                                    "url": "https://github.com/pear-devs/pear-desktop"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Audion - Streaming / Plugin-Based / /",
                             "links": [
                                 {
@@ -23053,15 +23109,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/dupitydumb/Audion"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pear Desktop - YouTube Music Client w/ Adblock",
-                            "links": [
-                                {
-                                    "name": "Pear Desktop",
-                                    "url": "https://github.com/pear-devs/pear-desktop"
                                 }
                             ]
                         },
@@ -28422,6 +28469,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠CVGM - Game Music Radio",
+                            "links": [
+                                {
+                                    "name": "⁠CVGM",
+                                    "url": "http://cvgm.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "VIP VGM - Game Music Radio",
                             "links": [
                                 {
@@ -31769,8 +31825,12 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Audioalter , WavaCity , ⁠Riffle , Bosca Ceoil , AudioMass , editor.audio , TwistedWave or xAudioPro - Online Editors",
+                            "full_text": "* BandLab **, Audioalter , WavaCity , ⁠Riffle , [Bosca Ceoil]( https://humnom.net/apps/boscaceoil/ , ⁠AudioTool , AudioMass , editor.audio , TwistedWave or xAudioPro - Online Editors / Web DAWs",
                             "links": [
+                                {
+                                    "name": "BandLab",
+                                    "url": "https://www.bandlab.com/"
+                                },
                                 {
                                     "name": "Audioalter",
                                     "url": "https://audioalter.com/"
@@ -31784,8 +31844,12 @@
                                     "url": "https://www.riffle.studio/"
                                 },
                                 {
-                                    "name": "Bosca Ceoil",
+                                    "name": "https://humnom.net/apps/boscaceoil/",
                                     "url": "https://humnom.net/apps/boscaceoil/"
+                                },
+                                {
+                                    "name": "⁠AudioTool",
+                                    "url": "https://www.audiotool.com/"
                                 },
                                 {
                                     "name": "AudioMass",
@@ -31802,15 +31866,6 @@
                                 {
                                     "name": "xAudioPro",
                                     "url": "https://www.xaudiopro.com/en/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BandLab - Digital Audio Workstation",
-                            "links": [
-                                {
-                                    "name": "BandLab",
-                                    "url": "https://www.bandlab.com/"
                                 }
                             ]
                         },
@@ -42443,6 +42498,19 @@
                             ]
                         },
                         {
+                            "full_text": "Online Jeopardy - Online Multiplayer Jeopardy /",
+                            "links": [
+                                {
+                                    "name": "Online Jeopardy",
+                                    "url": "https://jeopardy.app"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/howardchung/jeopardy"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "FlightGuesser - Flight Path Guessing Game",
                             "links": [
                                 {
@@ -49582,10 +49650,22 @@
                             ]
                         },
                         {
-                            "full_text": "Scientific Doc Paywall Bypass - Bypass Scientific Document Paywalls",
+                            "full_text": "ScholarKey / Script / or Scientific Doc Bypass - Add Open-Access Links to Academic Paper Sites",
                             "links": [
                                 {
-                                    "name": "Scientific Doc Paywall Bypass",
+                                    "name": "ScholarKey",
+                                    "url": "https://addons.mozilla.org/firefox/addon/scholarkey/"
+                                },
+                                {
+                                    "name": "Script",
+                                    "url": "https://greasyfork.org/scripts/582149"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ezraiiiiiiiiiiii/ScholarKey/"
+                                },
+                                {
+                                    "name": "Scientific Doc Bypass",
                                     "url": "https://greasyfork.org/en/scripts/35521"
                                 }
                             ]
@@ -56473,11 +56553,15 @@
                             ]
                         },
                         {
-                            "full_text": "Memory Toys , Dual N-Back or BrainScale - Memory Tests / Training",
+                            "full_text": "Memory Toys , ⁠Memory League , Dual N-Back or BrainScale - Memory Tests / Training",
                             "links": [
                                 {
                                     "name": "Memory Toys",
                                     "url": "https://memory.toys/"
+                                },
+                                {
+                                    "name": "⁠Memory League",
+                                    "url": "https://memoryleague.com/"
                                 },
                                 {
                                     "name": "Dual N-Back",
@@ -57479,6 +57563,15 @@
                                 {
                                     "name": "SequenceDB",
                                     "url": "https://sequencedb.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Erich's Packing Center - Geometric Packing Problem Archive",
+                            "links": [
+                                {
+                                    "name": "⁠Erich's Packing Center",
+                                    "url": "https://erich-friedman.github.io/packing/"
                                 }
                             ]
                         },
@@ -59640,6 +59733,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Lunaserv Global Explorer - Interactive LROC / Moon Exploration Tool",
+                            "links": [
+                                {
+                                    "name": "⁠Lunaserv Global Explorer",
+                                    "url": "https://data.im-ldi.com/lunaserv.html"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Marspedia - Mars Wiki",
                             "links": [
                                 {
@@ -59649,11 +59751,15 @@
                             ]
                         },
                         {
-                            "full_text": "ESA - European Space Agency Website",
+                            "full_text": "ESA - European Space Agency Website /",
                             "links": [
                                 {
                                     "name": "ESA",
                                     "url": "https://www.esa.int/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/ESA_Webb"
                                 }
                             ]
                         },
@@ -59698,11 +59804,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Russian Space Web - Russian Space Program News / History",
+                            "full_text": "⁠Russian Space Web - Russian Space Program News / History /",
                             "links": [
                                 {
                                     "name": "⁠Russian Space Web",
                                     "url": "https://russianspaceweb.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/russianspaceweb"
                                 }
                             ]
                         },
@@ -59738,11 +59848,15 @@
                             ]
                         },
                         {
-                            "full_text": "NASA History or NASA Ebooks - NASA Books",
+                            "full_text": "NASA History / or NASA Ebooks - NASA Books",
                             "links": [
                                 {
                                     "name": "NASA History",
                                     "url": "https://www.nasa.gov/history/history-publications-and-resources/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/NASAhistory"
                                 },
                                 {
                                     "name": "NASA Ebooks",
@@ -60155,19 +60269,31 @@
                             ]
                         },
                         {
-                            "full_text": "ESA Hubble , SpaceTelescopeLive or HubbleSite - Hubble Telescope Images",
+                            "full_text": "ESA Hubble / , SpaceTelescopeLive / or HubbleSite / - Hubble Telescope Images",
                             "links": [
                                 {
                                     "name": "ESA Hubble",
                                     "url": "https://esahubble.org/"
                                 },
                                 {
+                                    "name": "",
+                                    "url": "https://x.com/hubble_space"
+                                },
+                                {
                                     "name": "SpaceTelescopeLive",
                                     "url": "https://spacetelescopelive.org/"
                                 },
                                 {
+                                    "name": "",
+                                    "url": "https://x.com/spacetelelive"
+                                },
+                                {
                                     "name": "HubbleSite",
                                     "url": "https://hubblesite.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/NASAHubble"
                                 }
                             ]
                         },
@@ -60348,7 +60474,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Next Spaceflight / / , nextrocket.space or RocketLaunch - Rocket Launch / Space Flight Trackers",
+                            "full_text": "⁠Next Spaceflight / / , ⁠Space Notices , nextrocket.space or RocketLaunch - Rocket Launch & Spaceflight Schedules / Trackers",
                             "links": [
                                 {
                                     "name": "⁠Next Spaceflight",
@@ -60361,6 +60487,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/nextspaceflight"
+                                },
+                                {
+                                    "name": "⁠Space Notices",
+                                    "url": "https://space-notices.com/"
                                 },
                                 {
                                     "name": "nextrocket.space",
@@ -60456,11 +60586,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Gunter's Space Page - Satellite Encyclopedia / Launch Database",
+                            "full_text": "⁠Gunter's Space Page - Satellite Encyclopedia / Launch Database /",
                             "links": [
                                 {
                                     "name": "⁠Gunter's Space Page",
                                     "url": "https://space.skyrocket.de/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/Skyrocket71"
                                 }
                             ]
                         },
@@ -60709,20 +60843,28 @@
                             ]
                         },
                         {
-                            "full_text": "Flight Mechanics - Aircraft Flight Mechanics Learning",
+                            "full_text": "Flight Mechanics - Aircraft Flight Mechanics Learning /",
                             "links": [
                                 {
                                     "name": "Flight Mechanics",
                                     "url": "https://www.aircraftflightmechanics.com"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/aeronauty/Aircraft-Flight-Mechanics"
                                 }
                             ]
                         },
                         {
-                            "full_text": "eCalc - Aerospace Engineering Calculators",
+                            "full_text": "eCalc - Aerospace Engineering Calculators /",
                             "links": [
                                 {
                                     "name": "eCalc",
                                     "url": "https://www.ecalc.ch/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/eCalc_e"
                                 }
                             ]
                         },
@@ -60789,15 +60931,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/OpenVSP/OpenVSP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RCPlanes Online - RC Plane Aerodynamics / Guides",
-                            "links": [
-                                {
-                                    "name": "RCPlanes Online",
-                                    "url": "https://rcplanes.online/"
                                 }
                             ]
                         },
@@ -61018,15 +61151,19 @@
                             ]
                         },
                         {
-                            "full_text": "⁠RocketPy - High-Powered Rocket Simulator /",
+                            "full_text": "⁠RocketPy - High-Powered Rocket Simulator / /",
                             "links": [
                                 {
                                     "name": "⁠RocketPy",
-                                    "url": "https://github.com/RocketPy-Team/RocketPy"
+                                    "url": "https://docs.rocketpy.org/"
                                 },
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/b6xYnNh"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/RocketPy-Team/RocketPy"
                                 }
                             ]
                         },
@@ -61060,20 +61197,46 @@
                             ]
                         },
                         {
-                            "full_text": "⁠OscarLiang.com - FPV Drone Tutorials / Reviews",
+                            "full_text": "⁠OscarLiang.com - FPV Drone Tutorials / Reviews /",
                             "links": [
                                 {
                                     "name": "⁠OscarLiang.com",
                                     "url": "https://oscarliang.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/OscarLiang1"
                                 }
                             ]
                         },
                         {
-                            "full_text": "OpenDroneMap - Drone Mapping Software",
+                            "full_text": "RCPlanes Online - RC Plane Aerodynamics / Guides",
+                            "links": [
+                                {
+                                    "name": "RCPlanes Online",
+                                    "url": "https://rcplanes.online/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠My Balsa & Glass Workshop - RC Model Builds",
+                            "links": [
+                                {
+                                    "name": "⁠My Balsa & Glass Workshop",
+                                    "url": "https://balsaandglass.com/Balsa_Builds.html"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OpenDroneMap - Drone Mapping Software /",
                             "links": [
                                 {
                                     "name": "OpenDroneMap",
                                     "url": "https://www.opendronemap.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/OpenDroneMap/"
                                 }
                             ]
                         },
@@ -61453,11 +61616,15 @@
                             ]
                         },
                         {
-                            "full_text": "Royal Armouries Collections - Ancient Armaments Museum",
+                            "full_text": "Royal Armouries Collections - Ancient Armaments Museum /",
                             "links": [
                                 {
                                     "name": "Royal Armouries Collections",
                                     "url": "https://royalarmouries.org/collection/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/Royal_Armouries"
                                 }
                             ]
                         },
@@ -61497,11 +61664,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠The Dreadnought Project - Naval History Wiki (1880-1920)",
+                            "full_text": "⁠The Dreadnought Project - Naval History Wiki (1880-1920) /",
                             "links": [
                                 {
                                     "name": "⁠The Dreadnought Project",
                                     "url": "https://www.dreadnoughtproject.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/NavyHistorian"
                                 }
                             ]
                         },
@@ -61689,11 +61860,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠Historical Tech Tree or Calculating Empires - Historical Discovery / Tech Timelines",
+                            "full_text": "⁠Historical Tech Tree / or Calculating Empires - Historical Discovery / Tech Timelines",
                             "links": [
                                 {
                                     "name": "⁠Historical Tech Tree",
                                     "url": "https://www.historicaltechtree.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/e96JwQjUmX"
                                 },
                                 {
                                     "name": "Calculating Empires",
@@ -61742,17 +61917,29 @@
                             ]
                         },
                         {
-                            "full_text": "The Retro Web - Computer Hardware History",
+                            "full_text": "The Retro Web - Computer Hardware History / /",
                             "links": [
                                 {
                                     "name": "The Retro Web",
                                     "url": "https://theretroweb.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/HWWH7hsk2p"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://gitlab.com/ultimateretro/ultimateretro"
                                 }
                             ]
                         },
                         {
-                            "full_text": "The HP 9845 Project - HP 9845 Computer History",
+                            "full_text": "⁠HP Computer Museum or The HP 9845 Project - HP Computer History",
                             "links": [
+                                {
+                                    "name": "⁠HP Computer Museum",
+                                    "url": "https://www.hpmuseum.net/"
+                                },
                                 {
                                     "name": "The HP 9845 Project",
                                     "url": "https://www.hp9845.net/"
@@ -61760,15 +61947,23 @@
                             ]
                         },
                         {
-                            "full_text": "Folklore or TheAppleWiki - Apple Computer History",
+                            "full_text": "Folklore / or TheAppleWiki / - Apple Computer History",
                             "links": [
                                 {
                                     "name": "Folklore",
                                     "url": "https://www.folklore.org"
                                 },
                                 {
+                                    "name": "",
+                                    "url": "https://x.com/ComputerHistory"
+                                },
+                                {
                                     "name": "TheAppleWiki",
                                     "url": "https://theapplewiki.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/zk2HggAw89"
                                 }
                             ]
                         },
@@ -64195,6 +64390,15 @@
                                 {
                                     "name": "Dimensions",
                                     "url": "https://www.dimensions.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Storied Colors - Historical Catalog of Colors / Pigments",
+                            "links": [
+                                {
+                                    "name": "⁠Storied Colors",
+                                    "url": "https://storiedcolors.com/"
                                 }
                             ]
                         },
@@ -74713,19 +74917,19 @@
                             ]
                         },
                         {
-                            "full_text": "piko / / , ⁠Nitterium , ⁠QuaX or Squawker - Twitter / X Apps",
+                            "full_text": "piko / Guide / , ⁠Nitterium , ⁠QuaX or Squawker - Twitter / X Apps",
                             "links": [
                                 {
                                     "name": "piko",
-                                    "url": "https://github.com/crimera/twitter-apk"
+                                    "url": "https://github.com/crimera/piko"
+                                },
+                                {
+                                    "name": "Guide",
+                                    "url": "https://t.me/xriprepo/"
                                 },
                                 {
                                     "name": "",
                                     "url": "https://t.me/pikopatches"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/crimera/piko"
                                 },
                                 {
                                     "name": "⁠Nitterium",
@@ -79169,7 +79373,7 @@
                             ]
                         },
                         {
-                            "full_text": "Saber or Notein - Note-Taking Apps for Handwritten Notes",
+                            "full_text": "Saber or Notein / Features (search) - Note-Taking Apps for Handwritten Notes",
                             "links": [
                                 {
                                     "name": "Saber",
@@ -79178,6 +79382,10 @@
                                 {
                                     "name": "Notein",
                                     "url": "https://www.notein.ai/"
+                                },
+                                {
+                                    "name": "Features",
+                                    "url": "https://fmhy.net/mobile/#modded-apks"
                                 }
                             ]
                         },
@@ -88125,6 +88333,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠LACT - GPU Config + Monitor",
+                            "links": [
+                                {
+                                    "name": "⁠LACT",
+                                    "url": "https://github.com/ilya-zlobintsev/LACT/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "fastfetch , Archey4 , Hyfetch , Macchina or CPU-X - System Info Displays",
                             "links": [
                                 {
@@ -88523,20 +88740,20 @@
                             ]
                         },
                         {
-                            "full_text": "⁠LACT - GPU Config + Monitor",
-                            "links": [
-                                {
-                                    "name": "⁠LACT",
-                                    "url": "https://github.com/ilya-zlobintsev/LACT/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "open-gpu-kernel-modules - NVIDIA Linux Open GPU Kernel Module",
                             "links": [
                                 {
                                     "name": "open-gpu-kernel-modules",
                                     "url": "https://github.com/NVIDIA/open-gpu-kernel-modules"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "G-Helper Linux - Armoury Crate Replacement for ASUS Laptops",
+                            "links": [
+                                {
+                                    "name": "G-Helper Linux",
+                                    "url": "https://github.com/utajum/g-helper-linux"
                                 }
                             ]
                         },
@@ -89199,7 +89416,7 @@
                             ]
                         },
                         {
-                            "full_text": "Flameshot , ⁠Spectacle , Gradia / or Scrot - Screenshot Tools",
+                            "full_text": "Flameshot , ⁠Spectacle , Satty , Gradia / or Scrot - Screenshot Tools",
                             "links": [
                                 {
                                     "name": "Flameshot",
@@ -89208,6 +89425,10 @@
                                 {
                                     "name": "⁠Spectacle",
                                     "url": "https://apps.kde.org/spectacle/"
+                                },
+                                {
+                                    "name": "Satty",
+                                    "url": "https://github.com/Satty-org/Satty"
                                 },
                                 {
                                     "name": "Gradia",
@@ -92957,7 +93178,7 @@
                             ]
                         },
                         {
-                            "full_text": "Drafts , CotEditor , TextMate , Nebo , Strflow , ⁠NotesPlus , Kyun or Notenik - Text Editors / Notes",
+                            "full_text": "Drafts , CotEditor , TextMate , Nebo , Strflow , ⁠NotesPlus , Voodoopad , Kyun or Notenik - Text Editors / Notes",
                             "links": [
                                 {
                                     "name": "Drafts",
@@ -92982,6 +93203,10 @@
                                 {
                                     "name": "⁠NotesPlus",
                                     "url": "https://www.notesplus.com/"
+                                },
+                                {
+                                    "name": "Voodoopad",
+                                    "url": "https://www.voodoopad.com/"
                                 },
                                 {
                                     "name": "Kyun",
@@ -107460,7 +107685,7 @@
                             "links": [
                                 {
                                     "name": "angulismotv",
-                                    "url": "https://angulismotv-dnh.pages.dev/"
+                                    "url": "https://angulismotv.pages.dev"
                                 }
                             ]
                         },
@@ -114603,6 +114828,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Theban Mapping Project - Theban Necropolis / Valley of the Kings Mapping Project",
+                            "links": [
+                                {
+                                    "name": "⁠Theban Mapping Project",
+                                    "url": "https://thebanmappingproject.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "1940s NYC - Explore 1940's New York",
                             "links": [
                                 {
@@ -116079,15 +116313,6 @@
                                 {
                                     "name": "Coping Skills Masterlist",
                                     "url": "https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zen Habits - Develop Zen Habits",
-                            "links": [
-                                {
-                                    "name": "Zen Habits",
-                                    "url": "https://zenhabits.net/"
                                 }
                             ]
                         },
@@ -122248,7 +122473,7 @@
                             ]
                         },
                         {
-                            "full_text": "LettuceMeet , Star Fit , Samay , Pick Time , Event Rally / , Cally , Mobilizon or Gancio - Event Planning / Schedule Voting",
+                            "full_text": "LettuceMeet , Star Fit , Samay , Pick Time , Event Rally / , Groop , Cally , Mobilizon or Gancio - Event Planning / Schedule Voting",
                             "links": [
                                 {
                                     "name": "LettuceMeet",
@@ -122273,6 +122498,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/lukevella/Rallly"
+                                },
+                                {
+                                    "name": "Groop",
+                                    "url": "https://joingroop.com/"
                                 },
                                 {
                                     "name": "Cally",
@@ -123410,19 +123639,6 @@
                             ]
                         },
                         {
-                            "full_text": "Inspirograph or SpirographN - Spirograph Tool",
-                            "links": [
-                                {
-                                    "name": "Inspirograph",
-                                    "url": "https://inspiral-web.nathanfriend.com/"
-                                },
-                                {
-                                    "name": "SpirographN",
-                                    "url": "http://seedcode.com/SpirographN/sgn.html"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Silk - Create Geometric Silk Art",
                             "links": [
                                 {
@@ -123449,6 +123665,19 @@
                                 {
                                     "name": "DigitalDoily",
                                     "url": "https://codymoose.github.io/web-applications/DigitalDoily/index.html"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Inspirograph or SpirographN - Spirograph Tool",
+                            "links": [
+                                {
+                                    "name": "Inspirograph",
+                                    "url": "https://inspiral-web.nathanfriend.com/"
+                                },
+                                {
+                                    "name": "SpirographN",
+                                    "url": "http://seedcode.com/SpirographN/sgn.html"
                                 }
                             ]
                         },
@@ -125196,6 +125425,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Movie Mistakes - Movie Mistakes Database w/ Community Voting",
+                            "links": [
+                                {
+                                    "name": "⁠Movie Mistakes",
+                                    "url": "https://www.moviemistakes.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Nestflix - Fictional Media in Media Database",
                             "links": [
                                 {
@@ -125631,6 +125869,15 @@
                                 {
                                     "name": "LiveCam Croatia",
                                     "url": "https://www.livecamcroatia.com/en"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠TrafficVision - Live Traffic Cams",
+                            "links": [
+                                {
+                                    "name": "⁠TrafficVision",
+                                    "url": "https://trafficvision.live/"
                                 }
                             ]
                         },
@@ -127387,7 +127634,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "WinGet - CLI Package Manager / Browse / Auto Update /",
+                            "full_text": "WinGet - CLI Package Manager / Browse / Manifest Creator / Auto Update /",
                             "links": [
                                 {
                                     "name": "WinGet",
@@ -127396,6 +127643,10 @@
                                 {
                                     "name": "Browse",
                                     "url": "https://winstall.app/"
+                                },
+                                {
+                                    "name": "Manifest Creator",
+                                    "url": "https://github.com/microsoft/winget-create"
                                 },
                                 {
                                     "name": "Auto Update",
@@ -129236,7 +129487,7 @@
                             "links": [
                                 {
                                     "name": "PC Manager",
-                                    "url": "https://pcmanager-en.microsoft.com/"
+                                    "url": "https://pcmanager.microsoft.com/"
                                 }
                             ]
                         },
@@ -139482,12 +139733,17 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Betterbird or Thunderbird / Tray Icon / Matrix /",
+                            "full_text": "Betterbird / /",
                             "links": [
                                 {
                                     "name": "Betterbird",
                                     "url": "https://www.betterbird.eu/"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Thunderbird / Tray Icon / Matrix /",
+                            "links": [
                                 {
                                     "name": "Thunderbird",
                                     "url": "https://www.thunderbird.net/en-US/"
@@ -139503,7 +139759,7 @@
                             ]
                         },
                         {
-                            "full_text": "Mailspring - Themes /",
+                            "full_text": "Mailspring - Themes / /",
                             "links": [
                                 {
                                     "name": "Mailspring",
@@ -139520,7 +139776,7 @@
                             ]
                         },
                         {
-                            "full_text": "ElectronMail - ProtonMail Desktop Client",
+                            "full_text": "ElectronMail - ProtonMail Desktop Client /",
                             "links": [
                                 {
                                     "name": "ElectronMail",
@@ -139529,7 +139785,7 @@
                             ]
                         },
                         {
-                            "full_text": "Meru - Gmail Desktop Client",
+                            "full_text": "Meru - Gmail Desktop Client /",
                             "links": [
                                 {
                                     "name": "Meru",
@@ -139538,7 +139794,7 @@
                             ]
                         },
                         {
-                            "full_text": "Outlook",
+                            "full_text": "Outlook /",
                             "links": [
                                 {
                                     "name": "Outlook",
@@ -139547,7 +139803,7 @@
                             ]
                         },
                         {
-                            "full_text": "eM Client",
+                            "full_text": "eM Client /",
                             "links": [
                                 {
                                     "name": "eM Client",
@@ -139556,25 +139812,7 @@
                             ]
                         },
                         {
-                            "full_text": "RainLoop",
-                            "links": [
-                                {
-                                    "name": "RainLoop",
-                                    "url": "https://www.rainloop.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Roundcube",
-                            "links": [
-                                {
-                                    "name": "Roundcube",
-                                    "url": "https://roundcube.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Spike",
+                            "full_text": "Spike /",
                             "links": [
                                 {
                                     "name": "Spike",
@@ -139583,7 +139821,7 @@
                             ]
                         },
                         {
-                            "full_text": "Canary",
+                            "full_text": "Canary /",
                             "links": [
                                 {
                                     "name": "Canary",
@@ -139592,11 +139830,20 @@
                             ]
                         },
                         {
-                            "full_text": "Twobird",
+                            "full_text": "Twobird /",
                             "links": [
                                 {
                                     "name": "Twobird",
                                     "url": "https://www.twobird.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Roundcube /",
+                            "links": [
+                                {
+                                    "name": "Roundcube",
+                                    "url": "https://roundcube.net/"
                                 }
                             ]
                         }
@@ -145396,6 +145643,19 @@
                             ]
                         },
                         {
+                            "full_text": "Disdex - Server Index /",
+                            "links": [
+                                {
+                                    "name": "Disdex",
+                                    "url": "https://disdex.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/C5M7ZGHDhH"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Alternatives to MEE6 - MEE6 Alternatives /",
                             "links": [
                                 {
@@ -145472,15 +145732,6 @@
                                 {
                                     "name": "Open Source Projects",
                                     "url": "https://discord.com/open-source"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Disdex - Server Index",
-                            "links": [
-                                {
-                                    "name": "Disdex",
-                                    "url": "https://disdex.io/"
                                 }
                             ]
                         },
@@ -149925,6 +150176,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠FediDB - Fediverse Server List / Statistics",
+                            "links": [
+                                {
+                                    "name": "⁠FediDB",
+                                    "url": "https://fedidb.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Fediverse Observer - Fediverse Instances",
                             "links": [
                                 {
@@ -151242,6 +151502,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/bokub/nopaste"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Pastefy - Multi-Syntax",
+                            "links": [
+                                {
+                                    "name": "⁠Pastefy",
+                                    "url": "https://pastefy.app/"
                                 }
                             ]
                         },
@@ -153906,7 +154175,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Proton Sheets / , ⁠dSheets or EditCSVOnline - Online Spreadsheet Viewers / CSV Editors",
+                            "full_text": "⁠Proton Sheets / , DOCX Editor / , ⁠dSheets or EditCSVOnline - Online Spreadsheet Viewers / CSV Editors",
                             "links": [
                                 {
                                     "name": "⁠Proton Sheets",
@@ -153915,6 +154184,14 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/proton"
+                                },
+                                {
+                                    "name": "DOCX Editor",
+                                    "url": "https://www.docx-editor.dev/editor"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/eigenpal/docx-editor"
                                 },
                                 {
                                     "name": "⁠dSheets",
@@ -156498,11 +156775,15 @@
                             ]
                         },
                         {
-                            "full_text": "Game Pauser - Pause Unpausable Cutscenes",
+                            "full_text": "Game Pauser - Pause Unpausable Cutscenes / Source",
                             "links": [
                                 {
                                     "name": "Game Pauser",
                                     "url": "https://madebyjase.com/game-pauser/"
+                                },
+                                {
+                                    "name": "Source",
+                                    "url": "https://madebyjase.com/game-pauser/source/"
                                 }
                             ]
                         },
@@ -163367,27 +163648,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Modrinth / Redirector / /",
-                            "links": [
-                                {
-                                    "name": "Modrinth",
-                                    "url": "https://modrinth.com/"
-                                },
-                                {
-                                    "name": "Redirector",
-                                    "url": "https://github.com/devBoi76/modrinthify"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/EUHuJHt"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/modrinth/code"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "UsefulMods - Optimization & Enhancement Mods /",
                             "links": [
                                 {
@@ -163397,6 +163657,23 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/8nzHYhVUQS"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CurseForge Modpacks - Minecraft Mods / QOL Fixes /",
+                            "links": [
+                                {
+                                    "name": "CurseForge Modpacks",
+                                    "url": "https://www.curseforge.com/minecraft/search?class=modpacks"
+                                },
+                                {
+                                    "name": "QOL Fixes",
+                                    "url": "https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/curseforge"
                                 }
                             ]
                         },
@@ -163423,36 +163700,6 @@
                             ]
                         },
                         {
-                            "full_text": "CurseForge / QOL Fixes /",
-                            "links": [
-                                {
-                                    "name": "CurseForge",
-                                    "url": "https://www.curseforge.com/minecraft"
-                                },
-                                {
-                                    "name": "QOL Fixes",
-                                    "url": "https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/curseforge"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ModBay - Bedrock Edition Content /",
-                            "links": [
-                                {
-                                    "name": "ModBay",
-                                    "url": "https://modbay.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/DpNJ5fApJM"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Planet Minecraft /",
                             "links": [
                                 {
@@ -163466,11 +163713,23 @@
                             ]
                         },
                         {
-                            "full_text": "MCPEDL - Bedrock Mods",
+                            "full_text": "ModBay / or MCPEDL or ⁠BedrockExplorer - Bedrock Mods / Content",
                             "links": [
+                                {
+                                    "name": "ModBay",
+                                    "url": "https://modbay.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/DpNJ5fApJM"
+                                },
                                 {
                                     "name": "MCPEDL",
                                     "url": "https://mcpedl.com/"
+                                },
+                                {
+                                    "name": "⁠BedrockExplorer",
+                                    "url": "https://www.bedrockexplorer.com/add-ons"
                                 }
                             ]
                         },
@@ -163563,6 +163822,44 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
+                        {
+                            "full_text": "Modrinth - Minecraft Mods / Redirector / /",
+                            "links": [
+                                {
+                                    "name": "Modrinth",
+                                    "url": "https://modrinth.com/"
+                                },
+                                {
+                                    "name": "Redirector",
+                                    "url": "https://github.com/devBoi76/modrinthify"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/EUHuJHt"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/modrinth/code"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CurseForge - Minecraft Mods / QOL Fixes /",
+                            "links": [
+                                {
+                                    "name": "CurseForge",
+                                    "url": "https://www.curseforge.com/minecraft"
+                                },
+                                {
+                                    "name": "QOL Fixes",
+                                    "url": "https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/curseforge"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Fabric / / , NeoForged / / / , Forge / / , Quilt / / - Mod Loaders",
                             "links": [
@@ -164099,15 +164396,11 @@
                             ]
                         },
                         {
-                            "full_text": "MinecraftMaps , ⁠BedrockExplorer , Minecraft Forum / or Mapcraft - Minecraft Maps",
+                            "full_text": "MinecraftMaps , Minecraft Forum / or Mapcraft - Minecraft Maps",
                             "links": [
                                 {
                                     "name": "MinecraftMaps",
                                     "url": "https://www.minecraftmaps.com/"
-                                },
-                                {
-                                    "name": "⁠BedrockExplorer",
-                                    "url": "https://www.bedrockexplorer.com/queries/free-content/everyone/all/"
                                 },
                                 {
                                     "name": "Minecraft Forum",
@@ -172829,7 +173122,7 @@
                             ]
                         },
                         {
-                            "full_text": "Blender Tools - Resources , / Addons / Plugins / Textures / Renderer / 3D Nodes / AI Render",
+                            "full_text": "Blender Tools - Resources , / Communities / Addons / Plugins / Textures / Renderer / 3D Nodes / AI Render",
                             "links": [
                                 {
                                     "name": "Resources",
@@ -172838,6 +173131,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/agmmnn/awesome-blender"
+                                },
+                                {
+                                    "name": "Communities",
+                                    "url": "https://www.blender.org/community/"
                                 },
                                 {
                                     "name": "Addons",
@@ -181359,6 +181656,15 @@
                             ]
                         },
                         {
+                            "full_text": "Pear Desktop - YouTube Music Client w/ Adblock",
+                            "links": [
+                                {
+                                    "name": "Pear Desktop",
+                                    "url": "https://github.com/pear-devs/pear-desktop"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Audion - Streaming / Plugin-Based / /",
                             "links": [
                                 {
@@ -181372,15 +181678,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/dupitydumb/Audion"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pear Desktop - YouTube Music Client w/ Adblock",
-                            "links": [
-                                {
-                                    "name": "Pear Desktop",
-                                    "url": "https://github.com/pear-devs/pear-desktop"
                                 }
                             ]
                         },
@@ -186741,6 +187038,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠CVGM - Game Music Radio",
+                            "links": [
+                                {
+                                    "name": "⁠CVGM",
+                                    "url": "http://cvgm.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "VIP VGM - Game Music Radio",
                             "links": [
                                 {
@@ -190088,8 +190394,12 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Audioalter , WavaCity , ⁠Riffle , Bosca Ceoil , AudioMass , editor.audio , TwistedWave or xAudioPro - Online Editors",
+                            "full_text": "* BandLab **, Audioalter , WavaCity , ⁠Riffle , [Bosca Ceoil]( https://humnom.net/apps/boscaceoil/ , ⁠AudioTool , AudioMass , editor.audio , TwistedWave or xAudioPro - Online Editors / Web DAWs",
                             "links": [
+                                {
+                                    "name": "BandLab",
+                                    "url": "https://www.bandlab.com/"
+                                },
                                 {
                                     "name": "Audioalter",
                                     "url": "https://audioalter.com/"
@@ -190103,8 +190413,12 @@
                                     "url": "https://www.riffle.studio/"
                                 },
                                 {
-                                    "name": "Bosca Ceoil",
+                                    "name": "https://humnom.net/apps/boscaceoil/",
                                     "url": "https://humnom.net/apps/boscaceoil/"
+                                },
+                                {
+                                    "name": "⁠AudioTool",
+                                    "url": "https://www.audiotool.com/"
                                 },
                                 {
                                     "name": "AudioMass",
@@ -190121,15 +190435,6 @@
                                 {
                                     "name": "xAudioPro",
                                     "url": "https://www.xaudiopro.com/en/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BandLab - Digital Audio Workstation",
-                            "links": [
-                                {
-                                    "name": "BandLab",
-                                    "url": "https://www.bandlab.com/"
                                 }
                             ]
                         },
@@ -191752,11 +192057,15 @@
                             ]
                         },
                         {
-                            "full_text": "Memory Toys , Dual N-Back or BrainScale - Memory Tests / Training",
+                            "full_text": "Memory Toys , ⁠Memory League , Dual N-Back or BrainScale - Memory Tests / Training",
                             "links": [
                                 {
                                     "name": "Memory Toys",
                                     "url": "https://memory.toys/"
+                                },
+                                {
+                                    "name": "⁠Memory League",
+                                    "url": "https://memoryleague.com/"
                                 },
                                 {
                                     "name": "Dual N-Back",
@@ -192758,6 +193067,15 @@
                                 {
                                     "name": "SequenceDB",
                                     "url": "https://sequencedb.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Erich's Packing Center - Geometric Packing Problem Archive",
+                            "links": [
+                                {
+                                    "name": "⁠Erich's Packing Center",
+                                    "url": "https://erich-friedman.github.io/packing/"
                                 }
                             ]
                         },
@@ -194919,6 +195237,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Lunaserv Global Explorer - Interactive LROC / Moon Exploration Tool",
+                            "links": [
+                                {
+                                    "name": "⁠Lunaserv Global Explorer",
+                                    "url": "https://data.im-ldi.com/lunaserv.html"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Marspedia - Mars Wiki",
                             "links": [
                                 {
@@ -194928,11 +195255,15 @@
                             ]
                         },
                         {
-                            "full_text": "ESA - European Space Agency Website",
+                            "full_text": "ESA - European Space Agency Website /",
                             "links": [
                                 {
                                     "name": "ESA",
                                     "url": "https://www.esa.int/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/ESA_Webb"
                                 }
                             ]
                         },
@@ -194977,11 +195308,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Russian Space Web - Russian Space Program News / History",
+                            "full_text": "⁠Russian Space Web - Russian Space Program News / History /",
                             "links": [
                                 {
                                     "name": "⁠Russian Space Web",
                                     "url": "https://russianspaceweb.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/russianspaceweb"
                                 }
                             ]
                         },
@@ -195017,11 +195352,15 @@
                             ]
                         },
                         {
-                            "full_text": "NASA History or NASA Ebooks - NASA Books",
+                            "full_text": "NASA History / or NASA Ebooks - NASA Books",
                             "links": [
                                 {
                                     "name": "NASA History",
                                     "url": "https://www.nasa.gov/history/history-publications-and-resources/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/NASAhistory"
                                 },
                                 {
                                     "name": "NASA Ebooks",
@@ -195434,19 +195773,31 @@
                             ]
                         },
                         {
-                            "full_text": "ESA Hubble , SpaceTelescopeLive or HubbleSite - Hubble Telescope Images",
+                            "full_text": "ESA Hubble / , SpaceTelescopeLive / or HubbleSite / - Hubble Telescope Images",
                             "links": [
                                 {
                                     "name": "ESA Hubble",
                                     "url": "https://esahubble.org/"
                                 },
                                 {
+                                    "name": "",
+                                    "url": "https://x.com/hubble_space"
+                                },
+                                {
                                     "name": "SpaceTelescopeLive",
                                     "url": "https://spacetelescopelive.org/"
                                 },
                                 {
+                                    "name": "",
+                                    "url": "https://x.com/spacetelelive"
+                                },
+                                {
                                     "name": "HubbleSite",
                                     "url": "https://hubblesite.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/NASAHubble"
                                 }
                             ]
                         },
@@ -195627,7 +195978,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Next Spaceflight / / , nextrocket.space or RocketLaunch - Rocket Launch / Space Flight Trackers",
+                            "full_text": "⁠Next Spaceflight / / , ⁠Space Notices , nextrocket.space or RocketLaunch - Rocket Launch & Spaceflight Schedules / Trackers",
                             "links": [
                                 {
                                     "name": "⁠Next Spaceflight",
@@ -195640,6 +195991,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/nextspaceflight"
+                                },
+                                {
+                                    "name": "⁠Space Notices",
+                                    "url": "https://space-notices.com/"
                                 },
                                 {
                                     "name": "nextrocket.space",
@@ -195735,11 +196090,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Gunter's Space Page - Satellite Encyclopedia / Launch Database",
+                            "full_text": "⁠Gunter's Space Page - Satellite Encyclopedia / Launch Database /",
                             "links": [
                                 {
                                     "name": "⁠Gunter's Space Page",
                                     "url": "https://space.skyrocket.de/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/Skyrocket71"
                                 }
                             ]
                         },
@@ -195988,20 +196347,28 @@
                             ]
                         },
                         {
-                            "full_text": "Flight Mechanics - Aircraft Flight Mechanics Learning",
+                            "full_text": "Flight Mechanics - Aircraft Flight Mechanics Learning /",
                             "links": [
                                 {
                                     "name": "Flight Mechanics",
                                     "url": "https://www.aircraftflightmechanics.com"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/aeronauty/Aircraft-Flight-Mechanics"
                                 }
                             ]
                         },
                         {
-                            "full_text": "eCalc - Aerospace Engineering Calculators",
+                            "full_text": "eCalc - Aerospace Engineering Calculators /",
                             "links": [
                                 {
                                     "name": "eCalc",
                                     "url": "https://www.ecalc.ch/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/eCalc_e"
                                 }
                             ]
                         },
@@ -196068,15 +196435,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/OpenVSP/OpenVSP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RCPlanes Online - RC Plane Aerodynamics / Guides",
-                            "links": [
-                                {
-                                    "name": "RCPlanes Online",
-                                    "url": "https://rcplanes.online/"
                                 }
                             ]
                         },
@@ -196297,15 +196655,19 @@
                             ]
                         },
                         {
-                            "full_text": "⁠RocketPy - High-Powered Rocket Simulator /",
+                            "full_text": "⁠RocketPy - High-Powered Rocket Simulator / /",
                             "links": [
                                 {
                                     "name": "⁠RocketPy",
-                                    "url": "https://github.com/RocketPy-Team/RocketPy"
+                                    "url": "https://docs.rocketpy.org/"
                                 },
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/b6xYnNh"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/RocketPy-Team/RocketPy"
                                 }
                             ]
                         },
@@ -196339,20 +196701,46 @@
                             ]
                         },
                         {
-                            "full_text": "⁠OscarLiang.com - FPV Drone Tutorials / Reviews",
+                            "full_text": "⁠OscarLiang.com - FPV Drone Tutorials / Reviews /",
                             "links": [
                                 {
                                     "name": "⁠OscarLiang.com",
                                     "url": "https://oscarliang.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/OscarLiang1"
                                 }
                             ]
                         },
                         {
-                            "full_text": "OpenDroneMap - Drone Mapping Software",
+                            "full_text": "RCPlanes Online - RC Plane Aerodynamics / Guides",
+                            "links": [
+                                {
+                                    "name": "RCPlanes Online",
+                                    "url": "https://rcplanes.online/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠My Balsa & Glass Workshop - RC Model Builds",
+                            "links": [
+                                {
+                                    "name": "⁠My Balsa & Glass Workshop",
+                                    "url": "https://balsaandglass.com/Balsa_Builds.html"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OpenDroneMap - Drone Mapping Software /",
                             "links": [
                                 {
                                     "name": "OpenDroneMap",
                                     "url": "https://www.opendronemap.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/OpenDroneMap/"
                                 }
                             ]
                         },
@@ -196732,11 +197120,15 @@
                             ]
                         },
                         {
-                            "full_text": "Royal Armouries Collections - Ancient Armaments Museum",
+                            "full_text": "Royal Armouries Collections - Ancient Armaments Museum /",
                             "links": [
                                 {
                                     "name": "Royal Armouries Collections",
                                     "url": "https://royalarmouries.org/collection/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/Royal_Armouries"
                                 }
                             ]
                         },
@@ -196776,11 +197168,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠The Dreadnought Project - Naval History Wiki (1880-1920)",
+                            "full_text": "⁠The Dreadnought Project - Naval History Wiki (1880-1920) /",
                             "links": [
                                 {
                                     "name": "⁠The Dreadnought Project",
                                     "url": "https://www.dreadnoughtproject.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/NavyHistorian"
                                 }
                             ]
                         },
@@ -196968,11 +197364,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠Historical Tech Tree or Calculating Empires - Historical Discovery / Tech Timelines",
+                            "full_text": "⁠Historical Tech Tree / or Calculating Empires - Historical Discovery / Tech Timelines",
                             "links": [
                                 {
                                     "name": "⁠Historical Tech Tree",
                                     "url": "https://www.historicaltechtree.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/e96JwQjUmX"
                                 },
                                 {
                                     "name": "Calculating Empires",
@@ -197021,17 +197421,29 @@
                             ]
                         },
                         {
-                            "full_text": "The Retro Web - Computer Hardware History",
+                            "full_text": "The Retro Web - Computer Hardware History / /",
                             "links": [
                                 {
                                     "name": "The Retro Web",
                                     "url": "https://theretroweb.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/HWWH7hsk2p"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://gitlab.com/ultimateretro/ultimateretro"
                                 }
                             ]
                         },
                         {
-                            "full_text": "The HP 9845 Project - HP 9845 Computer History",
+                            "full_text": "⁠HP Computer Museum or The HP 9845 Project - HP Computer History",
                             "links": [
+                                {
+                                    "name": "⁠HP Computer Museum",
+                                    "url": "https://www.hpmuseum.net/"
+                                },
                                 {
                                     "name": "The HP 9845 Project",
                                     "url": "https://www.hp9845.net/"
@@ -197039,15 +197451,23 @@
                             ]
                         },
                         {
-                            "full_text": "Folklore or TheAppleWiki - Apple Computer History",
+                            "full_text": "Folklore / or TheAppleWiki / - Apple Computer History",
                             "links": [
                                 {
                                     "name": "Folklore",
                                     "url": "https://www.folklore.org"
                                 },
                                 {
+                                    "name": "",
+                                    "url": "https://x.com/ComputerHistory"
+                                },
+                                {
                                     "name": "TheAppleWiki",
                                     "url": "https://theapplewiki.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/zk2HggAw89"
                                 }
                             ]
                         },
@@ -199474,6 +199894,15 @@
                                 {
                                     "name": "Dimensions",
                                     "url": "https://www.dimensions.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Storied Colors - Historical Catalog of Colors / Pigments",
+                            "links": [
+                                {
+                                    "name": "⁠Storied Colors",
+                                    "url": "https://storiedcolors.com/"
                                 }
                             ]
                         },
@@ -213191,23 +213620,6 @@
                             ]
                         },
                         {
-                            "full_text": "Windsurf - Agentic IDE With Tab Completion / /",
-                            "links": [
-                                {
-                                    "name": "Windsurf",
-                                    "url": "https://www.windsurf.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/windsurf/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/3XFf78nAx5"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Cline / / or ⁠Zoo Code / - Autonomous VS Code Agents",
                             "links": [
                                 {
@@ -220447,6 +220859,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "RainLoop (Removed in 203b9c9 )",
+                            "links": [
+                                {
+                                    "name": "203b9c9",
+                                    "url": "https://github.com/fmhy/edit/commit/203b9c9caf1e983682c67491719a13c1ad3c6a43#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L429"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Zen Habits - Develop Zen Habits (Removed in 203b9c9 )",
+                            "links": [
+                                {
+                                    "name": "203b9c9",
+                                    "url": "https://github.com/fmhy/edit/commit/203b9c9caf1e983682c67491719a13c1ad3c6a43#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL676"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mainstream Calc - Mainstream Calculator (Removed in d5473be )",
                             "links": [
                                 {
@@ -222459,15 +222889,6 @@
                                 {
                                     "name": "867ae3a",
                                     "url": "https://github.com/fmhy/edit/commit/867ae3a9af27a2c8156e0ba99a8a4ce8f197f267#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L484"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PonTv - Movies / TV / Auto-Next (Removed in 460460d )",
-                            "links": [
-                                {
-                                    "name": "460460d",
-                                    "url": "https://github.com/fmhy/edit/commit/460460d0ed99b3144606bb832c17221d5624bd3c#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL49"
                                 }
                             ]
                         }
