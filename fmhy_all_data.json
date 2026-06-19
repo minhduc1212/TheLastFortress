@@ -46695,7 +46695,7 @@
                             "links": [
                                 {
                                     "name": "FullLengthAudiobooks",
-                                    "url": "https://fulllengthaudiobooks.net/"
+                                    "url": "https://fulllengthaudiobooks.com/"
                                 }
                             ]
                         },
@@ -55549,7 +55549,7 @@
                             ]
                         },
                         {
-                            "full_text": "T2M / 2 or Torrent Kitty / 2 / 3 - Torrent to Magnet Converters",
+                            "full_text": "T2M / 2 , FossTorrents T2M or Torrent Kitty / 2 / 3 - Torrent to Magnet Converters",
                             "links": [
                                 {
                                     "name": "T2M",
@@ -55558,6 +55558,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://github.com/nutbread/t2m"
+                                },
+                                {
+                                    "name": "FossTorrents T2M",
+                                    "url": "https://fosstorrents.com/t2m/"
                                 },
                                 {
                                     "name": "Torrent Kitty",
@@ -74855,7 +74859,7 @@
                             "links": [
                                 {
                                     "name": "/reddit clients/",
-                                    "url": "https://rentry.co/redditclients"
+                                    "url": "https://dan.valeena.dev/guides/reddit-clients"
                                 },
                                 {
                                     "name": "Guide",
@@ -75434,10 +75438,14 @@
                             ]
                         },
                         {
-                            "full_text": "Cherrygram - Advanced Client",
+                            "full_text": "Cherrygram - Advanced Client /",
                             "links": [
                                 {
                                     "name": "Cherrygram",
+                                    "url": "https://play.google.com/store/apps/details?id=uz.unnarsx.cherrygram"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://github.com/arsLan4k1390/Cherrygram"
                                 }
                             ]
@@ -85753,7 +85761,7 @@
                             "links": [
                                 {
                                     "name": "/reddit clients/",
-                                    "url": "https://rentry.co/redditclients"
+                                    "url": "https://dan.valeena.dev/guides/reddit-clients"
                                 },
                                 {
                                     "name": "Guide",
@@ -115137,6 +115145,15 @@
                                     "url": "https://broadbandmap.fcc.gov/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "Fossil Fuel Map - Fossil Fuel Map Dependency Map",
+                            "links": [
+                                {
+                                    "name": "Fossil Fuel Map",
+                                    "url": "https://www.fossilfuelmap.com/"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -128649,19 +128666,24 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Awesome Web Desktops , Virtual OS Museum or Simone's Computer - Browser Operating Systems / VMs",
+                            "full_text": "Awesome Web Desktops or Simone's Computer - Browser Operating Systems / VMs",
                             "links": [
                                 {
                                     "name": "Awesome Web Desktops",
                                     "url": "https://github.com/syxanash/awesome-web-desktops"
                                 },
                                 {
-                                    "name": "Virtual OS Museum",
-                                    "url": "http://virtualosmuseum.org/"
-                                },
-                                {
                                     "name": "Simone's Computer",
                                     "url": "https://simone.computer/#/webdesktops"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Virtual OS Museum - Multi Virtual Machine Compilation (1700+)",
+                            "links": [
+                                {
+                                    "name": "Virtual OS Museum",
+                                    "url": "http://virtualosmuseum.org/"
                                 }
                             ]
                         },
@@ -140982,11 +141004,15 @@
                             ]
                         },
                         {
-                            "full_text": "WebOasis /",
+                            "full_text": "WebOasis , 2 /",
                             "links": [
                                 {
                                     "name": "WebOasis",
                                     "url": "https://ndsamuelson.github.io/weboas-is/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://wobblemaster.blogspot.com/"
                                 },
                                 {
                                     "name": "",
@@ -145391,7 +145417,7 @@
                             ]
                         },
                         {
-                            "full_text": "Emoji List , Slackmoji or emoji.gg - Discord Emojis / GIFs",
+                            "full_text": "Emoji List , Slackmoji , Discadia (Emojis) or emoji.gg - Discord Emojis / GIFs",
                             "links": [
                                 {
                                     "name": "Emoji List",
@@ -145400,6 +145426,10 @@
                                 {
                                     "name": "Slackmoji",
                                     "url": "https://github.com/seanprashad/slackmoji"
+                                },
+                                {
+                                    "name": "Discadia (Emojis)",
+                                    "url": "https://discadia.com/emojis/"
                                 },
                                 {
                                     "name": "emoji.gg",
@@ -148333,11 +148363,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠LikeSearch - Search Your Liked YouTube Videos",
+                            "full_text": "YT Non Biased Searcher - Algorithm-Free YouTube Search / Improved Sorting",
                             "links": [
                                 {
-                                    "name": "⁠LikeSearch",
-                                    "url": "https://likesearch.kaustlabs.com/"
+                                    "name": "YT Non Biased Searcher",
+                                    "url": "https://kvnaust.github.io/YouTube-NonBiasedVideoSearcher"
                                 }
                             ]
                         },
@@ -148360,6 +148390,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/RWv7bGKwHr"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠LikeSearch - Search Your Liked YouTube Videos",
+                            "links": [
+                                {
+                                    "name": "⁠LikeSearch",
+                                    "url": "https://likesearch.kaustlabs.com/"
                                 }
                             ]
                         },
@@ -152316,7 +152355,7 @@
                                 },
                                 {
                                     "name": "Extension",
-                                    "url": "https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko"
+                                    "url": "https://quillbot.com/app"
                                 },
                                 {
                                     "name": "Features",
@@ -152569,6 +152608,15 @@
                                 {
                                     "name": "Symbol.so",
                                     "url": "https://symbol.so/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Unicode Table",
+                            "links": [
+                                {
+                                    "name": "Unicode Table",
+                                    "url": "https://www.grogllc.com/unicodetable.html"
                                 }
                             ]
                         },
@@ -154099,11 +154147,15 @@
                             ]
                         },
                         {
-                            "full_text": "CryptPad",
+                            "full_text": "CryptPad / Instances",
                             "links": [
                                 {
                                     "name": "CryptPad",
                                     "url": "https://cryptpad.fr/"
+                                },
+                                {
+                                    "name": "Instances",
+                                    "url": "https://cryptpad.org/instances/"
                                 }
                             ]
                         },
