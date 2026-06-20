@@ -1167,7 +1167,8 @@
           "tags": [
             "Self-host",
             "Hard-sub",
-            "Soft-sub"
+            "Soft-sub",
+            "Easy download"
           ],
           "rank": 25,
           "is_licensed": false,
@@ -2097,7 +2098,7 @@
                 "url": "https://yumezone.live/home"
               }
             ],
-            "info": "each made by different people, uses CF worker proxy."
+            "info": "note : each made by different people, uses CF worker proxy."
           }
         },
         {
@@ -2712,6 +2713,32 @@
           }
         },
         {
+          "id": "kaorii",
+          "title": "Kaori",
+          "link": "https://kaorii.app/",
+          "icon": "https://static.everythingmoe.com/icons/kaorii.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 68,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "otakutsu",
           "title": "Otakutsu",
           "link": "https://otakutsu.cc/",
@@ -2722,7 +2749,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2747,7 +2774,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2772,7 +2799,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2786,32 +2813,6 @@
               "Content depends on the websites it scrapes"
             ],
             "info": "note: Arabic website, but have english language"
-          }
-        },
-        {
-          "id": "kaorii",
-          "title": "Kaori",
-          "link": "https://kaorii.app/",
-          "icon": "https://static.everythingmoe.com/icons/kaorii.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 71,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options",
-              "Nice interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ]
           }
         },
         {
@@ -10210,7 +10211,7 @@
         {
           "id": "blacktoon",
           "title": "Blacktoon",
-          "link": "https://blacktoon.cafe/",
+          "link": "https://blacktoon.cc",
           "icon": "https://static.everythingmoe.com/icons/blacktoon.png",
           "tags": [
             "Raws",
@@ -10233,8 +10234,12 @@
             ],
             "altlinks": [
               {
-                "name": "412",
-                "url": "https://blacktoon412.com/"
+                "name": ".cafe",
+                "url": "https://blacktoon.cafe/"
+              },
+              {
+                "name": "414",
+                "url": "https://blacktoon414.com/"
               },
               {
                 "name": "domain index",
@@ -36338,7 +36343,8 @@
       "tags": [
         "Self-host",
         "Hard-sub",
-        "Soft-sub"
+        "Soft-sub",
+        "Easy download"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -37268,7 +37274,7 @@
             "url": "https://yumezone.live/home"
           }
         ],
-        "info": "each made by different people, uses CF worker proxy."
+        "info": "note : each made by different people, uses CF worker proxy."
       }
     },
     "fanime": {
@@ -37882,6 +37888,32 @@
         "domains": "streamzone1.site"
       }
     },
+    "kaorii": {
+      "id": "kaorii",
+      "title": "Kaori",
+      "link": "https://kaorii.app/",
+      "icon": "https://static.everythingmoe.com/icons/kaorii.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "otakutsu": {
       "id": "otakutsu",
       "title": "Otakutsu",
@@ -37957,32 +37989,6 @@
           "Content depends on the websites it scrapes"
         ],
         "info": "note: Arabic website, but have english language"
-      }
-    },
-    "kaorii": {
-      "id": "kaorii",
-      "title": "Kaori",
-      "link": "https://kaorii.app/",
-      "icon": "https://static.everythingmoe.com/icons/kaorii.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options",
-          "Nice interface"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
       }
     },
     "anipm": {
@@ -45336,7 +45342,7 @@
     "blacktoon": {
       "id": "blacktoon",
       "title": "Blacktoon",
-      "link": "https://blacktoon.cafe/",
+      "link": "https://blacktoon.cc",
       "icon": "https://static.everythingmoe.com/icons/blacktoon.png",
       "tags": [
         "Raws",
@@ -45359,8 +45365,12 @@
         ],
         "altlinks": [
           {
-            "name": "412",
-            "url": "https://blacktoon412.com/"
+            "name": ".cafe",
+            "url": "https://blacktoon.cafe/"
+          },
+          {
+            "name": "414",
+            "url": "https://blacktoon414.com/"
           },
           {
             "name": "domain index",

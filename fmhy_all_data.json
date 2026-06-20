@@ -23,7 +23,8 @@
                     "level": "h3",
                     "text_explanations": [
                         "How can I safely scan files, and determine if detections are false positives?",
-                        "Before installing any file, it's recommended to scan the setup / install withVirusTotal. If you're having trouble determining if something is a false positive, refer to theScan Guide, or send it to us inDiscordand we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox likeTriage.",
+                        "Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you.",
+                        "Before installing any file, it's recommended to scan the setup / install withVirusTotaland run it inTriage(sandbox). If you're having trouble determining if something is a false positive, refer to theScan Guide, or send it to us inDiscordand we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox likeTriage.",
                         "INFO",
                         "Most antivirus programs are unnecessary and can cause slowdowns. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run aMalwarebytesscan from time to time for extra protection."
                     ],
@@ -714,461 +715,25 @@
                     "heading": "2026",
                     "level": "h2",
                     "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Monthly Updates [June] - Published on Jun 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [June]",
-                                    "url": "https://fmhy.net/posts/june-2026"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [May] - Published on May 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [May]",
-                                    "url": "https://fmhy.net/posts/may-2026"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [April] - Published on Apr 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [April]",
-                                    "url": "https://fmhy.net/posts/april-2026"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [March] - Published on Mar 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [March]",
-                                    "url": "https://fmhy.net/posts/mar-2026"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Keep Android Open 🔓 - Published on Feb 26",
-                            "links": [
-                                {
-                                    "name": "Keep Android Open 🔓",
-                                    "url": "https://fmhy.net/posts/KeepAndroidOpen"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [February] - Published on Feb 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [February]",
-                                    "url": "https://fmhy.net/posts/feb-2026"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [January] - Published on Jan 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [January]",
-                                    "url": "https://fmhy.net/posts/jan-2026"
-                                }
-                            ]
-                        }
-                    ]
+                    "resource_items": []
                 },
                 {
                     "heading": "2025",
                     "level": "h2",
                     "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Changelog Sites - Published on Dec 12",
-                            "links": [
-                                {
-                                    "name": "Changelog Sites",
-                                    "url": "https://fmhy.net/posts/changelog-sites"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [December] - Published on Dec 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [December]",
-                                    "url": "https://fmhy.net/posts/dec-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [November] - Published on Nov 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [November]",
-                                    "url": "https://fmhy.net/posts/Nov-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [Oct] - Published on Oct 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [Oct]",
-                                    "url": "https://fmhy.net/posts/oct-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Why We're Here 🤍 - Published on Sep 11",
-                            "links": [
-                                {
-                                    "name": "Why We're Here 🤍",
-                                    "url": "https://fmhy.net/posts/WWH"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Fight Chat Control 🔒 - Published on Sep 4",
-                            "links": [
-                                {
-                                    "name": "Fight Chat Control 🔒",
-                                    "url": "https://fmhy.net/posts/FCC"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [Sept] - Published on Aug 31",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [Sept]",
-                                    "url": "https://fmhy.net/posts/sept-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [August] - Published on Aug 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [August]",
-                                    "url": "https://fmhy.net/posts/aug-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [July] - Published on Jul 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [July]",
-                                    "url": "https://fmhy.net/posts/july-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [June] - Published on Jun 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [June]",
-                                    "url": "https://fmhy.net/posts/june-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [May] - Published on May 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [May]",
-                                    "url": "https://fmhy.net/posts/may-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "The Internet Archive needs your help. - Published on Apr 21",
-                            "links": [
-                                {
-                                    "name": "The Internet Archive needs your help.",
-                                    "url": "https://fmhy.net/posts/support-ia"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [April] - Published on Apr 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [April]",
-                                    "url": "https://fmhy.net/posts/april-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [March] - Published on Mar 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [March]",
-                                    "url": "https://fmhy.net/posts/mar-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [Feb] - Published on Feb 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [Feb]",
-                                    "url": "https://fmhy.net/posts/feb-2025"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [January] - Published on Jan 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [January]",
-                                    "url": "https://fmhy.net/posts/jan-2025"
-                                }
-                            ]
-                        }
-                    ]
+                    "resource_items": []
                 },
                 {
                     "heading": "2024",
                     "level": "h2",
                     "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Monthly Updates [December] - Published on Dec 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [December]",
-                                    "url": "https://fmhy.net/posts/dec-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [November] - Published on Nov 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [November]",
-                                    "url": "https://fmhy.net/posts/nov-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Internet Archive Breach - Published on Oct 9",
-                            "links": [
-                                {
-                                    "name": "Internet Archive Breach",
-                                    "url": "https://fmhy.net/posts/Internet-Archive"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [Oct 2024] - Published on Oct 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [Oct 2024]",
-                                    "url": "https://fmhy.net/posts/oct-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [Sept] - Published on Sep 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [Sept]",
-                                    "url": "https://fmhy.net/posts/sept-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [August] - Published on Aug 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [August]",
-                                    "url": "https://fmhy.net/posts/aug-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [July] - Published on Jul 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [July]",
-                                    "url": "https://fmhy.net/posts/july-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [June] - Published on Jun 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [June]",
-                                    "url": "https://fmhy.net/posts/june-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [May] - Published on May 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [May]",
-                                    "url": "https://fmhy.net/posts/may-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [April] - Published on Apr 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [April]",
-                                    "url": "https://fmhy.net/posts/april-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [March] - Published on Mar 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [March]",
-                                    "url": "https://fmhy.net/posts/march-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [Feb] - Published on Feb 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [Feb]",
-                                    "url": "https://fmhy.net/posts/feb-2024"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [Jan] & Happy New Year! - Published on Jan 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [Jan] & Happy New Year!",
-                                    "url": "https://fmhy.net/posts/jan-2024"
-                                }
-                            ]
-                        }
-                    ]
+                    "resource_items": []
                 },
                 {
                     "heading": "2023",
                     "level": "h2",
                     "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Monthly Updates [December] 250k members!! - Published on Dec 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [December] 250k members!!",
-                                    "url": "https://fmhy.net/posts/dec-2023"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "New Website - Published on Nov 12",
-                            "links": [
-                                {
-                                    "name": "New Website",
-                                    "url": "https://fmhy.net/posts/new-site"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [November] - Published on Nov 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [November]",
-                                    "url": "https://fmhy.net/posts/nov-2023"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Public Discord Server - Published on Oct 24",
-                            "links": [
-                                {
-                                    "name": "Public Discord Server",
-                                    "url": "https://fmhy.net/posts/discord"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [October] - Published on Oct 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [October]",
-                                    "url": "https://fmhy.net/posts/oct-2023"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [September] - Published on Sep 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [September]",
-                                    "url": "https://fmhy.net/posts/sept-2023"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [August] - Published on Aug 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [August]",
-                                    "url": "https://fmhy.net/posts/aug-2023"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [July] - Published on Jul 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [July]",
-                                    "url": "https://fmhy.net/posts/july-2023"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [June] - Published on Jun 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [June]",
-                                    "url": "https://fmhy.net/posts/jun-2023"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [May] - Published on May 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [May]",
-                                    "url": "https://fmhy.net/posts/may-2023"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Monthly Updates [April] - Published on Apr 1",
-                            "links": [
-                                {
-                                    "name": "Monthly Updates [April]",
-                                    "url": "https://fmhy.net/posts/april-2023"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "How-to Search FMHY - Published on Jan 7",
-                            "links": [
-                                {
-                                    "name": "How-to Search FMHY",
-                                    "url": "https://fmhy.net/posts/search"
-                                }
-                            ]
-                        }
-                    ]
+                    "resource_items": []
                 }
             ]
         }
@@ -2611,11 +2176,19 @@
                             ]
                         },
                         {
-                            "full_text": "Whonix / / , Qubes / or Tails / / - Privacy-Focused Operating Systems",
+                            "full_text": "Whonix / / / / , Qubes / / / or Tails / / / - Privacy-Focused Operating Systems",
                             "links": [
                                 {
                                     "name": "Whonix",
                                     "url": "https://www.whonix.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/Whonix"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://twitter.com/Whonix"
                                 },
                                 {
                                     "name": "",
@@ -2631,11 +2204,23 @@
                                 },
                                 {
                                     "name": "",
+                                    "url": "https://www.reddit.com/r/Qubes"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://twitter.com/QubesOS"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://github.com/QubesOS"
                                 },
                                 {
                                     "name": "Tails",
                                     "url": "https://tails.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://twitter.com/Tails_live"
                                 },
                                 {
                                     "name": "",
@@ -2743,11 +2328,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠DataRequests - GDPR Request Generator / Tools",
+                            "full_text": "⁠DataRequests - GDPR Request Generator / Tools /",
                             "links": [
                                 {
                                     "name": "⁠DataRequests",
                                     "url": "https://www.datarequests.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/datenanfragen"
                                 }
                             ]
                         },
@@ -2856,11 +2445,15 @@
                             ]
                         },
                         {
-                            "full_text": "Forensic Focus - Digital Forensics Discussion Forums",
+                            "full_text": "Forensic Focus - Digital Forensics Discussion Forums /",
                             "links": [
                                 {
                                     "name": "Forensic Focus",
                                     "url": "https://www.forensicfocus.com/forums/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/97zKvTXHeS"
                                 }
                             ]
                         },
@@ -3722,11 +3315,19 @@
                             ]
                         },
                         {
-                            "full_text": "Ente Auth - 2FA / All Platforms / /",
+                            "full_text": "Ente Auth - 2FA / All Platforms / / / /",
                             "links": [
                                 {
                                     "name": "Ente Auth",
                                     "url": "https://ente.com/auth/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/enteio"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://reddit.com/r/enteio"
                                 },
                                 {
                                     "name": "",
@@ -3739,15 +3340,11 @@
                             ]
                         },
                         {
-                            "full_text": "Aegis - 2FA / / /",
+                            "full_text": "Aegis - 2FA / /",
                             "links": [
                                 {
                                     "name": "Aegis",
                                     "url": "https://getaegis.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://x.com/beemdevelopment"
                                 },
                                 {
                                     "name": "",
@@ -3778,11 +3375,19 @@
                             ]
                         },
                         {
-                            "full_text": "2FAS - 2FA / / /",
+                            "full_text": "2FAS - 2FA / / / / /",
                             "links": [
                                 {
                                     "name": "2FAS",
                                     "url": "https://2fas.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/2FAS_com"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/2fas_com/"
                                 },
                                 {
                                     "name": "",
@@ -3795,7 +3400,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Proton Authenticator - 2FA / All Platforms /",
+                            "full_text": "⁠Proton Authenticator - 2FA / All Platforms / /",
                             "links": [
                                 {
                                     "name": "⁠Proton Authenticator",
@@ -3804,6 +3409,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/proton"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/orgs/protonpass/repositories"
                                 }
                             ]
                         },
@@ -3864,11 +3473,15 @@
                             ]
                         },
                         {
-                            "full_text": "Yubioath - 2FA / YubiKey Support / /",
+                            "full_text": "Yubioath - 2FA / YubiKey Support / / /",
                             "links": [
                                 {
                                     "name": "Yubioath",
                                     "url": "https://developers.yubico.com/yubioath-flutter/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/yubico"
                                 },
                                 {
                                     "name": "",
@@ -6404,27 +6017,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Qwen - Qwen3.7-Max / Qwen3.7-Plus / Sign-Up / / /",
-                            "links": [
-                                {
-                                    "name": "Qwen",
-                                    "url": "https://chat.qwen.ai/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/Qwen_AI/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/CV4E9rpNSD"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/QwenLM"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "DeepSeek - V4-Pro (Expert) / V4-Flash (Instant) / Sign-Up / Unlimited / Add Features / / /",
                             "links": [
                                 {
@@ -6450,6 +6042,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Z.ai - GLM-5.2 / GLM-5-Turbo / Slides / Sign-Up / /",
+                            "links": [
+                                {
+                                    "name": "⁠Z.ai",
+                                    "url": "https://chat.z.ai/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/QR7SARHRxK"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/zai-org"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Google AI Studio - Gemini 3.1 Pro / Gemini 3.5 Flash / Google Sign-Up / Add Features / /",
                             "links": [
                                 {
@@ -6467,23 +6076,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/gemini"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Z.ai - GLM-5.2 / GLM-5-Turbo / Slides / Sign-Up / /",
-                            "links": [
-                                {
-                                    "name": "⁠Z.ai",
-                                    "url": "https://chat.z.ai/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/QR7SARHRxK"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/zai-org"
                                 }
                             ]
                         },
@@ -6530,6 +6122,27 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/MoonshotAI"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Qwen - Qwen3.7-Max / Qwen3.7-Plus / Sign-Up / / /",
+                            "links": [
+                                {
+                                    "name": "Qwen",
+                                    "url": "https://chat.qwen.ai/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/Qwen_AI/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/CV4E9rpNSD"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/QwenLM"
                                 }
                             ]
                         },
@@ -10220,6 +9833,19 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Hermes Agent - General Purpose Agent /",
+                            "links": [
+                                {
+                                    "name": "Hermes Agent",
+                                    "url": "https://hermes-agent.nousresearch.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/nousresearch/hermes-agent"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Hermes Agent - General Purpose Agent / Docs / /",
                             "links": [
                                 {
@@ -11666,23 +11292,6 @@
                             ]
                         },
                         {
-                            "full_text": "Poprink - Movies / TV / Anime / Auto-Next / /",
-                            "links": [
-                                {
-                                    "name": "Poprink",
-                                    "url": "https://www.popr.ink/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/poprink"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/Wvxr9YsHHf"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Coreflix - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -12010,6 +11619,28 @@
                             ]
                         },
                         {
+                            "full_text": "Filmora - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "Filmora",
+                                    "url": "https://filmora.qzz.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/QfeZeC8GeS"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Apexmovies - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Apexmovies",
+                                    "url": "https://apexmovies.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Watchott - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -12049,6 +11680,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/XyMuMpnvF4"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Moovie - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Moovie",
+                                    "url": "https://moovie.fun/"
                                 }
                             ]
                         },
@@ -12309,15 +11949,15 @@
                             ]
                         },
                         {
-                            "full_text": "MovieBox , 2 , 3 , 4 - Movies / TV / Anime",
+                            "full_text": "MovieBox , 2 , 3 , 4 - Movies / TV / Anime / Mirrors",
                             "links": [
                                 {
                                     "name": "MovieBox",
-                                    "url": "https://themoviebox.org/"
+                                    "url": "https://movieboxonline.net"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://movieboxonline.net"
+                                    "url": "https://themoviebox.org/"
                                 },
                                 {
                                     "name": "3",
@@ -12326,6 +11966,10 @@
                                 {
                                     "name": "4",
                                     "url": "https://netnaija.film"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://moviebox.co/"
                                 }
                             ]
                         },
@@ -12348,6 +11992,15 @@
                                 {
                                     "name": "CinemaCity",
                                     "url": "https://cinemacity.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Stremax - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Stremax",
+                                    "url": "https://stremax.pages.dev/"
                                 }
                             ]
                         },
@@ -12721,15 +12374,6 @@
                             ]
                         },
                         {
-                            "full_text": "Fireflix - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Fireflix",
-                                    "url": "https://fireflix.pages.dev/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "1Shows , 1Flex or 1Tube - Movies / TV / Anime / /",
                             "links": [
                                 {
@@ -12794,6 +12438,15 @@
                                 {
                                     "name": "Filmex",
                                     "url": "https://filmex.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Fireflix - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Fireflix",
+                                    "url": "https://fireflix.pages.dev/"
                                 }
                             ]
                         },
@@ -13236,6 +12889,15 @@
                             ]
                         },
                         {
+                            "full_text": "SMovies - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "SMovies",
+                                    "url": "https://smovies.co/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "WatchFreeStreams - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -13245,6 +12907,15 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/WatchFreeStreams"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KiraStreams - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "KiraStreams",
+                                    "url": "https://kirastreams.onlykirastreams.workers.dev/"
                                 }
                             ]
                         },
@@ -13314,11 +12985,28 @@
                             ]
                         },
                         {
-                            "full_text": "StreameX - Movies / TV / Anime",
+                            "full_text": "Zynema - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "Zynema",
+                                    "url": "https://damovies.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/pW4vjXDDJM"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "StreameX , 2 - Movies / TV / Anime",
                             "links": [
                                 {
                                     "name": "StreameX",
                                     "url": "https://streamex.sh/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://streamex.ws/"
                                 }
                             ]
                         },
@@ -16337,7 +16025,7 @@
                             ]
                         },
                         {
-                            "full_text": "DamiTV , 2 - TV / Sports",
+                            "full_text": "DamiTV , 2 , 3 - TV / Sports",
                             "links": [
                                 {
                                     "name": "DamiTV",
@@ -16346,6 +16034,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://damitvsports.com/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://www.90minutes.pro/"
                                 }
                             ]
                         },
@@ -16389,6 +16081,23 @@
                                 {
                                     "name": "Watchott Live",
                                     "url": "https://iptv.watchott.ru/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SportOnTV - TV / Sports / / Mirrors",
+                            "links": [
+                                {
+                                    "name": "SportOnTV",
+                                    "url": "https://sportontv.space/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/YhQPSSMps2"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://sotproxy.ext.io"
                                 }
                             ]
                         },
@@ -16447,19 +16156,6 @@
                                 {
                                     "name": "TV247US",
                                     "url": "https://tv247us.vip/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SportOnTV - TV / Sports /",
-                            "links": [
-                                {
-                                    "name": "SportOnTV",
-                                    "url": "https://sportontv.biz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/YhQPSSMps2"
                                 }
                             ]
                         },
@@ -21569,15 +21265,6 @@
                                 {
                                     "name": "WhatToWatchOn.tv",
                                     "url": "https://whattowatchon.tv/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RYM Ultimate Film Lists - In-Depth Film Genre & Recommendation Lists",
-                            "links": [
-                                {
-                                    "name": "RYM Ultimate Film Lists",
-                                    "url": "https://rateyourmusic.com/list/TheScientist/rym-ultimate-film-genres-and-lists/"
                                 }
                             ]
                         },
@@ -32839,7 +32526,7 @@
                             ]
                         },
                         {
-                            "full_text": "UnionCrax - Download / Torrent / Pre-Installed / Launcher",
+                            "full_text": "UnionCrax - Download / Torrent / Pre-Installed / Launcher / Mirrors",
                             "links": [
                                 {
                                     "name": "UnionCrax",
@@ -32848,6 +32535,10 @@
                                 {
                                     "name": "Launcher",
                                     "url": "https://union-crax.xyz/direct"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://rentry.co/ucxyz"
                                 }
                             ]
                         },
@@ -33219,7 +32910,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits."
+                        "Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits. Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you. Make sure to install anadblocker(full version of uBlock Origin)."
                     ],
                     "resource_items": [
                         {
@@ -34043,6 +33734,19 @@
                                 {
                                     "name": "File Hunter",
                                     "url": "https://www.file-hunter.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠⁠Abandonware France - Abandonware Games / Use Translator",
+                            "links": [
+                                {
+                                    "name": "⁠⁠Abandonware France",
+                                    "url": "https://www.abandonware-france.org/index.php"
+                                },
+                                {
+                                    "name": "Translator",
+                                    "url": "https://fmhy.net/text-tools/#translators"
                                 }
                             ]
                         },
@@ -49529,11 +49233,15 @@
                             ]
                         },
                         {
-                            "full_text": "Sci-Hub - Science Articles / Research Papers / Mirrors / VK /",
+                            "full_text": "Sci-Hub , 2 - Science Articles / Research Papers / Mirrors / VK /",
                             "links": [
                                 {
                                     "name": "Sci-Hub",
                                     "url": "https://sci-hub.ru/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://sci-hub.red/"
                                 },
                                 {
                                     "name": "Mirrors",
@@ -52598,7 +52306,7 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "Always scan downloaded software withVirusTotalbefore installation or run it in a sandboxed environment likeTriageto prevent system compromise. Note that any apps with fake names are generally not worth using. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs."
+                        "Always scan downloaded software withVirusTotalbefore installation and run it in a sandboxed environment likeTriageto prevent system compromise. Note that any apps with fake names are generally not worth using. Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you. Make sure to install anadblocker(full version of uBlock Origin)."
                     ],
                     "resource_items": [
                         {
@@ -53439,7 +53147,7 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, useredirect bypassersto skip link shorteners."
+                        "General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, useredirect bypassersto skip link shorteners. Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you. Make sure to install anadblocker(full version of uBlock Origin)."
                     ],
                     "resource_items": [
                         {
@@ -57532,11 +57240,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Algebrica - Mathematical Concepts Database",
+                            "full_text": "⁠Algebrica or ⁠PlanetMath - Mathematical Concept Databases",
                             "links": [
                                 {
                                     "name": "⁠Algebrica",
                                     "url": "https://algebrica.org/"
+                                },
+                                {
+                                    "name": "⁠PlanetMath",
+                                    "url": "https://planetmath.org/"
                                 }
                             ]
                         },
@@ -57648,6 +57360,15 @@
                                 {
                                     "name": "Algebra Rules",
                                     "url": "https://algebrarules.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Linear Algebra Done Right - Linear Algebra Book / Guide",
+                            "links": [
+                                {
+                                    "name": "Linear Algebra Done Right",
+                                    "url": "https://linear.axler.net/"
                                 }
                             ]
                         },
@@ -61377,6 +61098,15 @@
                                 {
                                     "name": "",
                                     "url": "https://gitlab.com/flightgear/flightgear"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Pheonix RC - RC Plane + Helicopter Simulator",
+                            "links": [
+                                {
+                                    "name": "⁠Pheonix RC",
+                                    "url": "https://www.rc-thoughts.com/phoenix-sim/"
                                 }
                             ]
                         },
@@ -86323,10 +86053,10 @@
                             ]
                         },
                         {
-                            "full_text": "PocketCasts - Podcasts",
+                            "full_text": "Pocket Casts - Podcasts",
                             "links": [
                                 {
-                                    "name": "PocketCasts",
+                                    "name": "Pocket Casts",
                                     "url": "https://www.pocketcasts.com/"
                                 }
                             ]
@@ -93704,15 +93434,6 @@
                                 {
                                     "name": "MacKed",
                                     "url": "https://macked.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TorrentMac - Use Adblock",
-                            "links": [
-                                {
-                                    "name": "TorrentMac",
-                                    "url": "https://www.torrentmac.net/"
                                 }
                             ]
                         },
@@ -107889,15 +107610,6 @@
                             ]
                         },
                         {
-                            "full_text": "novelas360 - TV / Drama",
-                            "links": [
-                                {
-                                    "name": "novelas360",
-                                    "url": "https://novelas360.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Tlnovelas - TV / Drama",
                             "links": [
                                 {
@@ -113006,19 +112718,28 @@
                             ]
                         },
                         {
-                            "full_text": "Formula Timer or F1 Dash / - F1 Live Stats Dashboards",
+                            "full_text": "Formula Timer or Nitrous / - F1 Live Stats Dashboards",
                             "links": [
                                 {
                                     "name": "Formula Timer",
                                     "url": "https://formula-timer.com/livetiming"
                                 },
                                 {
-                                    "name": "F1 Dash",
-                                    "url": "https://f1-dash.com/"
+                                    "name": "Nitrous",
+                                    "url": "https://nitrous.software"
                                 },
                                 {
                                     "name": "",
                                     "url": "https://github.com/slowlydev/f1-dash"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠FotMob - Football Stats Platform",
+                            "links": [
+                                {
+                                    "name": "⁠FotMob",
+                                    "url": "https://www.fotmob.com/"
                                 }
                             ]
                         },
@@ -113673,11 +113394,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠WikiMapped or ⁠Wikimap / - Wikipedia Articles Geolocated on Map",
+                            "full_text": "⁠WikiMapped , Wiki-Map or ⁠Wikimap / - Wikipedia Articles Geolocated on Map",
                             "links": [
                                 {
                                     "name": "⁠WikiMapped",
                                     "url": "https://wikimapped.mukul-mehta.in/"
+                                },
+                                {
+                                    "name": "Wiki-Map",
+                                    "url": "https://wiki-map.com/"
                                 },
                                 {
                                     "name": "⁠Wikimap",
@@ -117119,8 +116844,12 @@
                             ]
                         },
                         {
-                            "full_text": "Energize , Cronometer , Waistline or Nutritionix - Nutrition Tracking Apps",
+                            "full_text": "Waistline , Energize , Cronometer or Nutritionix - Nutrition Tracking Apps",
                             "links": [
+                                {
+                                    "name": "Waistline",
+                                    "url": "https://github.com/davidhealey/waistline"
+                                },
                                 {
                                     "name": "Energize",
                                     "url": "https://codeberg.org/epinez/Energize/"
@@ -117128,10 +116857,6 @@
                                 {
                                     "name": "Cronometer",
                                     "url": "https://cronometer.com/"
-                                },
-                                {
-                                    "name": "Waistline",
-                                    "url": "https://github.com/davidhealey/waistline"
                                 },
                                 {
                                     "name": "Nutritionix",
@@ -134491,7 +134216,7 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "Keep in mind that it'snevera good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Total Storage (x days w/ acc) / Max File Size / File Expiry (x days w/ acc) / Signup Requirements."
+                        "Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you. Make sure to install anadblocker(full version of uBlock Origin). Remember it'snevera good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Total Storage (x days w/ acc) / Max File Size / File Expiry (x days w/ acc) / Signup Requirements."
                     ],
                     "resource_items": [
                         {
@@ -134568,7 +134293,46 @@
                             ]
                         },
                         {
-                            "full_text": "VikingFile - Unlimited / 15 Days After Last Download / Use Adblocker / /",
+                            "full_text": "⁠ZeroFS - Unlimited / 15 Days After Last Download / CLI /",
+                            "links": [
+                                {
+                                    "name": "⁠ZeroFS",
+                                    "url": "https://zerofs.link/"
+                                },
+                                {
+                                    "name": "CLI",
+                                    "url": "https://github.com/kirmola/zerofs-cli"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/PJWsgUt7XM"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Catbox - 200MB / Forever / Proxy",
+                            "links": [
+                                {
+                                    "name": "Catbox",
+                                    "url": "https://catbox.moe/"
+                                },
+                                {
+                                    "name": "Proxy",
+                                    "url": "https://fatbox.moe/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Pillowcase - Audio File Host / 200MB (500MB w/ Account) / Forever",
+                            "links": [
+                                {
+                                    "name": "Pillowcase",
+                                    "url": "https://pillows.su/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "VikingFile - Unlimited / 15 Days After Last Download / Use uBlock / /",
                             "links": [
                                 {
                                     "name": "VikingFile",
@@ -134581,7 +134345,7 @@
                             ]
                         },
                         {
-                            "full_text": "Buzzheavier , 2 , 3 , 4 - Unlimited / 15 Day Expiry / +1 Hour Per DDL / File Expiry / /",
+                            "full_text": "Buzzheavier , 2 , 3 , 4 - Unlimited / 15 Day Expiry / +1 Hour Per DDL / Use Adblock / File Expiry / /",
                             "links": [
                                 {
                                     "name": "Buzzheavier",
@@ -134610,24 +134374,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠ZeroFS - Unlimited / 15 Days After Last Download / CLI /",
-                            "links": [
-                                {
-                                    "name": "⁠ZeroFS",
-                                    "url": "https://zerofs.link/"
-                                },
-                                {
-                                    "name": "CLI",
-                                    "url": "https://github.com/kirmola/zerofs-cli"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/PJWsgUt7XM"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Rootz - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / Use Adblocker /",
+                            "full_text": "⁠Rootz - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / Use uBlock /",
                             "links": [
                                 {
                                     "name": "⁠Rootz",
@@ -134636,28 +134383,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/rtz"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Catbox - 200MB / Forever / Proxy",
-                            "links": [
-                                {
-                                    "name": "Catbox",
-                                    "url": "https://catbox.moe/"
-                                },
-                                {
-                                    "name": "Proxy",
-                                    "url": "https://fatbox.moe/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pillowcase - Audio File Host / 200MB (500MB w/ Account) / Forever",
-                            "links": [
-                                {
-                                    "name": "Pillowcase",
-                                    "url": "https://pillows.su/"
                                 }
                             ]
                         },
@@ -134692,7 +134417,7 @@
                             ]
                         },
                         {
-                            "full_text": "FileMirage - 50GB / 30 Days After Last View",
+                            "full_text": "FileMirage - 50GB / 30 Days After Last View / Use uBlock",
                             "links": [
                                 {
                                     "name": "FileMirage",
@@ -134807,7 +134532,7 @@
                             ]
                         },
                         {
-                            "full_text": "Ranoz - 20GB / 30 Days After Last Download",
+                            "full_text": "Ranoz - 20GB / 30 Days After Last Download / Use uBlock",
                             "links": [
                                 {
                                     "name": "Ranoz",
@@ -134869,7 +134594,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠UploadHive - Unlimited / 50 Days After Last Download / Use Adblock",
+                            "full_text": "⁠UploadHive - Unlimited / 50 Days After Last Download / Use uBlock",
                             "links": [
                                 {
                                     "name": "⁠UploadHive",
@@ -134972,7 +134697,7 @@
                             ]
                         },
                         {
-                            "full_text": "BowFile - 20GB / 20 Days",
+                            "full_text": "BowFile - 20GB / 20 Days / Use uBlock",
                             "links": [
                                 {
                                     "name": "BowFile",
@@ -135026,7 +134751,7 @@
                             ]
                         },
                         {
-                            "full_text": "Akira Box , 2 - 20GB Free / 30 Days After Last Download",
+                            "full_text": "Akira Box , 2 - 20GB Free / 30 Days After Last Download / Use uBlock",
                             "links": [
                                 {
                                     "name": "Akira Box",
@@ -135096,7 +134821,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠DataVaults - 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up",
+                            "full_text": "⁠DataVaults - 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up / Use uBlock",
                             "links": [
                                 {
                                     "name": "⁠DataVaults",
@@ -135150,7 +134875,7 @@
                             ]
                         },
                         {
-                            "full_text": "UserDrive - 5GB / 65 Days",
+                            "full_text": "UserDrive - 5GB / 65 Days / Use uBlock",
                             "links": [
                                 {
                                     "name": "UserDrive",
@@ -135315,7 +135040,7 @@
                             ]
                         },
                         {
-                            "full_text": "MultiUp.io / Extract / Upload / or Mirrored.to - Multi Host Uploaders",
+                            "full_text": "MultiUp.io (use uBlock) / Extract / Upload / or Mirrored.to - Multi Host Uploaders",
                             "links": [
                                 {
                                     "name": "MultiUp.io",
@@ -135353,7 +135078,7 @@
                             ]
                         },
                         {
-                            "full_text": "DataNodes - Webmasters Only File Host / Use Adblocker / /",
+                            "full_text": "DataNodes - Webmasters Only File Host / Use uBlock / /",
                             "links": [
                                 {
                                     "name": "DataNodes",
@@ -135620,7 +135345,7 @@
                             ]
                         },
                         {
-                            "full_text": "1Cloud File - 10GB",
+                            "full_text": "1Cloud File - 10GB / Use Adblock",
                             "links": [
                                 {
                                     "name": "1Cloud File",
@@ -144513,14 +144238,10 @@
                             ]
                         },
                         {
-                            "full_text": "LibRedirect / , Predirect or Proxy Redirect - Frontend Redirect Extensions",
+                            "full_text": "LibRedirect , Predirect or Proxy Redirect - Frontend Redirect Extensions",
                             "links": [
                                 {
                                     "name": "LibRedirect",
-                                    "url": "https://libredirect.github.io/"
-                                },
-                                {
-                                    "name": "",
                                     "url": "https://github.com/libredirect/browser_extension"
                                 },
                                 {
@@ -163890,7 +163611,7 @@
                                 },
                                 {
                                     "name": "⁠BedrockExplorer",
-                                    "url": "https://www.bedrockexplorer.com/add-ons"
+                                    "url": "https://www.bedrockexplorer.com/spotlight/free-content/all/addons/latest"
                                 }
                             ]
                         },
@@ -173429,6 +173150,19 @@
                                 {
                                     "name": "Wings 3D",
                                     "url": "https://www.wings3d.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Dust3D - Cross-Platform 3D Modeling App /",
+                            "links": [
+                                {
+                                    "name": "⁠Dust3D",
+                                    "url": "https://dust3d.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/huxingyi/dust3d"
                                 }
                             ]
                         },
@@ -193197,11 +192931,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Algebrica - Mathematical Concepts Database",
+                            "full_text": "⁠Algebrica or ⁠PlanetMath - Mathematical Concept Databases",
                             "links": [
                                 {
                                     "name": "⁠Algebrica",
                                     "url": "https://algebrica.org/"
+                                },
+                                {
+                                    "name": "⁠PlanetMath",
+                                    "url": "https://planetmath.org/"
                                 }
                             ]
                         },
@@ -193313,6 +193051,15 @@
                                 {
                                     "name": "Algebra Rules",
                                     "url": "https://algebrarules.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Linear Algebra Done Right - Linear Algebra Book / Guide",
+                            "links": [
+                                {
+                                    "name": "Linear Algebra Done Right",
+                                    "url": "https://linear.axler.net/"
                                 }
                             ]
                         },
@@ -197042,6 +196789,15 @@
                                 {
                                     "name": "",
                                     "url": "https://gitlab.com/flightgear/flightgear"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Pheonix RC - RC Plane + Helicopter Simulator",
+                            "links": [
+                                {
+                                    "name": "⁠Pheonix RC",
+                                    "url": "https://www.rc-thoughts.com/phoenix-sim/"
                                 }
                             ]
                         },
@@ -220519,11 +220275,15 @@
                             ]
                         },
                         {
-                            "full_text": "horsicq - File Type Identification Tools /",
+                            "full_text": "horsicq or ⁠CheckFileType - File Type Identification Tools /",
                             "links": [
                                 {
                                     "name": "horsicq",
                                     "url": "https://horsicq.github.io/"
+                                },
+                                {
+                                    "name": "⁠CheckFileType",
+                                    "url": "https://www.checkfiletype.com/"
                                 },
                                 {
                                     "name": "",
@@ -221103,6 +220863,42 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Poprink - Movies / TV / Anime / Auto-Next / Telegram / Discord (Removed in dcae98d : small update)",
+                            "links": [
+                                {
+                                    "name": "dcae98d",
+                                    "url": "https://github.com/fmhy/edit/commit/dcae98d1e5f21ee622db7695d064167a7327e744#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL23"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TorrentMac - Use Adblock (Removed in 31f5d50 )",
+                            "links": [
+                                {
+                                    "name": "31f5d50",
+                                    "url": "https://github.com/fmhy/edit/commit/31f5d5063110f221b20ab7ca8074b0f119abae75#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL659"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "novelas360 - TV / Drama (Removed in d58b425 )",
+                            "links": [
+                                {
+                                    "name": "d58b425",
+                                    "url": "https://github.com/fmhy/edit/commit/d58b4251b3e871c856607f707525cd67398e2df8#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1522"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "RYM Ultimate Film Lists - In-Depth Film Genre & Recommendation Lists (Removed in d58b425 )",
+                            "links": [
+                                {
+                                    "name": "d58b425",
+                                    "url": "https://github.com/fmhy/edit/commit/d58b4251b3e871c856607f707525cd67398e2df8#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL1001"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Awesome Pokémon - Pokémon Resources (Removed in 05f5403 )",
                             "links": [
                                 {
@@ -221405,15 +221201,6 @@
                                 {
                                     "name": "0621f5d",
                                     "url": "https://github.com/fmhy/edit/commit/0621f5ddbd3bfbd92b50227d28f7023649389ae9#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L164"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ApexMovies - Movies / TV / Anime (Removed in 0621f5d )",
-                            "links": [
-                                {
-                                    "name": "0621f5d",
-                                    "url": "https://github.com/fmhy/edit/commit/0621f5ddbd3bfbd92b50227d28f7023649389ae9#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL80"
                                 }
                             ]
                         },
@@ -223061,33 +222848,6 @@
                                 {
                                     "name": "d78238b",
                                     "url": "https://github.com/fmhy/edit/commit/d78238bf82806cb59e6dcbf1f31c7d97a6ff4bc0#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL724"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Wudooh - Make Arabic Text Clearer (Removed in c4b50f8 )",
-                            "links": [
-                                {
-                                    "name": "c4b50f8",
-                                    "url": "https://github.com/fmhy/edit/commit/c4b50f898683bf1911d0423c2812f5c1efd662ba#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L14"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Child Nutrition - Child Nutrition / Cooking Course (Removed in fbf87e1 )",
-                            "links": [
-                                {
-                                    "name": "fbf87e1",
-                                    "url": "https://github.com/fmhy/edit/commit/fbf87e16b9d955d6c1d6887f8590bfd1979436fb#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL747"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Tokybook / Downloader, 2 (Removed in fbf87e1 )",
-                            "links": [
-                                {
-                                    "name": "fbf87e1",
-                                    "url": "https://github.com/fmhy/edit/commit/fbf87e16b9d955d6c1d6887f8590bfd1979436fb#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L339"
                                 }
                             ]
                         }
