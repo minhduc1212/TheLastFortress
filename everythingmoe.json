@@ -5,7 +5,7 @@
       "title": "Anime Streaming",
       "notes": "AnimeKaiis moved to Graveyard",
       "is_graveyard": false,
-      "lowcont_id": "lowcont-streaming",
+      "lowcont_id": "lowcont-anime",
       "sites": [
         {
           "id": "anikoto",
@@ -550,7 +550,8 @@
           "tags": [
             "Self-host",
             "Simple interface",
-            "Hard-sub"
+            "Hard-sub",
+            "Dub friendly"
           ],
           "rank": 12,
           "is_licensed": false,
@@ -877,7 +878,6 @@
             "Self-host",
             "Old reliable",
             "Simple interface",
-            "Dub friendly",
             "Soft-sub",
             "Hard-sub"
           ],
@@ -2090,7 +2090,14 @@
             "negatives": [
               "Content depends on the websites it scrapes",
               "New site"
-            ]
+            ],
+            "altlinks": [
+              {
+                "name": "YumeZone",
+                "url": "https://yumezone.live/home"
+              }
+            ],
+            "info": "each made by different people, uses CF worker proxy."
           }
         },
         {
@@ -2808,6 +2815,32 @@
           }
         },
         {
+          "id": "anipm",
+          "title": "ani.pm",
+          "link": "https://ani.pm/",
+          "icon": "https://static.everythingmoe.com/icons/default.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
+            "mult"
+          ],
+          "rank": 72,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "anigum",
           "title": "StreamX",
           "link": "https://streamex.sh/anime",
@@ -2817,7 +2850,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2854,7 +2887,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2901,7 +2934,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2928,7 +2961,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2973,7 +3006,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3001,7 +3034,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3033,7 +3066,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3081,7 +3114,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3108,7 +3141,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3135,7 +3168,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3175,7 +3208,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3209,7 +3242,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3282,7 +3315,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22840,12 +22873,28 @@
           }
         },
         {
+          "id": "baranimes",
+          "title": "Baranimes",
+          "link": "https://baranimes.com/",
+          "icon": "https://static.everythingmoe.com/icons/baranimes.png",
+          "tags": [],
+          "rank": 5,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "quiz",
+          "details": {
+            "info": "Various anime quiz / guessing game, support multiplayer. Still new."
+          }
+        },
+        {
           "id": "erogemusicquiz",
           "title": "ErogeMusicQuiz",
           "link": "https://erogemusicquiz.com/",
           "icon": "https://static.everythingmoe.com/icons/erogemusicquiz.png",
           "tags": [],
-          "rank": 5,
+          "rank": 6,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22867,7 +22916,7 @@
           "link": "https://guesstheopening.com/anime",
           "icon": "https://static.everythingmoe.com/icons/guesstheopening.png",
           "tags": [],
-          "rank": 6,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22889,7 +22938,7 @@
           "link": "https://animeopeningquiz.com/",
           "icon": "https://static.everythingmoe.com/icons/animeopeningquiz.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22905,7 +22954,7 @@
           "link": "https://quiz.animesongs.org/",
           "icon": "https://static.everythingmoe.com/icons/animesongsorg.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22927,7 +22976,7 @@
           "link": "https://www.animerdle.com/",
           "icon": "https://static.everythingmoe.com/icons/animerdle.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22943,7 +22992,7 @@
           "link": "https://animetrivia.app/",
           "icon": "https://static.everythingmoe.com/icons/animetrivia.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22965,7 +23014,7 @@
           "link": "https://www.animeguess.moe/",
           "icon": "https://static.everythingmoe.com/icons/animeguess.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -35672,7 +35721,8 @@
       "tags": [
         "Self-host",
         "Simple interface",
-        "Hard-sub"
+        "Hard-sub",
+        "Dub friendly"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -35999,7 +36049,6 @@
         "Self-host",
         "Old reliable",
         "Simple interface",
-        "Dub friendly",
         "Soft-sub",
         "Hard-sub"
       ],
@@ -37212,7 +37261,14 @@
         "negatives": [
           "Content depends on the websites it scrapes",
           "New site"
-        ]
+        ],
+        "altlinks": [
+          {
+            "name": "YumeZone",
+            "url": "https://yumezone.live/home"
+          }
+        ],
+        "info": "each made by different people, uses CF worker proxy."
       }
     },
     "fanime": {
@@ -37923,6 +37979,32 @@
         "positives": [
           "Multiple source options",
           "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
+    "anipm": {
+      "id": "anipm",
+      "title": "ani.pm",
+      "link": "https://ani.pm/",
+      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
@@ -57806,6 +57888,22 @@
             "url": "https://www.onepiececonnections.today/"
           }
         ]
+      }
+    },
+    "baranimes": {
+      "id": "baranimes",
+      "title": "Baranimes",
+      "link": "https://baranimes.com/",
+      "icon": "https://static.everythingmoe.com/icons/baranimes.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "quiz"
+      ],
+      "details": {
+        "info": "Various anime quiz / guessing game, support multiplayer. Still new."
       }
     },
     "erogemusicquiz": {
