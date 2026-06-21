@@ -2213,6 +2213,30 @@
           }
         },
         {
+          "id": "itachitv",
+          "title": "Itachi",
+          "link": "https://itachi.tv/",
+          "icon": "https://static.everythingmoe.com/icons/itachitv.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 55,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "domain": "https://anilink.cc/"
+          }
+        },
+        {
           "id": "justanime",
           "title": "JustAnime",
           "link": "https://www.justanime.to/",
@@ -2224,7 +2248,7 @@
             "Easy download",
             "mult"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2261,7 +2285,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2288,7 +2312,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2315,7 +2339,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2362,7 +2386,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2389,7 +2413,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2415,7 +2439,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2478,7 +2502,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2505,7 +2529,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2533,7 +2557,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2563,7 +2587,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2592,7 +2616,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2647,7 +2671,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2722,7 +2746,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2749,7 +2773,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2774,7 +2798,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2799,7 +2823,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2826,7 +2850,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2851,7 +2875,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2888,7 +2912,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2935,7 +2959,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2962,7 +2986,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3007,7 +3031,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3035,7 +3059,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3067,7 +3091,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3115,7 +3139,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3142,7 +3166,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3169,7 +3193,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3209,7 +3233,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3243,7 +3267,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3316,7 +3340,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -37386,6 +37410,30 @@
         "negatives": [
           "Content depends on the websites it scrapes"
         ]
+      }
+    },
+    "itachitv": {
+      "id": "itachitv",
+      "title": "Itachi",
+      "link": "https://itachi.tv/",
+      "icon": "https://static.everythingmoe.com/icons/itachitv.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "domain": "https://anilink.cc/"
       }
     },
     "justanime": {

@@ -23,7 +23,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "How can I safely scan files, and determine if detections are false positives?",
-                        "Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you.",
+                        "Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version ofuBlock Origincan prevent this but it doesn't always work. Read thisguideto learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.",
                         "Before installing any file, it's recommended to scan the setup / install withVirusTotaland run it inTriage(sandbox). If you're having trouble determining if something is a false positive, refer to theScan Guide, or send it to us inDiscordand we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox likeTriage.",
                         "INFO",
                         "Most antivirus programs are unnecessary and can cause slowdowns. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run aMalwarebytesscan from time to time for extra protection."
@@ -9833,19 +9833,6 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Hermes Agent - General Purpose Agent /",
-                            "links": [
-                                {
-                                    "name": "Hermes Agent",
-                                    "url": "https://hermes-agent.nousresearch.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/nousresearch/hermes-agent"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Hermes Agent - General Purpose Agent / Docs / /",
                             "links": [
                                 {
@@ -10208,11 +10195,15 @@
                             ]
                         },
                         {
-                            "full_text": "Jailbreak Listings - Prompt Directory / Jailbreaks",
+                            "full_text": "Jailbreak Listings or ⁠Spiritual-Spell-Red-Teaming - Prompt Directories / Jailbreaks",
                             "links": [
                                 {
                                     "name": "Jailbreak Listings",
                                     "url": "https://rentry.org/jb-listing"
+                                },
+                                {
+                                    "name": "⁠Spiritual-Spell-Red-Teaming",
+                                    "url": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming"
                                 }
                             ]
                         },
@@ -11250,6 +11241,19 @@
                             ]
                         },
                         {
+                            "full_text": "Cinetaro - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Cinetaro",
+                                    "url": "https://cinetaro.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/4yGUxdz3h9"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "FlickyStream , MeowTV or CineMora - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11318,6 +11322,27 @@
                             ]
                         },
                         {
+                            "full_text": "ArrowTV , Cinezo or Flikhub - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "ArrowTV",
+                                    "url": "https://arrowtv.net/"
+                                },
+                                {
+                                    "name": "Cinezo",
+                                    "url": "https://www.cinezo.net/"
+                                },
+                                {
+                                    "name": "Flikhub",
+                                    "url": "https://www.flikhub.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/Gx27YMK73d"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ShuttleTV , 2 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11353,27 +11378,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/jUSTtedkpY"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ArrowTV , Cinezo or Flikhub - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "ArrowTV",
-                                    "url": "https://arrowtv.net/"
-                                },
-                                {
-                                    "name": "Cinezo",
-                                    "url": "https://www.cinezo.net/"
-                                },
-                                {
-                                    "name": "Flikhub",
-                                    "url": "https://www.flikhub.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/Gx27YMK73d"
                                 }
                             ]
                         },
@@ -11524,6 +11528,32 @@
                             ]
                         },
                         {
+                            "full_text": "All You Can Watch - Movies / TV / Anime / /",
+                            "links": [
+                                {
+                                    "name": "All You Can Watch",
+                                    "url": "https://allyoucanwatch.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/allyoucanwatchh"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/allyoucanwatch"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Chillflix.lol - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Chillflix.lol",
+                                    "url": "https://chillflix.lol/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "NetPlay or Cinelove - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11602,23 +11632,6 @@
                             ]
                         },
                         {
-                            "full_text": "All You Can Watch - Movies / TV / Anime / /",
-                            "links": [
-                                {
-                                    "name": "All You Can Watch",
-                                    "url": "https://allyoucanwatch.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/allyoucanwatchh"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/allyoucanwatch"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Filmora - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -11632,11 +11645,33 @@
                             ]
                         },
                         {
+                            "full_text": "Overlook - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "Overlook",
+                                    "url": "https://overlook.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/rbe9DJNuhH"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Apexmovies - Movies / TV / Anime",
                             "links": [
                                 {
                                     "name": "Apexmovies",
                                     "url": "https://apexmovies.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Moovie - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Moovie",
+                                    "url": "https://moovie.fun/"
                                 }
                             ]
                         },
@@ -11684,11 +11719,15 @@
                             ]
                         },
                         {
-                            "full_text": "Moovie - Movies / TV / Anime",
+                            "full_text": "Nxsha - Movies / TV / Anime /",
                             "links": [
                                 {
-                                    "name": "Moovie",
-                                    "url": "https://moovie.fun/"
+                                    "name": "Nxsha",
+                                    "url": "https://web.nxsha.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://telegram.me/+8_u943HkSAY5ODA1"
                                 }
                             ]
                         },
@@ -11711,15 +11750,19 @@
                             ]
                         },
                         {
-                            "full_text": "Nxsha - Movies / TV / Anime /",
+                            "full_text": "Nextbox - Movies / TV / Anime / /",
                             "links": [
                                 {
-                                    "name": "Nxsha",
-                                    "url": "https://web.nxsha.app/"
+                                    "name": "Nextbox",
+                                    "url": "https://nextbox.uno/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://telegram.me/+8_u943HkSAY5ODA1"
+                                    "url": "https://t.me/nextbox_uno"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/UHYrFbvu4z"
                                 }
                             ]
                         },
@@ -11831,7 +11874,7 @@
                             ]
                         },
                         {
-                            "full_text": "StreamWatch , 2 - Movies / TV / Anime / Auto-Next / /",
+                            "full_text": "StreamWatch , 2 , 3 - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
                                     "name": "StreamWatch",
@@ -11840,6 +11883,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://pstream.site/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://streamwatch.pages.dev/"
                                 },
                                 {
                                     "name": "",
@@ -11870,6 +11917,33 @@
                                 {
                                     "name": "IceFY",
                                     "url": "https://icefy.top/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "F-Stream - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "F-Stream",
+                                    "url": "https://fstream.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Vidflix - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Vidflix",
+                                    "url": "https://vidflix.site/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "P-Play - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "P-Play",
+                                    "url": "https://play.onlinetz.app/"
                                 }
                             ]
                         }
@@ -11906,6 +11980,15 @@
                                 {
                                     "name": "RIPS",
                                     "url": "https://rips.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Bingr - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Bingr",
+                                    "url": "https://bingr.live/"
                                 }
                             ]
                         },
@@ -11949,31 +12032,6 @@
                             ]
                         },
                         {
-                            "full_text": "MovieBox , 2 , 3 , 4 - Movies / TV / Anime / Mirrors",
-                            "links": [
-                                {
-                                    "name": "MovieBox",
-                                    "url": "https://movieboxonline.net"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://themoviebox.org/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://123movie.app"
-                                },
-                                {
-                                    "name": "4",
-                                    "url": "https://netnaija.film"
-                                },
-                                {
-                                    "name": "Mirrors",
-                                    "url": "https://moviebox.co/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "CineStream - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -11996,20 +12054,20 @@
                             ]
                         },
                         {
-                            "full_text": "Stremax - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "Stremax",
-                                    "url": "https://stremax.pages.dev/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "RidoMovies - Movies / TV",
                             "links": [
                                 {
                                     "name": "RidoMovies",
                                     "url": "https://ridomovies.is/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Stremax - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Stremax",
+                                    "url": "https://stremax.pages.dev/"
                                 }
                             ]
                         },
@@ -12197,6 +12255,31 @@
                             ]
                         },
                         {
+                            "full_text": "MovieBox , 2 , 3 , 4 - Movies / TV / Anime / Mirrors",
+                            "links": [
+                                {
+                                    "name": "MovieBox",
+                                    "url": "https://movieboxonline.net"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://themoviebox.org/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://123movie.app"
+                                },
+                                {
+                                    "name": "4",
+                                    "url": "https://netnaija.film"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://moviebox.co/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LookMovie , 2 - Movies / TV / Auto-Next / 480p",
                             "links": [
                                 {
@@ -12255,19 +12338,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/4SJ5c9gZUQ"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinetaro - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinetaro",
-                                    "url": "https://cinetaro.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/4yGUxdz3h9"
                                 }
                             ]
                         },
@@ -12365,11 +12435,15 @@
                             ]
                         },
                         {
-                            "full_text": "SanuFlix - Movies / TV / Anime / Auto-Next",
+                            "full_text": "SanuFlix or FRAME - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
                                     "name": "SanuFlix",
                                     "url": "https://sanuflix2.pages.dev/"
+                                },
+                                {
+                                    "name": "FRAME",
+                                    "url": "https://frameweb.pages.dev/"
                                 }
                             ]
                         },
@@ -12429,15 +12503,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/Dxq6bFv4FP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Filmex - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Filmex",
-                                    "url": "https://filmex.to/"
                                 }
                             ]
                         },
@@ -12889,11 +12954,15 @@
                             ]
                         },
                         {
-                            "full_text": "SMovies - Movies / TV / Anime",
+                            "full_text": "SMovies , 2 - Movies / TV / Anime",
                             "links": [
                                 {
                                     "name": "SMovies",
                                     "url": "https://smovies.co/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://ww1-fmovies.com/"
                                 }
                             ]
                         },
@@ -14231,8 +14300,12 @@
                             ]
                         },
                         {
-                            "full_text": "123anime - Sub / Dub / Auto-Next",
+                            "full_text": "Aniwave or 123anime - Sub / Dub / Auto-Next",
                             "links": [
+                                {
+                                    "name": "Aniwave",
+                                    "url": "https://aniwaves.ru/"
+                                },
                                 {
                                     "name": "123anime",
                                     "url": "https://123animes.ru/"
@@ -17716,7 +17789,7 @@
                             "links": [
                                 {
                                     "name": "CaberNetwork",
-                                    "url": "https://cabernetwork.github.io/"
+                                    "url": "https://github.com/cabernetwork/cabernet/"
                                 }
                             ]
                         },
@@ -17841,6 +17914,39 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/webosbrew/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Nuvio / Plugins / / , Stremio , WuPlay or ⁠RealStream - Streaming App / Stremio Support",
+                            "links": [
+                                {
+                                    "name": "Nuvio",
+                                    "url": "https://github.com/NuvioMedia/NuvioWeb#install"
+                                },
+                                {
+                                    "name": "Plugins",
+                                    "url": "https://nuvio-plugin-library.vercel.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/KVgDTjhA4H"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/tapframe/NuvioTV/releases/"
+                                },
+                                {
+                                    "name": "Stremio",
+                                    "url": "https://www.stremio.com/"
+                                },
+                                {
+                                    "name": "WuPlay",
+                                    "url": "https://github.com/wuplayapp/wuplay-releases"
+                                },
+                                {
+                                    "name": "⁠RealStream",
+                                    "url": "https://discord.gg/jnDyHEkcZu"
                                 }
                             ]
                         },
@@ -18004,6 +18110,19 @@
                             ]
                         },
                         {
+                            "full_text": "Apps2Samsung - Tizen Device Sideloading Tool / Packages",
+                            "links": [
+                                {
+                                    "name": "Apps2Samsung",
+                                    "url": "https://github.com/Apps2Samsung"
+                                },
+                                {
+                                    "name": "Packages",
+                                    "url": "https://github.com/Apps2Samsung/tizen-community-packages"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠MuTube , ⁠Unwatched or Yattee - Apple TV YouTube Apps",
                             "links": [
                                 {
@@ -18084,39 +18203,6 @@
                                 {
                                     "name": "Apps",
                                     "url": "https://fmhy.net/mobile/#untouched-apks"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Nuvio / Plugins / / , Stremio , WuPlay or ⁠RealStream - Streaming App / Stremio Support",
-                            "links": [
-                                {
-                                    "name": "Nuvio",
-                                    "url": "https://nuvio.tv/"
-                                },
-                                {
-                                    "name": "Plugins",
-                                    "url": "https://nuvio-plugin-library.vercel.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/KVgDTjhA4H"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/tapframe/NuvioTV/releases/"
-                                },
-                                {
-                                    "name": "Stremio",
-                                    "url": "https://www.stremio.com/"
-                                },
-                                {
-                                    "name": "WuPlay",
-                                    "url": "https://github.com/wuplayapp/wuplay-releases"
-                                },
-                                {
-                                    "name": "⁠RealStream",
-                                    "url": "https://discord.gg/jnDyHEkcZu"
                                 }
                             ]
                         },
@@ -20597,8 +20683,12 @@
                             ]
                         },
                         {
-                            "full_text": "Nyaa Tools - TUI / Batch Download , 2 , 3 , 4 / Python Wrapper / Torrent Fetch / Quality Tags",
+                            "full_text": "Nyaa Tools - Add Features / TUI / Batch Download , 2 , 3 , 4 / Python Wrapper / Torrent Fetch / Quality Tags",
                             "links": [
+                                {
+                                    "name": "Add Features",
+                                    "url": "https://github.com/Arad119/Nyaa-Enhancer"
+                                },
                                 {
                                     "name": "TUI",
                                     "url": "https://github.com/Beastwick18/nyaa"
@@ -21232,6 +21322,15 @@
                             ]
                         },
                         {
+                            "full_text": "The Criterion Closet - Curated World Cinema / 3D Criterion Collection",
+                            "links": [
+                                {
+                                    "name": "The Criterion Closet",
+                                    "url": "https://the-criterion-closet.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Series Graph , Ratings Graph , ⁠IMDb Table , TV Chart , Episode Hive , TV Charts , TheShowGrid or WhatToWatchOn.tv - TV Episode / Movie Rating Graphs",
                             "links": [
                                 {
@@ -21336,15 +21435,6 @@
                                 {
                                     "name": "Sight and Sound",
                                     "url": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠The Closet - 3D Criterion Collection Closest",
-                            "links": [
-                                {
-                                    "name": "⁠The Closet",
-                                    "url": "https://the-criterion-closet.vercel.app/"
                                 }
                             ]
                         },
@@ -25622,11 +25712,15 @@
                             ]
                         },
                         {
-                            "full_text": "SpotX - Ad-Free Spotify Patcher /",
+                            "full_text": "SpotX or BlockTheSpot - Ad-Free Spotify Patchers /",
                             "links": [
                                 {
                                     "name": "SpotX",
                                     "url": "https://github.com/SpotX-Official/SpotX"
+                                },
+                                {
+                                    "name": "BlockTheSpot",
+                                    "url": "https://github.com/Nuzair46/BlockTheSpot-Installer"
                                 },
                                 {
                                     "name": "",
@@ -31166,7 +31260,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Tenacity / , Audacity / or ocenaudio - Audio Editors",
+                            "full_text": "Tenacity / , Audacity / / or ocenaudio - Audio Editors",
                             "links": [
                                 {
                                     "name": "Tenacity",
@@ -31179,6 +31273,10 @@
                                 {
                                     "name": "Audacity",
                                     "url": "https://www.audacityteam.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/audacity"
                                 },
                                 {
                                     "name": "",
@@ -31544,7 +31642,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "* BandLab **, Audioalter , WavaCity , ⁠Riffle , [Bosca Ceoil]( https://humnom.net/apps/boscaceoil/ , ⁠AudioTool , AudioMass , editor.audio , TwistedWave or xAudioPro - Online Editors / Web DAWs",
+                            "full_text": "BandLab , Audioalter , WavaCity , ⁠Riffle , [Bosca Ceoil]( https://humnom.net/apps/boscaceoil/ , ⁠AudioTool , AudioMass , editor.audio , TwistedWave or xAudioPro - Online Editors / Web DAWs",
                             "links": [
                                 {
                                     "name": "BandLab",
@@ -32910,7 +33008,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits. Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you. Make sure to install anadblocker(full version of uBlock Origin)."
+                        "Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version ofuBlock Origincan prevent this but it doesn't always work. Read thisguideto learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host."
                     ],
                     "resource_items": [
                         {
@@ -47095,6 +47193,23 @@
                             ]
                         },
                         {
+                            "full_text": "MangaFire / /",
+                            "links": [
+                                {
+                                    "name": "MangaFire",
+                                    "url": "https://mangafire.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/Mangafire/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/KRQQKzQ6CS"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Atsumaru /",
                             "links": [
                                 {
@@ -47134,23 +47249,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/XCdaT6tyy8"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MangaFire / /",
-                            "links": [
-                                {
-                                    "name": "MangaFire",
-                                    "url": "https://mangafire.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/Mangafire/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/KRQQKzQ6CS"
                                 }
                             ]
                         },
@@ -47276,15 +47374,6 @@
                             ]
                         },
                         {
-                            "full_text": "Like Manga",
-                            "links": [
-                                {
-                                    "name": "Like Manga",
-                                    "url": "https://likemanga.in/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "MangaHere or MangaFox",
                             "links": [
                                 {
@@ -47359,6 +47448,15 @@
                                 {
                                     "name": "MangaHub",
                                     "url": "https://mangahub.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Like Manga",
+                            "links": [
+                                {
+                                    "name": "Like Manga",
+                                    "url": "https://likemanga.in/"
                                 }
                             ]
                         },
@@ -52306,7 +52404,7 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "Always scan downloaded software withVirusTotalbefore installation and run it in a sandboxed environment likeTriageto prevent system compromise. Note that any apps with fake names are generally not worth using. Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you. Make sure to install anadblocker(full version of uBlock Origin)."
+                        "Always scan downloaded software withVirusTotalbefore installation and run it in a sandboxed environment likeTriageto prevent system compromise. Note that any apps with fake names are generally not worth using. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version ofuBlock Origincan prevent this but it doesn't always work. Read thisguideto learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host."
                     ],
                     "resource_items": [
                         {
@@ -53147,7 +53245,7 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, useredirect bypassersto skip link shorteners. Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you. Make sure to install anadblocker(full version of uBlock Origin)."
+                        "General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, useredirect bypassersto skip link shorteners. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version ofuBlock Origincan prevent this but it doesn't always work. Read thisguideto learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host."
                     ],
                     "resource_items": [
                         {
@@ -60731,11 +60829,15 @@
                             ]
                         },
                         {
-                            "full_text": "Outerzone - Vintage Model Airplane Plans",
+                            "full_text": "Outerzone or ⁠AeroFred - Model Airplane Plans",
                             "links": [
                                 {
                                     "name": "Outerzone",
                                     "url": "https://outerzone.co.uk/"
+                                },
+                                {
+                                    "name": "⁠AeroFred",
+                                    "url": "https://www.aerofred.com/"
                                 }
                             ]
                         },
@@ -68504,7 +68606,7 @@
                             ]
                         },
                         {
-                            "full_text": "Programiz , TutorialKart , Hackr.io , Ultimate Programming , GeeksforGeeks or Tpoint Tech / - General Coding Tutorials",
+                            "full_text": "Programiz , TutorialKart , Hackr.io , Ultimate Programming , GeeksforGeeks , ⁠W3Schools or Tpoint Tech / - General Coding Tutorials",
                             "links": [
                                 {
                                     "name": "Programiz",
@@ -68525,6 +68627,10 @@
                                 {
                                     "name": "GeeksforGeeks",
                                     "url": "https://www.geeksforgeeks.org/"
+                                },
+                                {
+                                    "name": "⁠W3Schools",
+                                    "url": "https://www.w3schools.com/"
                                 },
                                 {
                                     "name": "Tpoint Tech",
@@ -74539,15 +74645,11 @@
                             ]
                         },
                         {
-                            "full_text": "ReVanced Magisk Module - ReVanced Builder / Config Gen /",
+                            "full_text": "ReVanced Magisk Module - ReVanced Builder /",
                             "links": [
                                 {
                                     "name": "ReVanced Magisk Module",
                                     "url": "https://github.com/j-hc/revanced-magisk-module"
-                                },
-                                {
-                                    "name": "Config Gen",
-                                    "url": "https://j-hc.github.io/rvmm-config-gen/"
                                 },
                                 {
                                     "name": "",
@@ -74721,15 +74823,11 @@
                             ]
                         },
                         {
-                            "full_text": "piko / Guide / , ⁠Nitterium , ⁠QuaX or Squawker - Twitter / X Apps",
+                            "full_text": "piko / , ⁠Nitterium , ⁠QuaX or Squawker - Twitter / X Apps",
                             "links": [
                                 {
                                     "name": "piko",
                                     "url": "https://github.com/crimera/piko"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://t.me/xriprepo/"
                                 },
                                 {
                                     "name": "",
@@ -74876,6 +74974,15 @@
                                 {
                                     "name": "",
                                     "url": "https://codeberg.org/tom79/fedilab"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Fluxer - ⁠Fluxer Client",
+                            "links": [
+                                {
+                                    "name": "Fluxer",
+                                    "url": "https://github.com/fluxerapp/flutter_client"
                                 }
                             ]
                         },
@@ -75223,11 +75330,15 @@
                             ]
                         },
                         {
-                            "full_text": "ADB AppControl / GUI , 2 / , scrcpy / Mobile App / , PlainApp / , WebADB , QtScrcpy or Octi - Android Device Managers / Controllers",
+                            "full_text": "ADB AppControl / WebUI / GUI , 2 / , scrcpy / Mobile App / , PlainApp / , WebADB , QtScrcpy or Octi - Android Device Managers / Controllers",
                             "links": [
                                 {
                                     "name": "ADB AppControl",
                                     "url": "https://adbappcontrol.com/en/"
+                                },
+                                {
+                                    "name": "WebUI",
+                                    "url": "https://80bee.com/"
                                 },
                                 {
                                     "name": "GUI",
@@ -75703,6 +75814,15 @@
                                 {
                                     "name": "wallman",
                                     "url": "https://gitlab.com/colorata/wallman"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Wallwidgy - Wallpapers",
+                            "links": [
+                                {
+                                    "name": "Wallwidgy",
+                                    "url": "https://github.com/not-ayan/Wallwidgy_Android/"
                                 }
                             ]
                         },
@@ -76357,11 +76477,15 @@
                             ]
                         },
                         {
-                            "full_text": "ReZygisk - Zygote Injection Engine",
+                            "full_text": "ReZygisk or ⁠NeoZygisk - Zygote Injection Engines",
                             "links": [
                                 {
                                     "name": "ReZygisk",
                                     "url": "https://github.com/PerformanC/ReZygisk"
+                                },
+                                {
+                                    "name": "⁠NeoZygisk",
+                                    "url": "https://github.com/JingMatrix/NeoZygisk"
                                 }
                             ]
                         },
@@ -79819,10 +79943,14 @@
                             ]
                         },
                         {
-                            "full_text": "Find My Device (FMD) , PhoneTrack , 2 or AutoWhatsAppTriggers - Track Phones Location",
+                            "full_text": "Find My Device (FMD) / , PhoneTrack , 2 or AutoWhatsAppTriggers - Track Phones Location",
                             "links": [
                                 {
                                     "name": "Find My Device (FMD)",
+                                    "url": "https://fmd-foss.org/"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://gitlab.com/fmd-foss/fmd-android"
                                 },
                                 {
@@ -83478,12 +83606,8 @@
                             ]
                         },
                         {
-                            "full_text": "ZArchiver or Keka - File Archiver",
+                            "full_text": "Keka - File Archiver",
                             "links": [
-                                {
-                                    "name": "ZArchiver",
-                                    "url": "https://apps.apple.com/app/id6504976055"
-                                },
                                 {
                                     "name": "Keka",
                                     "url": "https://testflight.apple.com/join/gPYINGCJ"
@@ -84674,11 +84798,15 @@
                             ]
                         },
                         {
-                            "full_text": "Nugget - iOS Tweaks Tool",
+                            "full_text": "Nugget - iOS Tweaks Tool /",
                             "links": [
                                 {
                                     "name": "Nugget",
                                     "url": "https://github.com/leminlimez/Nugget"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/cowabunga"
                                 }
                             ]
                         },
@@ -87966,7 +88094,7 @@
                             ]
                         },
                         {
-                            "full_text": "Nix / Resources , pkgx / or Homebrew - Package Managers",
+                            "full_text": "Nix / Resources , ⁠Shelly , pkgx / or Homebrew - Package Managers",
                             "links": [
                                 {
                                     "name": "Nix",
@@ -87975,6 +88103,10 @@
                                 {
                                     "name": "Resources",
                                     "url": "https://github.com/nix-community/awesome-nix"
+                                },
+                                {
+                                    "name": "⁠Shelly",
+                                    "url": "https://shellyalpm.com/"
                                 },
                                 {
                                     "name": "pkgx",
@@ -88837,11 +88969,15 @@
                             ]
                         },
                         {
-                            "full_text": "SpotX-Bash or spotify-adblock - Spotify Adblockers",
+                            "full_text": "SpotX-Bash , BlockTheSpot or spotify-adblock - Spotify Adblockers",
                             "links": [
                                 {
                                     "name": "SpotX-Bash",
                                     "url": "https://github.com/SpotX-Official/SpotX-Bash"
+                                },
+                                {
+                                    "name": "BlockTheSpot",
+                                    "url": "https://github.com/Nuzair46/BlockTheSpot-Installer"
                                 },
                                 {
                                     "name": "spotify-adblock",
@@ -93438,6 +93574,15 @@
                             ]
                         },
                         {
+                            "full_text": "TorrentMac - Use Adblock",
+                            "links": [
+                                {
+                                    "name": "TorrentMac",
+                                    "url": "https://www.torrentmac.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Macintosh Garden - Oldschool Software",
                             "links": [
                                 {
@@ -93627,11 +93772,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "SpotX-Bash - Spotify Adblockers",
+                            "full_text": "SpotX-Bash or BlockTheSpot - Spotify Adblockers",
                             "links": [
                                 {
                                     "name": "SpotX-Bash",
                                     "url": "https://github.com/SpotX-Official/SpotX-Bash"
+                                },
+                                {
+                                    "name": "BlockTheSpot",
+                                    "url": "https://github.com/Nuzair46/BlockTheSpot-Installer"
                                 }
                             ]
                         },
@@ -95219,11 +95368,11 @@
                             ]
                         },
                         {
-                            "full_text": "JDownloader - File Download Manager / Debloat / Dark Theme , 2 / Dracula Theme /",
+                            "full_text": "JDownloader - File Download Manager / Debloat / Dark Theme , 2 / Dracula Theme / Warning",
                             "links": [
                                 {
                                     "name": "JDownloader",
-                                    "url": "https://jdownloader.org/jdownloader2"
+                                    "url": "https://jdownloader.org/"
                                 },
                                 {
                                     "name": "Debloat",
@@ -95240,6 +95389,10 @@
                                 {
                                     "name": "Dracula Theme",
                                     "url": "https://draculatheme.com/jdownloader2"
+                                },
+                                {
+                                    "name": "Warning",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md"
                                 }
                             ]
                         },
@@ -107480,15 +107633,6 @@
                             ]
                         },
                         {
-                            "full_text": "la14hd - Live Sports",
-                            "links": [
-                                {
-                                    "name": "la14hd",
-                                    "url": "https://la14hd.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "angulismotv - Live Sports",
                             "links": [
                                 {
@@ -107740,11 +107884,19 @@
                             ]
                         },
                         {
-                            "full_text": "Area Documental - Documentaries",
+                            "full_text": "Area Documental - Documentaries / Remove Watermark , 2",
                             "links": [
                                 {
                                     "name": "Area Documental",
                                     "url": "https://www.area-documental.com/"
+                                },
+                                {
+                                    "name": "Remove Watermark",
+                                    "url": "https://pastebin.com/e77cHmgm"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://github.com/acridsoul/Clear-Mark"
                                 }
                             ]
                         },
@@ -107844,15 +107996,6 @@
                                 {
                                     "name": "animeonline",
                                     "url": "https://ww3.animeonline.ninja/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ytanime - Anime / Sub",
-                            "links": [
-                                {
-                                    "name": "ytanime",
-                                    "url": "https://ytanime.tv/"
                                 }
                             ]
                         },
@@ -111457,7 +111600,7 @@
                             ]
                         },
                         {
-                            "full_text": "Tandoor Recipes , Mealie / , ⁠GrubPick , Cooked or ManageMeals - Recipe Managers",
+                            "full_text": "Tandoor Recipes , Mealie / , ⁠RecipeSage / , ⁠GrubPick , Cooked or ManageMeals - Recipe Managers",
                             "links": [
                                 {
                                     "name": "Tandoor Recipes",
@@ -111470,6 +111613,14 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/QuStdQGSGK"
+                                },
+                                {
+                                    "name": "⁠RecipeSage",
+                                    "url": "https://recipesage.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/julianpoy/recipesage"
                                 },
                                 {
                                     "name": "⁠GrubPick",
@@ -111953,7 +112104,7 @@
                             ]
                         },
                         {
-                            "full_text": "cholyknight or FreeSewing / Forum - Free Clothing Sewing Patterns",
+                            "full_text": "cholyknight or FreeSewing / Forum / - Free Clothing Sewing Patterns",
                             "links": [
                                 {
                                     "name": "cholyknight",
@@ -111966,6 +112117,10 @@
                                 {
                                     "name": "Forum",
                                     "url": "https://forum.freesewing.eu/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/freesewing-698854858052075530"
                                 }
                             ]
                         },
@@ -112679,6 +112834,28 @@
                                 {
                                     "name": "Replays",
                                     "url": "https://fmhy.net/video/#sports-replays"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Sofascore or ⁠FlashScore - Sport Scores, Standing & Schedules",
+                            "links": [
+                                {
+                                    "name": "Sofascore",
+                                    "url": "https://www.sofascore.com/"
+                                },
+                                {
+                                    "name": "⁠FlashScore",
+                                    "url": "https://www.flashscore.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Sports Reference - Sports Stats",
+                            "links": [
+                                {
+                                    "name": "⁠Sports Reference",
+                                    "url": "https://www.sports-reference.com/"
                                 }
                             ]
                         },
@@ -130321,11 +130498,19 @@
                             ]
                         },
                         {
-                            "full_text": "LegacyUpdate - Fix Windows Updates for Legacy Editions",
+                            "full_text": "LegacyUpdate - Fix Windows Updates for Legacy Editions / /",
                             "links": [
                                 {
                                     "name": "LegacyUpdate",
                                     "url": "https://legacyupdate.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/Y9rbXDtDnr"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/LegacyUpdate/LegacyUpdate"
                                 }
                             ]
                         },
@@ -130699,7 +130884,7 @@
                             ]
                         },
                         {
-                            "full_text": "Taskbar Tweaker , TranslucentTB , NiceTaskbar - Taskbar Customization / Old School Style",
+                            "full_text": "Taskbar Tweaker , TranslucentTB / , NiceTaskbar - Taskbar Customization / Old School Style",
                             "links": [
                                 {
                                     "name": "Taskbar Tweaker",
@@ -130708,6 +130893,10 @@
                                 {
                                     "name": "TranslucentTB",
                                     "url": "https://github.com/TranslucentTB/TranslucentTB"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/translucenttb"
                                 },
                                 {
                                     "name": "NiceTaskbar",
@@ -131590,11 +131779,11 @@
                             ]
                         },
                         {
-                            "full_text": "JDownloader - Download Manager / /",
+                            "full_text": "JDownloader - Download Manager /",
                             "links": [
                                 {
                                     "name": "JDownloader",
-                                    "url": "https://jdownloader.org/jdownloader2"
+                                    "url": "https://jdownloader.org/"
                                 }
                             ]
                         },
@@ -132934,6 +133123,15 @@
                             ]
                         },
                         {
+                            "full_text": "CleverFiles - File Recovery",
+                            "links": [
+                                {
+                                    "name": "CleverFiles",
+                                    "url": "https://www.cleverfiles.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Windows File Recovery - File Recovery",
                             "links": [
                                 {
@@ -134216,7 +134414,7 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious pagedisguising itselfto try to trick you. Make sure to install anadblocker(full version of uBlock Origin). Remember it'snevera good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Total Storage (x days w/ acc) / Max File Size / File Expiry (x days w/ acc) / Signup Requirements."
+                        "Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version ofuBlock Origincan prevent this but it doesn't always work. Read thisguideto learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host. Remember it'snevera good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Total Storage (x days w/ acc) / Max File Size / File Expiry (x days w/ acc) / Signup Requirements."
                     ],
                     "resource_items": [
                         {
@@ -134345,7 +134543,7 @@
                             ]
                         },
                         {
-                            "full_text": "Buzzheavier , 2 , 3 , 4 - Unlimited / 15 Day Expiry / +1 Hour Per DDL / Use Adblock / File Expiry / /",
+                            "full_text": "Buzzheavier , 2 , 3 , 4 - Unlimited / 15 Day Expiry / +1 Hour Per DDL / Use uBlock / File Expiry / /",
                             "links": [
                                 {
                                     "name": "Buzzheavier",
@@ -141312,11 +141510,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Sine - Firefox Mod / Theme Manager",
+                            "full_text": "⁠Sine - Firefox Mod / Theme Manager /",
                             "links": [
                                 {
                                     "name": "⁠Sine",
                                     "url": "https://github.com/CosmoCreeper/Sine"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/sine-1377068283693629592"
                                 }
                             ]
                         },
@@ -144302,11 +144504,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠StoryLooker - Snapchat Frontend / Viewer",
+                            "full_text": "⁠StoryLooker or Snoopchat - Snapchat Frontends / Viewers",
                             "links": [
                                 {
                                     "name": "⁠StoryLooker",
                                     "url": "https://storylooker.com/"
+                                },
+                                {
+                                    "name": "Snoopchat",
+                                    "url": "https://snoopchat.co/"
                                 }
                             ]
                         },
@@ -144867,23 +145073,6 @@
                             ]
                         },
                         {
-                            "full_text": "Replugged - Discord Client Mod / /",
-                            "links": [
-                                {
-                                    "name": "Replugged",
-                                    "url": "https://replugged.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/HnYFUhv4x4"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/replugged-org/replugged"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Legcord - Discord Client / Lightweight / Privacy-Fork / /",
                             "links": [
                                 {
@@ -144901,6 +145090,23 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/Legcord/Legcord"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Replugged - Discord Client Mod / /",
+                            "links": [
+                                {
+                                    "name": "Replugged",
+                                    "url": "https://replugged.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/HnYFUhv4x4"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/replugged-org/replugged"
                                 }
                             ]
                         },
@@ -144970,6 +145176,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/SpikeHD/Dorion"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Concord - Discord TUI",
+                            "links": [
+                                {
+                                    "name": "⁠Concord",
+                                    "url": "https://github.com/chojs23/concord"
                                 }
                             ]
                         },
@@ -147824,11 +148039,15 @@
                             ]
                         },
                         {
-                            "full_text": "JDownloader - YouTube Downloader App /",
+                            "full_text": "JDownloader - YouTube Downloader App / Warning",
                             "links": [
                                 {
                                     "name": "JDownloader",
-                                    "url": "https://jdownloader.org/jdownloader2"
+                                    "url": "https://jdownloader.org/"
+                                },
+                                {
+                                    "name": "Warning",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md"
                                 }
                             ]
                         },
@@ -160124,7 +160343,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Nucleus Co-op - Local Split-Screen PC Multiplayer /",
+                            "full_text": "Nucleus Co-op - Local Split-Screen PC Multiplayer / /",
                             "links": [
                                 {
                                     "name": "Nucleus Co-op",
@@ -160133,6 +160352,10 @@
                                 {
                                     "name": "",
                                     "url": "https://www.reddit.com/r/nucleuscoop/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/distro-nucleusco-op-142649962839277568"
                                 }
                             ]
                         },
@@ -168951,15 +169174,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Mosh , Efecto , glitch2 or GlitchyImage - Glitch Images",
+                            "full_text": "Mosh , glitch2 or GlitchyImage - Glitch Images",
                             "links": [
                                 {
                                     "name": "Mosh",
                                     "url": "https://moshpro.app/"
-                                },
-                                {
-                                    "name": "Efecto",
-                                    "url": "https://efecto.app/"
                                 },
                                 {
                                     "name": "glitch2",
@@ -170270,6 +170489,19 @@
                                 {
                                     "name": "iFake",
                                     "url": "https://ifaketextmessage.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Undertale Text Gen - ⁠Undertale Text Box Generator /",
+                            "links": [
+                                {
+                                    "name": "⁠Undertale Text Gen",
+                                    "url": "https://undertaletextboxgenerator.online/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/3EzQmbGz6h"
                                 }
                             ]
                         },
@@ -173338,15 +173570,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Efecto - 3D Model Visual Effects",
-                            "links": [
-                                {
-                                    "name": "Efecto",
-                                    "url": "https://efecto.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Embossify or Tripo3D - Image to 3D Model Converters",
                             "links": [
                                 {
@@ -174877,7 +175100,7 @@
                             ]
                         },
                         {
-                            "full_text": "Immich / Resources / Extension / Storage Server / Bulk Uploader / Power Tools /",
+                            "full_text": "Immich / Resources / Extension / Storage Server / Bulk Uploader / Power Tools / /",
                             "links": [
                                 {
                                     "name": "Immich",
@@ -174902,6 +175125,10 @@
                                 {
                                     "name": "Power Tools",
                                     "url": "https://github.com/varun-raj/immich-power-tools"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/immich"
                                 },
                                 {
                                     "name": "",
@@ -175231,15 +175458,6 @@
                                     "url": "https://github.com/garzj/google-photos-migrate"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "Google Photos EXIF - Populate Missing EXIF metadata in Google Photos",
-                            "links": [
-                                {
-                                    "name": "Google Photos EXIF",
-                                    "url": "https://github.com/mattwilson1024/google-photos-exif"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -175350,15 +175568,6 @@
                                 {
                                     "name": "YourImageShare",
                                     "url": "https://yourimageshare.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "pic.maxiol - 100MB / Forever",
-                            "links": [
-                                {
-                                    "name": "pic.maxiol",
-                                    "url": "https://pic.maxiol.com/"
                                 }
                             ]
                         },
@@ -180578,12 +180787,8 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Efecto , ⁠Grainrad or effect.app - Online Video Effects",
+                            "full_text": "⁠Grainrad or effect.app - Online Video Effects",
                             "links": [
-                                {
-                                    "name": "Efecto",
-                                    "url": "https://efecto.app/"
-                                },
                                 {
                                     "name": "⁠Grainrad",
                                     "url": "https://grainrad.com/"
@@ -180934,7 +181139,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Autograph , OpenToonz / , Friction / , Wick Editor , Tixl / , Clipnote Studio , ⁠Touch Designer or Pencil2D - Motion Graphics Editors / Animation Tools",
+                            "full_text": "⁠Autograph , OpenToonz / , Friction / , Wick Editor , Tixl / / , Clipnote Studio , ⁠Touch Designer or Pencil2D - Motion Graphics Editors / Animation Tools",
                             "links": [
                                 {
                                     "name": "⁠Autograph",
@@ -180963,6 +181168,10 @@
                                 {
                                     "name": "Tixl",
                                     "url": "https://tixl.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/tooll3-823853172619083816"
                                 },
                                 {
                                     "name": "",
@@ -184407,11 +184616,15 @@
                             ]
                         },
                         {
-                            "full_text": "SpotX - Ad-Free Spotify Patcher /",
+                            "full_text": "SpotX or BlockTheSpot - Ad-Free Spotify Patchers /",
                             "links": [
                                 {
                                     "name": "SpotX",
                                     "url": "https://github.com/SpotX-Official/SpotX"
+                                },
+                                {
+                                    "name": "BlockTheSpot",
+                                    "url": "https://github.com/Nuzair46/BlockTheSpot-Installer"
                                 },
                                 {
                                     "name": "",
@@ -189951,7 +190164,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Tenacity / , Audacity / or ocenaudio - Audio Editors",
+                            "full_text": "Tenacity / , Audacity / / or ocenaudio - Audio Editors",
                             "links": [
                                 {
                                     "name": "Tenacity",
@@ -189964,6 +190177,10 @@
                                 {
                                     "name": "Audacity",
                                     "url": "https://www.audacityteam.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/audacity"
                                 },
                                 {
                                     "name": "",
@@ -190329,7 +190546,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "* BandLab **, Audioalter , WavaCity , ⁠Riffle , [Bosca Ceoil]( https://humnom.net/apps/boscaceoil/ , ⁠AudioTool , AudioMass , editor.audio , TwistedWave or xAudioPro - Online Editors / Web DAWs",
+                            "full_text": "BandLab , Audioalter , WavaCity , ⁠Riffle , [Bosca Ceoil]( https://humnom.net/apps/boscaceoil/ , ⁠AudioTool , AudioMass , editor.audio , TwistedWave or xAudioPro - Online Editors / Web DAWs",
                             "links": [
                                 {
                                     "name": "BandLab",
@@ -196422,11 +196639,15 @@
                             ]
                         },
                         {
-                            "full_text": "Outerzone - Vintage Model Airplane Plans",
+                            "full_text": "Outerzone or ⁠AeroFred - Model Airplane Plans",
                             "links": [
                                 {
                                     "name": "Outerzone",
                                     "url": "https://outerzone.co.uk/"
+                                },
+                                {
+                                    "name": "⁠AeroFred",
+                                    "url": "https://www.aerofred.com/"
                                 }
                             ]
                         },
@@ -204195,7 +204416,7 @@
                             ]
                         },
                         {
-                            "full_text": "Programiz , TutorialKart , Hackr.io , Ultimate Programming , GeeksforGeeks or Tpoint Tech / - General Coding Tutorials",
+                            "full_text": "Programiz , TutorialKart , Hackr.io , Ultimate Programming , GeeksforGeeks , ⁠W3Schools or Tpoint Tech / - General Coding Tutorials",
                             "links": [
                                 {
                                     "name": "Programiz",
@@ -204216,6 +204437,10 @@
                                 {
                                     "name": "GeeksforGeeks",
                                     "url": "https://www.geeksforgeeks.org/"
+                                },
+                                {
+                                    "name": "⁠W3Schools",
+                                    "url": "https://www.w3schools.com/"
                                 },
                                 {
                                     "name": "Tpoint Tech",
@@ -219083,11 +219308,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠AppWrite - 2GB Stage / 5GB",
+                            "full_text": "⁠AppWrite - 2GB Stage / 5GB /",
                             "links": [
                                 {
                                     "name": "⁠AppWrite",
                                     "url": "https://appwrite.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/appwrite"
                                 }
                             ]
                         },
@@ -220863,20 +221092,65 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "pic.maxiol - 100MB / Forever (Removed in 76d15be )",
+                            "links": [
+                                {
+                                    "name": "76d15be",
+                                    "url": "https://github.com/fmhy/edit/commit/76d15be7e12cbdad08a165cfe1a4b6b58cf1decc#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL820"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Efecto - 3D Model Visual Effects (Removed in e378ba3 )",
+                            "links": [
+                                {
+                                    "name": "e378ba3",
+                                    "url": "https://github.com/fmhy/edit/commit/e378ba3ade26a59870274011a77270b2e376fe65#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL574"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Google Photos EXIF - Populate Missing EXIF metadata in Google Photos (Removed in e378ba3 )",
+                            "links": [
+                                {
+                                    "name": "e378ba3",
+                                    "url": "https://github.com/fmhy/edit/commit/e378ba3ade26a59870274011a77270b2e376fe65#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL806"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "la14hd - Live Sports (Removed in e378ba3 )",
+                            "links": [
+                                {
+                                    "name": "e378ba3",
+                                    "url": "https://github.com/fmhy/edit/commit/e378ba3ade26a59870274011a77270b2e376fe65#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1508"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ytanime - Anime / Sub (Removed in e378ba3 )",
+                            "links": [
+                                {
+                                    "name": "e378ba3",
+                                    "url": "https://github.com/fmhy/edit/commit/e378ba3ade26a59870274011a77270b2e376fe65#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1548"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Filmex - Movies / TV / Anime / Auto-Next (Removed in e378ba3 )",
+                            "links": [
+                                {
+                                    "name": "e378ba3",
+                                    "url": "https://github.com/fmhy/edit/commit/e378ba3ade26a59870274011a77270b2e376fe65#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL129"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Poprink - Movies / TV / Anime / Auto-Next / Telegram / Discord (Removed in dcae98d : small update)",
                             "links": [
                                 {
                                     "name": "dcae98d",
                                     "url": "https://github.com/fmhy/edit/commit/dcae98d1e5f21ee622db7695d064167a7327e744#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL23"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TorrentMac - Use Adblock (Removed in 31f5d50 )",
-                            "links": [
-                                {
-                                    "name": "31f5d50",
-                                    "url": "https://github.com/fmhy/edit/commit/31f5d5063110f221b20ab7ca8074b0f119abae75#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL659"
                                 }
                             ]
                         },
@@ -222839,15 +223113,6 @@
                                 {
                                     "name": "25ea0be",
                                     "url": "https://github.com/fmhy/edit/commit/25ea0bec043efcf480ec9c064c57f2a65446f84c#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL1063"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KiraStreams - Movies / TV / Anime (Removed in d78238b )",
-                            "links": [
-                                {
-                                    "name": "d78238b",
-                                    "url": "https://github.com/fmhy/edit/commit/d78238bf82806cb59e6dcbf1f31c7d97a6ff4bc0#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL724"
                                 }
                             ]
                         }
