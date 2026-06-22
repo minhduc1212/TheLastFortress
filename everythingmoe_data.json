@@ -207,7 +207,7 @@
             ],
             "negatives": [
               "Add watermark",
-              "New site"
+              "No comments section"
             ],
             "info": "note: Contents are exactly the same as animepahe, but it's their own host."
           }
@@ -2092,13 +2092,7 @@
               "Content depends on the websites it scrapes",
               "New site"
             ],
-            "altlinks": [
-              {
-                "name": "YumeZone",
-                "url": "https://yumezone.live/home"
-              }
-            ],
-            "info": "note : each made by different people, uses CF worker proxy."
+            "ex-info": "note : each made by different people, uses CF worker proxy."
           }
         },
         {
@@ -2213,6 +2207,31 @@
           }
         },
         {
+          "id": "yumezone",
+          "title": "YumeZone",
+          "link": "https://yumezone.live/",
+          "icon": "https://static.everythingmoe.com/icons/yumezone.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 55,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Modern interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes",
+              "New site"
+            ]
+          }
+        },
+        {
           "id": "itachitv",
           "title": "Itachi",
           "link": "https://itachi.tv/",
@@ -2220,7 +2239,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2248,7 +2267,7 @@
             "Easy download",
             "mult"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2285,7 +2304,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2312,7 +2331,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2339,7 +2358,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2386,7 +2405,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2413,7 +2432,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2439,7 +2458,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2502,7 +2521,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2529,7 +2548,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2557,7 +2576,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2587,7 +2606,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2616,7 +2635,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2671,7 +2690,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2746,7 +2765,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2773,7 +2792,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2798,7 +2817,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2823,7 +2842,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2850,7 +2869,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2875,7 +2894,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2912,7 +2931,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2959,7 +2978,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2986,7 +3005,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3031,7 +3050,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3059,7 +3078,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3091,7 +3110,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3139,7 +3158,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3166,7 +3185,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3193,7 +3212,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3233,7 +3252,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3267,7 +3286,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3340,7 +3359,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -6390,7 +6409,7 @@
               "Advance manga info & filtering"
             ],
             "negatives": [
-              "Some image loading issue"
+              "Sometimes broken"
             ],
             "altlinks": [
               {
@@ -35407,7 +35426,7 @@
         ],
         "negatives": [
           "Add watermark",
-          "New site"
+          "No comments section"
         ],
         "info": "note: Contents are exactly the same as animepahe, but it's their own host."
       }
@@ -37292,13 +37311,7 @@
           "Content depends on the websites it scrapes",
           "New site"
         ],
-        "altlinks": [
-          {
-            "name": "YumeZone",
-            "url": "https://yumezone.live/home"
-          }
-        ],
-        "info": "note : each made by different people, uses CF worker proxy."
+        "ex-info": "note : each made by different people, uses CF worker proxy."
       }
     },
     "fanime": {
@@ -37409,6 +37422,31 @@
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
+        ]
+      }
+    },
+    "yumezone": {
+      "id": "yumezone",
+      "title": "YumeZone",
+      "link": "https://yumezone.live/",
+      "icon": "https://static.everythingmoe.com/icons/yumezone.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Modern interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes",
+          "New site"
         ]
       }
     },
@@ -41554,7 +41592,7 @@
           "Advance manga info & filtering"
         ],
         "negatives": [
-          "Some image loading issue"
+          "Sometimes broken"
         ],
         "altlinks": [
           {
