@@ -1297,6 +1297,41 @@
           }
         },
         {
+          "id": "anicore",
+          "title": "Anikage",
+          "link": "https://anikage.cc/home",
+          "icon": "https://static.everythingmoe.com/icons/anicore.png",
+          "tags": [
+            "Scraper",
+            "Modern interface",
+            "Hard-sub",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 29,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Modern interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "info": "note: Formerly known as AniPlay and AniCore.",
+            "ex-altlinks": [
+              {
+                "name": "anicore",
+                "url": "https://anicore.tv/home"
+              }
+            ]
+          }
+        },
+        {
           "id": "anidap",
           "title": "Anidap",
           "link": "https://anidap.se/home",
@@ -1309,7 +1344,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1333,7 +1368,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1362,7 +1397,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1393,7 +1428,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1423,7 +1458,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1491,7 +1526,7 @@
             "Soft-sub",
             "Easy download"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1538,7 +1573,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -1554,41 +1589,6 @@
               "License restricted / region lock",
               "Slightly lower service quality",
               "Smaller library"
-            ]
-          }
-        },
-        {
-          "id": "anicore",
-          "title": "Anikage",
-          "link": "https://anikage.cc/home",
-          "icon": "https://static.everythingmoe.com/icons/anicore.png",
-          "tags": [
-            "Scraper",
-            "Modern interface",
-            "Hard-sub",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 36,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options",
-              "Modern interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ],
-            "info": "note: Formerly known as AniPlay and AniCore.",
-            "ex-altlinks": [
-              {
-                "name": "anicore",
-                "url": "https://anicore.tv/home"
-              }
             ]
           }
         },
@@ -2043,6 +2043,31 @@
           }
         },
         {
+          "id": "bettermelon",
+          "title": "bettermelon",
+          "link": "https://bettermelon.ru/",
+          "icon": "https://static.everythingmoe.com/icons/bettermelon.png",
+          "tags": [],
+          "rank": 49,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Customized subtitles",
+              "Transcript provided",
+              "Live dictionary"
+            ],
+            "negatives": [
+              "Content depends on Anikoto",
+              "Subtitle often need manual sync"
+            ],
+            "info": "note: Spiritual sucessor of <a href=\"/s/Animelon\">Animelon</a> (not related)"
+          }
+        },
+        {
           "id": "zenkai",
           "title": "Zenkai",
           "link": "https://zenkai.to/home",
@@ -2052,7 +2077,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2079,7 +2104,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2108,7 +2133,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2137,7 +2162,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2165,7 +2190,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2192,7 +2217,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2216,7 +2241,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2241,7 +2266,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2269,7 +2294,7 @@
             "Easy download",
             "mult"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2306,7 +2331,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2333,7 +2358,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2360,7 +2385,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2407,7 +2432,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2434,7 +2459,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2460,7 +2485,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2523,7 +2548,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2550,7 +2575,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2578,7 +2603,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2608,7 +2633,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2637,7 +2662,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2688,7 +2713,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2763,7 +2788,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2790,7 +2815,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2815,7 +2840,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2840,7 +2865,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2866,7 +2891,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2891,7 +2916,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2911,14 +2936,14 @@
           "id": "anipm",
           "title": "ani.pm",
           "link": "https://ani.pm/",
-          "icon": "https://static.everythingmoe.com/icons/default.png",
+          "icon": "https://static.everythingmoe.com/icons/anipm.png",
           "tags": [
             "Scraper",
             "Soft-sub",
             "Hard-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2943,7 +2968,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2980,7 +3005,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3027,7 +3052,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3054,7 +3079,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3099,7 +3124,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3127,7 +3152,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3160,7 +3185,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3194,7 +3219,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3240,7 +3265,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3267,7 +3292,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3307,7 +3332,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 87,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3341,7 +3366,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 88,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3414,7 +3439,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 89,
+          "rank": 90,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -36570,6 +36595,41 @@
         "info": "note: Old videos was deleted, now mostly already restored, but still the library is not that large."
       }
     },
+    "anicore": {
+      "id": "anicore",
+      "title": "Anikage",
+      "link": "https://anikage.cc/home",
+      "icon": "https://static.everythingmoe.com/icons/anicore.png",
+      "tags": [
+        "Scraper",
+        "Modern interface",
+        "Hard-sub",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Modern interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "info": "note: Formerly known as AniPlay and AniCore.",
+        "ex-altlinks": [
+          {
+            "name": "anicore",
+            "url": "https://anicore.tv/home"
+          }
+        ]
+      }
+    },
     "anidap": {
       "id": "anidap",
       "title": "Anidap",
@@ -36828,41 +36888,6 @@
           "License restricted / region lock",
           "Slightly lower service quality",
           "Smaller library"
-        ]
-      }
-    },
-    "anicore": {
-      "id": "anicore",
-      "title": "Anikage",
-      "link": "https://anikage.cc/home",
-      "icon": "https://static.everythingmoe.com/icons/anicore.png",
-      "tags": [
-        "Scraper",
-        "Modern interface",
-        "Hard-sub",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options",
-          "Modern interface"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ],
-        "info": "note: Formerly known as AniPlay and AniCore.",
-        "ex-altlinks": [
-          {
-            "name": "anicore",
-            "url": "https://anicore.tv/home"
-          }
         ]
       }
     },
@@ -37314,6 +37339,31 @@
           }
         ],
         "info": "note: This site focuses on Download, but you can also stream it."
+      }
+    },
+    "bettermelon": {
+      "id": "bettermelon",
+      "title": "bettermelon",
+      "link": "https://bettermelon.ru/",
+      "icon": "https://static.everythingmoe.com/icons/bettermelon.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Customized subtitles",
+          "Transcript provided",
+          "Live dictionary"
+        ],
+        "negatives": [
+          "Content depends on Anikoto",
+          "Subtitle often need manual sync"
+        ],
+        "info": "note: Spiritual sucessor of <a href=\"/s/Animelon\">Animelon</a> (not related)"
       }
     },
     "zenkai": {
@@ -38185,7 +38235,7 @@
       "id": "anipm",
       "title": "ani.pm",
       "link": "https://ani.pm/",
-      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "icon": "https://static.everythingmoe.com/icons/anipm.png",
       "tags": [
         "Scraper",
         "Soft-sub",
