@@ -4855,6 +4855,32 @@
           }
         },
         {
+          "id": "anipmhentai",
+          "title": "ani.pm",
+          "link": "https://ani.pm/",
+          "icon": "https://static.everythingmoe.com/icons/anipm.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
+            "mult"
+          ],
+          "rank": 34,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "hentai",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "hentaivideoworld",
           "title": "HentaiVideoWorld",
           "link": "https://hentaivideoworld.com",
@@ -4862,7 +4888,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4890,7 +4916,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4921,7 +4947,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4945,7 +4971,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4963,7 +4989,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4989,7 +5015,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5015,7 +5041,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5049,7 +5075,7 @@
             "Scraper",
             "nsfw"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5079,7 +5105,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5100,7 +5126,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5123,7 +5149,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10424,7 +10450,7 @@
         {
           "id": "toonflix",
           "title": "TOONFLIX (ntk01)",
-          "link": "https://sbxh8.com/",
+          "link": "https://newtoki1.org/",
           "icon": "https://static.everythingmoe.com/icons/toonflix.png",
           "tags": [
             "Raws",
@@ -10448,14 +10474,26 @@
             ],
             "altlinks": [
               {
-                "name": "ntk01",
-                "url": "https://ntk01.com/"
+                "name": "sbxh9",
+                "url": "https://sbxh9.com/"
+              },
+              {
+                "name": "toki25",
+                "url": "https://toki25.com/"
+              },
+              {
+                "name": "newtoki1",
+                "url": "https://newtoki1.org/"
               }
             ],
             "ex-altlinks": [
               {
                 "name": "toonflix",
                 "url": "https://toonflix.app/"
+              },
+              {
+                "name": "ntk01",
+                "url": "https://ntk01.com/"
               }
             ],
             "info": "note: most likely NOT related with newtoki. This is new site. Also provides JP manga translated into korean."
@@ -14848,6 +14886,10 @@
                 "url": "https://yumemi.moe/"
               },
               {
+                "name": "Fork 5",
+                "url": "https://github.com/Space4414/Tsuki"
+              },
+              {
                 "name": "Original",
                 "url": "https://github.com/KotatsuApp/Kotatsu"
               }
@@ -16557,51 +16599,6 @@
           }
         },
         {
-          "id": "awery",
-          "title": "Awery",
-          "link": "https://github.com/MrBoomDeveloper/Awery",
-          "icon": "https://static.everythingmoe.com/icons/awery.png",
-          "tags": [
-            "Android",
-            "Anime"
-          ],
-          "rank": 42,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "apps",
-          "details": {
-            "positives": [
-              "Anime watching app",
-              "Nice user interface",
-              "Many extension sources are available",
-              "Open source"
-            ],
-            "negatives": [
-              "Android only",
-              "Need to install an extension to use",
-              "Extensions installed separately",
-              "Short track record"
-            ],
-            "altlinks": [
-              {
-                "name": "Git repo",
-                "url": "https://github.com/MrBoomDeveloper/Awery"
-              },
-              {
-                "name": "Release",
-                "url": "https://github.com/MrBoomDeveloper/Awery/releases"
-              },
-              {
-                "name": "Anime Extensions",
-                "url": "https://everythingmoe.com/post/aniyomirepo.html"
-              }
-            ],
-            "info": "note: This app forked from Dantotsu. Can use same extension as Aniyomi."
-          }
-        },
-        {
           "id": "mojuru",
           "title": "Mojuru",
           "link": "https://www.mojuru.app/",
@@ -16610,7 +16607,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 43,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16651,7 +16648,7 @@
             "Andoid",
             "Manga"
           ],
-          "rank": 44,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16696,7 +16693,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 45,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16745,7 +16742,7 @@
             "Light Novel",
             "universal"
           ],
-          "rank": 46,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16786,7 +16783,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 47,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16832,7 +16829,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 48,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16866,7 +16863,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 49,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16901,7 +16898,7 @@
             "Anime",
             "desktop"
           ],
-          "rank": 50,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16937,7 +16934,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 51,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16973,7 +16970,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 52,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17012,7 +17009,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 53,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17050,7 +17047,7 @@
             "Windows",
             "Anime"
           ],
-          "rank": 54,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17089,7 +17086,7 @@
             "Light Novel",
             "universal"
           ],
-          "rank": 55,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17129,7 +17126,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 56,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17165,7 +17162,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 57,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17204,7 +17201,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 58,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17242,7 +17239,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 59,
+          "rank": 58,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -17284,7 +17281,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 60,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17312,7 +17309,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 61,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17345,7 +17342,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 62,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17384,7 +17381,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 63,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17405,6 +17402,52 @@
                 "url": "https://github.com/jakepurple13/OtakuWorld/releases/latest"
               }
             ]
+          }
+        },
+        {
+          "id": "awery",
+          "title": "Awery",
+          "link": "https://github.com/MrBoomDeveloper/Awery",
+          "icon": "https://static.everythingmoe.com/icons/awery.png",
+          "tags": [
+            "Android",
+            "Anime"
+          ],
+          "rank": 63,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Anime watching app",
+              "Nice user interface",
+              "Many extension sources are available",
+              "Open source"
+            ],
+            "negatives": [
+              "Android only",
+              "Need to install an extension to use",
+              "Extensions installed separately",
+              "Short track record",
+              "Rarely maintained"
+            ],
+            "altlinks": [
+              {
+                "name": "Git repo",
+                "url": "https://github.com/MrBoomDeveloper/Awery"
+              },
+              {
+                "name": "Release",
+                "url": "https://github.com/MrBoomDeveloper/Awery/releases"
+              },
+              {
+                "name": "Anime Extensions",
+                "url": "https://everythingmoe.com/post/aniyomirepo.html"
+              }
+            ],
+            "info": "note: This app forked from Dantotsu. Can use same extension as Aniyomi."
           }
         },
         {
@@ -40135,6 +40178,32 @@
         ]
       }
     },
+    "anipmhentai": {
+      "id": "anipmhentai",
+      "title": "ani.pm",
+      "link": "https://ani.pm/",
+      "icon": "https://static.everythingmoe.com/icons/anipm.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "hentai"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "hentaivideoworld": {
       "id": "hentaivideoworld",
       "title": "HentaiVideoWorld",
@@ -45678,7 +45747,7 @@
     "toonflix": {
       "id": "toonflix",
       "title": "TOONFLIX (ntk01)",
-      "link": "https://sbxh8.com/",
+      "link": "https://newtoki1.org/",
       "icon": "https://static.everythingmoe.com/icons/toonflix.png",
       "tags": [
         "Raws",
@@ -45702,14 +45771,26 @@
         ],
         "altlinks": [
           {
-            "name": "ntk01",
-            "url": "https://ntk01.com/"
+            "name": "sbxh9",
+            "url": "https://sbxh9.com/"
+          },
+          {
+            "name": "toki25",
+            "url": "https://toki25.com/"
+          },
+          {
+            "name": "newtoki1",
+            "url": "https://newtoki1.org/"
           }
         ],
         "ex-altlinks": [
           {
             "name": "toonflix",
             "url": "https://toonflix.app/"
+          },
+          {
+            "name": "ntk01",
+            "url": "https://ntk01.com/"
           }
         ],
         "info": "note: most likely NOT related with newtoki. This is new site. Also provides JP manga translated into korean."
@@ -50066,6 +50147,10 @@
             "url": "https://yumemi.moe/"
           },
           {
+            "name": "Fork 5",
+            "url": "https://github.com/Space4414/Tsuki"
+          },
+          {
             "name": "Original",
             "url": "https://github.com/KotatsuApp/Kotatsu"
           }
@@ -51774,51 +51859,6 @@
         ]
       }
     },
-    "awery": {
-      "id": "awery",
-      "title": "Awery",
-      "link": "https://github.com/MrBoomDeveloper/Awery",
-      "icon": "https://static.everythingmoe.com/icons/awery.png",
-      "tags": [
-        "Android",
-        "Anime"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "apps"
-      ],
-      "details": {
-        "positives": [
-          "Anime watching app",
-          "Nice user interface",
-          "Many extension sources are available",
-          "Open source"
-        ],
-        "negatives": [
-          "Android only",
-          "Need to install an extension to use",
-          "Extensions installed separately",
-          "Short track record"
-        ],
-        "altlinks": [
-          {
-            "name": "Git repo",
-            "url": "https://github.com/MrBoomDeveloper/Awery"
-          },
-          {
-            "name": "Release",
-            "url": "https://github.com/MrBoomDeveloper/Awery/releases"
-          },
-          {
-            "name": "Anime Extensions",
-            "url": "https://everythingmoe.com/post/aniyomirepo.html"
-          }
-        ],
-        "info": "note: This app forked from Dantotsu. Can use same extension as Aniyomi."
-      }
-    },
     "mojuru": {
       "id": "mojuru",
       "title": "Mojuru",
@@ -52623,6 +52663,52 @@
             "url": "https://github.com/jakepurple13/OtakuWorld/releases/latest"
           }
         ]
+      }
+    },
+    "awery": {
+      "id": "awery",
+      "title": "Awery",
+      "link": "https://github.com/MrBoomDeveloper/Awery",
+      "icon": "https://static.everythingmoe.com/icons/awery.png",
+      "tags": [
+        "Android",
+        "Anime"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Anime watching app",
+          "Nice user interface",
+          "Many extension sources are available",
+          "Open source"
+        ],
+        "negatives": [
+          "Android only",
+          "Need to install an extension to use",
+          "Extensions installed separately",
+          "Short track record",
+          "Rarely maintained"
+        ],
+        "altlinks": [
+          {
+            "name": "Git repo",
+            "url": "https://github.com/MrBoomDeveloper/Awery"
+          },
+          {
+            "name": "Release",
+            "url": "https://github.com/MrBoomDeveloper/Awery/releases"
+          },
+          {
+            "name": "Anime Extensions",
+            "url": "https://everythingmoe.com/post/aniyomirepo.html"
+          }
+        ],
+        "info": "note: This app forked from Dantotsu. Can use same extension as Aniyomi."
       }
     },
     "exhentaimanager": {
