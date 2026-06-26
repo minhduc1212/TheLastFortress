@@ -184,14 +184,15 @@
           }
         },
         {
-          "id": "anidbstream",
-          "title": "AniDB",
-          "link": "https://anidb.app/home",
-          "icon": "https://static.everythingmoe.com/icons/anidbapp.png",
+          "id": "reanime",
+          "title": "Re:Anime",
+          "link": "https://reanime.to/home",
+          "icon": "https://static.everythingmoe.com/icons/reanime.png",
           "tags": [
-            "Hard-sub",
             "Self-host",
-            "Modern interface"
+            "Soft-sub",
+            "Modern interface",
+            "Dub friendly"
           ],
           "rank": 4,
           "is_licensed": false,
@@ -201,15 +202,16 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Same content as animepahe",
-              "Medium-large library",
-              "Small data usage"
+              "Modern interface",
+              "Reliable server",
+              "Rich subtitle typesetting",
+              "Actively updated"
             ],
             "negatives": [
-              "Add watermark",
-              "No comments section"
+              "No video quality option",
+              "Medium library"
             ],
-            "info": "note: Contents are exactly the same as animepahe, but it's their own host."
+            "domains": "stronghole.site"
           }
         },
         {
@@ -283,6 +285,35 @@
           }
         },
         {
+          "id": "anidbstream",
+          "title": "AniDB",
+          "link": "https://anidb.app/home",
+          "icon": "https://static.everythingmoe.com/icons/anidbapp.png",
+          "tags": [
+            "Hard-sub",
+            "Self-host",
+            "Modern interface"
+          ],
+          "rank": 6,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Same content as animepahe",
+              "Medium-large library",
+              "Small data usage"
+            ],
+            "negatives": [
+              "Add watermark",
+              "No comments section"
+            ],
+            "info": "note: Contents are exactly the same as animepahe, but it's their own host."
+          }
+        },
+        {
           "id": "animetsu",
           "title": "Animetsu",
           "link": "https://animetsu.live/",
@@ -295,7 +326,7 @@
             "Soft-sub",
             "MULT"
           ],
-          "rank": 6,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -343,37 +374,6 @@
                 "url": "https://gojo.wtf/"
               }
             ]
-          }
-        },
-        {
-          "id": "reanime",
-          "title": "Re:Anime",
-          "link": "https://reanime.to/home",
-          "icon": "https://static.everythingmoe.com/icons/reanime.png",
-          "tags": [
-            "Self-host",
-            "Soft-sub",
-            "Modern interface",
-            "Dub friendly"
-          ],
-          "rank": 7,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Modern interface",
-              "Reliable server",
-              "Rich subtitle typesetting",
-              "Actively updated"
-            ],
-            "negatives": [
-              "No video quality option",
-              "Medium library"
-            ],
-            "domains": "stronghole.site"
           }
         },
         {
@@ -949,6 +949,48 @@
           }
         },
         {
+          "id": "otakuu",
+          "title": "AnimeX",
+          "link": "https://animex.one/home",
+          "icon": "https://static.everythingmoe.com/icons/animexone.png",
+          "tags": [
+            "Scraper",
+            "Hard-sub",
+            "Soft-sub",
+            "Self-host",
+            "Easy download",
+            "Modern interface",
+            "MULT"
+          ],
+          "rank": 21,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "ex-altlinks": [
+              {
+                "name": "aniwaveat",
+                "url": "https://aniwave.at/"
+              },
+              {
+                "name": "Anistream",
+                "url": "https://anistream.one/home"
+              }
+            ],
+            "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
+            "info": "note: formerly known as Otakuu. Also self host some anime"
+          }
+        },
+        {
           "id": "123animes",
           "title": "aniwaves.ru",
           "link": "https://aniwaves.ru/home",
@@ -957,7 +999,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1055,7 +1097,7 @@
             "Self-host",
             "Third party"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1103,7 +1145,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1128,47 +1170,6 @@
               }
             ],
             "note": "Decent features"
-          }
-        },
-        {
-          "id": "otakuu",
-          "title": "AnimeX",
-          "link": "https://animex.one/home",
-          "icon": "https://static.everythingmoe.com/icons/animexone.png",
-          "tags": [
-            "Scraper",
-            "Hard-sub",
-            "Soft-sub",
-            "Easy download",
-            "Modern interface",
-            "mult"
-          ],
-          "rank": 24,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources options",
-              "Nice interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ],
-            "ex-altlinks": [
-              {
-                "name": "aniwaveat",
-                "url": "https://aniwave.at/"
-              },
-              {
-                "name": "Anistream",
-                "url": "https://anistream.one/home"
-              }
-            ],
-            "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
-            "info": "note: formerly known as Otakuu."
           }
         },
         {
@@ -10990,25 +10991,6 @@
           }
         },
         {
-          "id": "resetscans",
-          "title": "Reset Scans",
-          "link": "https://reset-scans.org/",
-          "icon": "https://static.everythingmoe.com/icons/resetscans.png",
-          "tags": [
-            "Mostly Scans",
-            "scan"
-          ],
-          "rank": 57,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manhwa",
-          "details": {
-            "info": "note: no review yet"
-          }
-        },
-        {
           "id": "hivescans",
           "title": "Hive Scans",
           "link": "https://hivescans.com/",
@@ -11017,7 +10999,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 58,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11036,7 +11018,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 59,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11055,7 +11037,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 60,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11073,7 +11055,7 @@
           "tags": [
             "scan"
           ],
-          "rank": 61,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11092,7 +11074,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 62,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11108,7 +11090,7 @@
           "link": "https://manhuafast.net/",
           "icon": "https://static.everythingmoe.com/icons/manhuafast.png",
           "tags": [],
-          "rank": 63,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11128,7 +11110,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 64,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11148,7 +11130,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 65,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -11169,7 +11151,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 66,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -11189,7 +11171,7 @@
           "tags": [
             "mtl"
           ],
-          "rank": 67,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11211,47 +11193,12 @@
       "lowcont_id": "lowcont-novel",
       "sites": [
         {
-          "id": "novelfire",
-          "title": "NovelFire",
-          "link": "https://novelfire.net/home",
-          "icon": "https://static.everythingmoe.com/icons/novelfire.png",
-          "tags": [],
-          "rank": 1,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "novel",
-          "details": {
-            "positives": [
-              "Similar with LightNovelWorld",
-              "Large library",
-              "Text-to-speech support",
-              "Multi language support",
-              "Decently popular"
-            ],
-            "negatives": [
-              "Text-to-speech low quality"
-            ],
-            "altlinks": [
-              {
-                "name": "findnovel",
-                "url": "https://findnovel.net/home"
-              },
-              {
-                "name": "pandanovel",
-                "url": "https://pandanovel.co/"
-              }
-            ]
-          }
-        },
-        {
           "id": "lightnovelworldorg",
           "title": "LightNovelWorld",
           "link": "https://lightnovelworld.org/",
           "icon": "https://static.everythingmoe.com/icons/lightnovelworld.png",
           "tags": [],
-          "rank": 2,
+          "rank": 1,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11272,7 +11219,7 @@
           "link": "https://novelarchive.cc/",
           "icon": "https://static.everythingmoe.com/icons/novelarchive.png",
           "tags": [],
-          "rank": 3,
+          "rank": 2,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11294,7 +11241,7 @@
           "link": "https://novelbuddy.com/home",
           "icon": "https://static.everythingmoe.com/icons/novelbuddy.png",
           "tags": [],
-          "rank": 4,
+          "rank": 3,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11326,6 +11273,42 @@
               {
                 "name": "novelfab",
                 "url": "https://novelfab.com/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "novelfire",
+          "title": "NovelFire",
+          "link": "https://novelfire.net/home",
+          "icon": "https://static.everythingmoe.com/icons/novelfire.png",
+          "tags": [],
+          "rank": 4,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "novel",
+          "details": {
+            "positives": [
+              "Similar with LightNovelWorld",
+              "Large library",
+              "Text-to-speech support",
+              "Multi language support",
+              "Decently popular"
+            ],
+            "negatives": [
+              "Text-to-speech low quality",
+              "Remove korean novels"
+            ],
+            "altlinks": [
+              {
+                "name": "findnovel",
+                "url": "https://findnovel.net/home"
+              },
+              {
+                "name": "pandanovel",
+                "url": "https://pandanovel.co/"
               }
             ]
           }
@@ -24836,12 +24819,30 @@
           }
         },
         {
+          "id": "holofun",
+          "title": "HoloFun",
+          "link": "https://holofun.net/",
+          "icon": "https://static.everythingmoe.com/icons/holofun.png",
+          "tags": [],
+          "rank": 9,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "vtuber",
+          "details": {
+            "positives": [
+              "Collection of personal fan projects related with Hololive community"
+            ]
+          }
+        },
+        {
           "id": "hololyzer",
           "title": "hololyzer",
           "link": "https://hololyzer.net/",
           "icon": "https://static.everythingmoe.com/icons/hololyzer.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -24868,7 +24869,7 @@
           "tags": [
             "torrent"
           ],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -24884,7 +24885,7 @@
           "link": "https://vrabi.net/",
           "icon": "https://static.everythingmoe.com/icons/vrabi.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -24906,7 +24907,7 @@
           "link": "https://holoclips.net/",
           "icon": "https://static.everythingmoe.com/icons/holoclips.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -24928,7 +24929,7 @@
           "link": "https://trackholo.live/en/",
           "icon": "https://static.everythingmoe.com/icons/trackholo.png",
           "tags": [],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -24944,7 +24945,7 @@
           "link": "https://virtual-youtuber.userlocal.jp/",
           "icon": "https://static.everythingmoe.com/icons/vtuberuserlocal.png",
           "tags": [],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -24966,7 +24967,7 @@
           "link": "https://vtubernewsdrop.com/",
           "icon": "https://static.everythingmoe.com/icons/vtubernewsdrop.png",
           "tags": [],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -24982,7 +24983,7 @@
           "link": "https://goodvtubersubs.com/",
           "icon": "https://static.everythingmoe.com/icons/goodvtubersubs.png",
           "tags": [],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -25014,7 +25015,7 @@
           "link": "https://vtuberschedules.com/",
           "icon": "https://static.everythingmoe.com/icons/vtuberschedules.png",
           "tags": [],
-          "rank": 17,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33085,6 +33086,24 @@
           "status": "graveyard",
           "section": "manhwa",
           "details": {}
+        },
+        {
+          "id": "resetscans",
+          "title": "Reset Scans",
+          "link": "https://reset-scans.org/",
+          "icon": "https://static.everythingmoe.com/icons/resetscans.png",
+          "tags": [
+            "SCAN"
+          ],
+          "rank": 14,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "manhwa",
+          "details": {
+            "info": "note: no review yet"
+          }
         }
       ]
     },
@@ -35525,15 +35544,16 @@
         "info": "note: Have dub, but the UI make it hard to switch sub/dub. This site have many server options, each of them fully independent and very reliable. Also known as AllAnime & AllManga."
       }
     },
-    "anidbstream": {
-      "id": "anidbstream",
-      "title": "AniDB",
-      "link": "https://anidb.app/home",
-      "icon": "https://static.everythingmoe.com/icons/anidbapp.png",
+    "reanime": {
+      "id": "reanime",
+      "title": "Re:Anime",
+      "link": "https://reanime.to/home",
+      "icon": "https://static.everythingmoe.com/icons/reanime.png",
       "tags": [
-        "Hard-sub",
         "Self-host",
-        "Modern interface"
+        "Soft-sub",
+        "Modern interface",
+        "Dub friendly"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -35543,15 +35563,16 @@
       ],
       "details": {
         "positives": [
-          "Same content as animepahe",
-          "Medium-large library",
-          "Small data usage"
+          "Modern interface",
+          "Reliable server",
+          "Rich subtitle typesetting",
+          "Actively updated"
         ],
         "negatives": [
-          "Add watermark",
-          "No comments section"
+          "No video quality option",
+          "Medium library"
         ],
-        "info": "note: Contents are exactly the same as animepahe, but it's their own host."
+        "domains": "stronghole.site"
       }
     },
     "miruro": {
@@ -35624,6 +35645,35 @@
         ]
       }
     },
+    "anidbstream": {
+      "id": "anidbstream",
+      "title": "AniDB",
+      "link": "https://anidb.app/home",
+      "icon": "https://static.everythingmoe.com/icons/anidbapp.png",
+      "tags": [
+        "Hard-sub",
+        "Self-host",
+        "Modern interface"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Same content as animepahe",
+          "Medium-large library",
+          "Small data usage"
+        ],
+        "negatives": [
+          "Add watermark",
+          "No comments section"
+        ],
+        "info": "note: Contents are exactly the same as animepahe, but it's their own host."
+      }
+    },
     "animetsu": {
       "id": "animetsu",
       "title": "Animetsu",
@@ -35685,37 +35735,6 @@
             "url": "https://gojo.wtf/"
           }
         ]
-      }
-    },
-    "reanime": {
-      "id": "reanime",
-      "title": "Re:Anime",
-      "link": "https://reanime.to/home",
-      "icon": "https://static.everythingmoe.com/icons/reanime.png",
-      "tags": [
-        "Self-host",
-        "Soft-sub",
-        "Modern interface",
-        "Dub friendly"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Modern interface",
-          "Reliable server",
-          "Rich subtitle typesetting",
-          "Actively updated"
-        ],
-        "negatives": [
-          "No video quality option",
-          "Medium library"
-        ],
-        "domains": "stronghole.site"
       }
     },
     "anizone": {
@@ -36290,6 +36309,48 @@
         ]
       }
     },
+    "otakuu": {
+      "id": "otakuu",
+      "title": "AnimeX",
+      "link": "https://animex.one/home",
+      "icon": "https://static.everythingmoe.com/icons/animexone.png",
+      "tags": [
+        "Scraper",
+        "Hard-sub",
+        "Soft-sub",
+        "Self-host",
+        "Easy download",
+        "Modern interface",
+        "MULT"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "ex-altlinks": [
+          {
+            "name": "aniwaveat",
+            "url": "https://aniwave.at/"
+          },
+          {
+            "name": "Anistream",
+            "url": "https://anistream.one/home"
+          }
+        ],
+        "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
+        "info": "note: formerly known as Otakuu. Also self host some anime"
+      }
+    },
     "123animes": {
       "id": "123animes",
       "title": "aniwaves.ru",
@@ -36470,47 +36531,6 @@
           }
         ],
         "note": "Decent features"
-      }
-    },
-    "otakuu": {
-      "id": "otakuu",
-      "title": "AnimeX",
-      "link": "https://animex.one/home",
-      "icon": "https://static.everythingmoe.com/icons/animexone.png",
-      "tags": [
-        "Scraper",
-        "Hard-sub",
-        "Soft-sub",
-        "Easy download",
-        "Modern interface",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources options",
-          "Nice interface"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ],
-        "ex-altlinks": [
-          {
-            "name": "aniwaveat",
-            "url": "https://aniwave.at/"
-          },
-          {
-            "name": "Anistream",
-            "url": "https://anistream.one/home"
-          }
-        ],
-        "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
-        "info": "note: formerly known as Otakuu."
       }
     },
     "AnimeParadise": {
@@ -46286,25 +46306,6 @@
         "info": "note: no review yet"
       }
     },
-    "resetscans": {
-      "id": "resetscans",
-      "title": "Reset Scans",
-      "link": "https://reset-scans.org/",
-      "icon": "https://static.everythingmoe.com/icons/resetscans.png",
-      "tags": [
-        "Mostly Scans",
-        "scan"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manhwa"
-      ],
-      "details": {
-        "info": "note: no review yet"
-      }
-    },
     "hivescans": {
       "id": "hivescans",
       "title": "Hive Scans",
@@ -46498,41 +46499,6 @@
         ]
       }
     },
-    "novelfire": {
-      "id": "novelfire",
-      "title": "NovelFire",
-      "link": "https://novelfire.net/home",
-      "icon": "https://static.everythingmoe.com/icons/novelfire.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "novel"
-      ],
-      "details": {
-        "positives": [
-          "Similar with LightNovelWorld",
-          "Large library",
-          "Text-to-speech support",
-          "Multi language support",
-          "Decently popular"
-        ],
-        "negatives": [
-          "Text-to-speech low quality"
-        ],
-        "altlinks": [
-          {
-            "name": "findnovel",
-            "url": "https://findnovel.net/home"
-          },
-          {
-            "name": "pandanovel",
-            "url": "https://pandanovel.co/"
-          }
-        ]
-      }
-    },
     "lightnovelworldorg": {
       "id": "lightnovelworldorg",
       "title": "LightNovelWorld",
@@ -46614,6 +46580,42 @@
           {
             "name": "novelfab",
             "url": "https://novelfab.com/"
+          }
+        ]
+      }
+    },
+    "novelfire": {
+      "id": "novelfire",
+      "title": "NovelFire",
+      "link": "https://novelfire.net/home",
+      "icon": "https://static.everythingmoe.com/icons/novelfire.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "positives": [
+          "Similar with LightNovelWorld",
+          "Large library",
+          "Text-to-speech support",
+          "Multi language support",
+          "Decently popular"
+        ],
+        "negatives": [
+          "Text-to-speech low quality",
+          "Remove korean novels"
+        ],
+        "altlinks": [
+          {
+            "name": "findnovel",
+            "url": "https://findnovel.net/home"
+          },
+          {
+            "name": "pandanovel",
+            "url": "https://pandanovel.co/"
           }
         ]
       }
@@ -59988,6 +59990,24 @@
         "info": "Literally what the name says"
       }
     },
+    "holofun": {
+      "id": "holofun",
+      "title": "HoloFun",
+      "link": "https://holofun.net/",
+      "icon": "https://static.everythingmoe.com/icons/holofun.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "vtuber"
+      ],
+      "details": {
+        "positives": [
+          "Collection of personal fan projects related with Hololive community"
+        ]
+      }
+    },
     "hololyzer": {
       "id": "hololyzer",
       "title": "hololyzer",
@@ -68146,6 +68166,24 @@
         "manhwa"
       ],
       "details": {}
+    },
+    "resetscans": {
+      "id": "resetscans",
+      "title": "Reset Scans",
+      "link": "https://reset-scans.org/",
+      "icon": "https://static.everythingmoe.com/icons/resetscans.png",
+      "tags": [
+        "SCAN"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "info": "note: no review yet"
+      }
     },
     "lightnovelpub": {
       "id": "lightnovelpub",
