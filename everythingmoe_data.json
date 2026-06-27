@@ -9833,7 +9833,7 @@
               },
               {
                 "name": "heytoon",
-                "url": "https://heytoon.net/"
+                "url": "https://toonhey.com/"
               }
             ],
             "ex-altlinks": [
@@ -24279,10 +24279,10 @@
           }
         },
         {
-          "id": "kemono",
-          "title": "Kemono",
-          "link": "https://kemono.cr/",
-          "icon": "https://static.everythingmoe.com/icons/kemono.png",
+          "id": "pawchive",
+          "title": "Pawchive",
+          "link": "https://pawchive.st/",
+          "icon": "https://static.everythingmoe.com/icons/pawchive.png",
           "tags": [],
           "rank": 16,
           "is_licensed": false,
@@ -24291,7 +24291,7 @@
           "status": "active",
           "section": "artboard",
           "details": {
-            "info": "Public bypass / archive for Patreon, Pixiv Fanbox, Fantia, etc."
+            "info": "Public bypass / archive for Patreon, and Pixiv Fanbox. Probably more later."
           }
         },
         {
@@ -35266,12 +35266,28 @@
           "details": {}
         },
         {
+          "id": "kemono",
+          "title": "Kemono",
+          "link": "https://kemono.cr/",
+          "icon": "https://static.everythingmoe.com/icons/kemono.png",
+          "tags": [],
+          "rank": 2,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "artboard",
+          "details": {
+            "info": "Public bypass / archive for Patreon, Pixiv Fanbox, Fantia, etc."
+          }
+        },
+        {
           "id": "waifupics",
           "title": "waifu.pics",
           "link": "https://waifu.pics/",
           "icon": "https://static.everythingmoe.com/icons/waifupics.png",
           "tags": [],
-          "rank": 2,
+          "rank": 3,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -45153,7 +45169,7 @@
           },
           {
             "name": "heytoon",
-            "url": "https://heytoon.net/"
+            "url": "https://toonhey.com/"
           }
         ],
         "ex-altlinks": [
@@ -59463,11 +59479,11 @@
         ]
       }
     },
-    "kemono": {
-      "id": "kemono",
-      "title": "Kemono",
-      "link": "https://kemono.cr/",
-      "icon": "https://static.everythingmoe.com/icons/kemono.png",
+    "pawchive": {
+      "id": "pawchive",
+      "title": "Pawchive",
+      "link": "https://pawchive.st/",
+      "icon": "https://static.everythingmoe.com/icons/pawchive.png",
       "tags": [],
       "is_licensed": false,
       "is_nsfw": false,
@@ -59476,7 +59492,7 @@
         "artboard"
       ],
       "details": {
-        "info": "Public bypass / archive for Patreon, Pixiv Fanbox, Fantia, etc."
+        "info": "Public bypass / archive for Patreon, and Pixiv Fanbox. Probably more later."
       }
     },
     "shuushuu": {
@@ -70231,6 +70247,22 @@
         "artboard"
       ],
       "details": {}
+    },
+    "kemono": {
+      "id": "kemono",
+      "title": "Kemono",
+      "link": "https://kemono.cr/",
+      "icon": "https://static.everythingmoe.com/icons/kemono.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "artboard"
+      ],
+      "details": {
+        "info": "Public bypass / archive for Patreon, Pixiv Fanbox, Fantia, etc."
+      }
     },
     "waifupics": {
       "id": "waifupics",
