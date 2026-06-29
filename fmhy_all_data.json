@@ -14438,6 +14438,19 @@
                             ]
                         },
                         {
+                            "full_text": "AnimeDex - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "AnimeDex",
+                                    "url": "https://animedex.fun/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/animedex"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "AnimeNoSub - Sub / Dub",
                             "links": [
                                 {
@@ -16164,6 +16177,15 @@
                             ]
                         },
                         {
+                            "full_text": "xyzstreams - TV / Sports",
+                            "links": [
+                                {
+                                    "name": "xyzstreams",
+                                    "url": "https://xyzstreams.st/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "CineBolt TV - TV / Sports",
                             "links": [
                                 {
@@ -16333,6 +16355,15 @@
                                 {
                                     "name": "SquidTV",
                                     "url": "https://www.squidtv.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TVAtlas - TV",
+                            "links": [
+                                {
+                                    "name": "TVAtlas",
+                                    "url": "https://tvatlas.app/"
                                 }
                             ]
                         },
@@ -16721,11 +16752,19 @@
                             ]
                         },
                         {
-                            "full_text": "BINTV - Stream Aggregator / /",
+                            "full_text": "BINTV , 2 , 3 - Stream Aggregator / /",
                             "links": [
                                 {
                                     "name": "BINTV",
                                     "url": "https://bintv.net/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://cosectv.com/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://home.bintv.online/"
                                 },
                                 {
                                     "name": "",
@@ -16799,6 +16838,23 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/mdEsarNMyF"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Strumyk or Strims24 - Stream Aggregator / Status",
+                            "links": [
+                                {
+                                    "name": "Strumyk",
+                                    "url": "https://strumyk.pk/"
+                                },
+                                {
+                                    "name": "Strims24",
+                                    "url": "https://strims24.pl/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://strumyk.domains/"
                                 }
                             ]
                         },
@@ -16897,15 +16953,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/CG8NzyX2hU"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Strims24",
-                            "links": [
-                                {
-                                    "name": "Strims24",
-                                    "url": "https://strims24.pl/"
                                 }
                             ]
                         },
@@ -18755,6 +18802,19 @@
                                 {
                                     "name": "Vadapav",
                                     "url": "https://rentry.co/FMHYB64#vadapav"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MKV BASE - Movies / TV /",
+                            "links": [
+                                {
+                                    "name": "MKV BASE",
+                                    "url": "https://mkvbase.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/MkVBase"
                                 }
                             ]
                         },
@@ -20641,7 +20701,7 @@
                             ]
                         },
                         {
-                            "full_text": "Nyaa Tools - Add Features / TUI / Batch Download , 2 , 3 , 4 / Python Wrapper / Torrent Fetch / Quality Tags",
+                            "full_text": "Nyaa Tools - Add Features / TUI / Batch Download , 2 , 3 , 4 / Python Wrapper / Torrent Fetch / AnimeTosho Metadata / Quality Tags",
                             "links": [
                                 {
                                     "name": "Add Features",
@@ -20674,6 +20734,10 @@
                                 {
                                     "name": "Torrent Fetch",
                                     "url": "https://github.com/daynum/nyaabag"
+                                },
+                                {
+                                    "name": "AnimeTosho Metadata",
+                                    "url": "https://github.com/IONI0/Nyaa-AnimeTosho-Extender-ION-Fork"
                                 },
                                 {
                                     "name": "Quality Tags",
@@ -24870,6 +24934,15 @@
                             ]
                         },
                         {
+                            "full_text": "TVAtlas Radio - Online Radio Player / Directory",
+                            "links": [
+                                {
+                                    "name": "TVAtlas Radio",
+                                    "url": "https://tvatlas.app/radio"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Quasar Radio - Online Radio Directory",
                             "links": [
                                 {
@@ -25019,6 +25092,15 @@
                                 {
                                     "name": "Radiooooo",
                                     "url": "https://app.radiooooo.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠ROVR - Community-Curated Radio",
+                            "links": [
+                                {
+                                    "name": "⁠ROVR",
+                                    "url": "https://www.rovr.live/"
                                 }
                             ]
                         },
@@ -33999,11 +34081,20 @@
                             ]
                         },
                         {
-                            "full_text": "awesome-game-decompilations - Game Decompilations / Ports",
+                            "full_text": "Awesome Game Decompilations - Game Decompilations / Ports",
                             "links": [
                                 {
-                                    "name": "awesome-game-decompilations",
+                                    "name": "Awesome Game Decompilations",
                                     "url": "https://github.com/CharlotteCross1998/awesome-game-decompilations"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome Unofficial PC Ports - Game Decompilations / Ports",
+                            "links": [
+                                {
+                                    "name": "Awesome Unofficial PC Ports",
+                                    "url": "https://github.com/Sebastrion/awesome-unofficial-pc-ports"
                                 }
                             ]
                         },
@@ -40343,6 +40434,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Donut 80 - Donut Games 8-Bit Demakes",
+                            "links": [
+                                {
+                                    "name": "⁠Donut 80",
+                                    "url": "https://www.donut80.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠heyVR.io - Browser VR Games /",
                             "links": [
                                 {
@@ -40659,7 +40759,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠GamingCouch / or Couchplay - Multiplayer Phone Controller / Gamepad Games",
+                            "full_text": "⁠GamingCouch / , ⁠Doot or Couchplay - Multiplayer Phone Controller / Gamepad Games",
                             "links": [
                                 {
                                     "name": "⁠GamingCouch",
@@ -40668,6 +40768,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/UqSX9ZGz5u"
+                                },
+                                {
+                                    "name": "⁠Doot",
+                                    "url": "https://doot.games/"
                                 },
                                 {
                                     "name": "Couchplay",
@@ -41510,6 +41614,19 @@
                                 {
                                     "name": "Synesthesia in Space",
                                     "url": "http://synesthesiagame.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Pixel Quest RPG - 2D Platformer /",
+                            "links": [
+                                {
+                                    "name": "⁠Pixel Quest RPG",
+                                    "url": "https://thvariableyt.github.io/Pixel-Quest-Deluxe/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ThVariableYT/Pixel-Quest-Deluxe"
                                 }
                             ]
                         },
@@ -43136,6 +43253,19 @@
                                 {
                                     "name": "Pokémon Revolution Online",
                                     "url": "https://pokemonrevolution.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠PokéOne - Pokémon MMO /",
+                            "links": [
+                                {
+                                    "name": "⁠PokéOne",
+                                    "url": "https://pokeonecommunity.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/bNYRTFn"
                                 }
                             ]
                         },
@@ -49038,6 +49168,19 @@
                                 {
                                     "name": "Jewish Virtual Library",
                                     "url": "https://www.jewishvirtuallibrary.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Corpus Corporum - Historical Latin Texts / Use Translator",
+                            "links": [
+                                {
+                                    "name": "⁠Corpus Corporum",
+                                    "url": "https://mlat.uzh.ch/"
+                                },
+                                {
+                                    "name": "Translator",
+                                    "url": "https://fmhy.net/text-tools/#translators"
                                 }
                             ]
                         },
@@ -65329,11 +65472,15 @@
                             ]
                         },
                         {
-                            "full_text": "KataGo Training – Open-Source Neural Network Go AI",
+                            "full_text": "KataGo or KaTrain – Open-Source Neural Network Go AI",
                             "links": [
                                 {
-                                    "name": "KataGo Training",
+                                    "name": "KataGo",
                                     "url": "https://katagotraining.org/"
+                                },
+                                {
+                                    "name": "KaTrain",
+                                    "url": "https://github.com/sanderland/katrain"
                                 }
                             ]
                         },
@@ -86824,7 +86971,7 @@
                             ]
                         },
                         {
-                            "full_text": "Nuvio / Plugins / / , Fusion / , Forward / or Web Stremio / Guide - Movies / TV / Anime / Tools",
+                            "full_text": "Nuvio / Plugins / / , Fusion / , Forward / or Stremio - Movies / TV / Anime / Tools",
                             "links": [
                                 {
                                     "name": "Nuvio",
@@ -86859,12 +87006,8 @@
                                     "url": "https://t.me/forward_en"
                                 },
                                 {
-                                    "name": "Web Stremio",
-                                    "url": "https://web.stremio.com/"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://blog.stremio.com/using-stremio-web-on-iphone-ipad/"
+                                    "name": "Stremio",
+                                    "url": "https://www.stremio.com/"
                                 },
                                 {
                                     "name": "Tools",
@@ -90065,6 +90208,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "️ Steam Deck Resources",
+                            "links": [
+                                {
+                                    "name": "Steam Deck Resources",
+                                    "url": "https://fmhy.net/gaming-tools/#steam-deck"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Linux Gaming Wiki or r/LinuxCrackSupport Wiki - Linux Gaming Guides",
                             "links": [
                                 {
@@ -92653,6 +92805,15 @@
                                 {
                                     "name": "Raspberry Pi Connect",
                                     "url": "https://www.raspberrypi.com/software/connect/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Shairport Sync - AirPlay Audio Receiver for Raspberry Pi",
+                            "links": [
+                                {
+                                    "name": "⁠Shairport Sync",
+                                    "url": "https://github.com/mikebrady/shairport-sync"
                                 }
                             ]
                         },
@@ -104198,6 +104359,23 @@
                             ]
                         },
                         {
+                            "full_text": "Strumyk or Strims24 - Stream Aggregator / Status",
+                            "links": [
+                                {
+                                    "name": "Strumyk",
+                                    "url": "https://strumyk.pk/"
+                                },
+                                {
+                                    "name": "Strims24",
+                                    "url": "https://strims24.pl/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://strumyk.domains/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Virpe - Movies / TV",
                             "links": [
                                 {
@@ -104466,15 +104644,6 @@
                                 {
                                     "name": "Sport TVP",
                                     "url": "https://sport.tvp.pl/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Strumyk - Live Sports",
-                            "links": [
-                                {
-                                    "name": "Strumyk",
-                                    "url": "https://strims24.pl/"
                                 }
                             ]
                         },
@@ -108229,6 +108398,19 @@
                                 {
                                     "name": "angulismotv",
                                     "url": "https://angulismotv.pages.dev"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "stream-xhd , 2 - Live Sports",
+                            "links": [
+                                {
+                                    "name": "stream-xhd",
+                                    "url": "https://stream-xhd.com/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://streamx-hd.com/"
                                 }
                             ]
                         },
@@ -112091,6 +112273,15 @@
                                 {
                                     "name": "Fridgey",
                                     "url": "https://f-droid.org/packages/lying.fengfeng.foodrecords/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Lowtein - Meat / Dairy Grocery Deal Comparisons",
+                            "links": [
+                                {
+                                    "name": "⁠Lowtein",
+                                    "url": "https://lowtein.com/"
                                 }
                             ]
                         },
@@ -120815,6 +121006,15 @@
                                 {
                                     "name": "GoEuropean",
                                     "url": "https://www.goeuropean.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Lowtein - Meat / Dairy Grocery Deal Comparisons",
+                            "links": [
+                                {
+                                    "name": "⁠Lowtein",
+                                    "url": "https://lowtein.com/"
                                 }
                             ]
                         },
@@ -145560,6 +145760,15 @@
                             ]
                         },
                         {
+                            "full_text": "stolen.shoes - Discord Video Embedder",
+                            "links": [
+                                {
+                                    "name": "stolen.shoes",
+                                    "url": "https://stolen.shoes/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "embedez / / or FxEmbed - Social Link Embedders",
                             "links": [
                                 {
@@ -152352,19 +152561,6 @@
                             ]
                         },
                         {
-                            "full_text": "Katbin - Plain Text /",
-                            "links": [
-                                {
-                                    "name": "Katbin",
-                                    "url": "https://katb.in/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/sphericalkat/katbin"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Yasosu - Multi-Syntax / Markdown Support / Custom URLs /",
                             "links": [
                                 {
@@ -152374,6 +152570,19 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/yaso_updates"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Katbin - Plain Text /",
+                            "links": [
+                                {
+                                    "name": "Katbin",
+                                    "url": "https://katb.in/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/sphericalkat/katbin"
                                 }
                             ]
                         },
@@ -162126,6 +162335,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠ChromieCraft - F2P WoW Private Server / No Pay-to-Win /",
+                            "links": [
+                                {
+                                    "name": "⁠ChromieCraft",
+                                    "url": "https://chromiecraft.com/en/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/3YaAywYDN7"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ElDewrito - Halo Online / Halo 3 Servers",
                             "links": [
                                 {
@@ -163568,7 +163790,7 @@
                             "links": [
                                 {
                                     "name": "Linux Gaming Resources",
-                                    "url": "https://w.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux/#linux-gaming"
+                                    "url": "https://fmhy.net/linux-macos/#linux-gaming"
                                 }
                             ]
                         },
@@ -167299,6 +167521,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠ChromieCraft - F2P WoW Private Server / No Pay-to-Win /",
+                            "links": [
+                                {
+                                    "name": "⁠ChromieCraft",
+                                    "url": "https://chromiecraft.com/en/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/3YaAywYDN7"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Murlok - WoW PvP / PvE Guides /",
                             "links": [
                                 {
@@ -169669,7 +169904,7 @@
                             "links": [
                                 {
                                     "name": "ImageMagick",
-                                    "url": "https://imagemagick.org/index.php"
+                                    "url": "https://imagemagick.org/"
                                 },
                                 {
                                     "name": "Scripts",
@@ -175530,7 +175765,7 @@
                             "links": [
                                 {
                                     "name": "ImageMagick",
-                                    "url": "https://imagemagick.org/index.php"
+                                    "url": "https://imagemagick.org/"
                                 },
                                 {
                                     "name": "Scripts",
@@ -180016,6 +180251,15 @@
                                 {
                                     "name": "Caracal Club",
                                     "url": "https://caracal.club/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Mzelo - Online Player",
+                            "links": [
+                                {
+                                    "name": "Mzelo",
+                                    "url": "https://mzelo.com/"
                                 }
                             ]
                         },
@@ -184971,6 +185215,15 @@
                             ]
                         },
                         {
+                            "full_text": "TVAtlas Radio - Online Radio Player / Directory",
+                            "links": [
+                                {
+                                    "name": "TVAtlas Radio",
+                                    "url": "https://tvatlas.app/radio"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Quasar Radio - Online Radio Directory",
                             "links": [
                                 {
@@ -185120,6 +185373,15 @@
                                 {
                                     "name": "Radiooooo",
                                     "url": "https://app.radiooooo.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠ROVR - Community-Curated Radio",
+                            "links": [
+                                {
+                                    "name": "⁠ROVR",
+                                    "url": "https://www.rovr.live/"
                                 }
                             ]
                         },
@@ -202107,11 +202369,15 @@
                             ]
                         },
                         {
-                            "full_text": "KataGo Training – Open-Source Neural Network Go AI",
+                            "full_text": "KataGo or KaTrain – Open-Source Neural Network Go AI",
                             "links": [
                                 {
-                                    "name": "KataGo Training",
+                                    "name": "KataGo",
                                     "url": "https://katagotraining.org/"
+                                },
+                                {
+                                    "name": "KaTrain",
+                                    "url": "https://github.com/sanderland/katrain"
                                 }
                             ]
                         },
@@ -222716,15 +222982,6 @@
                             ]
                         },
                         {
-                            "full_text": "npf.is or stolen.shoes - Discord Video Embedders (Removed in 04e1d2e )",
-                            "links": [
-                                {
-                                    "name": "04e1d2e",
-                                    "url": "https://github.com/fmhy/edit/commit/04e1d2e24c30cb09e429978a171f16e306ab8e1c#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L43"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Lookup ID - Find Facebook ID (Removed in 04e1d2e )",
                             "links": [
                                 {
@@ -223909,87 +224166,6 @@
                                 {
                                     "name": "01893e4",
                                     "url": "https://github.com/fmhy/edit/commit/01893e48f1376fe4e0e974da9120bf3f084e33dd#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL816"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Jumo-DL - FLAC / MP3 (Removed in e8388ae )",
-                            "links": [
-                                {
-                                    "name": "e8388ae",
-                                    "url": "https://github.com/fmhy/edit/commit/e8388aee9b774b5579d92fb02a57d4fcbf2053af#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L384"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FindFlac - FLAC / MP3 / MP4 (Removed in e8388ae )",
-                            "links": [
-                                {
-                                    "name": "e8388ae",
-                                    "url": "https://github.com/fmhy/edit/commit/e8388aee9b774b5579d92fb02a57d4fcbf2053af#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L457"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TorrentTech - Electronic / MP3 320kb / Requires Sign-Up / Zip File (Removed in e8388ae )",
-                            "links": [
-                                {
-                                    "name": "e8388ae",
-                                    "url": "https://github.com/fmhy/edit/commit/e8388aee9b774b5579d92fb02a57d4fcbf2053af#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L565"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ClipRun - Run Python Code in Browser / Chrome Extension (Removed in e8388ae )",
-                            "links": [
-                                {
-                                    "name": "e8388ae",
-                                    "url": "https://github.com/fmhy/edit/commit/e8388aee9b774b5579d92fb02a57d4fcbf2053af#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL603"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "rom.so - Multi-Console / Requires Sign-Up (Removed in e8388ae )",
-                            "links": [
-                                {
-                                    "name": "e8388ae",
-                                    "url": "https://github.com/fmhy/edit/commit/e8388aee9b774b5579d92fb02a57d4fcbf2053af#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL444"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "photo.codes - Simple Editor w/ Shareable Colab Codes (Removed in e8388ae )",
-                            "links": [
-                                {
-                                    "name": "e8388ae",
-                                    "url": "https://github.com/fmhy/edit/commit/e8388aee9b774b5579d92fb02a57d4fcbf2053af#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL51"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AvaxGFX (Removed in e8388ae )",
-                            "links": [
-                                {
-                                    "name": "e8388ae",
-                                    "url": "https://github.com/fmhy/edit/commit/e8388aee9b774b5579d92fb02a57d4fcbf2053af#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL343"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Twitch Replay - Twitch Video Player (Removed in e8388ae )",
-                            "links": [
-                                {
-                                    "name": "e8388ae",
-                                    "url": "https://github.com/fmhy/edit/commit/e8388aee9b774b5579d92fb02a57d4fcbf2053af#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L518"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Yampi - Movies / TV / Anime (Removed in e8388ae )",
-                            "links": [
-                                {
-                                    "name": "e8388ae",
-                                    "url": "https://github.com/fmhy/edit/commit/e8388aee9b774b5579d92fb02a57d4fcbf2053af#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL150"
                                 }
                             ]
                         }

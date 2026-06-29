@@ -1904,7 +1904,7 @@
           "id": "4animo",
           "title": "Animo",
           "link": "https://4animo.xyz/home",
-          "icon": "https://static.everythingmoe.com/icons/4animo.png",
+          "icon": "https://static.everythingmoe.com/icons/animestreamapp.png",
           "tags": [
             "Self-host",
             "Modern interface",
@@ -2457,13 +2457,13 @@
           }
         },
         {
-          "id": "anivibeto",
-          "title": "AniVibe",
-          "link": "https://anivibe.to/",
-          "icon": "https://static.everythingmoe.com/icons/anivibeto.png",
+          "id": "animelibre",
+          "title": "Anime Libre",
+          "link": "https://animelibre.com/en",
+          "icon": "https://static.everythingmoe.com/icons/vercel.png",
           "tags": [
             "Self-host",
-            "Soft-sub"
+            "Hard-sub"
           ],
           "rank": 63,
           "is_licensed": false,
@@ -2473,14 +2473,12 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Self-hosted server",
-              "Multi audio & subs support"
+              "Self-hosted server"
             ],
             "negatives": [
               "New site",
               "Very small library"
-            ],
-            "info": "note: unrelated with the original <a href=\"/s/anivibe\">Anivibe.net</a>."
+            ]
           }
         },
         {
@@ -2550,13 +2548,13 @@
           }
         },
         {
-          "id": "animelibre",
-          "title": "Anime Libre",
-          "link": "https://animelibre.com/en",
-          "icon": "https://static.everythingmoe.com/icons/vercel.png",
+          "id": "anivibeto",
+          "title": "AniVibe",
+          "link": "https://anivibe.to/",
+          "icon": "https://static.everythingmoe.com/icons/anivibeto.png",
           "tags": [
             "Self-host",
-            "Hard-sub"
+            "Soft-sub"
           ],
           "rank": 65,
           "is_licensed": false,
@@ -2566,12 +2564,14 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Self-hosted server"
+              "Self-hosted server",
+              "Multi audio & subs support"
             ],
             "negatives": [
               "New site",
               "Very small library"
-            ]
+            ],
+            "info": "note: unrelated with the original <a href=\"/s/anivibe\">Anivibe.net</a>."
           }
         },
         {
@@ -21301,10 +21301,10 @@
           }
         },
         {
-          "id": "ranobedb",
-          "title": "RanobeDB",
-          "link": "https://ranobedb.org/",
-          "icon": "https://static.everythingmoe.com/icons/ranobedb.png",
+          "id": "novilist",
+          "title": "NoviList",
+          "link": "https://novilist.co/",
+          "icon": "https://static.everythingmoe.com/icons/novilist.png",
           "tags": [
             "LN"
           ],
@@ -21317,11 +21317,7 @@
           "details": {
             "positives": [
               "Light Novel database + Tracker",
-              "Release schedule",
               "Advance info & filtering"
-            ],
-            "negatives": [
-              "Light Novel only"
             ]
           }
         },
@@ -21358,6 +21354,31 @@
           }
         },
         {
+          "id": "ranobedb",
+          "title": "RanobeDB",
+          "link": "https://ranobedb.org/",
+          "icon": "https://static.everythingmoe.com/icons/ranobedb.png",
+          "tags": [
+            "LN"
+          ],
+          "rank": 13,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "database",
+          "details": {
+            "positives": [
+              "Light Novel database + Tracker",
+              "Release schedule",
+              "Advance info & filtering"
+            ],
+            "negatives": [
+              "JP Light Novel only"
+            ]
+          }
+        },
+        {
           "id": "vocadb",
           "title": "VocaDB",
           "link": "https://vocadb.net/",
@@ -21365,7 +21386,7 @@
           "tags": [
             "VOCALOID"
           ],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21398,7 +21419,7 @@
           "link": "https://simkl.com/anime/",
           "icon": "https://static.everythingmoe.com/icons/simkl.png",
           "tags": [],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21424,7 +21445,7 @@
           "link": "https://mydramalist.com/",
           "icon": "https://static.everythingmoe.com/icons/mydramalist.png",
           "tags": [],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21446,7 +21467,7 @@
           "link": "https://www.anime-planet.com/",
           "icon": "https://static.everythingmoe.com/icons/aplanet.png",
           "tags": [],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21472,7 +21493,7 @@
           "tags": [
             "MANGA"
           ],
-          "rank": 17,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21499,7 +21520,7 @@
           "tags": [
             "MUSIC"
           ],
-          "rank": 18,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21521,7 +21542,7 @@
           "tags": [
             "MUSIC"
           ],
-          "rank": 19,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21540,7 +21561,7 @@
           "link": "https://kitsu.app/",
           "icon": "https://static.everythingmoe.com/icons/kitsu.png",
           "tags": [],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21567,7 +21588,7 @@
           "tags": [
             "CHAR"
           ],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21592,7 +21613,7 @@
           "tags": [
             "CHAR"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21616,7 +21637,7 @@
           "link": "https://www.konsumr.com/",
           "icon": "https://static.everythingmoe.com/icons/konsumr.png",
           "tags": [],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21641,7 +21662,7 @@
           "tags": [
             "VN"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21666,7 +21687,7 @@
           "tags": [
             "manga"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21690,7 +21711,7 @@
           "tags": [
             "manhwa"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21713,7 +21734,7 @@
           "link": "https://www.novellist.co/",
           "icon": "https://static.everythingmoe.com/icons/novellist.png",
           "tags": [],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21732,7 +21753,7 @@
           "link": "https://shikimori.one",
           "icon": "https://static.everythingmoe.com/icons/shikimori.png",
           "tags": [],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21748,7 +21769,7 @@
           "link": "https://anibase.net/",
           "icon": "https://static.everythingmoe.com/icons/anibasenet.png",
           "tags": [],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21774,7 +21795,7 @@
           "tags": [
             "LN"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21799,7 +21820,7 @@
           "tags": [
             "H"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21834,7 +21855,7 @@
           "tags": [
             "doujin"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21865,7 +21886,7 @@
           "tags": [
             "doujin"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21887,7 +21908,7 @@
           "link": "https://www.animeoshi.com/",
           "icon": "https://static.everythingmoe.com/icons/animeoshi.png",
           "tags": [],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21909,7 +21930,7 @@
           "link": "https://kurozora.app/",
           "icon": "https://static.everythingmoe.com/icons/kurozoraapp.png",
           "tags": [],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21940,7 +21961,7 @@
           "link": "https://anisearch.com",
           "icon": "https://static.everythingmoe.com/icons/anisearch.png",
           "tags": [],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21956,7 +21977,7 @@
           "link": "https://medialib.net/anime",
           "icon": "https://static.everythingmoe.com/icons/medialib.png",
           "tags": [],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21980,7 +22001,7 @@
           "link": "https://notify.moe",
           "icon": "https://static.everythingmoe.com/icons/notify.png",
           "tags": [],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21996,7 +22017,7 @@
           "link": "https://www.animenewsnetwork.com/encyclopedia/anime.php?list=A",
           "icon": "https://static.everythingmoe.com/icons/ann.png",
           "tags": [],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22014,7 +22035,7 @@
           "tags": [
             "char"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22030,7 +22051,7 @@
           "link": "https://absoluteterritory.moe/",
           "icon": "https://static.everythingmoe.com/icons/absoluteterritory.png",
           "tags": [],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -37361,7 +37382,7 @@
       "id": "4animo",
       "title": "Animo",
       "link": "https://4animo.xyz/home",
-      "icon": "https://static.everythingmoe.com/icons/4animo.png",
+      "icon": "https://static.everythingmoe.com/icons/animestreamapp.png",
       "tags": [
         "Self-host",
         "Modern interface",
@@ -37913,14 +37934,14 @@
         "ex-note": "vercel, uses animex.one api"
       }
     },
-    "anivibeto": {
-      "id": "anivibeto",
-      "title": "AniVibe",
-      "link": "https://anivibe.to/",
-      "icon": "https://static.everythingmoe.com/icons/anivibeto.png",
+    "animelibre": {
+      "id": "animelibre",
+      "title": "Anime Libre",
+      "link": "https://animelibre.com/en",
+      "icon": "https://static.everythingmoe.com/icons/vercel.png",
       "tags": [
         "Self-host",
-        "Soft-sub"
+        "Hard-sub"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -37930,14 +37951,12 @@
       ],
       "details": {
         "positives": [
-          "Self-hosted server",
-          "Multi audio & subs support"
+          "Self-hosted server"
         ],
         "negatives": [
           "New site",
           "Very small library"
-        ],
-        "info": "note: unrelated with the original <a href=\"/s/anivibe\">Anivibe.net</a>."
+        ]
       }
     },
     "databasegdriveplayer": {
@@ -38006,14 +38025,14 @@
         "info": "note: Copied other site brand. This site unrelated with any brand used. These sites also use blogspot stream, not very reliable."
       }
     },
-    "animelibre": {
-      "id": "animelibre",
-      "title": "Anime Libre",
-      "link": "https://animelibre.com/en",
-      "icon": "https://static.everythingmoe.com/icons/vercel.png",
+    "anivibeto": {
+      "id": "anivibeto",
+      "title": "AniVibe",
+      "link": "https://anivibe.to/",
+      "icon": "https://static.everythingmoe.com/icons/anivibeto.png",
       "tags": [
         "Self-host",
-        "Hard-sub"
+        "Soft-sub"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -38023,12 +38042,14 @@
       ],
       "details": {
         "positives": [
-          "Self-hosted server"
+          "Self-hosted server",
+          "Multi audio & subs support"
         ],
         "negatives": [
           "New site",
           "Very small library"
-        ]
+        ],
+        "info": "note: unrelated with the original <a href=\"/s/anivibe\">Anivibe.net</a>."
       }
     },
     "netflix": {
@@ -56640,11 +56661,11 @@
         "info": "note: use <a href=\"/s/vndbwiki\">VNDB</a> as the database source"
       }
     },
-    "ranobedb": {
-      "id": "ranobedb",
-      "title": "RanobeDB",
-      "link": "https://ranobedb.org/",
-      "icon": "https://static.everythingmoe.com/icons/ranobedb.png",
+    "novilist": {
+      "id": "novilist",
+      "title": "NoviList",
+      "link": "https://novilist.co/",
+      "icon": "https://static.everythingmoe.com/icons/novilist.png",
       "tags": [
         "LN"
       ],
@@ -56657,11 +56678,7 @@
       "details": {
         "positives": [
           "Light Novel database + Tracker",
-          "Release schedule",
           "Advance info & filtering"
-        ],
-        "negatives": [
-          "Light Novel only"
         ]
       }
     },
@@ -56694,6 +56711,31 @@
             "name": "Recommendations",
             "url": "https://www.novelupdates.com/recommendation-lists/"
           }
+        ]
+      }
+    },
+    "ranobedb": {
+      "id": "ranobedb",
+      "title": "RanobeDB",
+      "link": "https://ranobedb.org/",
+      "icon": "https://static.everythingmoe.com/icons/ranobedb.png",
+      "tags": [
+        "LN"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "database"
+      ],
+      "details": {
+        "positives": [
+          "Light Novel database + Tracker",
+          "Release schedule",
+          "Advance info & filtering"
+        ],
+        "negatives": [
+          "JP Light Novel only"
         ]
       }
     },
