@@ -493,7 +493,8 @@
           "tags": [
             "Self-host",
             "Modern interface",
-            "Hard-sub"
+            "Hard-sub",
+            "Dub friendly"
           ],
           "rank": 10,
           "is_licensed": false,
@@ -505,7 +506,7 @@
             "positives": [
               "Modern site design",
               "Reliable stream server",
-              "Actively updated"
+              "Provide dubtitles"
             ],
             "negatives": [
               "Medium library"
@@ -1036,6 +1037,10 @@
               {
                 "name": "animixplay.la",
                 "url": "https://animixplay.la/"
+              },
+              {
+                "name": "hianimes.ru",
+                "url": "https://hianimes.ru/home"
               },
               {
                 "name": "guts.to",
@@ -2521,6 +2526,10 @@
               {
                 "name": "kissanime.com.cv",
                 "url": "https://kissanime.com.cv/"
+              },
+              {
+                "name": "gogoanime.ru.com",
+                "url": "https://gogoanime.ru.com/"
               }
             ],
             "ex-altlinks": [
@@ -2768,6 +2777,10 @@
               {
                 "name": "animesuge.co.in",
                 "url": "https://animesuge.com.in/"
+              },
+              {
+                "name": "animekai.be",
+                "url": "https://animekai.be/"
               }
             ],
             "ex-altlinks": [
@@ -3684,6 +3697,12 @@
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
+            ],
+            "altlinks": [
+              {
+                "name": "ZHAnime",
+                "url": "https://zhanime.se/"
+              }
             ],
             "ex-altlinks": [
               {
@@ -11344,6 +11363,10 @@
               {
                 "name": "pandanovel",
                 "url": "https://pandanovel.co/"
+              },
+              {
+                "name": "novelphoenix",
+                "url": "https://novelphoenix.com/"
               }
             ]
           }
@@ -15192,13 +15215,15 @@
             "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
             "altlinks": [
               {
-                "name": "Git repo",
-                "url": "https://github.com/5rahim/seanime"
+                "name": "Release",
+                "url": "https://seanime.app/docsDocs<<https://seanime.app/docs"
               },
               {
-                "name": "Docs",
-                "url": "https://seanime.app/download"
-              },
+                "name": "Git repo",
+                "url": "https://github.com/5rahim/seanime"
+              }
+            ],
+            "ex-altlinks": [
               {
                 "name": "Android port",
                 "url": "https://github.com/Seanime-contributions/Seanime-Android"
@@ -18143,7 +18168,7 @@
           }
         },
         {
-          "id": "anilabto",
+          "id": "anilab2",
           "title": "Anilab",
           "link": "https://anilab.so/",
           "icon": "https://static.everythingmoe.com/icons/anilabto.png",
@@ -18166,13 +18191,7 @@
               "Closed source",
               "Android only"
             ],
-            "ex-altlinks": [
-              {
-                "name": "old ver",
-                "url": "https://anilab.to/"
-              }
-            ],
-            "ex-info": "note: Made by same people who made Hianime. Some AV mark it as virus, but reputable dev. Use at your own risk!"
+            "info": "note: Likely unrelated with the original <a href=\"/s/anilabto\">Anilab</a>. This one made by <a href=\"/s/anidbstream\">AniDB</a>"
           }
         }
       ]
@@ -34349,6 +34368,31 @@
           }
         },
         {
+          "id": "anilabto",
+          "title": "Anilab",
+          "link": "https://anilab.to/",
+          "icon": "https://static.everythingmoe.com/icons/anilabto.png",
+          "tags": [],
+          "rank": 13,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Anime watching app",
+              "Nice user interface"
+            ],
+            "negatives": [
+              "Closed source",
+              "Softsub (buggy & limited)",
+              "Android only"
+            ],
+            "info": "note: Made by same people who made Hianime. Some AV mark it as virus, but reputable dev. Use at your own risk!"
+          }
+        },
+        {
           "id": "yunamoe",
           "title": "Yuna",
           "link": "https://yuna.moe/",
@@ -34356,7 +34400,7 @@
           "tags": [
             "DESKTOP"
           ],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -35906,7 +35950,8 @@
       "tags": [
         "Self-host",
         "Modern interface",
-        "Hard-sub"
+        "Hard-sub",
+        "Dub friendly"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -35918,7 +35963,7 @@
         "positives": [
           "Modern site design",
           "Reliable stream server",
-          "Actively updated"
+          "Provide dubtitles"
         ],
         "negatives": [
           "Medium library"
@@ -36449,6 +36494,10 @@
           {
             "name": "animixplay.la",
             "url": "https://animixplay.la/"
+          },
+          {
+            "name": "hianimes.ru",
+            "url": "https://hianimes.ru/home"
           },
           {
             "name": "guts.to",
@@ -37934,6 +37983,10 @@
           {
             "name": "kissanime.com.cv",
             "url": "https://kissanime.com.cv/"
+          },
+          {
+            "name": "gogoanime.ru.com",
+            "url": "https://gogoanime.ru.com/"
           }
         ],
         "ex-altlinks": [
@@ -38181,6 +38234,10 @@
           {
             "name": "animesuge.co.in",
             "url": "https://animesuge.com.in/"
+          },
+          {
+            "name": "animekai.be",
+            "url": "https://animekai.be/"
           }
         ],
         "ex-altlinks": [
@@ -39088,6 +39145,12 @@
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
+        ],
+        "altlinks": [
+          {
+            "name": "ZHAnime",
+            "url": "https://zhanime.se/"
+          }
         ],
         "ex-altlinks": [
           {
@@ -46703,6 +46766,10 @@
           {
             "name": "pandanovel",
             "url": "https://pandanovel.co/"
+          },
+          {
+            "name": "novelphoenix",
+            "url": "https://novelphoenix.com/"
           }
         ]
       }
@@ -50524,13 +50591,15 @@
         "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
         "altlinks": [
           {
-            "name": "Git repo",
-            "url": "https://github.com/5rahim/seanime"
+            "name": "Release",
+            "url": "https://seanime.app/docsDocs<<https://seanime.app/docs"
           },
           {
-            "name": "Docs",
-            "url": "https://seanime.app/download"
-          },
+            "name": "Git repo",
+            "url": "https://github.com/5rahim/seanime"
+          }
+        ],
+        "ex-altlinks": [
           {
             "name": "Android port",
             "url": "https://github.com/Seanime-contributions/Seanime-Android"
@@ -53474,8 +53543,8 @@
         "info": "note: Forked from Miru (Hayase). This app uses a torrent connection; beware of potential issues with your ISP."
       }
     },
-    "anilabto": {
-      "id": "anilabto",
+    "anilab2": {
+      "id": "anilab2",
       "title": "Anilab",
       "link": "https://anilab.so/",
       "icon": "https://static.everythingmoe.com/icons/anilabto.png",
@@ -53498,13 +53567,7 @@
           "Closed source",
           "Android only"
         ],
-        "ex-altlinks": [
-          {
-            "name": "old ver",
-            "url": "https://anilab.to/"
-          }
-        ],
-        "ex-info": "note: Made by same people who made Hianime. Some AV mark it as virus, but reputable dev. Use at your own risk!"
+        "info": "note: Likely unrelated with the original <a href=\"/s/anilabto\">Anilab</a>. This one made by <a href=\"/s/anidbstream\">AniDB</a>"
       }
     },
     "nyaasi": {
@@ -69451,6 +69514,31 @@
             "url": "https://play.google.com/store/apps/details?id=com.giilianime"
           }
         ]
+      }
+    },
+    "anilabto": {
+      "id": "anilabto",
+      "title": "Anilab",
+      "link": "https://anilab.to/",
+      "icon": "https://static.everythingmoe.com/icons/anilabto.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Anime watching app",
+          "Nice user interface"
+        ],
+        "negatives": [
+          "Closed source",
+          "Softsub (buggy & limited)",
+          "Android only"
+        ],
+        "info": "note: Made by same people who made Hianime. Some AV mark it as virus, but reputable dev. Use at your own risk!"
       }
     },
     "yunamoe": {
