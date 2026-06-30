@@ -3001,6 +3001,10 @@
             ],
             "altlinks": [
               {
+                "name": "AniCine",
+                "url": "https://anicine.xyz/anime"
+              },
+              {
                 "name": "anidoor",
                 "url": "https://anidoor.me/"
               },
@@ -6655,7 +6659,8 @@
           "icon": "https://static.everythingmoe.com/icons/atsu.png",
           "tags": [
             "Official Rips",
-            "Modern interface"
+            "Modern interface",
+            "ISSUE"
           ],
           "rank": 5,
           "is_licensed": false,
@@ -18751,6 +18756,94 @@
           }
         },
         {
+          "id": "animesakura",
+          "title": "AnimeToki",
+          "link": "https://animetoki.com/",
+          "icon": "https://static.everythingmoe.com/icons/animetoki.png",
+          "tags": [
+            "Anime",
+            "DDL"
+          ],
+          "rank": 16,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "download",
+          "details": {
+            "positives": [
+              "Provides dual audio release",
+              "Proxy Google Drive"
+            ],
+            "negatives": [
+              "Anime only",
+              "Depends on Google Drive"
+            ],
+            "altlinks": [
+              {
+                "name": "one piece",
+                "url": "https://piece.metaanimesh.workers.dev/0:/"
+              }
+            ],
+            "info": "note: Formerly known as AnimeSakura and MKVseries."
+          }
+        },
+        {
+          "id": "kayoanime",
+          "title": "KayoAnime",
+          "link": "https://kayoanime.com/",
+          "icon": "https://static.everythingmoe.com/icons/kayo.png",
+          "tags": [
+            "Anime",
+            "DDL"
+          ],
+          "rank": 17,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "download",
+          "details": {
+            "positives": [
+              "Provides direct Google Drive links",
+              "Update each ep ongoing"
+            ],
+            "negatives": [
+              "Anime only",
+              "Depends on Google Drive",
+              "Recent release mostly put on private Google Group"
+            ],
+            "info": "note: Still in recovery"
+          }
+        },
+        {
+          "id": "pandabackup",
+          "title": "Panda Backup",
+          "link": "https://panda.chaika.moe/",
+          "icon": "https://static.everythingmoe.com/icons/pandabackup.png",
+          "tags": [
+            "Manga",
+            "DDL"
+          ],
+          "rank": 18,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "download",
+          "details": {
+            "positives": [
+              "Simple & direct DDL",
+              "Large collection of rare doujinshi"
+            ],
+            "negatives": [
+              "Old interface",
+              "Doujinshi / magazines only"
+            ],
+            "info": "note: The purpose of this site is to provides backups from several sources that have been or could be removed from their original source."
+          }
+        },
+        {
           "id": "dlzip",
           "title": "DL-Zip",
           "link": "https://dl-zip.com/",
@@ -18760,9 +18853,10 @@
             "Novel",
             "DDL",
             "Raws",
-            "RAW"
+            "raw",
+            "ddl"
           ],
-          "rank": 16,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -18798,9 +18892,10 @@
             "Novel",
             "DDL",
             "Raws",
-            "RAW"
+            "raw",
+            "ddl"
           ],
-          "rank": 17,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -18821,67 +18916,6 @@
           }
         },
         {
-          "id": "animesakura",
-          "title": "AnimeToki",
-          "link": "https://animetoki.com/",
-          "icon": "https://static.everythingmoe.com/icons/animetoki.png",
-          "tags": [
-            "Anime",
-            "DDL"
-          ],
-          "rank": 18,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "download",
-          "details": {
-            "positives": [
-              "Provides dual audio release",
-              "Proxy Google Drive"
-            ],
-            "negatives": [
-              "Anime only",
-              "Depends on Google Drive"
-            ],
-            "altlinks": [
-              {
-                "name": "one piece",
-                "url": "https://piece.metaanimesh.workers.dev/0:/"
-              }
-            ],
-            "info": "note: Formerly known as AnimeSakura and MKVseries."
-          }
-        },
-        {
-          "id": "kayoanime",
-          "title": "KayoAnime",
-          "link": "https://kayoanime.com/",
-          "icon": "https://static.everythingmoe.com/icons/kayo.png",
-          "tags": [
-            "Anime",
-            "DDL"
-          ],
-          "rank": 19,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "download",
-          "details": {
-            "positives": [
-              "Provides direct Google Drive links",
-              "Update each ep ongoing"
-            ],
-            "negatives": [
-              "Anime only",
-              "Depends on Google Drive",
-              "Recent release mostly put on private Google Group"
-            ],
-            "info": "note: Still in recovery"
-          }
-        },
-        {
           "id": "av1encodes",
           "title": "AV1 EnCodes",
           "link": "https://av1please.com/",
@@ -18889,9 +18923,11 @@
           "tags": [
             "Anime",
             "DDL",
-            "Torrent"
+            "Torrent",
+            "torrent",
+            "ddl"
           ],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -18932,9 +18968,10 @@
           "tags": [
             "Anime",
             "DDL",
-            "LOGIN"
+            "ddl",
+            "login"
           ],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -18960,9 +18997,10 @@
           "tags": [
             "Touhou",
             "DDL",
-            "TOUHOU"
+            "touhou",
+            "ddl"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -18976,33 +19014,6 @@
             "negatives": [
               "Touhou only"
             ]
-          }
-        },
-        {
-          "id": "pandabackup",
-          "title": "Panda Backup",
-          "link": "https://panda.chaika.moe/",
-          "icon": "https://static.everythingmoe.com/icons/pandabackup.png",
-          "tags": [
-            "Manga",
-            "DDL"
-          ],
-          "rank": 23,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "download",
-          "details": {
-            "positives": [
-              "Simple & direct DDL",
-              "Large collection of rare doujinshi"
-            ],
-            "negatives": [
-              "Old interface",
-              "Doujinshi / magazines only"
-            ],
-            "info": "note: The purpose of this site is to provides backups from several sources that have been or could be removed from their original source."
           }
         },
         {
@@ -38479,6 +38490,10 @@
         ],
         "altlinks": [
           {
+            "name": "AniCine",
+            "url": "https://anicine.xyz/anime"
+          },
+          {
             "name": "anidoor",
             "url": "https://anidoor.me/"
           },
@@ -42097,7 +42112,8 @@
       "icon": "https://static.everythingmoe.com/icons/atsu.png",
       "tags": [
         "Official Rips",
-        "Modern interface"
+        "Modern interface",
+        "ISSUE"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -54138,76 +54154,6 @@
         "info": "note : Although this site very similar with DLRaw, the contents are different."
       }
     },
-    "dlzip": {
-      "id": "dlzip",
-      "title": "DL-Zip",
-      "link": "https://dl-zip.com/",
-      "icon": "https://static.everythingmoe.com/icons/default.png",
-      "tags": [
-        "Manga",
-        "Novel",
-        "DDL",
-        "Raws",
-        "RAW"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "download"
-      ],
-      "details": {
-        "positives": [
-          "Batch .rar download",
-          "Large library",
-          "Provides manga, novel, books, magazine"
-        ],
-        "negatives": [
-          "Non-translated (RAW)",
-          "Use third party host",
-          "Files split into parts"
-        ],
-        "altlinks": [
-          {
-            "name": "zip-rar",
-            "url": "https://www.zip-rar.com/"
-          }
-        ],
-        "info": "note : zip-rar is very similar but different site."
-      }
-    },
-    "bszip": {
-      "id": "bszip",
-      "title": "Book Share ZIP",
-      "link": "https://bszip.com/",
-      "icon": "https://static.everythingmoe.com/icons/bszip.png",
-      "tags": [
-        "Manga",
-        "Novel",
-        "DDL",
-        "Raws",
-        "RAW"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "download"
-      ],
-      "details": {
-        "positives": [
-          "Provides magazine, manga, novel, books",
-          "Batch .rar download",
-          "Large library"
-        ],
-        "negatives": [
-          "Non-translated (RAW)",
-          "Use third party host",
-          "Inconsistent file servers used"
-        ],
-        "info": "note : Similar with DLRaw, but some contents are different."
-      }
-    },
     "animesakura": {
       "id": "animesakura",
       "title": "AnimeToki",
@@ -54269,6 +54215,105 @@
         "info": "note: Still in recovery"
       }
     },
+    "pandabackup": {
+      "id": "pandabackup",
+      "title": "Panda Backup",
+      "link": "https://panda.chaika.moe/",
+      "icon": "https://static.everythingmoe.com/icons/pandabackup.png",
+      "tags": [
+        "Manga",
+        "DDL"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "download"
+      ],
+      "details": {
+        "positives": [
+          "Simple & direct DDL",
+          "Large collection of rare doujinshi"
+        ],
+        "negatives": [
+          "Old interface",
+          "Doujinshi / magazines only"
+        ],
+        "info": "note: The purpose of this site is to provides backups from several sources that have been or could be removed from their original source."
+      }
+    },
+    "dlzip": {
+      "id": "dlzip",
+      "title": "DL-Zip",
+      "link": "https://dl-zip.com/",
+      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "tags": [
+        "Manga",
+        "Novel",
+        "DDL",
+        "Raws",
+        "raw",
+        "ddl"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "download"
+      ],
+      "details": {
+        "positives": [
+          "Batch .rar download",
+          "Large library",
+          "Provides manga, novel, books, magazine"
+        ],
+        "negatives": [
+          "Non-translated (RAW)",
+          "Use third party host",
+          "Files split into parts"
+        ],
+        "altlinks": [
+          {
+            "name": "zip-rar",
+            "url": "https://www.zip-rar.com/"
+          }
+        ],
+        "info": "note : zip-rar is very similar but different site."
+      }
+    },
+    "bszip": {
+      "id": "bszip",
+      "title": "Book Share ZIP",
+      "link": "https://bszip.com/",
+      "icon": "https://static.everythingmoe.com/icons/bszip.png",
+      "tags": [
+        "Manga",
+        "Novel",
+        "DDL",
+        "Raws",
+        "raw",
+        "ddl"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "download"
+      ],
+      "details": {
+        "positives": [
+          "Provides magazine, manga, novel, books",
+          "Batch .rar download",
+          "Large library"
+        ],
+        "negatives": [
+          "Non-translated (RAW)",
+          "Use third party host",
+          "Inconsistent file servers used"
+        ],
+        "info": "note : Similar with DLRaw, but some contents are different."
+      }
+    },
     "av1encodes": {
       "id": "av1encodes",
       "title": "AV1 EnCodes",
@@ -54277,7 +54322,9 @@
       "tags": [
         "Anime",
         "DDL",
-        "Torrent"
+        "Torrent",
+        "torrent",
+        "ddl"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -54320,7 +54367,8 @@
       "tags": [
         "Anime",
         "DDL",
-        "LOGIN"
+        "ddl",
+        "login"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -54348,7 +54396,8 @@
       "tags": [
         "Touhou",
         "DDL",
-        "TOUHOU"
+        "touhou",
+        "ddl"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -54364,33 +54413,6 @@
         "negatives": [
           "Touhou only"
         ]
-      }
-    },
-    "pandabackup": {
-      "id": "pandabackup",
-      "title": "Panda Backup",
-      "link": "https://panda.chaika.moe/",
-      "icon": "https://static.everythingmoe.com/icons/pandabackup.png",
-      "tags": [
-        "Manga",
-        "DDL"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "download"
-      ],
-      "details": {
-        "positives": [
-          "Simple & direct DDL",
-          "Large collection of rare doujinshi"
-        ],
-        "negatives": [
-          "Old interface",
-          "Doujinshi / magazines only"
-        ],
-        "info": "note: The purpose of this site is to provides backups from several sources that have been or could be removed from their original source."
       }
     },
     "zekozimo": {
