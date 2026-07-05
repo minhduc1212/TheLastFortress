@@ -5098,15 +5098,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Psiphon - Hybrid Proxy VPN App",
-                            "links": [
-                                {
-                                    "name": "Psiphon",
-                                    "url": "https://psiphon.ca/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Lantern - Proxy App /",
                             "links": [
                                 {
@@ -5116,6 +5107,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/getlantern/lantern"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Psiphon - Hybrid Proxy VPN App",
+                            "links": [
+                                {
+                                    "name": "Psiphon",
+                                    "url": "https://psiphon.ca/"
                                 }
                             ]
                         },
@@ -11559,7 +11559,7 @@
                             ]
                         },
                         {
-                            "full_text": "NomorFlix , 2 - Movies / TV / Anime / Auto-Next",
+                            "full_text": "NomorFlix , 2 , 3 - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
                                     "name": "NomorFlix",
@@ -11568,6 +11568,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://nomorflix.com/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://nomorflix.cc/"
                                 }
                             ]
                         },
@@ -12120,7 +12124,7 @@
                             "links": [
                                 {
                                     "name": "WatchFlix",
-                                    "url": "https://watchflix.to/"
+                                    "url": "https://watchflux.tv/"
                                 }
                             ]
                         },
@@ -12814,7 +12818,7 @@
                             "links": [
                                 {
                                     "name": "Zynema",
-                                    "url": "https://damovies.net/"
+                                    "url": "https://www.zynema.co/"
                                 },
                                 {
                                     "name": "",
@@ -16675,7 +16679,7 @@
                             ]
                         },
                         {
-                            "full_text": "Streamed , 2 / Mirrors / - Stream Aggregator",
+                            "full_text": "Streamed , 2 / Mirrors - Stream Aggregator /",
                             "links": [
                                 {
                                     "name": "Streamed",
@@ -18553,6 +18557,19 @@
                             ]
                         },
                         {
+                            "full_text": "ARVIO - TV Media Server w/ Stremio Addons + IPTV Support /",
+                            "links": [
+                                {
+                                    "name": "ARVIO",
+                                    "url": "https://arvio.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ProdigyV21/ARVIO"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠StrexoPlayer - Video Player w/ Stremio Sync /",
                             "links": [
                                 {
@@ -18566,15 +18583,11 @@
                             ]
                         },
                         {
-                            "full_text": "ARVIO - TV Media Server w/ Stremio Addons + IPTV Support /",
+                            "full_text": "⁠mpvNova - Android TV Video / Media Player",
                             "links": [
                                 {
-                                    "name": "ARVIO",
-                                    "url": "https://arvio.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ProdigyV21/ARVIO"
+                                    "name": "⁠mpvNova",
+                                    "url": "https://github.com/Laskco/mpvNova"
                                 }
                             ]
                         },
@@ -20426,6 +20439,15 @@
                                 {
                                     "name": "Server",
                                     "url": "https://github.com/asapach/peerflix-server"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Torlink - Torrent Search + Download CLI",
+                            "links": [
+                                {
+                                    "name": "⁠Torlink",
+                                    "url": "https://github.com/baairon/torlink"
                                 }
                             ]
                         },
@@ -29906,6 +29928,15 @@
                             ]
                         },
                         {
+                            "full_text": "Rarewares - Rare Audio Software / Tools",
+                            "links": [
+                                {
+                                    "name": "Rarewares",
+                                    "url": "https://www.rarewares.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Vocaroo - Online Voice Recorder",
                             "links": [
                                 {
@@ -36280,6 +36311,15 @@
                                 {
                                     "name": "ROM Heaven",
                                     "url": "https://romheaven.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LoLROMs - ROMs",
+                            "links": [
+                                {
+                                    "name": "LoLROMs",
+                                    "url": "https://rentry.co/FMHYB64#lolroms"
                                 }
                             ]
                         },
@@ -43937,6 +43977,15 @@
                                 {
                                     "name": "GTA V GeoGuessr",
                                     "url": "https://gta-geoguesser.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hyrule GeoGuessr - BOTW Hyrule GeoGuessr",
+                            "links": [
+                                {
+                                    "name": "Hyrule GeoGuessr",
+                                    "url": "https://hyruleguessr.com/"
                                 }
                             ]
                         },
@@ -53342,15 +53391,6 @@
                                 {
                                     "name": "Libreware",
                                     "url": "https://t.me/Libreware"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rarewares - Rare Software",
-                            "links": [
-                                {
-                                    "name": "Rarewares",
-                                    "url": "https://www.rarewares.org/"
                                 }
                             ]
                         },
@@ -78878,7 +78918,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Re-Malwack - Adblocking App /",
+                            "full_text": "⁠Re-Malwack (root) - Adblocking App /",
                             "links": [
                                 {
                                     "name": "⁠Re-Malwack",
@@ -108917,6 +108957,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Roms en Español - ROMs / Use Redirect Bypass",
+                            "links": [
+                                {
+                                    "name": "⁠Roms en Español",
+                                    "url": "https://romsenespanol.com/"
+                                },
+                                {
+                                    "name": "Redirect Bypass",
+                                    "url": "https://fmhy.net/internet-tools/#redirect-bypass"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Hello-Python or python-web - Python Courses",
                             "links": [
                                 {
@@ -114756,6 +114809,15 @@
                                 {
                                     "name": "Mobile",
                                     "url": "https://fmhy.net/mobile/#modded-apks"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠spotrac - Sports Financial Database / Contracts",
+                            "links": [
+                                {
+                                    "name": "⁠spotrac",
+                                    "url": "https://www.spotrac.com/"
                                 }
                             ]
                         },
@@ -176136,11 +176198,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Embossify or Tripo3D - Image to 3D Model Converters",
+                            "full_text": "Embossify , ⁠Image to 3D or Tripo3D - Image to 3D Model Converters",
                             "links": [
                                 {
                                     "name": "Embossify",
                                     "url": "https://www.embossify.com/"
+                                },
+                                {
+                                    "name": "⁠Image to 3D",
+                                    "url": "https://image-to-3d.ai/"
                                 },
                                 {
                                     "name": "Tripo3D",
@@ -191213,6 +191279,15 @@
                                 {
                                     "name": "Safeaudiokit",
                                     "url": "https://safeaudiokit.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Rarewares - Rare Audio Software / Tools",
+                            "links": [
+                                {
+                                    "name": "Rarewares",
+                                    "url": "https://www.rarewares.org/"
                                 }
                             ]
                         },
@@ -218064,15 +218139,6 @@
                             ]
                         },
                         {
-                            "full_text": "Glass UI - Glassmorphism CSS Generator",
-                            "links": [
-                                {
-                                    "name": "Glass UI",
-                                    "url": "https://ui.glass/generator/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Hover.CSS - CSS Hover Effects",
                             "links": [
                                 {
@@ -219675,15 +219741,6 @@
                                 {
                                     "name": "8b",
                                     "url": "https://8b.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Potion - Notion Website Builder",
-                            "links": [
-                                {
-                                    "name": "Potion",
-                                    "url": "https://potion.so/"
                                 }
                             ]
                         },
@@ -224125,6 +224182,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Glass UI - Glassmorphism CSS Generator (Removed in 8187dfd )",
+                            "links": [
+                                {
+                                    "name": "8187dfd",
+                                    "url": "https://github.com/fmhy/edit/commit/8187dfdbdedc0a68fc57d139179671cd6f2d4621#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL663"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Potion - Notion Website Builder (Removed in 8187dfd )",
+                            "links": [
+                                {
+                                    "name": "8187dfd",
+                                    "url": "https://github.com/fmhy/edit/commit/8187dfdbdedc0a68fc57d139179671cd6f2d4621#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL824"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cirrus Retro - Game Music Radio (Removed in fa9ce17 )",
                             "links": [
                                 {
@@ -225408,87 +225483,6 @@
                                 {
                                     "name": "702f33b",
                                     "url": "https://github.com/fmhy/edit/commit/702f33b2f627fec057f4277648f856ed897c9e11#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1666"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MDX23 (Removed in b0aa7c7 )",
-                            "links": [
-                                {
-                                    "name": "b0aa7c7",
-                                    "url": "https://github.com/fmhy/edit/commit/b0aa7c7e3cde735b38e6e9f698a10a4b6f151496#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L343"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Music-Source-Separation (Removed in b0aa7c7 )",
-                            "links": [
-                                {
-                                    "name": "b0aa7c7",
-                                    "url": "https://github.com/fmhy/edit/commit/b0aa7c7e3cde735b38e6e9f698a10a4b6f151496#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L344"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "minitorch - Machine Learning Engineering Course Code (Removed in 5aee787 )",
-                            "links": [
-                                {
-                                    "name": "5aee787",
-                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L476"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠1sh - 1sh.pl/qIPAbZ (Removed in 5aee787 )",
-                            "links": [
-                                {
-                                    "name": "5aee787",
-                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L372"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Jii.Li - jii.li/hNFXP (Removed in 5aee787 )",
-                            "links": [
-                                {
-                                    "name": "5aee787",
-                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L376"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Kanjiku - Manga (Removed in 5aee787 )",
-                            "links": [
-                                {
-                                    "name": "5aee787",
-                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L588"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "baladfilm - Movies / TV (Removed in 5aee787 )",
-                            "links": [
-                                {
-                                    "name": "5aee787",
-                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L793"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "eBookBB - Books / Download (Removed in 5aee787 )",
-                            "links": [
-                                {
-                                    "name": "5aee787",
-                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L19"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "iBookPile - Books / Download (Removed in 5aee787 )",
-                            "links": [
-                                {
-                                    "name": "5aee787",
-                                    "url": "https://github.com/fmhy/edit/commit/5aee7879c53e178bfe0e9c1b6e42f38ebf775f26#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L20"
                                 }
                             ]
                         }
@@ -227633,7 +227627,7 @@
                     "heading": "SMS Verification Sites",
                     "level": "h2",
                     "text_explanations": [
-                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,ReceiveSMSOnline,7sim,yunjiema,us-phone-number,shownumber,yunduanxin,smsget,free-sms-receive,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,receivesmsonline,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠7Sim,⁠TempSMSOnline,⁠SMSRecieveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠Recieve SMS Free,⁠TempBoxPro,⁠XNSMS,gettempnumber"
+                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,ReceiveSMSOnline,7sim,yunjiema,us-phone-number,shownumber,yunduanxin,smsget,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,receivesmsonline,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠7Sim,⁠TempSMSOnline,⁠SMSRecieveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠Recieve SMS Free,⁠TempBoxPro,⁠XNSMS,gettempnumber"
                     ],
                     "resource_items": [
                         {
