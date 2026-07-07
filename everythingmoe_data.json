@@ -2932,6 +2932,39 @@
           }
         },
         {
+          "id": "shinora",
+          "title": "Zanora",
+          "link": "https://zanora.lol/home",
+          "icon": "https://static.everythingmoe.com/icons/shinora.png",
+          "tags": [
+            "Scraper",
+            "Modern interface",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 76,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "info": "note: Formerly known as Shinora.",
+            "ex-altlinks": [
+              {
+                "name": "shinora",
+                "url": "https://shinora.fun/"
+              }
+            ]
+          }
+        },
+        {
           "id": "anipm",
           "title": "ani.pm",
           "link": "https://ani.pm/",
@@ -2942,7 +2975,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2967,7 +3000,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3008,7 +3041,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3055,7 +3088,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3082,7 +3115,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3127,7 +3160,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3141,39 +3174,6 @@
               "Only available in US",
               "Expensive subscription or ad-supported",
               "Small anime library"
-            ]
-          }
-        },
-        {
-          "id": "shinora",
-          "title": "Zanora",
-          "link": "https://zanora.lol/home",
-          "icon": "https://static.everythingmoe.com/icons/shinora.png",
-          "tags": [
-            "Scraper",
-            "Modern interface",
-            "Soft-sub",
-            "koto"
-          ],
-          "rank": 82,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Proxy Anikoto video"
-            ],
-            "negatives": [
-              "Content depends on Anikoto"
-            ],
-            "info": "note: Formerly known as Shinora.",
-            "ex-altlinks": [
-              {
-                "name": "shinora",
-                "url": "https://shinora.fun/"
-              }
             ]
           }
         },
@@ -38425,6 +38425,39 @@
         "info": "note: Arabic website, but have english language"
       }
     },
+    "shinora": {
+      "id": "shinora",
+      "title": "Zanora",
+      "link": "https://zanora.lol/home",
+      "icon": "https://static.everythingmoe.com/icons/shinora.png",
+      "tags": [
+        "Scraper",
+        "Modern interface",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "info": "note: Formerly known as Shinora.",
+        "ex-altlinks": [
+          {
+            "name": "shinora",
+            "url": "https://shinora.fun/"
+          }
+        ]
+      }
+    },
     "anipm": {
       "id": "anipm",
       "title": "ani.pm",
@@ -38635,39 +38668,6 @@
           "Only available in US",
           "Expensive subscription or ad-supported",
           "Small anime library"
-        ]
-      }
-    },
-    "shinora": {
-      "id": "shinora",
-      "title": "Zanora",
-      "link": "https://zanora.lol/home",
-      "icon": "https://static.everythingmoe.com/icons/shinora.png",
-      "tags": [
-        "Scraper",
-        "Modern interface",
-        "Soft-sub",
-        "koto"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Proxy Anikoto video"
-        ],
-        "negatives": [
-          "Content depends on Anikoto"
-        ],
-        "info": "note: Formerly known as Shinora.",
-        "ex-altlinks": [
-          {
-            "name": "shinora",
-            "url": "https://shinora.fun/"
-          }
         ]
       }
     },
