@@ -933,10 +933,6 @@
                 "url": "https://lite.aniwaves.ru/home"
               },
               {
-                "name": "123animes.ru",
-                "url": "https://123animes.ru/home"
-              },
-              {
                 "name": "123animehub.cc",
                 "url": "https://123animehub.cc/"
               },
@@ -958,6 +954,10 @@
               }
             ],
             "ex-altlinks": [
+              {
+                "name": "123animes.ru",
+                "url": "https://123animes.ru/home"
+              },
               {
                 "name": "zorotvcc",
                 "url": "https://zorotv.cc/home"
@@ -11465,7 +11465,7 @@
         {
           "id": "novelusb",
           "title": "Novel Bin",
-          "link": "https://novelbin.com/",
+          "link": "https://novel-bin.com/",
           "icon": "https://static.everythingmoe.com/icons/novelbin.png",
           "tags": [],
           "rank": 18,
@@ -11486,6 +11486,16 @@
             ],
             "altlinks": [
               {
+                "name": "novelnice",
+                "url": "https://novelnice.com/"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": ".com",
+                "url": "https://novelbin.com/"
+              },
+              {
                 "name": ".me",
                 "url": "https://novelbin.me/"
               },
@@ -11498,7 +11508,7 @@
                 "url": "https://novlove.com/"
               }
             ],
-            "info": "note: Formerly known as Novel Usb"
+            "info": "note: Formerly known as Novel Usb. New site unknown if made by same people"
           }
         },
         {
@@ -12846,29 +12856,6 @@
           }
         },
         {
-          "id": "lovo",
-          "title": "Lovo",
-          "link": "https://www.lovo.vip/",
-          "icon": "https://static.everythingmoe.com/icons/lovo.png",
-          "tags": [],
-          "rank": 9,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "drama",
-          "details": {
-            "positives": [
-              "Nice interface",
-              "Reliable stream server"
-            ],
-            "negatives": [
-              "Specific & few contents"
-            ],
-            "info": "ntoe: This site specialize on BL & GL content only"
-          }
-        },
-        {
           "id": "tokuzilla",
           "title": "Tokuzilla",
           "link": "https://tokuzilla.net/",
@@ -12876,7 +12863,7 @@
           "tags": [
             "TOKUSATSU"
           ],
-          "rank": 10,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12916,7 +12903,7 @@
           "tags": [
             "TOKUSATSU"
           ],
-          "rank": 11,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12937,7 +12924,7 @@
           "tags": [
             "TOKUSATSU"
           ],
-          "rank": 12,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12955,7 +12942,7 @@
           "link": "https://www.anime-loads.org/asialive",
           "icon": "https://static.everythingmoe.com/icons/animeloads.png",
           "tags": [],
-          "rank": 13,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12978,7 +12965,7 @@
           "link": "https://www.kisskhweb.com/",
           "icon": "https://static.everythingmoe.com/icons/kisskhweb.png",
           "tags": [],
-          "rank": 14,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13008,7 +12995,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 15,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13033,7 +13020,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 16,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13059,7 +13046,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 17,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13092,7 +13079,7 @@
           "link": "https://myasiantv.rest",
           "icon": "https://static.everythingmoe.com/icons/myasiantv.png",
           "tags": [],
-          "rank": 18,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13132,7 +13119,7 @@
           "link": "https://asiaflix.net/home",
           "icon": "https://static.everythingmoe.com/icons/asiaflix.png",
           "tags": [],
-          "rank": 19,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13168,7 +13155,7 @@
           "link": "https://freshdrama.net/",
           "icon": "https://static.everythingmoe.com/icons/kissoppa.png",
           "tags": [],
-          "rank": 20,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13207,7 +13194,7 @@
           "link": "https://kisskh.club/",
           "icon": "https://static.everythingmoe.com/icons/asianview.png",
           "tags": [],
-          "rank": 21,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13241,7 +13228,7 @@
           "link": "https://kissasian.com.lv/",
           "icon": "https://static.everythingmoe.com/icons/kissasian.png",
           "tags": [],
-          "rank": 22,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13273,7 +13260,7 @@
           "link": "https://kissasia.cam/",
           "icon": "https://static.everythingmoe.com/icons/kissasiacam.png",
           "tags": [],
-          "rank": 23,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13302,7 +13289,7 @@
           "link": "https://kissasian.vip/home",
           "icon": "https://static.everythingmoe.com/icons/kissasianvip.png",
           "tags": [],
-          "rank": 24,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13326,7 +13313,7 @@
           "link": "https://onetouchtv.xyz/",
           "icon": "https://static.everythingmoe.com/icons/onetouchtv.png",
           "tags": [],
-          "rank": 25,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13356,7 +13343,7 @@
           "link": "https://asiansubs.com/",
           "icon": "https://static.everythingmoe.com/icons/asiansubs.png",
           "tags": [],
-          "rank": 26,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19590,6 +19577,7 @@
               "Provides on & off-vocal ver",
               "Medium-large song library"
             ],
+            "info": "note: The app doesn't use kara.moe database as default, you need to configure it yourself",
             "altlinks": [
               {
                 "name": "Songs",
@@ -22965,6 +22953,22 @@
           "section": "quiz",
           "details": {
             "info": "Guess the anime based on six image clues. Each new image is a bigger hint to the right answer#365 hand curated questions."
+          }
+        },
+        {
+          "id": "suisokuxgorn",
+          "title": "Character Guesser",
+          "link": "https://suisoku.xgorn.com/",
+          "icon": "https://static.everythingmoe.com/icons/default.png",
+          "tags": [],
+          "rank": 13,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "quiz",
+          "details": {
+            "info": "Guess character name based image. Very basic website"
           }
         }
       ]
@@ -33772,12 +33776,35 @@
           }
         },
         {
+          "id": "lovo",
+          "title": "Lovo",
+          "link": "https://www.lovo.vip/",
+          "icon": "https://static.everythingmoe.com/icons/lovo.png",
+          "tags": [],
+          "rank": 6,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "drama",
+          "details": {
+            "positives": [
+              "Nice interface",
+              "Reliable stream server"
+            ],
+            "negatives": [
+              "Specific & few contents"
+            ],
+            "info": "ntoe: This site specialize on BL & GL content only"
+          }
+        },
+        {
           "id": "dramago",
           "title": "DramaGo",
           "link": "https://dramatalk.net/",
           "icon": "https://static.everythingmoe.com/icons/dramacool.png",
           "tags": [],
-          "rank": 6,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33800,7 +33827,7 @@
           "link": "https://asianrev.fun/",
           "icon": "https://static.everythingmoe.com/icons/asianrevfun.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33821,7 +33848,7 @@
           "link": "https://dramacity.me/",
           "icon": "https://static.everythingmoe.com/icons/dramacity.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33844,7 +33871,7 @@
           "link": "https://dramafire.com.pl/",
           "icon": "https://static.everythingmoe.com/icons/dramafire.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33882,7 +33909,7 @@
           "link": "https://asianc.top/",
           "icon": "https://static.everythingmoe.com/icons/asianctop.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33906,7 +33933,7 @@
           "link": "https://kisskhdrama.com/",
           "icon": "https://static.everythingmoe.com/icons/kisskhdrama.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33922,7 +33949,7 @@
           "link": "https://kdrama-tv.com/",
           "icon": "https://static.everythingmoe.com/icons/kdramatv.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33943,7 +33970,7 @@
           "tags": [
             "DC"
           ],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -36413,10 +36440,6 @@
             "url": "https://lite.aniwaves.ru/home"
           },
           {
-            "name": "123animes.ru",
-            "url": "https://123animes.ru/home"
-          },
-          {
             "name": "123animehub.cc",
             "url": "https://123animehub.cc/"
           },
@@ -36438,6 +36461,10 @@
           }
         ],
         "ex-altlinks": [
+          {
+            "name": "123animes.ru",
+            "url": "https://123animes.ru/home"
+          },
           {
             "name": "zorotvcc",
             "url": "https://zorotv.cc/home"
@@ -46891,7 +46918,7 @@
     "novelusb": {
       "id": "novelusb",
       "title": "Novel Bin",
-      "link": "https://novelbin.com/",
+      "link": "https://novel-bin.com/",
       "icon": "https://static.everythingmoe.com/icons/novelbin.png",
       "tags": [],
       "is_licensed": false,
@@ -46912,6 +46939,16 @@
         ],
         "altlinks": [
           {
+            "name": "novelnice",
+            "url": "https://novelnice.com/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": ".com",
+            "url": "https://novelbin.com/"
+          },
+          {
             "name": ".me",
             "url": "https://novelbin.me/"
           },
@@ -46924,7 +46961,7 @@
             "url": "https://novlove.com/"
           }
         ],
-        "info": "note: Formerly known as Novel Usb"
+        "info": "note: Formerly known as Novel Usb. New site unknown if made by same people"
       }
     },
     "novelhall": {
@@ -48260,29 +48297,6 @@
             "url": "https://dramanicee.lat/"
           }
         ]
-      }
-    },
-    "lovo": {
-      "id": "lovo",
-      "title": "Lovo",
-      "link": "https://www.lovo.vip/",
-      "icon": "https://static.everythingmoe.com/icons/lovo.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "drama"
-      ],
-      "details": {
-        "positives": [
-          "Nice interface",
-          "Reliable stream server"
-        ],
-        "negatives": [
-          "Specific & few contents"
-        ],
-        "info": "ntoe: This site specialize on BL & GL content only"
       }
     },
     "tokuzilla": {
@@ -54971,6 +54985,7 @@
           "Provides on & off-vocal ver",
           "Medium-large song library"
         ],
+        "info": "note: The app doesn't use kara.moe database as default, you need to configure it yourself",
         "altlinks": [
           {
             "name": "Songs",
@@ -58292,6 +58307,22 @@
       ],
       "details": {
         "info": "Guess the anime based on six image clues. Each new image is a bigger hint to the right answer#365 hand curated questions."
+      }
+    },
+    "suisokuxgorn": {
+      "id": "suisokuxgorn",
+      "title": "Character Guesser",
+      "link": "https://suisoku.xgorn.com/",
+      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "quiz"
+      ],
+      "details": {
+        "info": "Guess character name based image. Very basic website"
       }
     },
     "animestats": {
@@ -68950,6 +68981,29 @@
           "Some videos are broken / have no subtitles"
         ],
         "info": "note: Made by same people from SlothAnime / VyManga"
+      }
+    },
+    "lovo": {
+      "id": "lovo",
+      "title": "Lovo",
+      "link": "https://www.lovo.vip/",
+      "icon": "https://static.everythingmoe.com/icons/lovo.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "drama"
+      ],
+      "details": {
+        "positives": [
+          "Nice interface",
+          "Reliable stream server"
+        ],
+        "negatives": [
+          "Specific & few contents"
+        ],
+        "info": "ntoe: This site specialize on BL & GL content only"
       }
     },
     "dramago": {
