@@ -6156,7 +6156,7 @@
                             ]
                         },
                         {
-                            "full_text": "Meta AI - Muse Spark / Meta Sign-Up / Unlimited",
+                            "full_text": "Meta AI - Muse Spark 1.1 / Meta Sign-Up / Unlimited",
                             "links": [
                                 {
                                     "name": "Meta AI",
@@ -6242,7 +6242,7 @@
                             ]
                         },
                         {
-                            "full_text": "Claude - Claude Sonnet 4.6 / Requires Sign-Up + Phone # / Resources / Learning , 2 / Usage Tracker / /",
+                            "full_text": "Claude - Claude Sonnet 5.0 / Requires Sign-Up + Phone # / Resources / Learning , 2 / Usage Tracker / /",
                             "links": [
                                 {
                                     "name": "Claude",
@@ -6446,7 +6446,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Indic LLM Arena - Gemini 3.5 Flash / Multiple Models / Unlimited /",
+                            "full_text": "⁠Indic LLM Arena - GPT-5.5 / Gemini 3.5 Flash / Multiple Models / Unlimited /",
                             "links": [
                                 {
                                     "name": "⁠Indic LLM Arena",
@@ -6459,7 +6459,7 @@
                             ]
                         },
                         {
-                            "full_text": "Pollinations Chat , 2 , 3 - DeepSeek V4 Pro / GLM-5.1 / GPT-5.5 / Grok 4.3 / Multiple Models / Limits and Models /",
+                            "full_text": "Pollinations Chat , 2 , 3 - GPT-5.6 Sol / DeepSeek V4 Pro / GLM-5.2 / Grok 4.3 / Multiple Models / Limits and Models /",
                             "links": [
                                 {
                                     "name": "Pollinations Chat",
@@ -6484,7 +6484,20 @@
                             ]
                         },
                         {
-                            "full_text": "NVIDIA NIM - GLM-5.2 / Deepseek-v4-Pro / Kimi K2.6 / Multiple Models / No Sign-Up / Unlimited",
+                            "full_text": "⁠Woozlit - Multiple Models / ≈2000 Monthly / Sign-Up /",
+                            "links": [
+                                {
+                                    "name": "⁠Woozlit",
+                                    "url": "https://woozlit.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/rdBN6TYf66"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "NVIDIA NIM - GLM-5.2 / Deepseek-V4-Pro / Minimax M3 / Multiple Models / No Sign-Up / Unlimited",
                             "links": [
                                 {
                                     "name": "NVIDIA NIM",
@@ -6493,7 +6506,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Together.ai - GLM-5.2 / Kimi K2.6 / Deepseek-V4 / Multiple Models / Up To 110 Daily /",
+                            "full_text": "⁠Together.ai - GLM-5.2 / Kimi K2.6 / Deepseek-V4 Pro / Multiple Models / Up To 110 Daily /",
                             "links": [
                                 {
                                     "name": "⁠Together.ai",
@@ -6515,37 +6528,11 @@
                             ]
                         },
                         {
-                            "full_text": "Cerebras Chat - GLM-4.7 / Qwen3-235B / Qwen3 235B Instruct / Multiple Models / Sign-Up",
+                            "full_text": "Cerebras Chat - GLM-4.7 / Multiple Models / Sign-Up",
                             "links": [
                                 {
                                     "name": "Cerebras Chat",
                                     "url": "https://chat.cerebras.ai/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Groq - GPT-OSS-120B / Llama 3.3 70B / Multiple Models / Sign-Up / Limits /",
-                            "links": [
-                                {
-                                    "name": "Groq",
-                                    "url": "https://console.groq.com/playground"
-                                },
-                                {
-                                    "name": "Limits",
-                                    "url": "https://console.groq.com/docs/rate-limits"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/e6cj7aA4Ts"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Dolphin Chat - Dolphin 24B / Unrestricted / No Sign-Up / Unlimited",
-                            "links": [
-                                {
-                                    "name": "Dolphin Chat",
-                                    "url": "https://chat.dphn.ai/"
                                 }
                             ]
                         }
@@ -7657,6 +7644,15 @@
                                     "url": "https://lumiverse.chat/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "Marinara Engine - Self-Hosted Roleplaying Models",
+                            "links": [
+                                {
+                                    "name": "Marinara Engine",
+                                    "url": "https://github.com/Pasta-Devs/Marinara-Engine"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -7778,11 +7774,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠HunyuanVideo - Unlimited / Sign-Up",
+                            "full_text": "⁠HunyuanVideo - Unlimited / Sign-Up /",
                             "links": [
                                 {
                                     "name": "⁠HunyuanVideo",
                                     "url": "https://aistudio.tencent.com/modelSquare/home/play?modelId=303&from=/visual"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/dNBrdrGGMa"
                                 }
                             ]
                         },
@@ -11198,6 +11198,23 @@
                             ]
                         },
                         {
+                            "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "PopcornMovies",
+                                    "url": "https://popcornmovies.io/"
+                                },
+                                {
+                                    "name": "BingeBox",
+                                    "url": "https://bingebox.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/JAxTMkmcpd"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "67Movies , 2 or 456movie , 2 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11236,23 +11253,6 @@
                             ]
                         },
                         {
-                            "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "PopcornMovies",
-                                    "url": "https://popcornmovies.io/"
-                                },
-                                {
-                                    "name": "BingeBox",
-                                    "url": "https://bingebox.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/JAxTMkmcpd"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "FlickyStream , MeowTV or CineMora - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11274,7 +11274,7 @@
                             ]
                         },
                         {
-                            "full_text": "bCine - Movies / TV / Anime / 4K / Auto-Next /",
+                            "full_text": "bCine - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "bCine",
@@ -11363,7 +11363,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/Gx27YMK73d"
+                                    "url": "https://discord.gg/yWWKfMbtm3"
                                 }
                             ]
                         },
@@ -14637,15 +14637,6 @@
                             ]
                         },
                         {
-                            "full_text": "AnimeHub - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "AnimeHub",
-                                    "url": "https://animehub.ac/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Rive , 2 , 3 - Sub / Dub / Auto-Next / Status /",
                             "links": [
                                 {
@@ -15020,32 +15011,6 @@
                                 {
                                     "name": "Anti-Adblock Fix",
                                     "url": "https://github.com/uBlockOrigin/uAssets/issues/29349#issuecomment-3231974507"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KimCartoon - TV",
-                            "links": [
-                                {
-                                    "name": "KimCartoon",
-                                    "url": "https://kimcartoon.si/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KissCartoon , 2 - TV /",
-                            "links": [
-                                {
-                                    "name": "KissCartoon",
-                                    "url": "https://kisscartoon.nz/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://kisscartoon.sh/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/YwpgPrWVSH"
                                 }
                             ]
                         },
@@ -21057,11 +21022,15 @@
                             ]
                         },
                         {
-                            "full_text": "SeaDex - Anime Video Quality Guide / Docs",
+                            "full_text": "SeaDex or SeaDex Mirror - Anime Video Quality Guide / Docs",
                             "links": [
                                 {
                                     "name": "SeaDex",
                                     "url": "https://releases.moe/"
+                                },
+                                {
+                                    "name": "SeaDex Mirror",
+                                    "url": "https://seadex.pages.dev/"
                                 },
                                 {
                                     "name": "Docs",
@@ -23463,6 +23432,15 @@
                                 {
                                     "name": "Audiomack",
                                     "url": "https://audiomack.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Octave - Browser Music",
+                            "links": [
+                                {
+                                    "name": "⁠Octave",
+                                    "url": "https://octavestreaming.com/"
                                 }
                             ]
                         },
@@ -38048,8 +38026,12 @@
                             ]
                         },
                         {
-                            "full_text": "Sudoku XV - Sudoku",
+                            "full_text": "⁠Stillgrid or Sudoku XV - Sudoku + Sudoku Varients",
                             "links": [
+                                {
+                                    "name": "⁠Stillgrid",
+                                    "url": "https://stillgrid.app/"
+                                },
                                 {
                                     "name": "Sudoku XV",
                                     "url": "https://keeri.place/sudoku-xv"
@@ -42043,6 +42025,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Sports Games - Mock Sports Draft Game Index",
+                            "links": [
+                                {
+                                    "name": "Sports Games",
+                                    "url": "https://rentry.co/c7zwkv9t"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠IsoCity - City Building Game /",
                             "links": [
                                 {
@@ -43234,6 +43225,15 @@
                                 {
                                     "name": "Guess The Price",
                                     "url": "https://guesstheprice.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Memorize Earth - Jeopardy Style Geography Quiz ⁠Memorize Earth",
+                            "links": [
+                                {
+                                    "name": "⁠Memorize Earth",
+                                    "url": "https://memorizeearth.com/"
                                 }
                             ]
                         },
@@ -45347,6 +45347,15 @@
                                 {
                                     "name": "Litera Reader",
                                     "url": "https://litera-reader.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Readest",
+                            "links": [
+                                {
+                                    "name": "Readest",
+                                    "url": "https://web.readest.com/"
                                 }
                             ]
                         },
@@ -47548,15 +47557,6 @@
                                 {
                                     "name": "XOXO Comics",
                                     "url": "https://xoxocomic.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ReadAllComics",
-                            "links": [
-                                {
-                                    "name": "ReadAllComics",
-                                    "url": "https://readallcomics.com/"
                                 }
                             ]
                         },
@@ -63279,7 +63279,7 @@
                             ]
                         },
                         {
-                            "full_text": "Ekvis / / , JetPunk Geography , LizardPoint or Seterra - Geography Quiz Sites",
+                            "full_text": "Ekvis / / , JetPunk Geography , LizardPoint , ⁠Memorize Earth or Seterra - Geography Quiz Sites",
                             "links": [
                                 {
                                     "name": "Ekvis",
@@ -63300,6 +63300,10 @@
                                 {
                                     "name": "LizardPoint",
                                     "url": "https://lizardpoint.com/"
+                                },
+                                {
+                                    "name": "⁠Memorize Earth",
+                                    "url": "https://memorizeearth.com/"
                                 },
                                 {
                                     "name": "Seterra",
@@ -67714,7 +67718,7 @@
                             ]
                         },
                         {
-                            "full_text": "Train Chinese , ChineseSkill or HelloChinese - Chinese Learning App",
+                            "full_text": "Train Chinese , ChineseSkill or HelloChinese - Chinese Learning Apps",
                             "links": [
                                 {
                                     "name": "Train Chinese",
@@ -67769,11 +67773,15 @@
                             ]
                         },
                         {
-                            "full_text": "LexList or Chinese Character Database - Learn Chinese Characters",
+                            "full_text": "LexList , ⁠Hanly or Chinese Character Database - Learn Chinese Characters",
                             "links": [
                                 {
                                     "name": "LexList",
                                     "url": "https://www.edbchinese.hk/lexlist_en/index.jsp"
+                                },
+                                {
+                                    "name": "⁠Hanly",
+                                    "url": "https://www.hanlyapp.com/"
                                 },
                                 {
                                     "name": "Chinese Character Database",
@@ -80625,7 +80633,7 @@
                             ]
                         },
                         {
-                            "full_text": "Any.do , Orgzly-revived / , Super Productivity or Taskito - To-Do Apps with Sync Support",
+                            "full_text": "Any.do , Orgzly-revived / , Super Productivity / or Taskito - To-Do Apps with Sync Support",
                             "links": [
                                 {
                                     "name": "Any.do",
@@ -80642,6 +80650,10 @@
                                 {
                                     "name": "Super Productivity",
                                     "url": "https://super-productivity.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/super-productivity/super-productivity"
                                 },
                                 {
                                     "name": "Taskito",
@@ -87321,6 +87333,15 @@
                                 {
                                     "name": "Deezer",
                                     "url": "https://apps.apple.com/app/id292738169"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Octave - Streaming",
+                            "links": [
+                                {
+                                    "name": "⁠Octave",
+                                    "url": "https://octavestreaming.com/"
                                 }
                             ]
                         },
@@ -95515,6 +95536,15 @@
                             ]
                         },
                         {
+                            "full_text": "CrossOver (search) - Run Windows on Mac",
+                            "links": [
+                                {
+                                    "name": "CrossOver",
+                                    "url": "https://fmhy.net/linux-macos/#software-sites-1"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PortingKit or PlayOnMac - Run Windows Games / Programs on Mac",
                             "links": [
                                 {
@@ -95524,15 +95554,6 @@
                                 {
                                     "name": "PlayOnMac",
                                     "url": "https://www.playonmac.com/en/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CrossOver (search) - Run Windows on Mac",
-                            "links": [
-                                {
-                                    "name": "CrossOver",
-                                    "url": "https://fmhy.net/linux-macos/#software-sites-1"
                                 }
                             ]
                         },
@@ -103643,7 +103664,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/Gx27YMK73d"
+                                    "url": "https://discord.gg/yWWKfMbtm3"
                                 }
                             ]
                         },
@@ -109339,7 +109360,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/Gx27YMK73d"
+                                    "url": "https://discord.gg/yWWKfMbtm3"
                                 }
                             ]
                         },
@@ -114805,6 +114826,15 @@
                             ]
                         },
                         {
+                            "full_text": "Sports Games - Mock Sports Draft Game Index",
+                            "links": [
+                                {
+                                    "name": "Sports Games",
+                                    "url": "https://rentry.co/c7zwkv9t"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "️ Live Sports / Replays",
                             "links": [
                                 {
@@ -114907,6 +114937,24 @@
                                 {
                                     "name": "⁠FotMob",
                                     "url": "https://www.fotmob.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠MatchSimulator - Football League Simulator",
+                            "links": [
+                                {
+                                    "name": "⁠MatchSimulator",
+                                    "url": "https://matchsimulator.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HatTrick - Multiplayer Football League Manager",
+                            "links": [
+                                {
+                                    "name": "HatTrick",
+                                    "url": "https://www.hattrick.org/"
                                 }
                             ]
                         },
@@ -124270,11 +124318,15 @@
                             ]
                         },
                         {
-                            "full_text": "Super Productivity - Time Tracker / Productivity App / To-Do List",
+                            "full_text": "Super Productivity - Time Tracker / Productivity App / To-Do List /",
                             "links": [
                                 {
                                     "name": "Super Productivity",
                                     "url": "https://super-productivity.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/super-productivity/super-productivity"
                                 }
                             ]
                         },
@@ -129432,11 +129484,20 @@
                             ]
                         },
                         {
-                            "full_text": "G-Helper - Armoury Crate Replacement for ASUS Laptops",
+                            "full_text": "ASUS G-Helper - Armoury Crate Replacement for ASUS Laptops",
                             "links": [
                                 {
-                                    "name": "G-Helper",
+                                    "name": "ASUS G-Helper",
                                     "url": "https://github.com/seerge/g-helper"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠PreySense - Armoury Crate Replacement for Acer Predator Laptops",
+                            "links": [
+                                {
+                                    "name": "⁠PreySense",
+                                    "url": "https://github.com/hammadzaigham/PreySense"
                                 }
                             ]
                         }
@@ -150151,6 +150212,15 @@
                             ]
                         },
                         {
+                            "full_text": "YouTube Cinema - Expand YouTube Player to Fill Viewport",
+                            "links": [
+                                {
+                                    "name": "YouTube Cinema",
+                                    "url": "https://greasyfork.org/en/scripts/585902"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "YewTube - Terminal YouTube Players",
                             "links": [
                                 {
@@ -151343,6 +151413,15 @@
                                 {
                                     "name": "Twitch TV OBS Subtitles",
                                     "url": "https://github.com/stephenlb/twitch-tv-obs-subtitles/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Twitch Scroll Wheel Volume - Add Scroll Wheel Volume to Stream",
+                            "links": [
+                                {
+                                    "name": "Twitch Scroll Wheel Volume",
+                                    "url": "https://greasyfork.org/en/scripts/420862"
                                 }
                             ]
                         },
@@ -157376,11 +157455,15 @@
                             ]
                         },
                         {
-                            "full_text": "Super Productivity",
+                            "full_text": "Super Productivity /",
                             "links": [
                                 {
                                     "name": "Super Productivity",
                                     "url": "https://super-productivity.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/super-productivity/super-productivity"
                                 }
                             ]
                         },
@@ -172719,11 +172802,15 @@
                             ]
                         },
                         {
-                            "full_text": "LibreSprite - Pixel Art Editor /",
+                            "full_text": "LibreSprite - Pixel Art Editor / , Linux /",
                             "links": [
                                 {
                                     "name": "LibreSprite",
                                     "url": "https://libresprite.github.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/LibreSprite/LibreSprite"
                                 }
                             ]
                         },
@@ -181362,11 +181449,15 @@
                             ]
                         },
                         {
-                            "full_text": "MPC-QT - Video Player / MPC UI w/ MPV Internal Player / Easy Setup",
+                            "full_text": "MPC-QT - Video Player / MPC UI w/ MPV Internal Player / Easy Setup /",
                             "links": [
                                 {
                                     "name": "MPC-QT",
                                     "url": "https://mpc-qt.github.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/mpc-qt/mpc-qt"
                                 }
                             ]
                         },
@@ -184982,6 +185073,15 @@
                                 {
                                     "name": "Audiomack",
                                     "url": "https://audiomack.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Octave - Browser Music",
+                            "links": [
+                                {
+                                    "name": "⁠Octave",
+                                    "url": "https://octavestreaming.com/"
                                 }
                             ]
                         },
@@ -201224,7 +201324,7 @@
                             ]
                         },
                         {
-                            "full_text": "Ekvis / / , JetPunk Geography , LizardPoint or Seterra - Geography Quiz Sites",
+                            "full_text": "Ekvis / / , JetPunk Geography , LizardPoint , ⁠Memorize Earth or Seterra - Geography Quiz Sites",
                             "links": [
                                 {
                                     "name": "Ekvis",
@@ -201245,6 +201345,10 @@
                                 {
                                     "name": "LizardPoint",
                                     "url": "https://lizardpoint.com/"
+                                },
+                                {
+                                    "name": "⁠Memorize Earth",
+                                    "url": "https://memorizeearth.com/"
                                 },
                                 {
                                     "name": "Seterra",
@@ -205659,7 +205763,7 @@
                             ]
                         },
                         {
-                            "full_text": "Train Chinese , ChineseSkill or HelloChinese - Chinese Learning App",
+                            "full_text": "Train Chinese , ChineseSkill or HelloChinese - Chinese Learning Apps",
                             "links": [
                                 {
                                     "name": "Train Chinese",
@@ -205714,11 +205818,15 @@
                             ]
                         },
                         {
-                            "full_text": "LexList or Chinese Character Database - Learn Chinese Characters",
+                            "full_text": "LexList , ⁠Hanly or Chinese Character Database - Learn Chinese Characters",
                             "links": [
                                 {
                                     "name": "LexList",
                                     "url": "https://www.edbchinese.hk/lexlist_en/index.jsp"
+                                },
+                                {
+                                    "name": "⁠Hanly",
+                                    "url": "https://www.hanlyapp.com/"
                                 },
                                 {
                                     "name": "Chinese Character Database",
@@ -224314,11 +224422,38 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "⁠Woozlit - Multiple Models / ≈2000 Monthly / Sign-Up / Discord (Removed in a3e5bd9 : removed site)",
+                            "full_text": "Dolphin Chat - Dolphin 24B / Unrestricted / No Sign-Up / Unlimited (Removed in f33b69b )",
                             "links": [
                                 {
-                                    "name": "a3e5bd9",
-                                    "url": "https://github.com/fmhy/edit/commit/a3e5bd9d341b2fdd70bff9dee9a4671b84008f05#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L47"
+                                    "name": "f33b69b",
+                                    "url": "https://github.com/fmhy/edit/commit/f33b69b0e762111a4f626f0dcac073b174ef46dd#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L52"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ReadAllComics (Removed in f33b69b )",
+                            "links": [
+                                {
+                                    "name": "f33b69b",
+                                    "url": "https://github.com/fmhy/edit/commit/f33b69b0e762111a4f626f0dcac073b174ef46dd#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L395"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AnimeHub - Sub / Dub / Auto-Next (Removed in f33b69b )",
+                            "links": [
+                                {
+                                    "name": "f33b69b",
+                                    "url": "https://github.com/fmhy/edit/commit/f33b69b0e762111a4f626f0dcac073b174ef46dd#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL324"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KimCartoon - TV (Removed in f33b69b )",
+                            "links": [
+                                {
+                                    "name": "f33b69b",
+                                    "url": "https://github.com/fmhy/edit/commit/f33b69b0e762111a4f626f0dcac073b174ef46dd#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL357"
                                 }
                             ]
                         },

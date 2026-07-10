@@ -11494,12 +11494,89 @@
           }
         },
         {
+          "id": "novelhall",
+          "title": "Novelhall",
+          "link": "https://www.novelhall.com/",
+          "icon": "https://static.everythingmoe.com/icons/novelhall.png",
+          "tags": [],
+          "rank": 18,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "novel",
+          "details": {
+            "positives": [
+              "Kindle compatible",
+              "Medium library",
+              "Simple interface"
+            ],
+            "negatives": [
+              "Slow updates",
+              "Basic filtering"
+            ]
+          }
+        },
+        {
+          "id": "mvlempyr",
+          "title": "MVLEMPYR",
+          "link": "https://www.mvlempyr.com/",
+          "icon": "https://static.everythingmoe.com/icons/mvlempyr.png",
+          "tags": [],
+          "rank": 19,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "novel",
+          "details": {
+            "positives": [
+              "Decent interface",
+              "Medium library"
+            ]
+          }
+        },
+        {
+          "id": "fucknovelpia",
+          "title": "FUCKNOVELPIA",
+          "link": "https://fucknovelpia.com/",
+          "icon": "https://static.everythingmoe.com/icons/fucknovelpia.png",
+          "tags": [],
+          "rank": 20,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "novel",
+          "details": {
+            "positives": [
+              "Host novels that have been removed from their original source.",
+              "Provide user uploads and open request",
+              "Provide quick EPUB download"
+            ],
+            "negatives": [
+              "Basic website"
+            ],
+            "info": "note: Have daily download limit",
+            "altlinks": [
+              {
+                "name": "kfcok",
+                "url": "https://epub.kfcok.net/"
+              },
+              {
+                "name": "novelfinder",
+                "url": "https://novelfinder.net/"
+              }
+            ]
+          }
+        },
+        {
           "id": "novelusb",
           "title": "Novel Bin",
           "link": "https://novel-bin.com/",
           "icon": "https://static.everythingmoe.com/icons/novelbin.png",
           "tags": [],
-          "rank": 18,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11547,80 +11624,19 @@
           }
         },
         {
-          "id": "novelhall",
-          "title": "Novelhall",
-          "link": "https://www.novelhall.com/",
-          "icon": "https://static.everythingmoe.com/icons/novelhall.png",
+          "id": "novelarrow",
+          "title": "Novel Arrow",
+          "link": "https://novelarrow.com/",
+          "icon": "https://static.everythingmoe.com/icons/novelarrow.png",
           "tags": [],
-          "rank": 19,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
           "status": "active",
           "section": "novel",
           "details": {
-            "positives": [
-              "Kindle compatible",
-              "Medium library",
-              "Simple interface"
-            ],
-            "negatives": [
-              "Slow updates",
-              "Basic filtering"
-            ]
-          }
-        },
-        {
-          "id": "mvlempyr",
-          "title": "MVLEMPYR",
-          "link": "https://www.mvlempyr.com/",
-          "icon": "https://static.everythingmoe.com/icons/mvlempyr.png",
-          "tags": [],
-          "rank": 20,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "novel",
-          "details": {
-            "positives": [
-              "Decent interface",
-              "Medium library"
-            ]
-          }
-        },
-        {
-          "id": "fucknovelpia",
-          "title": "FUCKNOVELPIA",
-          "link": "https://fucknovelpia.com/",
-          "icon": "https://static.everythingmoe.com/icons/fucknovelpia.png",
-          "tags": [],
-          "rank": 21,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "novel",
-          "details": {
-            "positives": [
-              "Host novels that have been removed from their original source.",
-              "Provide user uploads and open request",
-              "Provide quick EPUB download"
-            ],
-            "negatives": [
-              "Basic website"
-            ],
-            "info": "note: Have daily download limit",
-            "altlinks": [
-              {
-                "name": "kfcok",
-                "url": "https://epub.kfcok.net/"
-              },
-              {
-                "name": "novelfinder",
-                "url": "https://novelfinder.net/"
-              }
-            ]
+            "info": "note: No review yet. Might be related with Novel Bin"
           }
         },
         {
@@ -11631,7 +11647,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11671,7 +11687,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11701,7 +11717,7 @@
           "link": "https://www.foxaholic.com/",
           "icon": "https://static.everythingmoe.com/icons/foxaholic.png",
           "tags": [],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11735,7 +11751,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11762,7 +11778,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11801,7 +11817,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11837,7 +11853,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11860,7 +11876,7 @@
           "link": "https://chrysanthemumgarden.com/",
           "icon": "https://static.everythingmoe.com/icons/chrysanthemumgarden.png",
           "tags": [],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11886,7 +11902,7 @@
           "tags": [
             "ddl"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11919,7 +11935,7 @@
             "licensed",
             "physical"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -11950,7 +11966,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -11975,7 +11991,7 @@
           "link": "https://www.cherreads.com/",
           "icon": "https://static.everythingmoe.com/icons/lightreader.png",
           "tags": [],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12016,7 +12032,7 @@
           "link": "https://wuxiaworld.site/",
           "icon": "https://static.everythingmoe.com/icons/wuxiaworld.png",
           "tags": [],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12038,7 +12054,7 @@
           "link": "https://katreadingcafe.com/",
           "icon": "https://static.everythingmoe.com/icons/katreadingarchive.png",
           "tags": [],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12067,7 +12083,7 @@
           "link": "https://www.asianovel.net/",
           "icon": "https://static.everythingmoe.com/icons/asianovelnet.png",
           "tags": [],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12091,7 +12107,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12117,7 +12133,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12143,7 +12159,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12179,7 +12195,7 @@
           "link": "https://www.scribblehub.com/",
           "icon": "https://static.everythingmoe.com/icons/scribblehub.png",
           "tags": [],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12202,7 +12218,7 @@
           "link": "https://novelfull.net/",
           "icon": "https://static.everythingmoe.com/icons/allnovelfull.png",
           "tags": [],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12240,22 +12256,6 @@
               }
             ],
             "info": "note: Copies other sites brand and use novel bin layout"
-          }
-        },
-        {
-          "id": "novelarrow",
-          "title": "Novel Arrow",
-          "link": "https://novelarrow.com/",
-          "icon": "https://static.everythingmoe.com/icons/novelarrow.png",
-          "tags": [],
-          "rank": 42,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "novel",
-          "details": {
-            "info": "note: No review yet."
           }
         },
         {
@@ -46997,59 +46997,6 @@
         ]
       }
     },
-    "novelusb": {
-      "id": "novelusb",
-      "title": "Novel Bin",
-      "link": "https://novel-bin.com/",
-      "icon": "https://static.everythingmoe.com/icons/novelbin.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "novel"
-      ],
-      "details": {
-        "positives": [
-          "Simple & easy to use",
-          "Medium library",
-          "Customizable reader"
-        ],
-        "negatives": [
-          "Basic features",
-          "Removed some novel from library"
-        ],
-        "altlinks": [
-          {
-            "name": ".cc",
-            "url": "https://www.novelbin.cc/"
-          },
-          {
-            "name": "novelnice",
-            "url": "https://novelnice.com/"
-          }
-        ],
-        "ex-altlinks": [
-          {
-            "name": ".com",
-            "url": "https://novelbin.com/"
-          },
-          {
-            "name": ".me",
-            "url": "https://novelbin.me/"
-          },
-          {
-            "name": ".org",
-            "url": "https://novelbin.org/"
-          },
-          {
-            "name": "novlove",
-            "url": "https://novlove.com/"
-          }
-        ],
-        "info": "note: Formerly known as Novel Usb. New site unknown if made by same people"
-      }
-    },
     "novelhall": {
       "id": "novelhall",
       "title": "Novelhall",
@@ -47125,6 +47072,75 @@
             "url": "https://novelfinder.net/"
           }
         ]
+      }
+    },
+    "novelusb": {
+      "id": "novelusb",
+      "title": "Novel Bin",
+      "link": "https://novel-bin.com/",
+      "icon": "https://static.everythingmoe.com/icons/novelbin.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "positives": [
+          "Simple & easy to use",
+          "Medium library",
+          "Customizable reader"
+        ],
+        "negatives": [
+          "Basic features",
+          "Removed some novel from library"
+        ],
+        "altlinks": [
+          {
+            "name": ".cc",
+            "url": "https://www.novelbin.cc/"
+          },
+          {
+            "name": "novelnice",
+            "url": "https://novelnice.com/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": ".com",
+            "url": "https://novelbin.com/"
+          },
+          {
+            "name": ".me",
+            "url": "https://novelbin.me/"
+          },
+          {
+            "name": ".org",
+            "url": "https://novelbin.org/"
+          },
+          {
+            "name": "novlove",
+            "url": "https://novlove.com/"
+          }
+        ],
+        "info": "note: Formerly known as Novel Usb. New site unknown if made by same people"
+      }
+    },
+    "novelarrow": {
+      "id": "novelarrow",
+      "title": "Novel Arrow",
+      "link": "https://novelarrow.com/",
+      "icon": "https://static.everythingmoe.com/icons/novelarrow.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "info": "note: No review yet. Might be related with Novel Bin"
       }
     },
     "annasarchive": {
@@ -47744,22 +47760,6 @@
           }
         ],
         "info": "note: Copies other sites brand and use novel bin layout"
-      }
-    },
-    "novelarrow": {
-      "id": "novelarrow",
-      "title": "Novel Arrow",
-      "link": "https://novelarrow.com/",
-      "icon": "https://static.everythingmoe.com/icons/novelarrow.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "novel"
-      ],
-      "details": {
-        "info": "note: No review yet."
       }
     },
     "woopread": {
