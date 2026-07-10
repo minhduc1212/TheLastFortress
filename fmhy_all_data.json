@@ -6484,19 +6484,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Woozlit - Multiple Models / ≈2000 Monthly / Sign-Up /",
-                            "links": [
-                                {
-                                    "name": "⁠Woozlit",
-                                    "url": "https://woozlit.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/rdBN6TYf66"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "NVIDIA NIM - GLM-5.2 / Deepseek-v4-Pro / Kimi K2.6 / Multiple Models / No Sign-Up / Unlimited",
                             "links": [
                                 {
@@ -224327,6 +224314,15 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "⁠Woozlit - Multiple Models / ≈2000 Monthly / Sign-Up / Discord (Removed in a3e5bd9 : removed site)",
+                            "links": [
+                                {
+                                    "name": "a3e5bd9",
+                                    "url": "https://github.com/fmhy/edit/commit/a3e5bd9d341b2fdd70bff9dee9a4671b84008f05#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L47"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠AIBenchmarks - Coding AI Leaderboard / Benchmarks / GitHub (Removed in 62c33f3 : removed aibenchmarks as it seems to of been sold)",
                             "links": [
                                 {
@@ -225488,33 +225484,6 @@
                                 {
                                     "name": "bff3e07",
                                     "url": "https://github.com/fmhy/edit/commit/bff3e076091b2632e5bc8afee86d1d624c71f6a7#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L523"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Voice Playground - Enhance Discord Voice Call Quality / Discord / Source Code (Removed in 13cacfb : small update)",
-                            "links": [
-                                {
-                                    "name": "13cacfb",
-                                    "url": "https://github.com/fmhy/edit/commit/13cacfb4d4d159e676ced4034d47922c48de5b4b#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L51"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Freeject (Removed in b7ff3ca )",
-                            "links": [
-                                {
-                                    "name": "b7ff3ca",
-                                    "url": "https://github.com/fmhy/edit/commit/b7ff3ca96305a35cda97f17d7a6dc1211c1ba4e4#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL340"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "s7-tv - TV (Removed in b7ff3ca )",
-                            "links": [
-                                {
-                                    "name": "b7ff3ca",
-                                    "url": "https://github.com/fmhy/edit/commit/b7ff3ca96305a35cda97f17d7a6dc1211c1ba4e4#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL494"
                                 }
                             ]
                         }

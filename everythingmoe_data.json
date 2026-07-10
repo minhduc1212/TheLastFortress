@@ -2531,6 +2531,10 @@
               {
                 "name": "aniwatch.cx",
                 "url": "https://aniwatch.cx/home"
+              },
+              {
+                "name": "anisakura.xyz",
+                "url": "https://anisakura.xyz/"
               }
             ],
             "info": "note: each made by different people, uses third party embed.",
@@ -2602,6 +2606,10 @@
               {
                 "name": "animekai.be",
                 "url": "https://animekai.be/"
+              },
+              {
+                "name": "moetaku.online",
+                "url": "https://moetaku.online/"
               }
             ],
             "ex-altlinks": [
@@ -2644,6 +2652,30 @@
           }
         },
         {
+          "id": "anikitty",
+          "title": "AniKitty",
+          "link": "https://anikitty.moe/",
+          "icon": "https://static.everythingmoe.com/icons/anikitty.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 68,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Lot of server options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "otakutsu",
           "title": "Otakutsu",
           "link": "https://otakutsu.cc/",
@@ -2654,7 +2686,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2679,7 +2711,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2704,7 +2736,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2712,8 +2744,7 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Multiple source options",
-              "Nice interface"
+              "Multiple source options"
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
@@ -2730,7 +2761,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2755,7 +2786,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2782,7 +2813,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2815,7 +2846,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2840,7 +2871,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2881,7 +2912,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2928,7 +2959,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2955,7 +2986,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3000,7 +3031,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3028,7 +3059,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3062,7 +3093,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3108,7 +3139,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3135,7 +3166,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3175,7 +3206,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3209,7 +3240,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3282,7 +3313,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11486,6 +11517,10 @@
             ],
             "altlinks": [
               {
+                "name": ".cc",
+                "url": "https://www.novelbin.cc/"
+              },
+              {
                 "name": "novelnice",
                 "url": "https://novelnice.com/"
               }
@@ -12208,12 +12243,28 @@
           }
         },
         {
+          "id": "novelarrow",
+          "title": "Novel Arrow",
+          "link": "https://novelarrow.com/",
+          "icon": "https://static.everythingmoe.com/icons/novelarrow.png",
+          "tags": [],
+          "rank": 42,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "novel",
+          "details": {
+            "info": "note: No review yet."
+          }
+        },
+        {
           "id": "woopread",
           "title": "WoopRead",
           "link": "https://woopread.com/",
           "icon": "https://static.everythingmoe.com/icons/woopread.png",
           "tags": [],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12235,7 +12286,7 @@
           "link": "https://ranovel.com/",
           "icon": "https://static.everythingmoe.com/icons/ranovel.png",
           "tags": [],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12251,7 +12302,7 @@
           "link": "https://wuxiadreams.com/",
           "icon": "https://static.everythingmoe.com/icons/wuxiadreams.png",
           "tags": [],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12273,7 +12324,7 @@
           "link": "https://fullnovels.com/",
           "icon": "https://static.everythingmoe.com/icons/fullnovels.png",
           "tags": [],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12313,7 +12364,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12338,7 +12389,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12362,7 +12413,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12386,7 +12437,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12413,7 +12464,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12438,7 +12489,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12463,7 +12514,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12484,7 +12535,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12508,7 +12559,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -38038,6 +38089,10 @@
           {
             "name": "aniwatch.cx",
             "url": "https://aniwatch.cx/home"
+          },
+          {
+            "name": "anisakura.xyz",
+            "url": "https://anisakura.xyz/"
           }
         ],
         "info": "note: each made by different people, uses third party embed.",
@@ -38109,6 +38164,10 @@
           {
             "name": "animekai.be",
             "url": "https://animekai.be/"
+          },
+          {
+            "name": "moetaku.online",
+            "url": "https://moetaku.online/"
           }
         ],
         "ex-altlinks": [
@@ -38144,6 +38203,30 @@
         "positives": [
           "Multiple source options",
           "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
+    "anikitty": {
+      "id": "anikitty",
+      "title": "AniKitty",
+      "link": "https://anikitty.moe/",
+      "icon": "https://static.everythingmoe.com/icons/anikitty.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Lot of server options"
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
@@ -38219,8 +38302,7 @@
       ],
       "details": {
         "positives": [
-          "Multiple source options",
-          "Nice interface"
+          "Multiple source options"
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
@@ -46939,6 +47021,10 @@
         ],
         "altlinks": [
           {
+            "name": ".cc",
+            "url": "https://www.novelbin.cc/"
+          },
+          {
             "name": "novelnice",
             "url": "https://novelnice.com/"
           }
@@ -47658,6 +47744,22 @@
           }
         ],
         "info": "note: Copies other sites brand and use novel bin layout"
+      }
+    },
+    "novelarrow": {
+      "id": "novelarrow",
+      "title": "Novel Arrow",
+      "link": "https://novelarrow.com/",
+      "icon": "https://static.everythingmoe.com/icons/novelarrow.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "info": "note: No review yet."
       }
     },
     "woopread": {
