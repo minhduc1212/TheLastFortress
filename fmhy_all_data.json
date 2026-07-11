@@ -16068,7 +16068,7 @@
                             ]
                         },
                         {
-                            "full_text": "NTV , 2 - TV / Sports / Aggregator /",
+                            "full_text": "NTV , 2 - TV / Sports / Aggregator / Mirros /",
                             "links": [
                                 {
                                     "name": "NTV",
@@ -16077,6 +16077,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://ntvs.cx/"
+                                },
+                                {
+                                    "name": "Mirros",
+                                    "url": "https://ntvx.link/"
                                 },
                                 {
                                     "name": "",
@@ -98140,10 +98144,10 @@
                             ]
                         },
                         {
-                            "full_text": "Bangumi , 2 - Media Database / Mobile Client",
+                            "full_text": "Bangumi.tv , 2 - Media Database / Mobile Client",
                             "links": [
                                 {
-                                    "name": "Bangumi",
+                                    "name": "Bangumi.tv",
                                     "url": "https://bangumi.tv/"
                                 },
                                 {
