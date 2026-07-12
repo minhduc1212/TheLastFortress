@@ -15679,6 +15679,42 @@
           }
         },
         {
+          "id": "animechicken",
+          "title": "AnimeChicken",
+          "link": "https://animechicken.app/",
+          "icon": "https://static.everythingmoe.com/icons/achicken.png",
+          "tags": [
+            "Android",
+            "iOS",
+            "Anime",
+            "Manga"
+          ],
+          "rank": 25,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Support anime & manga",
+              "Multi stream source",
+              "Works on iOS & Android"
+            ],
+            "negatives": [
+              "Closed source",
+              "Not in iOS app store"
+            ],
+            "altlinks": [
+              {
+                "name": "iOS",
+                "url": "https://apps.apple.com/app/id1630632243"
+              }
+            ],
+            "info": "Note: Made by same people who made allanime (now <a href=\"/s/AllAnime\">MKissa</a>)."
+          }
+        },
+        {
           "id": "nekomangaorg",
           "title": "Neko",
           "link": "https://github.com/nekomangaorg/Neko",
@@ -15687,7 +15723,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15724,7 +15760,7 @@
             "Linux",
             "Light Novel"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15751,7 +15787,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15791,7 +15827,7 @@
             "Linux",
             "Manga"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15834,7 +15870,7 @@
             "Manga",
             "universal"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15876,7 +15912,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15914,7 +15950,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15965,7 +16001,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16005,7 +16041,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16043,7 +16079,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16083,7 +16119,7 @@
             "Linux",
             "Light Novel"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16120,7 +16156,7 @@
             "Linux",
             "Manga"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16153,7 +16189,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16201,42 +16237,6 @@
               }
             ],
             "info": "The original repo is archived."
-          }
-        },
-        {
-          "id": "animechicken",
-          "title": "AnimeChicken",
-          "link": "https://animechicken.app/",
-          "icon": "https://static.everythingmoe.com/icons/achicken.png",
-          "tags": [
-            "Android",
-            "iOS",
-            "Anime",
-            "Manga"
-          ],
-          "rank": 38,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "apps",
-          "details": {
-            "positives": [
-              "Support anime & manga",
-              "Stable stream source",
-              "Works on iOS & Android"
-            ],
-            "negatives": [
-              "Closed source",
-              "Not in iOS app store"
-            ],
-            "altlinks": [
-              {
-                "name": "iOS",
-                "url": "https://apps.apple.com/app/id1630632243"
-              }
-            ],
-            "info": "Note: Made by same people who made allanime (now <a href=\"/s/AllAnime\">MKissa</a>)."
           }
         },
         {
@@ -51160,6 +51160,42 @@
         "info": "note: Forked from Miru (now become <a href=\"/s/miru\">Hayase</a>). This app uses a torrent connection; beware of potential issues with your ISP."
       }
     },
+    "animechicken": {
+      "id": "animechicken",
+      "title": "AnimeChicken",
+      "link": "https://animechicken.app/",
+      "icon": "https://static.everythingmoe.com/icons/achicken.png",
+      "tags": [
+        "Android",
+        "iOS",
+        "Anime",
+        "Manga"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Support anime & manga",
+          "Multi stream source",
+          "Works on iOS & Android"
+        ],
+        "negatives": [
+          "Closed source",
+          "Not in iOS app store"
+        ],
+        "altlinks": [
+          {
+            "name": "iOS",
+            "url": "https://apps.apple.com/app/id1630632243"
+          }
+        ],
+        "info": "Note: Made by same people who made allanime (now <a href=\"/s/AllAnime\">MKissa</a>)."
+      }
+    },
     "nekomangaorg": {
       "id": "nekomangaorg",
       "title": "Neko",
@@ -51683,42 +51719,6 @@
           }
         ],
         "info": "The original repo is archived."
-      }
-    },
-    "animechicken": {
-      "id": "animechicken",
-      "title": "AnimeChicken",
-      "link": "https://animechicken.app/",
-      "icon": "https://static.everythingmoe.com/icons/achicken.png",
-      "tags": [
-        "Android",
-        "iOS",
-        "Anime",
-        "Manga"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "apps"
-      ],
-      "details": {
-        "positives": [
-          "Support anime & manga",
-          "Stable stream source",
-          "Works on iOS & Android"
-        ],
-        "negatives": [
-          "Closed source",
-          "Not in iOS app store"
-        ],
-        "altlinks": [
-          {
-            "name": "iOS",
-            "url": "https://apps.apple.com/app/id1630632243"
-          }
-        ],
-        "info": "Note: Made by same people who made allanime (now <a href=\"/s/AllAnime\">MKissa</a>)."
       }
     },
     "tankobun": {
