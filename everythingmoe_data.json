@@ -3912,6 +3912,10 @@
                 "url": "https://hentaihaven.co/"
               },
               {
+                "name": "hentaihaven.wtf",
+                "url": "https://hentaihaven.wtf"
+              },
+              {
                 "name": "muchohentai.tv",
                 "url": "https://muchohentai.tv/"
               },
@@ -4168,6 +4172,36 @@
           }
         },
         {
+          "id": "hentaiocean",
+          "title": "Hentai Ocean",
+          "link": "https://hentaiocean.com/",
+          "icon": "https://static.everythingmoe.com/icons/hentaiocean.png",
+          "tags": [],
+          "rank": 11,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "hentai",
+          "details": {
+            "positives": [
+              "Own encode & server",
+              "Fast release"
+            ],
+            "negatives": [
+              "Medium-small library",
+              "Add watermark"
+            ],
+            "info": "note: Good for currently airing hentai",
+            "altlinks": [
+              {
+                "name": "hentaicheeks",
+                "url": "https://hentaicheeks.com/"
+              }
+            ]
+          }
+        },
+        {
           "id": "underhentai",
           "title": "UnderHentai",
           "link": "https://www.underhentai.net/",
@@ -4175,7 +4209,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4198,7 +4232,7 @@
           "link": "https://tube.hentaistream.com/",
           "icon": "https://static.everythingmoe.com/icons/hentaistream.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4217,36 +4251,6 @@
               {
                 "name": "Toplist",
                 "url": "https://tube.hentaistream.com/hentai-top-lists"
-              }
-            ]
-          }
-        },
-        {
-          "id": "hentaiocean",
-          "title": "Hentai Ocean",
-          "link": "https://hentaiocean.com/",
-          "icon": "https://static.everythingmoe.com/icons/hentaiocean.png",
-          "tags": [],
-          "rank": 13,
-          "is_licensed": false,
-          "is_nsfw": true,
-          "has_details": true,
-          "status": "active",
-          "section": "hentai",
-          "details": {
-            "positives": [
-              "Own encode & server",
-              "Fast release"
-            ],
-            "negatives": [
-              "Medium-small library",
-              "Add watermark"
-            ],
-            "info": "note: Good for currently airing hentai",
-            "altlinks": [
-              {
-                "name": "hentaicheeks",
-                "url": "https://hentaicheeks.com/"
               }
             ]
           }
@@ -6366,7 +6370,7 @@
               "Very Large library",
               "Modern interface",
               "Multi scan/TL support",
-              "Advance manga info & filtering"
+              "Advanced manga info & filtering"
             ],
             "altlinks": [
               {
@@ -6399,7 +6403,8 @@
               "Large library",
               "Actively updated",
               "Modern interface",
-              "Multi scan/TL support"
+              "Multi scan/TL support",
+              "Advanced manga info & filtering"
             ],
             "negatives": [
               "Relatively new site"
@@ -8110,7 +8115,7 @@
               "Medium library",
               "Lock features and contents behind login"
             ],
-            "info": "note: Many scanlators used to upload here, but it is unlikely that they will do so in the future.",
+            "info": "note: Many scanlators used to upload here, but it is less now.",
             "altlinks": [
               {
                 "name": "Site rules",
@@ -39452,6 +39457,10 @@
             "url": "https://hentaihaven.co/"
           },
           {
+            "name": "hentaihaven.wtf",
+            "url": "https://hentaihaven.wtf"
+          },
+          {
             "name": "muchohentai.tv",
             "url": "https://muchohentai.tv/"
           },
@@ -39707,6 +39716,36 @@
         ]
       }
     },
+    "hentaiocean": {
+      "id": "hentaiocean",
+      "title": "Hentai Ocean",
+      "link": "https://hentaiocean.com/",
+      "icon": "https://static.everythingmoe.com/icons/hentaiocean.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "hentai"
+      ],
+      "details": {
+        "positives": [
+          "Own encode & server",
+          "Fast release"
+        ],
+        "negatives": [
+          "Medium-small library",
+          "Add watermark"
+        ],
+        "info": "note: Good for currently airing hentai",
+        "altlinks": [
+          {
+            "name": "hentaicheeks",
+            "url": "https://hentaicheeks.com/"
+          }
+        ]
+      }
+    },
     "underhentai": {
       "id": "underhentai",
       "title": "UnderHentai",
@@ -39757,36 +39796,6 @@
           {
             "name": "Toplist",
             "url": "https://tube.hentaistream.com/hentai-top-lists"
-          }
-        ]
-      }
-    },
-    "hentaiocean": {
-      "id": "hentaiocean",
-      "title": "Hentai Ocean",
-      "link": "https://hentaiocean.com/",
-      "icon": "https://static.everythingmoe.com/icons/hentaiocean.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": true,
-      "status": "active",
-      "sections": [
-        "hentai"
-      ],
-      "details": {
-        "positives": [
-          "Own encode & server",
-          "Fast release"
-        ],
-        "negatives": [
-          "Medium-small library",
-          "Add watermark"
-        ],
-        "info": "note: Good for currently airing hentai",
-        "altlinks": [
-          {
-            "name": "hentaicheeks",
-            "url": "https://hentaicheeks.com/"
           }
         ]
       }
@@ -41888,7 +41897,7 @@
           "Very Large library",
           "Modern interface",
           "Multi scan/TL support",
-          "Advance manga info & filtering"
+          "Advanced manga info & filtering"
         ],
         "altlinks": [
           {
@@ -41921,7 +41930,8 @@
           "Large library",
           "Actively updated",
           "Modern interface",
-          "Multi scan/TL support"
+          "Multi scan/TL support",
+          "Advanced manga info & filtering"
         ],
         "negatives": [
           "Relatively new site"
@@ -43632,7 +43642,7 @@
           "Medium library",
           "Lock features and contents behind login"
         ],
-        "info": "note: Many scanlators used to upload here, but it is unlikely that they will do so in the future.",
+        "info": "note: Many scanlators used to upload here, but it is less now.",
         "altlinks": [
           {
             "name": "Site rules",
