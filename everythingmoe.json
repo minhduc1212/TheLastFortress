@@ -2610,6 +2610,10 @@
               {
                 "name": "moetaku.online",
                 "url": "https://moetaku.online/"
+              },
+              {
+                "name": "yoanime",
+                "url": "https://yoanime.me/"
               }
             ],
             "ex-altlinks": [
@@ -15702,13 +15706,16 @@
               "Works on iOS & Android"
             ],
             "negatives": [
-              "Closed source",
-              "Not in iOS app store"
+              "Closed source"
             ],
             "altlinks": [
               {
                 "name": "iOS",
                 "url": "https://apps.apple.com/app/id1630632243"
+              },
+              {
+                "name": "Play Store",
+                "url": "https://play.google.com/store/apps/details?id=com.allanime.animechicken"
               }
             ],
             "info": "Note: Made by same people who made allanime (now <a href=\"/s/AllAnime\">MKissa</a>)."
@@ -21539,6 +21546,28 @@
           }
         },
         {
+          "id": "animeoshi",
+          "title": "AnimeOshi",
+          "link": "https://www.animeoshi.com/",
+          "icon": "https://static.everythingmoe.com/icons/animeoshi.png",
+          "tags": [],
+          "rank": 32,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "database",
+          "details": {
+            "positives": [
+              "Anime Tracker site",
+              "Nice modern interface"
+            ],
+            "negatives": [
+              "New site"
+            ]
+          }
+        },
+        {
           "id": "wholesomelist",
           "title": "WholesomeList",
           "link": "https://wholesomelist.com/list",
@@ -21546,7 +21575,7 @@
           "tags": [
             "H"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21581,7 +21610,7 @@
           "tags": [
             "doujin"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21612,7 +21641,7 @@
           "tags": [
             "doujin"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21626,28 +21655,6 @@
               "Very basic information"
             ],
             "info": "note: Doujinshi is self-published print works, such as magazines, manga, and novels"
-          }
-        },
-        {
-          "id": "animeoshi",
-          "title": "AnimeOshi",
-          "link": "https://www.animeoshi.com/",
-          "icon": "https://static.everythingmoe.com/icons/animeoshi.png",
-          "tags": [],
-          "rank": 35,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "database",
-          "details": {
-            "positives": [
-              "Anime Tracker site",
-              "Nice modern interface"
-            ],
-            "negatives": [
-              "Short track record"
-            ]
           }
         },
         {
@@ -38173,6 +38180,10 @@
           {
             "name": "moetaku.online",
             "url": "https://moetaku.online/"
+          },
+          {
+            "name": "yoanime",
+            "url": "https://yoanime.me/"
           }
         ],
         "ex-altlinks": [
@@ -51184,13 +51195,16 @@
           "Works on iOS & Android"
         ],
         "negatives": [
-          "Closed source",
-          "Not in iOS app store"
+          "Closed source"
         ],
         "altlinks": [
           {
             "name": "iOS",
             "url": "https://apps.apple.com/app/id1630632243"
+          },
+          {
+            "name": "Play Store",
+            "url": "https://play.google.com/store/apps/details?id=com.allanime.animechicken"
           }
         ],
         "info": "Note: Made by same people who made allanime (now <a href=\"/s/AllAnime\">MKissa</a>)."
@@ -56984,6 +56998,28 @@
         "info": "note: Made by <a href=\"/s/lightnovelpub\">LightNovelWorld</a>, comments are transferred."
       }
     },
+    "animeoshi": {
+      "id": "animeoshi",
+      "title": "AnimeOshi",
+      "link": "https://www.animeoshi.com/",
+      "icon": "https://static.everythingmoe.com/icons/animeoshi.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "database"
+      ],
+      "details": {
+        "positives": [
+          "Anime Tracker site",
+          "Nice modern interface"
+        ],
+        "negatives": [
+          "New site"
+        ]
+      }
+    },
     "wholesomelist": {
       "id": "wholesomelist",
       "title": "WholesomeList",
@@ -57072,28 +57108,6 @@
           "Very basic information"
         ],
         "info": "note: Doujinshi is self-published print works, such as magazines, manga, and novels"
-      }
-    },
-    "animeoshi": {
-      "id": "animeoshi",
-      "title": "AnimeOshi",
-      "link": "https://www.animeoshi.com/",
-      "icon": "https://static.everythingmoe.com/icons/animeoshi.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "database"
-      ],
-      "details": {
-        "positives": [
-          "Anime Tracker site",
-          "Nice modern interface"
-        ],
-        "negatives": [
-          "Short track record"
-        ]
       }
     },
     "kurozora": {
