@@ -270,6 +270,7 @@
             ],
             "exx-info": "note: animeuwutv is a fork / clone made by other people.",
             "ex-info": "note: animeyee is a fork / clone made by other people.",
+            "info": "note: Also self host on some server",
             "ex-altlinks": [
               {
                 "name": ".online",
@@ -1254,7 +1255,7 @@
         {
           "id": "anidap",
           "title": "Anidap",
-          "link": "https://anidap.se/home",
+          "link": "https://anidap.lol/home",
           "icon": "https://static.everythingmoe.com/icons/anidap.png",
           "tags": [
             "Scraper",
@@ -20542,6 +20543,26 @@
           }
         },
         {
+          "id": "englishdubbed",
+          "title": "English Dubbed",
+          "link": "https://english-dubbed.com/",
+          "icon": "https://static.everythingmoe.com/icons/englishdubbed.png",
+          "tags": [],
+          "rank": 5,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "schedule",
+          "details": {
+            "positives": [
+              "Dubbed anime calendar",
+              "Dub checker and finder"
+            ],
+            "info": "note: This site also provide several english dub related features and articles"
+          }
+        },
+        {
           "id": "upcomingdubanime",
           "title": "Upcoming Dubbed Anime",
           "link": "https://myanimelist.net/forum/?topicid=1692966",
@@ -20549,7 +20570,7 @@
           "tags": [
             "DUB"
           ],
-          "rank": 5,
+          "rank": 6,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20573,7 +20594,7 @@
           "tags": [
             "DUB"
           ],
-          "rank": 6,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20601,7 +20622,7 @@
           "link": "https://otakucalendar.com/",
           "icon": "https://static.everythingmoe.com/icons/otakucalendar.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20620,7 +20641,7 @@
           "link": "https://lnrelease.github.io/",
           "icon": "https://static.everythingmoe.com/icons/lnrelease.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20639,7 +20660,7 @@
           "link": "https://yattatachi.com/tag/releases",
           "icon": "https://static.everythingmoe.com/icons/yattatachi.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20657,7 +20678,7 @@
           "link": "https://animeairing.com/",
           "icon": "https://static.everythingmoe.com/icons/animeairing.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20679,7 +20700,7 @@
           "link": "https://animecountdown.com/",
           "icon": "https://static.everythingmoe.com/icons/anicountdown.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20702,7 +20723,7 @@
           "link": "https://www.senpai.moe/?mode=table",
           "icon": "https://static.everythingmoe.com/icons/senpaimoe.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20733,7 +20754,7 @@
           "link": "https://anica.jp/",
           "icon": "https://static.everythingmoe.com/icons/anicajp.png",
           "tags": [],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -35840,6 +35861,7 @@
         ],
         "exx-info": "note: animeuwutv is a fork / clone made by other people.",
         "ex-info": "note: animeyee is a fork / clone made by other people.",
+        "info": "note: Also self host on some server",
         "ex-altlinks": [
           {
             "name": ".online",
@@ -36824,7 +36846,7 @@
     "anidap": {
       "id": "anidap",
       "title": "Anidap",
-      "link": "https://anidap.se/home",
+      "link": "https://anidap.lol/home",
       "icon": "https://static.everythingmoe.com/icons/anidap.png",
       "tags": [
         "Scraper",
@@ -56001,6 +56023,26 @@
         "negatives": [
           "A bit outdated interface"
         ]
+      }
+    },
+    "englishdubbed": {
+      "id": "englishdubbed",
+      "title": "English Dubbed",
+      "link": "https://english-dubbed.com/",
+      "icon": "https://static.everythingmoe.com/icons/englishdubbed.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "schedule"
+      ],
+      "details": {
+        "positives": [
+          "Dubbed anime calendar",
+          "Dub checker and finder"
+        ],
+        "info": "note: This site also provide several english dub related features and articles"
       }
     },
     "upcomingdubanime": {
