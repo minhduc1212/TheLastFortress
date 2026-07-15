@@ -9,9 +9,9 @@
       "sites": [
         {
           "id": "anikoto",
-          "title": "Anikoto",
-          "link": "https://anikototv.to/home",
-          "icon": "https://static.everythingmoe.com/icons/animoe.png",
+          "title": "Anichi",
+          "link": "https://anichi.to/home",
+          "icon": "https://static.everythingmoe.com/icons/anichi.png",
           "tags": [
             "Scraper",
             "Self-host",
@@ -37,10 +37,10 @@
               "Hard subs depend on <a href=\"/s/anitakuto\">AniNeko</a>",
               "Bad ads"
             ],
-            "info": "note: It has many alt domain and brand names. It usually copies other websites.",
+            "info": "note: Also known as Anikoto. It also has many alt domain and brand names. It usually copies other websites.",
             "altlinks": [
               {
-                "name": "mirrors",
+                "name": "Anikoto",
                 "url": "https://anikoto.site"
               },
               {
@@ -829,7 +829,7 @@
         {
           "id": "anisnatch",
           "title": "AniSnatch",
-          "link": "https://anisnatch.top/home",
+          "link": "https://anisnatch.to/home",
           "icon": "https://static.everythingmoe.com/icons/anisnatch.png",
           "tags": [
             "Scraper",
@@ -854,8 +854,12 @@
             "info": "note: Similar interface with original Animixplay",
             "altlinks": [
               {
-                "name": "p1y.top",
-                "url": "https://anisnatch.p1y.top/home"
+                "name": ".top",
+                "url": "https://anisnatch.top/home"
+              },
+              {
+                "name": "mirrors",
+                "url": "https://anisnatch.site/"
               }
             ]
           }
@@ -35600,9 +35604,9 @@
   "all_sites": {
     "anikoto": {
       "id": "anikoto",
-      "title": "Anikoto",
-      "link": "https://anikototv.to/home",
-      "icon": "https://static.everythingmoe.com/icons/animoe.png",
+      "title": "Anichi",
+      "link": "https://anichi.to/home",
+      "icon": "https://static.everythingmoe.com/icons/anichi.png",
       "tags": [
         "Scraper",
         "Self-host",
@@ -35628,10 +35632,10 @@
           "Hard subs depend on <a href=\"/s/anitakuto\">AniNeko</a>",
           "Bad ads"
         ],
-        "info": "note: It has many alt domain and brand names. It usually copies other websites.",
+        "info": "note: Also known as Anikoto. It also has many alt domain and brand names. It usually copies other websites.",
         "altlinks": [
           {
-            "name": "mirrors",
+            "name": "Anikoto",
             "url": "https://anikoto.site"
           },
           {
@@ -36420,7 +36424,7 @@
     "anisnatch": {
       "id": "anisnatch",
       "title": "AniSnatch",
-      "link": "https://anisnatch.top/home",
+      "link": "https://anisnatch.to/home",
       "icon": "https://static.everythingmoe.com/icons/anisnatch.png",
       "tags": [
         "Scraper",
@@ -36445,8 +36449,12 @@
         "info": "note: Similar interface with original Animixplay",
         "altlinks": [
           {
-            "name": "p1y.top",
-            "url": "https://anisnatch.p1y.top/home"
+            "name": ".top",
+            "url": "https://anisnatch.top/home"
+          },
+          {
+            "name": "mirrors",
+            "url": "https://anisnatch.site/"
           }
         ]
       }
