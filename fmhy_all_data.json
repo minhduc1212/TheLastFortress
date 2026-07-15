@@ -72,7 +72,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Streaming: Cineby / Aether / Lordflix / NEPU",
+                            "full_text": "Streaming: Cineby / Aether / NEPU",
                             "links": [
                                 {
                                     "name": "Cineby",
@@ -81,10 +81,6 @@
                                 {
                                     "name": "Aether",
                                     "url": "https://aether.bar/"
-                                },
-                                {
-                                    "name": "Lordflix",
-                                    "url": "https://lordflix.su/"
                                 },
                                 {
                                     "name": "NEPU",
@@ -5228,15 +5224,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "3X-UI - Proxy Panel / / Guide",
+                            "full_text": "3X-UI - Proxy Panel / / / Guide",
                             "links": [
                                 {
                                     "name": "3X-UI",
-                                    "url": "https://github.com/MHSanaei/3x-ui"
+                                    "url": "https://docs.sanaei.dev/"
                                 },
                                 {
                                     "name": "",
                                     "url": "https://t.me/XrayUI"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/MHSanaei/3x-ui"
                                 },
                                 {
                                     "name": "Guide",
@@ -6122,7 +6122,7 @@
                             ]
                         },
                         {
-                            "full_text": "Kimi - Kimi K2.6 (Thinking) / Slides / Google Login or Phone # Required / / /",
+                            "full_text": "Kimi - Kimi K2.6 (Thinking) / Kimi K3 / Slides / Google Login or Phone # Required / / /",
                             "links": [
                                 {
                                     "name": "Kimi",
@@ -6545,11 +6545,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Lumo - Lumo 2.0 Lite (100 Daily) / Lumo 2.0 Max (20 Daily) / Sign-Up",
+                            "full_text": "⁠Lumo - Lumo 2.0 Lite (100 Daily) / Lumo 2.0 Max (20 Daily) / Sign-Up / OpenAI Bridge",
                             "links": [
                                 {
                                     "name": "⁠Lumo",
                                     "url": "https://lumo.proton.me/"
+                                },
+                                {
+                                    "name": "OpenAI Bridge",
+                                    "url": "https://github.com/KHROTU/lucky-cat-api"
                                 }
                             ]
                         }
@@ -11152,19 +11156,6 @@
                             ]
                         },
                         {
-                            "full_text": "LordFlix - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "LordFlix",
-                                    "url": "https://lordflix.su/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/jUSTtedkpY"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Rive , 2 , 3 or CorsFlix , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
                             "links": [
                                 {
@@ -13274,7 +13265,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/33yA574vvd"
+                                    "url": "https://discord.gg/aZbWYgMegy"
                                 }
                             ]
                         },
@@ -14249,7 +14240,7 @@
                             "links": [
                                 {
                                     "name": "Anidap",
-                                    "url": "https://anidap.se/"
+                                    "url": "https://anidap.lol/"
                                 },
                                 {
                                     "name": "",
@@ -16169,11 +16160,11 @@
                             "links": [
                                 {
                                     "name": "SportsBite TV",
-                                    "url": "https://sportsbite.lol/channels"
+                                    "url": "https://sportsbite.org/channels"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://sportsbite.xyz/channels"
+                                    "url": "https://sportsbite.org/channels"
                                 },
                                 {
                                     "name": "",
@@ -16813,11 +16804,11 @@
                             "links": [
                                 {
                                     "name": "SportsBite",
-                                    "url": "https://sportsbite.lol/"
+                                    "url": "https://sportsbite.org/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://sportsbite.xyz/"
+                                    "url": "https://sportsbite.org/"
                                 },
                                 {
                                     "name": "",
@@ -17092,7 +17083,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/33yA574vvd"
+                                    "url": "https://discord.gg/aZbWYgMegy"
                                 }
                             ]
                         },
@@ -18915,7 +18906,7 @@
                             ]
                         },
                         {
-                            "full_text": "MKV BASE - Movies / TV /",
+                            "full_text": "MKV BASE - Movies / TV / Anime / 4K / Remuxes / 3D /",
                             "links": [
                                 {
                                     "name": "MKV BASE",
@@ -25516,7 +25507,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Radio Garden / Site Unblock , 2 , WorldRadioMap , GlobeRadio or ⁠RadioCast - Worldwide Radio Globes",
+                            "full_text": "Radio Garden / Site Unblock , 2 , WorldRadioMap , ⁠TuneJourney , GlobeRadio or ⁠RadioCast - Globe-Style World Radio",
                             "links": [
                                 {
                                     "name": "Radio Garden",
@@ -25533,6 +25524,10 @@
                                 {
                                     "name": "WorldRadioMap",
                                     "url": "https://worldradiomap.com/"
+                                },
+                                {
+                                    "name": "⁠TuneJourney",
+                                    "url": "https://tunejourney.com/"
                                 },
                                 {
                                     "name": "GlobeRadio",
@@ -35556,7 +35551,7 @@
                             ]
                         },
                         {
-                            "full_text": "Updated Classic - Classic Rockstar Games Fixes + QOL Improvments",
+                            "full_text": "Updated Classic - Classic Rockstar Games Fixes + QOL Improvements",
                             "links": [
                                 {
                                     "name": "Updated Classic",
@@ -36992,7 +36987,7 @@
                             "links": [
                                 {
                                     "name": "RomSim",
-                                    "url": "https://romsim.com/"
+                                    "url": "https://romsim.net/"
                                 }
                             ]
                         },
@@ -38117,7 +38112,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Stillgrid or Sudoku XV - Sudoku + Sudoku Varients",
+                            "full_text": "⁠Stillgrid or Sudoku XV - Sudoku + Sudoku Variants",
                             "links": [
                                 {
                                     "name": "⁠Stillgrid",
@@ -39712,7 +39707,60 @@
                 {
                     "heading": "Browser Games",
                     "level": "h2",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "️Browser Toys / Games- Browser Toys / Game Indexes",
+                        "Allchemy,Little Alchemy,Little Alchemy 2orInfinite Craft/Wiki/Search- Infinite Item Crafting Games",
+                        "The World's Biggest Pac-Man- Infinite Custom Pac-Man",
+                        "Mario Kart PC- Browser SNES Style Mario Kart / Multiplayer /Custom Maps",
+                        "Super Monkey Ball Web- Browser Super Monkey Ball",
+                        "Marble Blast Gold Web/orMarble Blast Ultra/- Browser Marble Blast",
+                        "Slope Plus- Downhill Ball Game",
+                        "QWOP- Ragdoll Running Game",
+                        "SMBGames- Browser Super Mario",
+                        "SMWGames- Modded Browser Super Mario World",
+                        "Level Share Square- Custom Mario Fangame Maps",
+                        "Jelly Mario- Jelly Super Mario",
+                        "⁠Cut the Rope Home- Cut the Rope Games",
+                        "Club Penguin LegacyorClub Penguin Journey- ⁠Club Penguin Revivals /Servers",
+                        "Snubby- Browser Slime Rancher",
+                        "CelesteClassic- Full Classic Celeste",
+                        "TENNIS!- JavaScript Pong",
+                        "SpaceCadetPinball- Browser Space Cadet Pinball",
+                        "PlayAnyPageorKickassApp- Turn Webpages into Games",
+                        "Google Snake Mods//,Fluppy,Play SnakeorSnake-Game- Snake Style Games",
+                        "⁠LEGO Island Web Port- Browser LEGO Island",
+                        "Rayman Legends Beatbox- Browser Rayman Legends Beatbox",
+                        "Lain Game- Lain Game Browser Emulator",
+                        "You Have Not Died Of Dysentery- Oregon Trail with Alt Dysentery Mechanics",
+                        "⁠Hotfix- WarioWare-Style 'Hot-Fix' Micro-Game",
+                        "The Circle- Dodge Circles",
+                        "JoeDangerTheGame- Trials Inspired Game",
+                        "Polka Dot Game- Dodge & Eat Dots",
+                        "Launch Ball- Physics Game w/ Map Creator",
+                        "Spinner- Spinner Timing Game",
+                        "Ehmorris- Spaceship Landing Game",
+                        "⁠HALDANE-4- ASCII Horror Game",
+                        "Dino Swords- Chrome Dino With Weapons",
+                        "Web osu!mania- Browser osu!mania Beatmaps /",
+                        "Taiko Web- Taiko no Tatsujin / Rhythm Game",
+                        "Rhythm Plus,2- Rhythm Game //",
+                        "Bemuse- Rhythm Game //",
+                        "Pulsus- 3x3 Letter Tile Rhythm Game",
+                        "DB Evolution- Dragon Ball Fighting Game",
+                        "Rooms- Room Design Game /",
+                        "Haxball- Physics-Based Soccer",
+                        "⁠Minigolfle- Browser Mini Golf",
+                        "Mexican Train- Domino Train Game / Requires Sign-Up",
+                        "racing-game- Driving Game / Requires Sign-Up //",
+                        "The Race,2- Driving Game",
+                        "slow roads- Driving Game",
+                        "The Multiverse- Universe Exploration Game Across",
+                        "⁠Messenger- Relaxing 3D Delivery Game",
+                        "Starshine Legacy- 3D Browser Mystery Game",
+                        "Neopets,tamaNOTchiorMarapets- Virtual Pet Games / Requires Sign-Up",
+                        "Gaia Online- Anime Virtual Pet / Requires Sign-Up",
+                        "Edu-Games- Educational Games"
+                    ],
                     "resource_items": [
                         {
                             "full_text": "️ Browser Toys / Games - Browser Toys / Game Indexes",
@@ -40176,6 +40224,15 @@
                                 {
                                     "name": "Haxball",
                                     "url": "https://www.haxball.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Minigolfle - Browser Mini Golf",
+                            "links": [
+                                {
+                                    "name": "⁠Minigolfle",
+                                    "url": "https://minigolfle.com/"
                                 }
                             ]
                         },
@@ -42624,7 +42681,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Prince Chazz - Chess-Style Rouguelite",
+                            "full_text": "⁠Prince Chazz - Chess-Style Roguelite",
                             "links": [
                                 {
                                     "name": "⁠Prince Chazz",
@@ -45086,19 +45143,6 @@
                             ]
                         },
                         {
-                            "full_text": "Koodo - Ebook Reader / All Platforms /",
-                            "links": [
-                                {
-                                    "name": "Koodo",
-                                    "url": "https://www.koodoreader.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/koodo-reader/koodo-reader"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "KOReader - Ebook Reader / / Plugins , 2 /",
                             "links": [
                                 {
@@ -45116,6 +45160,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/koreader/koreader"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Koodo - Ebook Reader / All Platforms /",
+                            "links": [
+                                {
+                                    "name": "Koodo",
+                                    "url": "https://www.koodoreader.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/koodo-reader/koodo-reader"
                                 }
                             ]
                         },
@@ -48203,20 +48260,20 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Tobari - Multi-Site Manga Aggregator",
-                            "links": [
-                                {
-                                    "name": "⁠Tobari",
-                                    "url": "https://tobari.moe/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Nyora - Multi-Site Manga Aggregator",
                             "links": [
                                 {
                                     "name": "Nyora",
                                     "url": "https://web.nyora.xyz/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Tobari - Multi-Site Manga Aggregator",
+                            "links": [
+                                {
+                                    "name": "⁠Tobari",
+                                    "url": "https://tobari.moe/"
                                 }
                             ]
                         },
@@ -54291,7 +54348,7 @@
                             ]
                         },
                         {
-                            "full_text": "r/DataHoarder or Archive Team / - Data Hoarding Communties",
+                            "full_text": "r/DataHoarder or Archive Team / - Data Hoarding Communities",
                             "links": [
                                 {
                                     "name": "r/DataHoarder",
@@ -56174,6 +56231,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠SonicBit - 4GB",
+                            "links": [
+                                {
+                                    "name": "⁠SonicBit",
+                                    "url": "https://my.sonicbit.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Multi-Up - 10 GB",
                             "links": [
                                 {
@@ -57706,7 +57772,7 @@
                             ]
                         },
                         {
-                            "full_text": "Spitfire Panorama - Spitfire Mark IX Cockpit Interactve Panorama",
+                            "full_text": "Spitfire Panorama - Spitfire Mark IX Cockpit Interactive Panorama",
                             "links": [
                                 {
                                     "name": "Spitfire Panorama",
@@ -62274,10 +62340,10 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Pheonix RC - RC Plane + Helicopter Simulator",
+                            "full_text": "Phoenix RC - RC Plane + Helicopter Simulator",
                             "links": [
                                 {
-                                    "name": "⁠Pheonix RC",
+                                    "name": "Phoenix RC",
                                     "url": "https://www.rc-thoughts.com/phoenix-sim/"
                                 }
                             ]
@@ -62309,10 +62375,10 @@
                             ]
                         },
                         {
-                            "full_text": "Luna Mulitplayer - Kerbal Space Program Multiplayer Mod / /",
+                            "full_text": "Luna Multiplayer - Kerbal Space Program Multiplayer Mod / /",
                             "links": [
                                 {
-                                    "name": "Luna Mulitplayer",
+                                    "name": "Luna Multiplayer",
                                     "url": "https://lunamultiplayer.com/"
                                 },
                                 {
@@ -69167,7 +69233,7 @@
                             ]
                         },
                         {
-                            "full_text": "Eberban / or Learn Eberban - Eberban Language Learning / Focused on Simplicity, Expressivness & Regularity",
+                            "full_text": "Eberban / or Learn Eberban - Eberban Language Learning / Focused on Simplicity, Expressiveness & Regularity",
                             "links": [
                                 {
                                     "name": "Eberban",
@@ -69661,7 +69727,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Server Survival - Tower Defense Game for learning Cloud Architecure /",
+                            "full_text": "⁠Server Survival - Tower Defense Game for learning Cloud Architecture /",
                             "links": [
                                 {
                                     "name": "⁠Server Survival",
@@ -73954,6 +74020,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠OnlineConversion - Conversion Calculators",
+                            "links": [
+                                {
+                                    "name": "⁠OnlineConversion",
+                                    "url": "https://onlineconversion.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Kalker , ⁠SpeedCrunch , Learnbin Lab or Numbat - Scientific Calculators",
                             "links": [
                                 {
@@ -76174,7 +76249,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠piko (Instagram) / or ⁠Instafel / / - Modded Instagram Clients",
+                            "full_text": "⁠piko (Instagram) / / Note or ⁠Instafel / - Modded Instagram Clients",
                             "links": [
                                 {
                                     "name": "⁠piko (Instagram)",
@@ -76183,6 +76258,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/crimera/piko"
+                                },
+                                {
+                                    "name": "Note",
+                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/piko-note.md"
                                 },
                                 {
                                     "name": "⁠Instafel",
@@ -76413,19 +76492,6 @@
                             ]
                         },
                         {
-                            "full_text": "Purrfect - Modded Snapchat, Reddit & Instagram /",
-                            "links": [
-                                {
-                                    "name": "Purrfect",
-                                    "url": "https://t.me/purrfect_tg"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.purrfectgit.com/r/particle-box/purrfect"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "TikTokModCloud , 2 - Modded TikTok Client",
                             "links": [
                                 {
@@ -76452,6 +76518,28 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/tgmonet"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "InstaEclipse - Modded Instagram Client",
+                            "links": [
+                                {
+                                    "name": "InstaEclipse",
+                                    "url": "https://github.com/ReSo7200/InstaEclipse/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Purrfect - Modded Snapchat & Reddit /",
+                            "links": [
+                                {
+                                    "name": "Purrfect",
+                                    "url": "https://t.me/purrfect_tg"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.purrfectgit.com/r/particle-box/purrfect"
                                 }
                             ]
                         },
@@ -77534,10 +77622,10 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Quik - Stock Messaging App Replacement",
+                            "full_text": "QUIK - Stock Messaging App Replacement",
                             "links": [
                                 {
-                                    "name": "Quik",
+                                    "name": "QUIK",
                                     "url": "https://github.com/octoshrimpy/quik"
                                 }
                             ]
@@ -83167,7 +83255,7 @@
                             "links": [
                                 {
                                     "name": "PixelPlayer",
-                                    "url": "https://github.com/theovilardo/PixelPlayer"
+                                    "url": "https://github.com/PixelPlayerHQ/PixelPlayer"
                                 }
                             ]
                         },
@@ -93090,7 +93178,7 @@
                             ]
                         },
                         {
-                            "full_text": "Pika Backup or RecoverPy - File Backup / Reocovery Tools",
+                            "full_text": "Pika Backup or RecoverPy - File Backup / Recovery Tools",
                             "links": [
                                 {
                                     "name": "Pika Backup",
@@ -98886,6 +98974,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠1Lou - Video",
+                            "links": [
+                                {
+                                    "name": "⁠1Lou",
+                                    "url": "https://www.1lou.me/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "seedhub - Video",
                             "links": [
                                 {
@@ -100695,7 +100792,7 @@
                             "links": [
                                 {
                                     "name": "Extreme-Down",
-                                    "url": "https://www.extreme-down.fit/"
+                                    "url": "https://www.extreme-down.poker/"
                                 }
                             ]
                         },
@@ -101645,18 +101742,14 @@
                             ]
                         },
                         {
-                            "full_text": "S.TO , 2 , 3 - TV / Anime / Dub / 720p",
+                            "full_text": "S.TO , 2 - TV / Anime / Dub / 720p",
                             "links": [
                                 {
                                     "name": "S.TO",
-                                    "url": "https://s.to/"
-                                },
-                                {
-                                    "name": "2",
                                     "url": "https://serienstream.to/"
                                 },
                                 {
-                                    "name": "3",
+                                    "name": "2",
                                     "url": "https://serien.domains/"
                                 }
                             ]
@@ -104516,7 +104609,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Rawmangaz or EverythingMoe Raws - List of Raw Manga Sites",
+                            "full_text": "Rawmangaz or EverythingMoe Raws / Manhwa - List of Raw Manga Sites",
                             "links": [
                                 {
                                     "name": "Rawmangaz",
@@ -104524,6 +104617,10 @@
                                 },
                                 {
                                     "name": "EverythingMoe Raws",
+                                    "url": "https://everythingmoe.com/section/manga?filter=Raws"
+                                },
+                                {
+                                    "name": "Manhwa",
                                     "url": "https://everythingmoe.com/section/manhwa?filter=Raws"
                                 }
                             ]
@@ -105423,11 +105520,15 @@
                             ]
                         },
                         {
-                            "full_text": "MineWiki - Mincraft Wiki",
+                            "full_text": "MineWiki - Mincraft Wiki /",
                             "links": [
                                 {
                                     "name": "MineWiki",
                                     "url": "https://minewiki.pl/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/X3hwz8pkBd"
                                 }
                             ]
                         },
@@ -107274,7 +107375,7 @@
                             "links": [
                                 {
                                     "name": "subtitry",
-                                    "url": "https://subtitry.ru/"
+                                    "url": "https://subtitry.net/"
                                 },
                                 {
                                     "name": "DXP",
@@ -112536,7 +112637,7 @@
                             ]
                         },
                         {
-                            "full_text": "findPWA , Store.app , FckSignups / , SaaS Discovery or Electron - Web App Indexes",
+                            "full_text": "findPWA , Store.app , NoSignups / , SaaS Discovery or Electron - Web App Indexes",
                             "links": [
                                 {
                                     "name": "findPWA",
@@ -112547,8 +112648,8 @@
                                     "url": "https://store.app/"
                                 },
                                 {
-                                    "name": "FckSignups",
-                                    "url": "https://fcksignups.com/"
+                                    "name": "NoSignups",
+                                    "url": "https://nosignups.net/"
                                 },
                                 {
                                     "name": "",
@@ -114376,7 +114477,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠RSN Stitch Bank - Embroidery Stiches / Lessons",
+                            "full_text": "⁠RSN Stitch Bank - Embroidery Stitches / Lessons",
                             "links": [
                                 {
                                     "name": "⁠RSN Stitch Bank",
@@ -116294,6 +116395,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Hong Kong Transit 3D - Hong Kong Public Transport Map",
+                            "links": [
+                                {
+                                    "name": "⁠Hong Kong Transit 3D",
+                                    "url": "https://onlineconversion.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "rasp.yandex - Russia Public Transport Map",
                             "links": [
                                 {
@@ -116512,7 +116622,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Windy , Ventusky , Xweather , ⁠WXCharts , Earth Observatory , Zoom Earth , Weatherwise , Earth Now or Earth - General Weather / Climate Maps",
+                            "full_text": "Windy , Ventusky , Xweather , ⁠WXCharts , Earth Observatory , Zoom Earth , ⁠WunderMap , Weatherwise , Earth Now or Earth - General Weather / Climate Maps",
                             "links": [
                                 {
                                     "name": "Windy",
@@ -116537,6 +116647,10 @@
                                 {
                                     "name": "Zoom Earth",
                                     "url": "https://zoom.earth/"
+                                },
+                                {
+                                    "name": "⁠WunderMap",
+                                    "url": "https://www.wunderground.com/wundermap"
                                 },
                                 {
                                     "name": "Weatherwise",
@@ -116620,10 +116734,10 @@
                             ]
                         },
                         {
-                            "full_text": "Snow Forcast - Snow Forecast Maps",
+                            "full_text": "Snow Forecast - Snow Forecast Maps",
                             "links": [
                                 {
-                                    "name": "Snow Forcast",
+                                    "name": "Snow Forecast",
                                     "url": "https://www.snow-forecast.com/maps"
                                 }
                             ]
@@ -120060,11 +120174,15 @@
                             ]
                         },
                         {
-                            "full_text": "Kimai or Clockify - Work Hour Trackers",
+                            "full_text": "Kimai / or Clockify - Work Hour Trackers",
                             "links": [
                                 {
                                     "name": "Kimai",
                                     "url": "https://www.kimai.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/kimai/kimai"
                                 },
                                 {
                                     "name": "Clockify",
@@ -123903,7 +124021,7 @@
                             "links": [
                                 {
                                     "name": "Skills / Hobbies / DIY",
-                                    "url": "https://fmhy.net/educational/#-skills-hobbies-diy"
+                                    "url": "https://fmhy.net/educational/#skills-hobbies-diy"
                                 }
                             ]
                         },
@@ -124096,7 +124214,7 @@
                             ]
                         },
                         {
-                            "full_text": "Wheel Decide , Ultimate Wheel , PickerWheel , SpinWheelify , SpinTheWheel , HeySpinner , TheSpinnerWheel or Wheel of Names - Wheel Randomizers",
+                            "full_text": "Wheel Decide , Ultimate Wheel , PickerWheel , SpinWheelify , SpinTheWheel , HeySpinner , SpinTheWheel , TheSpinnerWheel or Wheel of Names - Wheel Randomizers",
                             "links": [
                                 {
                                     "name": "Wheel Decide",
@@ -124121,6 +124239,10 @@
                                 {
                                     "name": "HeySpinner",
                                     "url": "https://heyspinner.com/"
+                                },
+                                {
+                                    "name": "SpinTheWheel",
+                                    "url": "https://spinthewheel.net/"
                                 },
                                 {
                                     "name": "TheSpinnerWheel",
@@ -142048,6 +142170,15 @@
                             ]
                         },
                         {
+                            "full_text": "ujeb link - ujeb.link/sqkwpd",
+                            "links": [
+                                {
+                                    "name": "ujeb link",
+                                    "url": "https://ujeb.link/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Bly.to - bly.to/3e04d1",
                             "links": [
                                 {
@@ -142665,7 +142796,7 @@
                             ]
                         },
                         {
-                            "full_text": "EduMail , Zenvex / 2 / 3 / 4 , GetEduMail , mtempmail , ⁠Freetempmail , iMail , VanishInbox or etempmail - .Edu Addresses",
+                            "full_text": "EduMail , Zenvex / 2 / 3 / 4 / 5 , GetEduMail , mtempmail , ⁠Freetempmail , iMail , VanishInbox or etempmail - .Edu Addresses",
                             "links": [
                                 {
                                     "name": "EduMail",
@@ -142686,6 +142817,10 @@
                                 {
                                     "name": "4",
                                     "url": "https://edumail.su/"
+                                },
+                                {
+                                    "name": "5",
+                                    "url": "https://run2mail.com/"
                                 },
                                 {
                                     "name": "GetEduMail",
@@ -144489,11 +144624,15 @@
                             ]
                         },
                         {
-                            "full_text": "Stylus - Custom Website Color Schemes",
+                            "full_text": "Stylus - Custom Website Color Schemes /",
                             "links": [
                                 {
                                     "name": "Stylus",
                                     "url": "https://add0n.com/stylus.html"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/openstyles/stylus/"
                                 }
                             ]
                         },
@@ -144523,11 +144662,15 @@
                             ]
                         },
                         {
-                            "full_text": "Dark Reader , Midnight Lizard or Custom Dark Mode - Dark Mode",
+                            "full_text": "Dark Reader / , Midnight Lizard or Custom Dark Mode - Dark Mode",
                             "links": [
                                 {
                                     "name": "Dark Reader",
                                     "url": "https://darkreader.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/darkreader/darkreader"
                                 },
                                 {
                                     "name": "Midnight Lizard",
@@ -144553,11 +144696,15 @@
                             ]
                         },
                         {
-                            "full_text": "Auto Tab Discard or Tab Wrangler - Discard Inactive Tabs",
+                            "full_text": "Auto Tab Discard / or Tab Wrangler - Discard Inactive Tabs",
                             "links": [
                                 {
                                     "name": "Auto Tab Discard",
                                     "url": "https://webextension.org/listing/tab-discard.html"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/rNeomy/auto-tab-discard/"
                                 },
                                 {
                                     "name": "Tab Wrangler",
@@ -152803,10 +152950,10 @@
                             ]
                         },
                         {
-                            "full_text": "⁠TikTok Stalker - TikToks Insight Tools",
+                            "full_text": "⁠TikTrack - TikToks Insight Tools",
                             "links": [
                                 {
-                                    "name": "⁠TikTok Stalker",
+                                    "name": "⁠TikTrack",
                                     "url": "https://tiktok.einzzcookie.org/"
                                 }
                             ]
@@ -162372,7 +162519,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Works on WOA - Windows on ARM Game Combability Database",
+                            "full_text": "⁠Works on WOA - Windows on ARM Game Compatibility Database",
                             "links": [
                                 {
                                     "name": "⁠Works on WOA",
@@ -164029,10 +164176,10 @@
                             ]
                         },
                         {
-                            "full_text": "Luna Mulitplayer - Kerbal Space Program Multiplayer Mod",
+                            "full_text": "Luna Multiplayer - Kerbal Space Program Multiplayer Mod",
                             "links": [
                                 {
-                                    "name": "Luna Mulitplayer",
+                                    "name": "Luna Multiplayer",
                                     "url": "https://d-mp.org/"
                                 }
                             ]
@@ -164119,7 +164266,7 @@
                             ]
                         },
                         {
-                            "full_text": "OldUnreal - Unreal Tournement Servers /",
+                            "full_text": "OldUnreal - Unreal Tournament Servers /",
                             "links": [
                                 {
                                     "name": "OldUnreal",
@@ -164293,7 +164440,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Cypress - PvZ Garden Warefare 1 + 2 and Battle for Neighborville Private Server Browser",
+                            "full_text": "⁠Cypress - PvZ Garden Warfare 1 + 2 and Battle for Neighborville Private Server Browser",
                             "links": [
                                 {
                                     "name": "⁠Cypress",
@@ -170312,7 +170459,7 @@
                             ]
                         },
                         {
-                            "full_text": "Updated Classic - Classic Rockstar Games Fixes + QOL Improvments",
+                            "full_text": "Updated Classic - Classic Rockstar Games Fixes + QOL Improvements",
                             "links": [
                                 {
                                     "name": "Updated Classic",
@@ -170334,7 +170481,7 @@
                             ]
                         },
                         {
-                            "full_text": "Vice City: Multiplayer - Mutiplayer GTA:VC",
+                            "full_text": "Vice City: Multiplayer - Multiplayer GTA:VC",
                             "links": [
                                 {
                                     "name": "Vice City: Multiplayer",
@@ -172722,15 +172869,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Wigglypaint / 2 or FizzPaint - Browser Painting / Animated Brushes /",
+                            "full_text": "⁠Wigglypaint or FizzPaint - Browser Painting / Animated Brushes /",
                             "links": [
                                 {
                                     "name": "⁠Wigglypaint",
-                                    "url": "https://wigglypaint.com/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://wigglypaint.net/"
+                                    "url": "https://beyondloom.com/tools/wigglypaint.html"
                                 },
                                 {
                                     "name": "FizzPaint",
@@ -174143,6 +174286,15 @@
                                 {
                                     "name": "MultiAvatar",
                                     "url": "https://multiavatar.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠SkinSprite Studio - Generate Chibi Style Avatars from Minecraft Skins",
+                            "links": [
+                                {
+                                    "name": "⁠SkinSprite Studio",
+                                    "url": "https://sss.1m3.jp/"
                                 }
                             ]
                         },
@@ -181600,6 +181752,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠VTuber Nook - VTuber Resources",
+                            "links": [
+                                {
+                                    "name": "⁠VTuber Nook",
+                                    "url": "https://vtuber-nook.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Best VTuber - VTuber Resources",
                             "links": [
                                 {
@@ -187450,7 +187611,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Radio Garden / Site Unblock , 2 , WorldRadioMap , GlobeRadio or ⁠RadioCast - Worldwide Radio Globes",
+                            "full_text": "Radio Garden / Site Unblock , 2 , WorldRadioMap , ⁠TuneJourney , GlobeRadio or ⁠RadioCast - Globe-Style World Radio",
                             "links": [
                                 {
                                     "name": "Radio Garden",
@@ -187467,6 +187628,10 @@
                                 {
                                     "name": "WorldRadioMap",
                                     "url": "https://worldradiomap.com/"
+                                },
+                                {
+                                    "name": "⁠TuneJourney",
+                                    "url": "https://tunejourney.com/"
                                 },
                                 {
                                     "name": "GlobeRadio",
@@ -195934,7 +196099,7 @@
                             ]
                         },
                         {
-                            "full_text": "Spitfire Panorama - Spitfire Mark IX Cockpit Interactve Panorama",
+                            "full_text": "Spitfire Panorama - Spitfire Mark IX Cockpit Interactive Panorama",
                             "links": [
                                 {
                                     "name": "Spitfire Panorama",
@@ -200502,10 +200667,10 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Pheonix RC - RC Plane + Helicopter Simulator",
+                            "full_text": "Phoenix RC - RC Plane + Helicopter Simulator",
                             "links": [
                                 {
-                                    "name": "⁠Pheonix RC",
+                                    "name": "Phoenix RC",
                                     "url": "https://www.rc-thoughts.com/phoenix-sim/"
                                 }
                             ]
@@ -200537,10 +200702,10 @@
                             ]
                         },
                         {
-                            "full_text": "Luna Mulitplayer - Kerbal Space Program Multiplayer Mod / /",
+                            "full_text": "Luna Multiplayer - Kerbal Space Program Multiplayer Mod / /",
                             "links": [
                                 {
-                                    "name": "Luna Mulitplayer",
+                                    "name": "Luna Multiplayer",
                                     "url": "https://lunamultiplayer.com/"
                                 },
                                 {
@@ -207395,7 +207560,7 @@
                             ]
                         },
                         {
-                            "full_text": "Eberban / or Learn Eberban - Eberban Language Learning / Focused on Simplicity, Expressivness & Regularity",
+                            "full_text": "Eberban / or Learn Eberban - Eberban Language Learning / Focused on Simplicity, Expressiveness & Regularity",
                             "links": [
                                 {
                                     "name": "Eberban",
@@ -207889,7 +208054,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Server Survival - Tower Defense Game for learning Cloud Architecure /",
+                            "full_text": "⁠Server Survival - Tower Defense Game for learning Cloud Architecture /",
                             "links": [
                                 {
                                     "name": "⁠Server Survival",
@@ -212178,6 +212343,15 @@
                                 {
                                     "name": "QwikTape",
                                     "url": "https://github.com/4silvertooth/QwikTape"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠OnlineConversion - Conversion Calculators",
+                            "links": [
+                                {
+                                    "name": "⁠OnlineConversion",
+                                    "url": "https://onlineconversion.com/"
                                 }
                             ]
                         },
@@ -217748,32 +217922,6 @@
                                     "url": "https://getdesign.md/"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "⁠Ponytail - Make AI Coding Agents More Efficient /",
-                            "links": [
-                                {
-                                    "name": "⁠Ponytail",
-                                    "url": "https://ponytail.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/DietrichGebert/ponytail"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Ccusage - Track Token Usage for AI Coding /",
-                            "links": [
-                                {
-                                    "name": "⁠Ccusage",
-                                    "url": "https://ccusage.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ryoppippi/ccusage"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -217830,7 +217978,7 @@
                             ]
                         },
                         {
-                            "full_text": "Kimi - Kimi K2.6 (Thinking) / Coding AI / Google Login or Phone # Required / / /",
+                            "full_text": "Kimi - Kimi K2.6 (Thinking) / Kimi K3 / Coding AI / Google Login or Phone # Required / / /",
                             "links": [
                                 {
                                     "name": "Kimi",
@@ -218032,6 +218180,36 @@
                                 {
                                     "name": "Skills",
                                     "url": "https://skills.sh/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Honey or ⁠Ponytail - Make AI Coding Agents More Efficient /",
+                            "links": [
+                                {
+                                    "name": "Honey",
+                                    "url": "https://github.com/Green-PT/honey-for-devs"
+                                },
+                                {
+                                    "name": "⁠Ponytail",
+                                    "url": "https://ponytail.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/DietrichGebert/ponytail"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Ccusage - Track Token Usage for AI Coding /",
+                            "links": [
+                                {
+                                    "name": "⁠Ccusage",
+                                    "url": "https://ccusage.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ryoppippi/ccusage"
                                 }
                             ]
                         },
@@ -221829,7 +222007,7 @@
                             ]
                         },
                         {
-                            "full_text": "svgco , ⁠SVGFast or IMG to SVG - Image to SVG Converters",
+                            "full_text": "svgco , ⁠SVGFast , ⁠PngToSvg or IMG to SVG - Image to SVG Converters",
                             "links": [
                                 {
                                     "name": "svgco",
@@ -221838,6 +222016,10 @@
                                 {
                                     "name": "⁠SVGFast",
                                     "url": "https://svgfast.com/"
+                                },
+                                {
+                                    "name": "⁠PngToSvg",
+                                    "url": "https://pngtosvg.com/"
                                 },
                                 {
                                     "name": "IMG to SVG",
@@ -224216,7 +224398,7 @@
                             ]
                         },
                         {
-                            "full_text": "APK Editor Studio / or APKTool / - APK Reverse Engeineering",
+                            "full_text": "APK Editor Studio / or APKTool / - APK Reverse Engineering",
                             "links": [
                                 {
                                     "name": "APK Editor Studio",
@@ -225873,15 +226055,6 @@
                                 {
                                     "name": "f658c3a",
                                     "url": "https://github.com/fmhy/edit/commit/f658c3ab289e498696a6517ea9ad992ffb76af3d#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1457"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Flowind - Cartoons (Removed in 0fae050 )",
-                            "links": [
-                                {
-                                    "name": "0fae050",
-                                    "url": "https://github.com/fmhy/edit/commit/0fae050ffb8d195ffe2a9118f0048a20131822bf#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L48"
                                 }
                             ]
                         }
@@ -228030,7 +228203,7 @@
                     "heading": "SMS Verification Sites",
                     "level": "h2",
                     "text_explanations": [
-                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,ReceiveSMSOnline,7sim,yunjiema,us-phone-number,shownumber,yunduanxin,smsget,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,receivesmsonline,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠7Sim,⁠TempSMSOnline,⁠SMSRecieveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠Recieve SMS Free,⁠TempBoxPro,⁠XNSMS,gettempnumber"
+                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,ReceiveSMSOnline,7sim,yunjiema,us-phone-number,shownumber,yunduanxin,smsget,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,receivesmsonline,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠7Sim,⁠TempSMSOnline,SMSReceiveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠Receive SMS Free,⁠TempBoxPro,⁠XNSMS,gettempnumber"
                     ],
                     "resource_items": [
                         {
