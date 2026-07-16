@@ -13401,25 +13401,6 @@
               }
             ]
           }
-        },
-        {
-          "id": "asiansubs",
-          "title": "AsianSubs",
-          "link": "https://asiansubs.com/",
-          "icon": "https://static.everythingmoe.com/icons/asiansubs.png",
-          "tags": [],
-          "rank": 25,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "drama",
-          "details": {
-            "negatives": [
-              "Very small library"
-            ],
-            "info": "note: use same video provider as DramaGo, but different contents"
-          }
         }
       ]
     },
@@ -34051,6 +34032,25 @@
           }
         },
         {
+          "id": "asiansubs",
+          "title": "AsianSubs",
+          "link": "https://asiansubs.com/",
+          "icon": "https://static.everythingmoe.com/icons/asiansubs.png",
+          "tags": [],
+          "rank": 14,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "drama",
+          "details": {
+            "negatives": [
+              "Very small library"
+            ],
+            "info": "note: use same video provider as DramaGo, but different contents"
+          }
+        },
+        {
           "id": "viewasian",
           "title": "Viewasian",
           "link": "https://www.viewasian.org/",
@@ -34058,7 +34058,7 @@
           "tags": [
             "DC"
           ],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -48932,25 +48932,6 @@
             "url": "https://onetouchtv.info/"
           }
         ]
-      }
-    },
-    "asiansubs": {
-      "id": "asiansubs",
-      "title": "AsianSubs",
-      "link": "https://asiansubs.com/",
-      "icon": "https://static.everythingmoe.com/icons/asiansubs.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "drama"
-      ],
-      "details": {
-        "negatives": [
-          "Very small library"
-        ],
-        "info": "note: use same video provider as DramaGo, but different contents"
       }
     },
     "vndb": {
@@ -69344,6 +69325,25 @@
           "Use third party host",
           "Small library"
         ]
+      }
+    },
+    "asiansubs": {
+      "id": "asiansubs",
+      "title": "AsianSubs",
+      "link": "https://asiansubs.com/",
+      "icon": "https://static.everythingmoe.com/icons/asiansubs.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "drama"
+      ],
+      "details": {
+        "negatives": [
+          "Very small library"
+        ],
+        "info": "note: use same video provider as DramaGo, but different contents"
       }
     },
     "viewasian": {
