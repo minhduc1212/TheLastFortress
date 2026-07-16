@@ -275,11 +275,15 @@
                             ]
                         },
                         {
-                            "full_text": "iOS: SpotC++ / SpotiFLAC-Mobile / Extension",
+                            "full_text": "iOS: SpotC++ / ⁠Octave / SpotiFLAC-Mobile / Extension",
                             "links": [
                                 {
                                     "name": "SpotC++",
                                     "url": "https://spotc.yodaluca.dev/"
+                                },
+                                {
+                                    "name": "⁠Octave",
+                                    "url": "https://octavestreaming.com/"
                                 },
                                 {
                                     "name": "SpotiFLAC-Mobile",
@@ -4388,19 +4392,6 @@
                             ]
                         },
                         {
-                            "full_text": "Startpage - Google Based /",
-                            "links": [
-                                {
-                                    "name": "Startpage",
-                                    "url": "https://www.startpage.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/StartpageSearch/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "DuckDuckGo - Metasearch / Bing Based / AI Free / Lite / HTML / Shortcuts , 2 /",
                             "links": [
                                 {
@@ -4473,6 +4464,19 @@
                                 {
                                     "name": "⁠Nilch",
                                     "url": "https://nilch.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Startpage - Google Based /",
+                            "links": [
+                                {
+                                    "name": "Startpage",
+                                    "url": "https://www.startpage.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/StartpageSearch/"
                                 }
                             ]
                         },
@@ -6034,7 +6038,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "DeepSeek - V4-Pro (Expert) / V4-Flash (Instant) / Sign-Up / Unlimited / Add Features / / /",
+                            "full_text": "DeepSeek - DeepSeek V4 Pro (Expert) / DeepSeek V4 Flash (Instant) / Sign-Up / Unlimited / Add Features / / /",
                             "links": [
                                 {
                                     "name": "DeepSeek",
@@ -6059,7 +6063,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Z.ai - GLM-5.2 / GLM-5-Turbo / Slides / Sign-Up / /",
+                            "full_text": "⁠Z.ai - GLM 5.2 / GLM 5 Turbo / Slides / Sign-Up / /",
                             "links": [
                                 {
                                     "name": "⁠Z.ai",
@@ -6076,7 +6080,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Studio - Gemini 3.1 Pro / Gemini 3.5 Flash / Google Sign-Up / Add Features / /",
+                            "full_text": "Google AI Studio - Gemini 3.1 Pro Preview / Gemini 3.5 Flash / Google Sign-Up / Add Features / /",
                             "links": [
                                 {
                                     "name": "Google AI Studio",
@@ -6122,7 +6126,7 @@
                             ]
                         },
                         {
-                            "full_text": "Kimi - Kimi K2.6 (Thinking) / Kimi K3 / Slides / Google Login or Phone # Required / / /",
+                            "full_text": "Kimi - Kimi K2.6 / Slides / Google Login or Phone # Required / / /",
                             "links": [
                                 {
                                     "name": "Kimi",
@@ -6143,7 +6147,7 @@
                             ]
                         },
                         {
-                            "full_text": "Qwen - Qwen3.7-Max / Qwen3.7-Plus / Sign-Up / / /",
+                            "full_text": "Qwen - Qwen3.7 Max / Qwen3.7 Plus / Sign-Up / / /",
                             "links": [
                                 {
                                     "name": "Qwen",
@@ -6250,7 +6254,7 @@
                             ]
                         },
                         {
-                            "full_text": "Claude - Claude Sonnet 5.0 / Requires Sign-Up + Phone # / Resources / Learning , 2 / Usage Tracker / /",
+                            "full_text": "Claude - Claude Sonnet 5 / Requires Sign-Up + Phone # / Resources / Learning , 2 / Usage Tracker / /",
                             "links": [
                                 {
                                     "name": "Claude",
@@ -6283,7 +6287,7 @@
                             ]
                         },
                         {
-                            "full_text": "MiniMax AI - MiniMax-M3 /",
+                            "full_text": "MiniMax AI - MiniMax M3 / Sign-Up /",
                             "links": [
                                 {
                                     "name": "MiniMax AI",
@@ -6296,14 +6300,14 @@
                             ]
                         },
                         {
-                            "full_text": "Mistral or Mistral (console) - Mistral Large 3 / /",
+                            "full_text": "Mistral or Mistral Studio - Mistral Medium 3.5 / /",
                             "links": [
                                 {
                                     "name": "Mistral",
                                     "url": "https://chat.mistral.ai"
                                 },
                                 {
-                                    "name": "Mistral (console)",
+                                    "name": "Mistral Studio",
                                     "url": "https://console.mistral.ai/home"
                                 },
                                 {
@@ -6317,7 +6321,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Ai2 Playground - Olmo 3.1 32B (Think) / No Sign-Up / Unlimited /",
+                            "full_text": "⁠Ai2 Playground - Olmo 3.1 32B Think / No Sign-Up / Unlimited /",
                             "links": [
                                 {
                                     "name": "⁠Ai2 Playground",
@@ -6396,10 +6400,10 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Inception Chat - Mercury 2 / Unlimited",
+                            "full_text": "⁠Inception - Mercury 2 / Unlimited",
                             "links": [
                                 {
-                                    "name": "⁠Inception Chat",
+                                    "name": "⁠Inception",
                                     "url": "https://chat.inceptionlabs.ai/"
                                 }
                             ]
@@ -6412,7 +6416,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠ISH - Claude Opus 4.8 / Claude Sonnet 4.6 / Multiple Models / Sign-Up (GitHub) / / /",
+                            "full_text": "⁠ISH - Claude Opus 4.8 / Claude Sonnet 5 / Multiple Models / Sign-Up (GitHub) / / /",
                             "links": [
                                 {
                                     "name": "⁠ISH",
@@ -6467,7 +6471,7 @@
                             ]
                         },
                         {
-                            "full_text": "Pollinations Chat , 2 , 3 - GPT-5.6 Sol / DeepSeek V4 Pro / GLM-5.2 / Grok 4.3 / Multiple Models / Limits and Models /",
+                            "full_text": "Pollinations Chat , 2 , 3 - GPT-5.6 Sol / DeepSeek V4 Pro / GLM 5.2 / Grok 4.3 / Multiple Models / Limits and Models /",
                             "links": [
                                 {
                                     "name": "Pollinations Chat",
@@ -6505,7 +6509,7 @@
                             ]
                         },
                         {
-                            "full_text": "NVIDIA NIM - GLM-5.2 / Deepseek-V4-Pro / Minimax M3 / Multiple Models / No Sign-Up / Unlimited",
+                            "full_text": "NVIDIA NIM - GLM 5.2 / DeepSeek V4 Pro / Minimax M3 / Multiple Models / No Sign-Up / Unlimited",
                             "links": [
                                 {
                                     "name": "NVIDIA NIM",
@@ -6514,7 +6518,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Together.ai - GLM-5.2 / Kimi K2.6 / Deepseek-V4 Pro / Multiple Models / Up To 110 Daily /",
+                            "full_text": "⁠Together.ai - GLM 5.2 / Kimi K2.6 / DeepSeek V4 Pro / Multiple Models / Up To 110 Daily /",
                             "links": [
                                 {
                                     "name": "⁠Together.ai",
@@ -6527,25 +6531,7 @@
                             ]
                         },
                         {
-                            "full_text": "AI Assistant - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 / Multiple Models / No Sign-Up",
-                            "links": [
-                                {
-                                    "name": "AI Assistant",
-                                    "url": "https://aiassistantbot.pages.dev/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cerebras Chat - GLM-4.7 / Multiple Models / Sign-Up",
-                            "links": [
-                                {
-                                    "name": "Cerebras Chat",
-                                    "url": "https://chat.cerebras.ai/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Lumo - Lumo 2.0 Lite (100 Daily) / Lumo 2.0 Max (20 Daily) / Sign-Up / OpenAI Bridge",
+                            "full_text": "⁠Lumo - Qwen3.5 397B A17B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / OpenAI Bridge",
                             "links": [
                                 {
                                     "name": "⁠Lumo",
@@ -6554,6 +6540,24 @@
                                 {
                                     "name": "OpenAI Bridge",
                                     "url": "https://github.com/KHROTU/lucky-cat-api"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AI Assistant - Deepseek V3.2 / GLM 4.7 / Kimi K2.5 / Multiple Models / No Sign-Up",
+                            "links": [
+                                {
+                                    "name": "AI Assistant",
+                                    "url": "https://aiassistantbot.pages.dev/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cerebras Chat - GLM 4.7 / Multiple Models / Sign-Up",
+                            "links": [
+                                {
+                                    "name": "Cerebras Chat",
+                                    "url": "https://chat.cerebras.ai/"
                                 }
                             ]
                         }
@@ -9659,14 +9663,14 @@
                             ]
                         },
                         {
-                            "full_text": "Voice Changer - Real-Time Voice Changer (W-Okada) / Github / Colab",
+                            "full_text": "Voice Changer - Real-Time Voice Changer (W-Okada) / / Colab",
                             "links": [
                                 {
                                     "name": "Voice Changer",
                                     "url": "https://github.com/w-okada/voice-changer/blob/master/docs_i18n/README_en.md"
                                 },
                                 {
-                                    "name": "Github",
+                                    "name": "",
                                     "url": "https://github.com/deiteris/voice-changer"
                                 },
                                 {
@@ -11197,7 +11201,7 @@
                             "links": [
                                 {
                                     "name": "Flixer",
-                                    "url": "https://flixer.su"
+                                    "url": "https://flixer.gd"
                                 },
                                 {
                                     "name": "Hexa",
@@ -11389,6 +11393,23 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/2dZK8xGU3q"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MovieBite - Movies / TV / Anime / Auto-Next / /",
+                            "links": [
+                                {
+                                    "name": "MovieBite",
+                                    "url": "https://moviebite.cc/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/+8Wluy50R049kMmVk"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/ygexZUCXVa"
                                 }
                             ]
                         },
@@ -11697,23 +11718,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/allyoucanwatch"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MovieBite - Movies / TV / Anime / Auto-Next / /",
-                            "links": [
-                                {
-                                    "name": "MovieBite",
-                                    "url": "https://moviebite.cc/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/+8Wluy50R049kMmVk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/ygexZUCXVa"
                                 }
                             ]
                         },
@@ -16331,6 +16335,15 @@
                             ]
                         },
                         {
+                            "full_text": "HOOFOOT - TV / Sports",
+                            "links": [
+                                {
+                                    "name": "HOOFOOT",
+                                    "url": "https://hoofoot.ru/iptv/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "xyzstreams - TV / Sports",
                             "links": [
                                 {
@@ -16922,15 +16935,6 @@
                             ]
                         },
                         {
-                            "full_text": "WatchSports - Stream Aggregator",
-                            "links": [
-                                {
-                                    "name": "WatchSports",
-                                    "url": "https://watchsports.to/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "DaddyLive , 2 - TV / Sports /",
                             "links": [
                                 {
@@ -16957,11 +16961,11 @@
                             ]
                         },
                         {
-                            "full_text": "SportDB - Stream Aggregator",
+                            "full_text": "HOOFOOT - Stream Aggregator",
                             "links": [
                                 {
-                                    "name": "SportDB",
-                                    "url": "https://hoofoot.ru/"
+                                    "name": "HOOFOOT",
+                                    "url": "https://hoofoot.ru/iptv/schedule"
                                 }
                             ]
                         },
@@ -17132,7 +17136,7 @@
                             ]
                         },
                         {
-                            "full_text": "StreamCorner , 2 , 3 , 4 or StreamNinja , 2 / Status /",
+                            "full_text": "StreamCorner , 2 , 3 , 4 / Status /",
                             "links": [
                                 {
                                     "name": "StreamCorner",
@@ -17149,14 +17153,6 @@
                                 {
                                     "name": "4",
                                     "url": "https://streamcorner.fun/"
-                                },
-                                {
-                                    "name": "StreamNinja",
-                                    "url": "https://streamninja.xyz/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://streamninja.online/"
                                 },
                                 {
                                     "name": "Status",
@@ -17183,19 +17179,6 @@
                                 {
                                     "name": "xyzstreams",
                                     "url": "https://xyzstreams.st/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TVPass - US Only /",
-                            "links": [
-                                {
-                                    "name": "TVPass",
-                                    "url": "https://the-tv.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/4qMfKq6NMH"
                                 }
                             ]
                         },
@@ -20397,14 +20380,14 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Nuvio Desktop - Torrent Streaming App / [Plugins]( https://nuvio-plugin-library.vercel.app/ / Wiki / Guides",
+                            "full_text": "⁠Nuvio Desktop - Torrent Streaming App / Plugins / Wiki / Guides",
                             "links": [
                                 {
                                     "name": "⁠Nuvio Desktop",
                                     "url": "https://github.com/NuvioMedia/NuvioDesktop"
                                 },
                                 {
-                                    "name": "https://nuvio-plugin-library.vercel.app/",
+                                    "name": "Plugins",
                                     "url": "https://nuvio-plugin-library.vercel.app/"
                                 },
                                 {
@@ -23431,6 +23414,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Octave - Browser Music",
+                            "links": [
+                                {
+                                    "name": "⁠Octave",
+                                    "url": "https://octavestreaming.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SoundCloud - User-Made & User-Uploaded Songs",
                             "links": [
                                 {
@@ -23492,15 +23484,6 @@
                                 {
                                     "name": "Audiomack",
                                     "url": "https://audiomack.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Octave - Browser Music",
-                            "links": [
-                                {
-                                    "name": "⁠Octave",
-                                    "url": "https://octavestreaming.com/"
                                 }
                             ]
                         },
@@ -26352,7 +26335,7 @@
                             ]
                         },
                         {
-                            "full_text": "SpotTransfer / , Trikatuka or Spotify2YouTubeMusic - Playlist Transfer Tools",
+                            "full_text": "SpotTransfer / , Trikatuka , TuneMyMusic or Spotify2YouTubeMusic - Playlist Transfer Tools",
                             "links": [
                                 {
                                     "name": "SpotTransfer",
@@ -26365,6 +26348,10 @@
                                 {
                                     "name": "Trikatuka",
                                     "url": "https://trikatuka.aknakn.eu/"
+                                },
+                                {
+                                    "name": "TuneMyMusic",
+                                    "url": "https://www.tunemymusic.com/"
                                 },
                                 {
                                     "name": "Spotify2YouTubeMusic",
@@ -35893,6 +35880,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Retro Game Corps - Console / Handheld Emulator Guides",
+                            "links": [
+                                {
+                                    "name": "⁠Retro Game Corps",
+                                    "url": "https://retrogamecorps.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Handhelds Wiki - Retro Handhelds Wiki / Emulation Guides⁠",
                             "links": [
                                 {
@@ -39707,60 +39703,7 @@
                 {
                     "heading": "Browser Games",
                     "level": "h2",
-                    "text_explanations": [
-                        "️Browser Toys / Games- Browser Toys / Game Indexes",
-                        "Allchemy,Little Alchemy,Little Alchemy 2orInfinite Craft/Wiki/Search- Infinite Item Crafting Games",
-                        "The World's Biggest Pac-Man- Infinite Custom Pac-Man",
-                        "Mario Kart PC- Browser SNES Style Mario Kart / Multiplayer /Custom Maps",
-                        "Super Monkey Ball Web- Browser Super Monkey Ball",
-                        "Marble Blast Gold Web/orMarble Blast Ultra/- Browser Marble Blast",
-                        "Slope Plus- Downhill Ball Game",
-                        "QWOP- Ragdoll Running Game",
-                        "SMBGames- Browser Super Mario",
-                        "SMWGames- Modded Browser Super Mario World",
-                        "Level Share Square- Custom Mario Fangame Maps",
-                        "Jelly Mario- Jelly Super Mario",
-                        "⁠Cut the Rope Home- Cut the Rope Games",
-                        "Club Penguin LegacyorClub Penguin Journey- ⁠Club Penguin Revivals /Servers",
-                        "Snubby- Browser Slime Rancher",
-                        "CelesteClassic- Full Classic Celeste",
-                        "TENNIS!- JavaScript Pong",
-                        "SpaceCadetPinball- Browser Space Cadet Pinball",
-                        "PlayAnyPageorKickassApp- Turn Webpages into Games",
-                        "Google Snake Mods//,Fluppy,Play SnakeorSnake-Game- Snake Style Games",
-                        "⁠LEGO Island Web Port- Browser LEGO Island",
-                        "Rayman Legends Beatbox- Browser Rayman Legends Beatbox",
-                        "Lain Game- Lain Game Browser Emulator",
-                        "You Have Not Died Of Dysentery- Oregon Trail with Alt Dysentery Mechanics",
-                        "⁠Hotfix- WarioWare-Style 'Hot-Fix' Micro-Game",
-                        "The Circle- Dodge Circles",
-                        "JoeDangerTheGame- Trials Inspired Game",
-                        "Polka Dot Game- Dodge & Eat Dots",
-                        "Launch Ball- Physics Game w/ Map Creator",
-                        "Spinner- Spinner Timing Game",
-                        "Ehmorris- Spaceship Landing Game",
-                        "⁠HALDANE-4- ASCII Horror Game",
-                        "Dino Swords- Chrome Dino With Weapons",
-                        "Web osu!mania- Browser osu!mania Beatmaps /",
-                        "Taiko Web- Taiko no Tatsujin / Rhythm Game",
-                        "Rhythm Plus,2- Rhythm Game //",
-                        "Bemuse- Rhythm Game //",
-                        "Pulsus- 3x3 Letter Tile Rhythm Game",
-                        "DB Evolution- Dragon Ball Fighting Game",
-                        "Rooms- Room Design Game /",
-                        "Haxball- Physics-Based Soccer",
-                        "⁠Minigolfle- Browser Mini Golf",
-                        "Mexican Train- Domino Train Game / Requires Sign-Up",
-                        "racing-game- Driving Game / Requires Sign-Up //",
-                        "The Race,2- Driving Game",
-                        "slow roads- Driving Game",
-                        "The Multiverse- Universe Exploration Game Across",
-                        "⁠Messenger- Relaxing 3D Delivery Game",
-                        "Starshine Legacy- 3D Browser Mystery Game",
-                        "Neopets,tamaNOTchiorMarapets- Virtual Pet Games / Requires Sign-Up",
-                        "Gaia Online- Anime Virtual Pet / Requires Sign-Up",
-                        "Edu-Games- Educational Games"
-                    ],
+                    "text_explanations": [],
                     "resource_items": [
                         {
                             "full_text": "️ Browser Toys / Games - Browser Toys / Game Indexes",
@@ -40783,6 +40726,15 @@
                                 {
                                     "name": "Curated PICO-8",
                                     "url": "https://nerdyteachers.com/PICO-8/Games/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TIC-80 Games - TIC-80 Browser Games",
+                            "links": [
+                                {
+                                    "name": "TIC-80 Games",
+                                    "url": "https://tic80.com/play?cat=0&sort=2"
                                 }
                             ]
                         },
@@ -67661,6 +67613,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Sakana Translate - English > Japanese Translator",
+                            "links": [
+                                {
+                                    "name": "⁠Sakana Translate",
+                                    "url": "https://chat.sakana.ai/translate"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Minato - Japanese Courses",
                             "links": [
                                 {
@@ -68074,6 +68035,15 @@
                                 {
                                     "name": "Dictionary Variants",
                                     "url": "https://dict.variants.moe.edu.tw/?la=1"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Sakana Translate - English > Chinese Translator",
+                            "links": [
+                                {
+                                    "name": "⁠Sakana Translate",
+                                    "url": "https://chat.sakana.ai/translate"
                                 }
                             ]
                         },
@@ -76249,7 +76219,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠piko (Instagram) / / Note or ⁠Instafel / - Modded Instagram Clients",
+                            "full_text": "⁠piko (Instagram) / / or ⁠Instafel / - Modded Instagram Clients",
                             "links": [
                                 {
                                     "name": "⁠piko (Instagram)",
@@ -76258,10 +76228,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/crimera/piko"
-                                },
-                                {
-                                    "name": "Note",
-                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/piko-note.md"
                                 },
                                 {
                                     "name": "⁠Instafel",
@@ -82533,7 +82499,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Mihon - Manga Reader / Extensions , 2 , 3 / Endorsed Forks , 2 , 3 , 4 / Avoid Fakes / /",
+                            "full_text": "Mihon - Manga Reader / Extensions , 2 , 3 , 4 / Endorsed Forks , 2 , 3 , 4 / Avoid Fakes / /",
                             "links": [
                                 {
                                     "name": "Mihon",
@@ -82550,6 +82516,10 @@
                                 {
                                     "name": "3",
                                     "url": "https://wotaku.wiki/guides/ext/mihon"
+                                },
+                                {
+                                    "name": "4",
+                                    "url": "https://github.com/Nyora-Manga/nyora-mihon"
                                 },
                                 {
                                     "name": "Endorsed Forks",
@@ -87539,6 +87509,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Octave - Streaming",
+                            "links": [
+                                {
+                                    "name": "⁠Octave",
+                                    "url": "https://octavestreaming.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "YTMusicUltimate - Modded YouTube Music / Ad-Free /",
                             "links": [
                                 {
@@ -87691,15 +87670,6 @@
                                 {
                                     "name": "Deezer",
                                     "url": "https://apps.apple.com/app/id292738169"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Octave - Streaming",
-                            "links": [
-                                {
-                                    "name": "⁠Octave",
-                                    "url": "https://octavestreaming.com/"
                                 }
                             ]
                         },
@@ -104609,7 +104579,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Rawmangaz or EverythingMoe Raws / Manhwa - List of Raw Manga Sites",
+                            "full_text": "Rawmangaz or EverythingMoe Raws - List of Raw Manga Sites",
                             "links": [
                                 {
                                     "name": "Rawmangaz",
@@ -104618,10 +104588,6 @@
                                 {
                                     "name": "EverythingMoe Raws",
                                     "url": "https://everythingmoe.com/section/manga?filter=Raws"
-                                },
-                                {
-                                    "name": "Manhwa",
-                                    "url": "https://everythingmoe.com/section/manhwa?filter=Raws"
                                 }
                             ]
                         },
@@ -112343,15 +112309,6 @@
                             ]
                         },
                         {
-                            "full_text": "iptvm3u - Serbian / Live TV / Radio",
-                            "links": [
-                                {
-                                    "name": "iptvm3u",
-                                    "url": "https://iptvm3u.vercel.app/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Singapore Sign - Singapore Sign Language Dictionary",
                             "links": [
                                 {
@@ -116191,7 +116148,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Google Maps , Apple Maps , Bing Maps , OsmAnd , FacilMap , OsmAPP or Mapy - Online / Offline Maps",
+                            "full_text": "Google Maps , Apple Maps , Bing Maps , Vela , OsmAnd , FacilMap , OsmAPP or Mapy - Online / Offline Maps",
                             "links": [
                                 {
                                     "name": "Google Maps",
@@ -116204,6 +116161,10 @@
                                 {
                                     "name": "Bing Maps",
                                     "url": "https://www.bing.com/maps"
+                                },
+                                {
+                                    "name": "Vela",
+                                    "url": "https://github.com/PimpinPumpkin/Vela/"
                                 },
                                 {
                                     "name": "OsmAnd",
@@ -118052,6 +118013,19 @@
                                 {
                                     "name": "LibMedium",
                                     "url": "https://libmedium.batsense.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Reader Mode or Tranquility - Article Readers / Managers",
+                            "links": [
+                                {
+                                    "name": "Reader Mode",
+                                    "url": "https://readermode.io/"
+                                },
+                                {
+                                    "name": "Tranquility",
+                                    "url": "https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/"
                                 }
                             ]
                         }
@@ -137365,16 +137339,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Filester - 10GB / 45 Days After Last Download",
-                            "links": [
-                                {
-                                    "name": "⁠Filester",
-                                    "url": "https://filester.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FileDitch / or SendGB - 25GB / 90 Days",
+                            "full_text": "FileDitch / or SendGB - 100GB / 90 Days",
                             "links": [
                                 {
                                     "name": "FileDitch",
@@ -137387,6 +137352,15 @@
                                 {
                                     "name": "SendGB",
                                     "url": "https://www.sendgb.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Filester - 10GB / 45 Days After Last Download",
+                            "links": [
+                                {
+                                    "name": "⁠Filester",
+                                    "url": "https://filester.me/"
                                 }
                             ]
                         },
@@ -137930,15 +137904,6 @@
                                 {
                                     "name": "FilesPayouts",
                                     "url": "https://filespayouts.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DooDrive - 2GB / 30 Days / Requires Sign-Up",
-                            "links": [
-                                {
-                                    "name": "DooDrive",
-                                    "url": "https://doodrive.com/"
                                 }
                             ]
                         },
@@ -154871,6 +154836,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Sakana Translate - English > Japanese / Chinese Translator",
+                            "links": [
+                                {
+                                    "name": "⁠Sakana Translate",
+                                    "url": "https://chat.sakana.ai/translate"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Translator++ or Renpy Translator - CAT For Games",
                             "links": [
                                 {
@@ -161276,6 +161250,19 @@
                             ]
                         },
                         {
+                            "full_text": "Thunderstore - Unity Game Mods / Mod Manager /",
+                            "links": [
+                                {
+                                    "name": "Thunderstore",
+                                    "url": "https://thunderstore.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.thunderstore.io/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "GameBanana - Game Mods /",
                             "links": [
                                 {
@@ -161487,19 +161474,6 @@
                                 {
                                     "name": "ProAsm",
                                     "url": "http://www.proasm.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Thunderstore - Unity Game Mods /",
-                            "links": [
-                                {
-                                    "name": "Thunderstore",
-                                    "url": "https://thunderstore.io/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.thunderstore.io/"
                                 }
                             ]
                         },
@@ -185535,6 +185509,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Octave - Browser Music",
+                            "links": [
+                                {
+                                    "name": "⁠Octave",
+                                    "url": "https://octavestreaming.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SoundCloud - User-Made & User-Uploaded Songs",
                             "links": [
                                 {
@@ -185596,15 +185579,6 @@
                                 {
                                     "name": "Audiomack",
                                     "url": "https://audiomack.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Octave - Browser Music",
-                            "links": [
-                                {
-                                    "name": "⁠Octave",
-                                    "url": "https://octavestreaming.com/"
                                 }
                             ]
                         },
@@ -188456,7 +188430,7 @@
                             ]
                         },
                         {
-                            "full_text": "SpotTransfer / , Trikatuka or Spotify2YouTubeMusic - Playlist Transfer Tools",
+                            "full_text": "SpotTransfer / , Trikatuka , TuneMyMusic or Spotify2YouTubeMusic - Playlist Transfer Tools",
                             "links": [
                                 {
                                     "name": "SpotTransfer",
@@ -188469,6 +188443,10 @@
                                 {
                                     "name": "Trikatuka",
                                     "url": "https://trikatuka.aknakn.eu/"
+                                },
+                                {
+                                    "name": "TuneMyMusic",
+                                    "url": "https://www.tunemymusic.com/"
                                 },
                                 {
                                     "name": "Spotify2YouTubeMusic",
@@ -205988,6 +205966,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Sakana Translate - English > Japanese Translator",
+                            "links": [
+                                {
+                                    "name": "⁠Sakana Translate",
+                                    "url": "https://chat.sakana.ai/translate"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Minato - Japanese Courses",
                             "links": [
                                 {
@@ -206401,6 +206388,15 @@
                                 {
                                     "name": "Dictionary Variants",
                                     "url": "https://dict.variants.moe.edu.tw/?la=1"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Sakana Translate - English > Chinese Translator",
+                            "links": [
+                                {
+                                    "name": "⁠Sakana Translate",
+                                    "url": "https://chat.sakana.ai/translate"
                                 }
                             ]
                         },
@@ -217978,7 +217974,7 @@
                             ]
                         },
                         {
-                            "full_text": "Kimi - Kimi K2.6 (Thinking) / Kimi K3 / Coding AI / Google Login or Phone # Required / / /",
+                            "full_text": "Kimi - Kimi K2.6 (Thinking) / Coding AI / Google Login or Phone # Required / / /",
                             "links": [
                                 {
                                     "name": "Kimi",
@@ -221933,15 +221929,15 @@
                             ]
                         },
                         {
-                            "full_text": "Crayon or SVGArtista - SVG Animation Tools",
+                            "full_text": "SVGArtista or ⁠SVG Studio - SVG Animation Tools",
                             "links": [
-                                {
-                                    "name": "Crayon",
-                                    "url": "https://designstripe.com/crayon"
-                                },
                                 {
                                     "name": "SVGArtista",
                                     "url": "https://svgartista.net/"
+                                },
+                                {
+                                    "name": "⁠SVG Studio",
+                                    "url": "https://svgstudio.org/"
                                 }
                             ]
                         },
@@ -222489,16 +222485,8 @@
                             ]
                         },
                         {
-                            "full_text": "vichan / or overscript - Imageboard Hosting",
+                            "full_text": "overscript - Imageboard Hosting",
                             "links": [
-                                {
-                                    "name": "vichan",
-                                    "url": "https://vichan.info"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/vichan-devel/vichan"
-                                },
                                 {
                                     "name": "overscript",
                                     "url": "https://overscript.net/"
@@ -225038,6 +225026,33 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "DooDrive - 2GB / 30 Days / Requires Sign-Up (Removed in e75c538 )",
+                            "links": [
+                                {
+                                    "name": "e75c538",
+                                    "url": "https://github.com/fmhy/edit/commit/e75c538f3fb0d7643c91983dfd9d52cf06213dbe#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL404"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "iptvm3u - Serbian / Live TV / Radio (Removed in e75c538 )",
+                            "links": [
+                                {
+                                    "name": "e75c538",
+                                    "url": "https://github.com/fmhy/edit/commit/e75c538f3fb0d7643c91983dfd9d52cf06213dbe#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1862"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WatchSports - Stream Aggregator (Removed in e75c538 )",
+                            "links": [
+                                {
+                                    "name": "e75c538",
+                                    "url": "https://github.com/fmhy/edit/commit/e75c538f3fb0d7643c91983dfd9d52cf06213dbe#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL549"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "JacksonPollock - Splatter Painting / Click to Change Color (Removed in b990c6a : removed dead site)",
                             "links": [
                                 {
@@ -226037,24 +226052,6 @@
                                 {
                                     "name": "27256b4",
                                     "url": "https://github.com/fmhy/edit/commit/27256b41d0d46ff5b42edaa923ca716adcea07a2#diff-b35ef55ca61a4c86623997efc3296e00f7eae488e1cd3409d4645c8f8d355cf5L290"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Langostino - Decentralized AI Drone Pilot Platform / Learning / X (Removed in f658c3a )",
-                            "links": [
-                                {
-                                    "name": "f658c3a",
-                                    "url": "https://github.com/fmhy/edit/commit/f658c3ab289e498696a6517ea9ad992ffb76af3d#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL568"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MandraAnime - Anime / Sub (Removed in f658c3a )",
-                            "links": [
-                                {
-                                    "name": "f658c3a",
-                                    "url": "https://github.com/fmhy/edit/commit/f658c3ab289e498696a6517ea9ad992ffb76af3d#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1457"
                                 }
                             ]
                         }
@@ -228203,7 +228200,7 @@
                     "heading": "SMS Verification Sites",
                     "level": "h2",
                     "text_explanations": [
-                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,ReceiveSMSOnline,7sim,yunjiema,us-phone-number,shownumber,yunduanxin,smsget,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,receivesmsonline,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠7Sim,⁠TempSMSOnline,SMSReceiveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠Receive SMS Free,⁠TempBoxPro,⁠XNSMS,gettempnumber"
+                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,ReceiveSMSOnline,7sim,yunjiema,us-phone-number,shownumber,yunduanxin,smsget,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,receivesmsonline,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠7Sim,⁠TempSMSOnline,SMSReceiveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠Receive SMS Free,⁠TempBoxPro,⁠XNSMS,gettempnumber,ZUSMS"
                     ],
                     "resource_items": [
                         {
