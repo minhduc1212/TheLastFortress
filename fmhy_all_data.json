@@ -2379,7 +2379,7 @@
                             ]
                         },
                         {
-                            "full_text": "PrivNote , PrivateBin , SafeNote / , Burn.Link , ThisLinkWillSelfDestruct , s.cr , Yopass / , Hemmelig / , Burn My Note or OneTimeSecret / - Self-Destructing Messages / Private Notes",
+                            "full_text": "PrivNote , PrivateBin , One Time Secrets / , SafeNote / , Burn.Link , ThisLinkWillSelfDestruct , s.cr , Yopass / , Hemmelig / , Burn My Note or OneTimeSecret / - Self-Destructing Messages / Private Notes",
                             "links": [
                                 {
                                     "name": "PrivNote",
@@ -2388,6 +2388,14 @@
                                 {
                                     "name": "PrivateBin",
                                     "url": "https://privatebin.net/"
+                                },
+                                {
+                                    "name": "One Time Secrets",
+                                    "url": "https://ots.fyi/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Luzifer/ots"
                                 },
                                 {
                                     "name": "SafeNote",
@@ -4425,14 +4433,23 @@
                             ]
                         },
                         {
-                            "full_text": "4get , 2 - Metasearch / Instances /",
+                            "full_text": "Startpage - Google Based /",
+                            "links": [
+                                {
+                                    "name": "Startpage",
+                                    "url": "https://www.startpage.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/StartpageSearch/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "4get - Metasearch / Instances /",
                             "links": [
                                 {
                                     "name": "4get",
-                                    "url": "https://4get.canine.tools/"
-                                },
-                                {
-                                    "name": "2",
                                     "url": "https://4get.ca/"
                                 },
                                 {
@@ -4464,19 +4481,6 @@
                                 {
                                     "name": "⁠Nilch",
                                     "url": "https://nilch.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Startpage - Google Based /",
-                            "links": [
-                                {
-                                    "name": "Startpage",
-                                    "url": "https://www.startpage.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/StartpageSearch/"
                                 }
                             ]
                         },
@@ -6126,7 +6130,7 @@
                             ]
                         },
                         {
-                            "full_text": "Kimi - Kimi K2.6 / Slides / Google Login or Phone # Required / / /",
+                            "full_text": "Kimi - Kimi K2.6 / Kimi K3 / Slides / Google Login or Phone # Required / / /",
                             "links": [
                                 {
                                     "name": "Kimi",
@@ -11453,6 +11457,15 @@
                             ]
                         },
                         {
+                            "full_text": "Moovie - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Moovie",
+                                    "url": "https://moovie.fun/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cinevibe , 2 , 3 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11671,6 +11684,19 @@
                             ]
                         },
                         {
+                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Streamo",
+                                    "url": "https://streamo.pro/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/2q3bKwsDc"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Cinema.BZ - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11748,19 +11774,6 @@
                             ]
                         },
                         {
-                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Streamo",
-                                    "url": "https://streamo.pro/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/2q3bKwsDc"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "NetPlay or Cinelove - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11783,15 +11796,6 @@
                                 {
                                     "name": "XYRA",
                                     "url": "https://xyra.stream/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Moovie - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "Moovie",
-                                    "url": "https://moovie.fun/"
                                 }
                             ]
                         },
@@ -12474,19 +12478,23 @@
                             ]
                         },
                         {
-                            "full_text": "Primeshows or NetShows - Movies / TV / Anime /",
+                            "full_text": "1Shows , 1Flex or 1Tube - Movies / TV / Anime / Auto-Next / /",
                             "links": [
                                 {
-                                    "name": "Primeshows",
-                                    "url": "https://www.primeshows.org/"
+                                    "name": "1Shows",
+                                    "url": "https://www.1shows.org/"
                                 },
                                 {
-                                    "name": "NetShows",
-                                    "url": "https://netshows.xyz/"
+                                    "name": "1Flex",
+                                    "url": "https://www.1flex.org/"
+                                },
+                                {
+                                    "name": "1Tube",
+                                    "url": "https://www.1tube.org/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.com/invite/t2PnzRgKeM"
+                                    "url": "https://discord.gg/the-one"
                                 }
                             ]
                         },
@@ -12513,6 +12521,23 @@
                             ]
                         },
                         {
+                            "full_text": "Primeshows or NetShows - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "Primeshows",
+                                    "url": "https://www.primeshows.org/"
+                                },
+                                {
+                                    "name": "NetShows",
+                                    "url": "https://netshows.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/t2PnzRgKeM"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Anixtv , 2 , 3 - Movies / TV / Anime / Auto-Next / Status /",
                             "links": [
                                 {
@@ -12534,27 +12559,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/AGsGU5KUYy"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "1Shows , 1Flex or 1Tube - Movies / TV / Anime / /",
-                            "links": [
-                                {
-                                    "name": "1Shows",
-                                    "url": "https://www.1shows.org/"
-                                },
-                                {
-                                    "name": "1Flex",
-                                    "url": "https://www.1flex.org/"
-                                },
-                                {
-                                    "name": "1Tube",
-                                    "url": "https://www.1tube.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/the-one"
                                 }
                             ]
                         },
@@ -12730,7 +12734,7 @@
                             "links": [
                                 {
                                     "name": "Redflix",
-                                    "url": "https://redflix.co/"
+                                    "url": "https://redflix.one/"
                                 },
                                 {
                                     "name": "2",
@@ -14498,6 +14502,15 @@
                                 {
                                     "name": "AniLight",
                                     "url": "https://anilight.live/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AniHQ - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠AniHQ",
+                                    "url": "https://anihq.cc/"
                                 }
                             ]
                         },
@@ -16371,19 +16384,6 @@
                             ]
                         },
                         {
-                            "full_text": "Movish TV - TV / Sports /",
-                            "links": [
-                                {
-                                    "name": "Movish TV",
-                                    "url": "https://movish.net/live-broadcasts"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/FsbU2BQcjQ"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "uFreeTV - TV",
                             "links": [
                                 {
@@ -16935,6 +16935,15 @@
                             ]
                         },
                         {
+                            "full_text": "WatchSports - Stream Aggregator",
+                            "links": [
+                                {
+                                    "name": "WatchSports",
+                                    "url": "https://watchsports.my/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "DaddyLive , 2 - TV / Sports /",
                             "links": [
                                 {
@@ -17136,7 +17145,7 @@
                             ]
                         },
                         {
-                            "full_text": "StreamCorner , 2 , 3 , 4 / Status /",
+                            "full_text": "StreamCorner , 2 , 3 , 4 or StreamNinja , 2 / Status /",
                             "links": [
                                 {
                                     "name": "StreamCorner",
@@ -17155,6 +17164,14 @@
                                     "url": "https://streamcorner.fun/"
                                 },
                                 {
+                                    "name": "StreamNinja",
+                                    "url": "https://streamninja.cloud/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://streamninja.fun/"
+                                },
+                                {
                                     "name": "Status",
                                     "url": "https://beacons.ai/streamcorner"
                                 },
@@ -17169,7 +17186,7 @@
                             "links": [
                                 {
                                     "name": "⁠Streami",
-                                    "url": "https://streamic.ru/"
+                                    "url": "https://streamic.st/"
                                 }
                             ]
                         },
@@ -17602,6 +17619,15 @@
                                 {
                                     "name": "r/footballhighlights",
                                     "url": "https://www.reddit.com/r/footballhighlights/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ReFooty - Football Replays",
+                            "links": [
+                                {
+                                    "name": "ReFooty",
+                                    "url": "https://refooty.com/"
                                 }
                             ]
                         },
@@ -20606,7 +20632,7 @@
                                 },
                                 {
                                     "name": "Bye Sudo",
-                                    "url": "https://bye.undi.rest/"
+                                    "url": "https://stremio.ar0.eu/"
                                 },
                                 {
                                     "name": "⁠Stremio Perfect Setup",
@@ -23854,6 +23880,15 @@
                                 {
                                     "name": "2",
                                     "url": "https://github.com/sigma67/spotify_to_ytmusic"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠TunesToTube - Easily Upload Songs to YouTube",
+                            "links": [
+                                {
+                                    "name": "⁠TunesToTube",
+                                    "url": "https://www.tunestotube.com/"
                                 }
                             ]
                         },
@@ -28908,11 +28943,15 @@
                             ]
                         },
                         {
-                            "full_text": "Has it Leaked - Album Leak Tracker",
+                            "full_text": "Has it Leaked or LEAKED - Album Leak Tracker",
                             "links": [
                                 {
                                     "name": "Has it Leaked",
                                     "url": "https://hasitleaked.com/"
+                                },
+                                {
+                                    "name": "LEAKED",
+                                    "url": "https://leaked.cx/"
                                 }
                             ]
                         },
@@ -35325,11 +35364,11 @@
                             ]
                         },
                         {
-                            "full_text": "YARC-Official - Rock Band Clone / Launcher /",
+                            "full_text": "YARG - Rock Band Clone / Launcher / /",
                             "links": [
                                 {
-                                    "name": "YARC-Official",
-                                    "url": "https://github.com/YARC-Official"
+                                    "name": "YARG",
+                                    "url": "https://yarg.in/"
                                 },
                                 {
                                     "name": "Launcher",
@@ -35338,6 +35377,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/sqpu4R552r"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/YARC-Official"
                                 }
                             ]
                         },
@@ -38055,6 +38098,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Squishy Billiards - Daily Billiards Puzzle Game /",
+                            "links": [
+                                {
+                                    "name": "⁠Squishy Billiards",
+                                    "url": "https://squishybilliards.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/fkRCcvkhZh"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Pips - Daily Domino Puzzle",
                             "links": [
                                 {
@@ -39367,6 +39423,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/echochess"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Totally Normal Chess - Random-Rules Chess",
+                            "links": [
+                                {
+                                    "name": "⁠Totally Normal Chess",
+                                    "url": "https://chesschess.horse/"
                                 }
                             ]
                         },
@@ -45095,7 +45160,7 @@
                             ]
                         },
                         {
-                            "full_text": "KOReader - Ebook Reader / / Plugins , 2 /",
+                            "full_text": "KOReader - Ebook Reader / / Plugins , 2 / Settings Guide /",
                             "links": [
                                 {
                                     "name": "KOReader",
@@ -45108,6 +45173,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://github.com/koreader/contrib"
+                                },
+                                {
+                                    "name": "Settings Guide",
+                                    "url": "https://rentry.co/koreadersettings"
                                 },
                                 {
                                     "name": "",
@@ -45570,15 +45639,31 @@
                             ]
                         },
                         {
-                            "full_text": "Reader Mode or Tranquility - Article Readers / Managers",
+                            "full_text": "Firefox Reader , Tranquility , txtdot / Instances / or Reader Mode - Browser Read-Mode / Text-Only Tools",
                             "links": [
                                 {
-                                    "name": "Reader Mode",
-                                    "url": "https://readermode.io/"
+                                    "name": "Firefox Reader",
+                                    "url": "https://support.mozilla.org/en-US/kb/firefox-reader-view-clutter-free-web-pages"
                                 },
                                 {
                                     "name": "Tranquility",
                                     "url": "https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/"
+                                },
+                                {
+                                    "name": "txtdot",
+                                    "url": "https://txt.dc09.xyz/"
+                                },
+                                {
+                                    "name": "Instances",
+                                    "url": "https://github.com/TempoWorks/instances"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/TempoWorks/txtdot"
+                                },
+                                {
+                                    "name": "Reader Mode",
+                                    "url": "https://readermode.io/"
                                 }
                             ]
                         },
@@ -47735,6 +47820,15 @@
                                 {
                                     "name": "Read Comics Online",
                                     "url": "https://readcomicsonline.ru/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OceComic",
+                            "links": [
+                                {
+                                    "name": "OceComic",
+                                    "url": "https://ocecomic.com/"
                                 }
                             ]
                         },
@@ -52357,7 +52451,7 @@
                             ]
                         },
                         {
-                            "full_text": "Hardcover - Tracking / Reviews / Recommendations / KOReader Plugin /",
+                            "full_text": "Hardcover - Tracking / Reviews / Recommendations / KOReader Plugin / Settings Guide /",
                             "links": [
                                 {
                                     "name": "Hardcover",
@@ -52366,6 +52460,10 @@
                                 {
                                     "name": "KOReader Plugin",
                                     "url": "https://github.com/billiam/hardcoverapp.koplugin"
+                                },
+                                {
+                                    "name": "Settings Guide",
+                                    "url": "https://rentry.co/koreadersettings"
                                 },
                                 {
                                     "name": "",
@@ -63762,7 +63860,7 @@
                             ]
                         },
                         {
-                            "full_text": "Flag Guesser , ⁠Flagle , Flagdle , ⁠flagdoku or Flag Match - Flag Quizzes / Guessing",
+                            "full_text": "Flag Guesser , ⁠Flagle , FlagGuessr , Flagdle , ⁠flagdoku or Flag Match - Flag Quizzes / Guessing",
                             "links": [
                                 {
                                     "name": "Flag Guesser",
@@ -63771,6 +63869,10 @@
                                 {
                                     "name": "⁠Flagle",
                                     "url": "https://flagle-game.com/"
+                                },
+                                {
+                                    "name": "FlagGuessr",
+                                    "url": "https://flagguessr.app/"
                                 },
                                 {
                                     "name": "Flagdle",
@@ -63783,6 +63885,15 @@
                                 {
                                     "name": "Flag Match",
                                     "url": "https://flagmatch.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Vexle - Daily Flag Drawing Game",
+                            "links": [
+                                {
+                                    "name": "Vexle",
+                                    "url": "https://vexle.org/"
                                 }
                             ]
                         }
@@ -66570,7 +66681,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Language Links , LibreTexts Languages , /int/ Guide or r/LanguageLearning Resources - Language Learning Resources",
+                            "full_text": "Language Links , LibreTexts Languages , /int/ Guide , ⁠MondeLibrary or r/LanguageLearning Resources - Language Learning Resources",
                             "links": [
                                 {
                                     "name": "Language Links",
@@ -66583,6 +66694,10 @@
                                 {
                                     "name": "/int/ Guide",
                                     "url": "https://4chanint.miraheze.org/"
+                                },
+                                {
+                                    "name": "⁠MondeLibrary",
+                                    "url": "https://library.mondecast.com/?price=free"
                                 },
                                 {
                                     "name": "r/LanguageLearning Resources",
@@ -74206,6 +74321,15 @@
                             ]
                         },
                         {
+                            "full_text": "Collins Dictionary - Dictionary / Thesaurus",
+                            "links": [
+                                {
+                                    "name": "Collins Dictionary",
+                                    "url": "https://collinsdictionary.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PowerThesaurus - Thesaurus",
                             "links": [
                                 {
@@ -76190,15 +76314,11 @@
                             ]
                         },
                         {
-                            "full_text": "piko (Twitter) / PreBuilt / , ⁠Nitterium , ⁠QuaX or Squawker - Twitter / X Apps",
+                            "full_text": "piko (Twitter) / , ⁠Nitterium , ⁠QuaX or Squawker - Twitter / X Apps",
                             "links": [
                                 {
                                     "name": "piko (Twitter)",
                                     "url": "https://github.com/crimera/piko"
-                                },
-                                {
-                                    "name": "PreBuilt",
-                                    "url": "https://github.com/crimera/twitter-apk"
                                 },
                                 {
                                     "name": "",
@@ -78857,7 +78977,7 @@
                             ]
                         },
                         {
-                            "full_text": "Chatbox / , Box , Rikka AI / / , Maid , ChatterUI , Off Grid , ⁠Google AI Edge Gallery , Cherry Studio , ⁠ComfyChair or PocketPal AI - Local AI Chatbots",
+                            "full_text": "Chatbox / , Box , Rikka AI / / , Maid , ChatterUI , Off Grid , ⁠Google AI Edge Gallery , Cherry Studio , ⁠ComfyChair or PocketPal AI / - Local AI Chatbots",
                             "links": [
                                 {
                                     "name": "Chatbox",
@@ -78909,6 +79029,10 @@
                                 },
                                 {
                                     "name": "PocketPal AI",
+                                    "url": "https://pocketpal.dev/"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://github.com/a-ghorbani/pocketpal-ai"
                                 }
                             ]
@@ -81438,19 +81562,6 @@
                                 {
                                     "name": "GnssLogger",
                                     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Android-Mock-Location or GPS JoyStick Guide (root) - Fake GPS Location",
-                            "links": [
-                                {
-                                    "name": "Android-Mock-Location",
-                                    "url": "https://github.com/warren-bank/Android-Mock-Location"
-                                },
-                                {
-                                    "name": "GPS JoyStick Guide",
-                                    "url": "https://gpsjoystick.theappninjas.com/faq/"
                                 }
                             ]
                         },
@@ -84235,7 +84346,7 @@
                             "links": [
                                 {
                                     "name": "Showly",
-                                    "url": "https://github.com/michaldrabik/showly"
+                                    "url": "https://github.com/trakt/showly"
                                 }
                             ]
                         }
@@ -85056,7 +85167,7 @@
                             ]
                         },
                         {
-                            "full_text": "ChatGPT , Gemini , DeepSeek , Mollama , Chatbox / or PocketPal AI - AI Chatbots",
+                            "full_text": "ChatGPT , Gemini , DeepSeek , Mollama , Chatbox / or PocketPal AI / - AI Chatbots",
                             "links": [
                                 {
                                     "name": "ChatGPT",
@@ -85084,6 +85195,10 @@
                                 },
                                 {
                                     "name": "PocketPal AI",
+                                    "url": "https://pocketpal.dev/"
+                                },
+                                {
+                                    "name": "",
                                     "url": "https://github.com/a-ghorbani/pocketpal-ai"
                                 }
                             ]
@@ -87914,59 +88029,6 @@
                             ]
                         },
                         {
-                            "full_text": "Nuvio / Plugins / Wiki / Guides / / , ⁠NuvioMobile iOS , Fusion / , Forward / or Stremio - Movies / TV / Anime / Tools",
-                            "links": [
-                                {
-                                    "name": "Nuvio",
-                                    "url": "https://nuvio.tv/"
-                                },
-                                {
-                                    "name": "Plugins",
-                                    "url": "https://nuvio-plugin-library.vercel.app/"
-                                },
-                                {
-                                    "name": "Wiki / Guides",
-                                    "url": "https://nuvio.wiki/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/KVgDTjhA4H"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/tapframe/NuvioStreaming"
-                                },
-                                {
-                                    "name": "⁠NuvioMobile iOS",
-                                    "url": "https://github.com/luqmanfadlli/NuvioMobile-iOS"
-                                },
-                                {
-                                    "name": "Fusion",
-                                    "url": "https://fusionapp.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/frkaK2B2Y9"
-                                },
-                                {
-                                    "name": "Forward",
-                                    "url": "https://apps.apple.com/app/forward/id6503940939"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/forward_en"
-                                },
-                                {
-                                    "name": "Stremio",
-                                    "url": "https://www.stremio.com/"
-                                },
-                                {
-                                    "name": "Tools",
-                                    "url": "https://fmhy.net/video/#stremio-tools"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Luna - Movies / TV / Anime / Extension-Based / Modules /",
                             "links": [
                                 {
@@ -88010,6 +88072,55 @@
                                 {
                                     "name": "Synkplay",
                                     "url": "https://github.com/yuroyami/syncplay-mobile"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠NuvioMobile iOS / Plugins / Wiki / Guides / / , Fusion / , Forward / or Stremio - Movies / TV / Anime / Tools",
+                            "links": [
+                                {
+                                    "name": "⁠NuvioMobile iOS",
+                                    "url": "https://github.com/luqmanfadlli/NuvioMobile-iOS"
+                                },
+                                {
+                                    "name": "Plugins",
+                                    "url": "https://nuvio-plugin-library.vercel.app/"
+                                },
+                                {
+                                    "name": "Wiki / Guides",
+                                    "url": "https://nuvio.wiki/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/KVgDTjhA4H"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/tapframe/NuvioStreaming"
+                                },
+                                {
+                                    "name": "Fusion",
+                                    "url": "https://fusionapp.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/frkaK2B2Y9"
+                                },
+                                {
+                                    "name": "Forward",
+                                    "url": "https://apps.apple.com/app/forward/id6503940939"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/forward_en"
+                                },
+                                {
+                                    "name": "Stremio",
+                                    "url": "https://www.stremio.com/"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video/#stremio-tools"
                                 }
                             ]
                         },
@@ -90915,11 +91026,15 @@
                             ]
                         },
                         {
-                            "full_text": "Werman or NoiseTorch - Noise Suppression Software",
+                            "full_text": "Werman , ⁠HushMic or NoiseTorch - Noise Suppression Software",
                             "links": [
                                 {
                                     "name": "Werman",
                                     "url": "https://github.com/werman/noise-suppression-for-voice"
+                                },
+                                {
+                                    "name": "⁠HushMic",
+                                    "url": "https://github.com/Fovty/hushmic"
                                 },
                                 {
                                     "name": "NoiseTorch",
@@ -102695,6 +102810,19 @@
                                 {
                                     "name": "IndianSignLanguage",
                                     "url": "https://indiansignlanguage.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "RailRadar , 2 - India Live Train Map",
+                            "links": [
+                                {
+                                    "name": "RailRadar",
+                                    "url": "https://railradar.in/railradar"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://www.railjournal.in/"
                                 }
                             ]
                         }
@@ -115196,11 +115324,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Sports Reference - Sports Stats",
+                            "full_text": "⁠Sports Reference or ⁠The Analyst - Sports Stats / Analytics",
                             "links": [
                                 {
                                     "name": "⁠Sports Reference",
                                     "url": "https://www.sports-reference.com/"
+                                },
+                                {
+                                    "name": "⁠The Analyst",
+                                    "url": "https://theanalyst.com/"
                                 }
                             ]
                         },
@@ -116360,7 +116492,7 @@
                             "links": [
                                 {
                                     "name": "⁠Hong Kong Transit 3D",
-                                    "url": "https://onlineconversion.com/"
+                                    "url": "https://hktransit3d.pages.dev/"
                                 }
                             ]
                         },
@@ -116531,11 +116663,24 @@
                             ]
                         },
                         {
-                            "full_text": "carto.tchoo - French Live Train Map",
+                            "full_text": "carto.tchoo - France Live Train Map",
                             "links": [
                                 {
                                     "name": "carto.tchoo",
                                     "url": "https://carto.tchoo.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "RailRadar , 2 - India Live Train Map",
+                            "links": [
+                                {
+                                    "name": "RailRadar",
+                                    "url": "https://railradar.in/railradar"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://www.railjournal.in/"
                                 }
                             ]
                         },
@@ -118017,15 +118162,31 @@
                             ]
                         },
                         {
-                            "full_text": "Reader Mode or Tranquility - Article Readers / Managers",
+                            "full_text": "Firefox Reader , Tranquility , txtdot / Instances / or Reader Mode - Browser Read-Mode / Text-Only Tools",
                             "links": [
                                 {
-                                    "name": "Reader Mode",
-                                    "url": "https://readermode.io/"
+                                    "name": "Firefox Reader",
+                                    "url": "https://support.mozilla.org/en-US/kb/firefox-reader-view-clutter-free-web-pages"
                                 },
                                 {
                                     "name": "Tranquility",
                                     "url": "https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/"
+                                },
+                                {
+                                    "name": "txtdot",
+                                    "url": "https://txt.dc09.xyz/"
+                                },
+                                {
+                                    "name": "Instances",
+                                    "url": "https://github.com/TempoWorks/instances"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/TempoWorks/txtdot"
+                                },
+                                {
+                                    "name": "Reader Mode",
+                                    "url": "https://readermode.io/"
                                 }
                             ]
                         }
@@ -125944,27 +126105,6 @@
                                 {
                                     "name": "Chris Shier",
                                     "url": "https://www.csh.bz/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Babamos 88x31 , matdoes , 88x31 Buttons or Web Badges World - Oldschool 88x31 Web Badges",
-                            "links": [
-                                {
-                                    "name": "Babamos 88x31",
-                                    "url": "https://cyber.dabamos.de/88x31/index.html"
-                                },
-                                {
-                                    "name": "matdoes",
-                                    "url": "https://matdoes.dev/buttons"
-                                },
-                                {
-                                    "name": "88x31 Buttons",
-                                    "url": "https://anlucas.neocities.org/88x31Buttons"
-                                },
-                                {
-                                    "name": "Web Badges World",
-                                    "url": "https://web.badges.world/"
                                 }
                             ]
                         },
@@ -145244,7 +145384,7 @@
                             ]
                         },
                         {
-                            "full_text": "Betterviewer - Image View Mode",
+                            "full_text": "Betterviewer - Improved Web Image Viewer",
                             "links": [
                                 {
                                     "name": "Betterviewer",
@@ -147922,7 +148062,7 @@
                             ]
                         },
                         {
-                            "full_text": "Legcord - Discord Client / Lightweight / Privacy-Fork / /",
+                            "full_text": "Legcord - Discord Client / Privacy-Fork / /",
                             "links": [
                                 {
                                     "name": "Legcord",
@@ -147985,19 +148125,6 @@
                             ]
                         },
                         {
-                            "full_text": "abaddon - Discord Client Mod / Lightweight /",
-                            "links": [
-                                {
-                                    "name": "abaddon",
-                                    "url": "https://github.com/uowuo/abaddon"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/wkCU3vuzG5"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Discordo - Discord Terminal Client",
                             "links": [
                                 {
@@ -148016,7 +148143,7 @@
                             ]
                         },
                         {
-                            "full_text": "Dorion - Lightweight Discord Client /",
+                            "full_text": "Dorion - Discord Client Mod /",
                             "links": [
                                 {
                                     "name": "Dorion",
@@ -155386,11 +155513,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Emojipedia , List of Emojis , EmojiDB , Slackmojis , Emoji Picker or ⁠Emoji Guide - Emoji Indexes",
+                            "full_text": "Emojipedia , Emoji Charts , List of Emojis , EmojiDB , Slackmojis , Emoji Picker or ⁠Emoji Guide - Emoji Indexes",
                             "links": [
                                 {
                                     "name": "Emojipedia",
                                     "url": "https://emojipedia.org/"
+                                },
+                                {
+                                    "name": "Emoji Charts",
+                                    "url": "https://unicode.org/emoji/charts/"
                                 },
                                 {
                                     "name": "List of Emojis",
@@ -167360,21 +167491,16 @@
                             ]
                         },
                         {
-                            "full_text": "Nvidium - Nvidia OpenGL Rendering Mod /",
+                            "full_text": "Sodium / or VulkanMod / / - Vulkan Rendering Mods",
                             "links": [
                                 {
-                                    "name": "Nvidium",
-                                    "url": "https://modrinth.com/mod/nvidium"
+                                    "name": "Sodium",
+                                    "url": "https://modrinth.com/mod/sodium"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://github.com/MCRcortex/nvidium"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "VulkanMod - Vulkan Rendering Mod / /",
-                            "links": [
+                                    "url": "https://github.com/CaffeineMC/sodium"
+                                },
                                 {
                                     "name": "VulkanMod",
                                     "url": "https://modrinth.com/mod/vulkanmod"
@@ -167386,6 +167512,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/xCollateral/VulkanMod"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Nvidium - Nvidia OpenGL Rendering Mod /",
+                            "links": [
+                                {
+                                    "name": "Nvidium",
+                                    "url": "https://modrinth.com/mod/nvidium"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/MCRcortex/nvidium"
                                 }
                             ]
                         },
@@ -168099,7 +168238,7 @@
                             ]
                         },
                         {
-                            "full_text": "Iris Shaders - Fabric Shadermod for Minecraft",
+                            "full_text": "Iris Shaders - Shader Mod for Minecraft",
                             "links": [
                                 {
                                     "name": "Iris Shaders",
@@ -173632,7 +173771,7 @@
                             ]
                         },
                         {
-                            "full_text": "Giphy , Tenor , Gifer , GifCities , Animations or GIFBin - View / Download GIFs",
+                            "full_text": "Giphy , Tenor , Gifer , GIFVibe , GifCities , Animations or GIFBin - View / Download GIFs",
                             "links": [
                                 {
                                     "name": "Giphy",
@@ -173645,6 +173784,10 @@
                                 {
                                     "name": "Gifer",
                                     "url": "https://gifer.com/en"
+                                },
+                                {
+                                    "name": "GIFVibe",
+                                    "url": "https://gifvibe.com/"
                                 },
                                 {
                                     "name": "GifCities",
@@ -173718,7 +173861,7 @@
                             ]
                         },
                         {
-                            "full_text": "blinkies.cafe - Custom Retro Blinkie GIFs / Badges /",
+                            "full_text": "blinkies.cafe - Custom Retro Blinkie GIFs / 88x31 Badges /",
                             "links": [
                                 {
                                     "name": "blinkies.cafe",
@@ -173727,6 +173870,31 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/piconaut/blinkies.cafe"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Babamos 88x31 , matdoes , [88x31 Buttons]( https://anlucas.neocities.org/88x31Buttons , 88x31 Collection or Web Badges World - Download Oldschool 88x31 Web Badges",
+                            "links": [
+                                {
+                                    "name": "Babamos 88x31",
+                                    "url": "https://cyber.dabamos.de/88x31/index.html"
+                                },
+                                {
+                                    "name": "matdoes",
+                                    "url": "https://matdoes.dev/buttons"
+                                },
+                                {
+                                    "name": "https://anlucas.neocities.org/88x31Buttons",
+                                    "url": "https://anlucas.neocities.org/88x31Buttons"
+                                },
+                                {
+                                    "name": "88x31 Collection",
+                                    "url": "https://88x31.nl/"
+                                },
+                                {
+                                    "name": "Web Badges World",
+                                    "url": "https://web.badges.world/"
                                 }
                             ]
                         }
@@ -185953,6 +186121,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠TunesToTube - Easily Upload Songs to YouTube",
+                            "links": [
+                                {
+                                    "name": "⁠TunesToTube",
+                                    "url": "https://www.tunestotube.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "YT Upload Clear - Script to Clear Uploaded Songs",
                             "links": [
                                 {
@@ -191003,11 +191180,15 @@
                             ]
                         },
                         {
-                            "full_text": "Has it Leaked - Album Leak Tracker",
+                            "full_text": "Has it Leaked or LEAKED - Album Leak Tracker",
                             "links": [
                                 {
                                     "name": "Has it Leaked",
                                     "url": "https://hasitleaked.com/"
+                                },
+                                {
+                                    "name": "LEAKED",
+                                    "url": "https://leaked.cx/"
                                 }
                             ]
                         },
@@ -202115,7 +202296,7 @@
                             ]
                         },
                         {
-                            "full_text": "Flag Guesser , ⁠Flagle , Flagdle , ⁠flagdoku or Flag Match - Flag Quizzes / Guessing",
+                            "full_text": "Flag Guesser , ⁠Flagle , FlagGuessr , Flagdle , ⁠flagdoku or Flag Match - Flag Quizzes / Guessing",
                             "links": [
                                 {
                                     "name": "Flag Guesser",
@@ -202124,6 +202305,10 @@
                                 {
                                     "name": "⁠Flagle",
                                     "url": "https://flagle-game.com/"
+                                },
+                                {
+                                    "name": "FlagGuessr",
+                                    "url": "https://flagguessr.app/"
                                 },
                                 {
                                     "name": "Flagdle",
@@ -202136,6 +202321,15 @@
                                 {
                                     "name": "Flag Match",
                                     "url": "https://flagmatch.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Vexle - Daily Flag Drawing Game",
+                            "links": [
+                                {
+                                    "name": "Vexle",
+                                    "url": "https://vexle.org/"
                                 }
                             ]
                         }
@@ -204923,7 +205117,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Language Links , LibreTexts Languages , /int/ Guide or r/LanguageLearning Resources - Language Learning Resources",
+                            "full_text": "Language Links , LibreTexts Languages , /int/ Guide , ⁠MondeLibrary or r/LanguageLearning Resources - Language Learning Resources",
                             "links": [
                                 {
                                     "name": "Language Links",
@@ -204936,6 +205130,10 @@
                                 {
                                     "name": "/int/ Guide",
                                     "url": "https://4chanint.miraheze.org/"
+                                },
+                                {
+                                    "name": "⁠MondeLibrary",
+                                    "url": "https://library.mondecast.com/?price=free"
                                 },
                                 {
                                     "name": "r/LanguageLearning Resources",
@@ -212559,6 +212757,15 @@
                             ]
                         },
                         {
+                            "full_text": "Collins Dictionary - Dictionary / Thesaurus",
+                            "links": [
+                                {
+                                    "name": "Collins Dictionary",
+                                    "url": "https://collinsdictionary.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PowerThesaurus - Thesaurus",
                             "links": [
                                 {
@@ -217974,7 +218181,7 @@
                             ]
                         },
                         {
-                            "full_text": "Kimi - Kimi K2.6 (Thinking) / Coding AI / Google Login or Phone # Required / / /",
+                            "full_text": "Kimi - Kimi K2.6 (Thinking) / / Kimi K3 / Coding AI / Google Login or Phone # Required / / /",
                             "links": [
                                 {
                                     "name": "Kimi",
@@ -225026,6 +225233,15 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Android-Mock-Location or GPS JoyStick Guide (root) - Fake GPS Location (Removed in 2e551a6 )",
+                            "links": [
+                                {
+                                    "name": "2e551a6",
+                                    "url": "https://github.com/fmhy/edit/commit/2e551a6be02d48ac653e2b59c9cf41e74ad42f1e#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L715"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "DooDrive - 2GB / 30 Days / Requires Sign-Up (Removed in e75c538 )",
                             "links": [
                                 {
@@ -226043,15 +226259,6 @@
                                 {
                                     "name": "d5473be",
                                     "url": "https://github.com/fmhy/edit/commit/d5473be36edff3b0230993745aa567d8c12151ff#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL554"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Display Calc - Display Distance / Dimension Calculator (Removed in 27256b4 )",
-                            "links": [
-                                {
-                                    "name": "27256b4",
-                                    "url": "https://github.com/fmhy/edit/commit/27256b41d0d46ff5b42edaa923ca716adcea07a2#diff-b35ef55ca61a4c86623997efc3296e00f7eae488e1cd3409d4645c8f8d355cf5L290"
                                 }
                             ]
                         }
@@ -227238,10 +227445,14 @@
                             ]
                         },
                         {
-                            "full_text": "Nine Circles Demonlist / Discord",
+                            "full_text": "Nine Circles Demonlist / Doc / Discord",
                             "links": [
                                 {
                                     "name": "Nine Circles Demonlist",
+                                    "url": "https://ninecirclesdemonlist.com/"
+                                },
+                                {
+                                    "name": "Doc",
                                     "url": "https://sites.google.com/view/nine-circles-demonlist/home"
                                 },
                                 {
