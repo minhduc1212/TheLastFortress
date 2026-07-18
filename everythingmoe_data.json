@@ -23636,7 +23636,7 @@
         {
           "id": "phoscityguide",
           "title": "Phos's Fansubbing Guide",
-          "link": "https://phoscity.github.io/",
+          "link": "https://phoscity.github.io/Phos-Fansubbing-Guide/Typesetting/Background/",
           "icon": "https://static.everythingmoe.com/icons/phoscityguide.png",
           "tags": [],
           "rank": 16,
@@ -23650,6 +23650,12 @@
               "Guide & explanation of fansub work (Typesetting)",
               "Very detailed",
               "Open source guide"
+            ],
+            "altlinks": [
+              {
+                "name": "Git repo",
+                "url": "https://github.com/PhosCity/Phos-Fansubbing-Guide"
+              }
             ]
           }
         },
@@ -59119,7 +59125,7 @@
     "phoscityguide": {
       "id": "phoscityguide",
       "title": "Phos's Fansubbing Guide",
-      "link": "https://phoscity.github.io/",
+      "link": "https://phoscity.github.io/Phos-Fansubbing-Guide/Typesetting/Background/",
       "icon": "https://static.everythingmoe.com/icons/phoscityguide.png",
       "tags": [],
       "is_licensed": false,
@@ -59133,6 +59139,12 @@
           "Guide & explanation of fansub work (Typesetting)",
           "Very detailed",
           "Open source guide"
+        ],
+        "altlinks": [
+          {
+            "name": "Git repo",
+            "url": "https://github.com/PhosCity/Phos-Fansubbing-Guide"
+          }
         ]
       }
     },
