@@ -2770,14 +2770,14 @@
                             ]
                         },
                         {
-                            "full_text": "Beginner Privacy - Beginners Privacy Guide / Checklist / Mastodon / /",
+                            "full_text": "Beginner Privacy - Beginners Privacy Guide / Checklist / / /",
                             "links": [
                                 {
                                     "name": "Beginner Privacy",
                                     "url": "https://beginnerprivacy.com/"
                                 },
                                 {
-                                    "name": "Mastodon",
+                                    "name": "",
                                     "url": "https://mastodon.social/@BeginnerPrivacy"
                                 },
                                 {
@@ -11685,6 +11685,15 @@
                             ]
                         },
                         {
+                            "full_text": "BingeBang - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "BingeBang",
+                                    "url": "https://bingebang.tv/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "NomorFlix , 2 , 3 - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11828,6 +11837,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/XyMuMpnvF4"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Zencine - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "Zencine",
+                                    "url": "https://zencine.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/xRQYcmKVT"
                                 }
                             ]
                         },
@@ -12128,6 +12150,24 @@
                                 {
                                     "name": "Streaming Unity",
                                     "url": "https://streamingunity.dog/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Ernax - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Ernax",
+                                    "url": "https://ernax.pro/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "VaultPlayer - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "VaultPlayer",
+                                    "url": "https://vaultplayer.co.uk/"
                                 }
                             ]
                         },
@@ -35079,7 +35119,7 @@
                             ]
                         },
                         {
-                            "full_text": "Team Forever - Sonic 1 & 2 Enhanced / S1F Mods / S2A Mods / YouTube / BlueSky",
+                            "full_text": "Team Forever - Sonic 1 & 2 Enhanced / S1F Mods / S2A Mods / YouTube /",
                             "links": [
                                 {
                                     "name": "Team Forever",
@@ -35098,7 +35138,7 @@
                                     "url": "https://www.youtube.com/@teamforeverdev"
                                 },
                                 {
-                                    "name": "BlueSky",
+                                    "name": "",
                                     "url": "https://bsky.app/profile/teamforever.bsky.social"
                                 }
                             ]
@@ -63867,11 +63907,15 @@
                             ]
                         },
                         {
-                            "full_text": "Vexle - Daily Flag Drawing Game",
+                            "full_text": "Vexle or Vexle.net - Daily Flag Drawing Game",
                             "links": [
                                 {
                                     "name": "Vexle",
                                     "url": "https://vexle.org/"
+                                },
+                                {
+                                    "name": "Vexle.net",
+                                    "url": "https://vexle.net/"
                                 }
                             ]
                         }
@@ -79905,11 +79949,15 @@
                             ]
                         },
                         {
-                            "full_text": "NativeAlpha - Run Websites in Borderless Window",
+                            "full_text": "NativeAlpha - Run Websites in Borderless Window /",
                             "links": [
                                 {
                                     "name": "NativeAlpha",
                                     "url": "https://play.google.com/store/apps/details?id=com.cylonid.nativealpha"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/cylonid/NativeAlphaForAndroid"
                                 }
                             ]
                         },
@@ -87387,7 +87435,7 @@
                             ]
                         },
                         {
-                            "full_text": "Ice Cubes , Gazzetta or Mastodon - Mastodon Clients",
+                            "full_text": "Ice Cubes , Gazzetta or - Mastodon Clients",
                             "links": [
                                 {
                                     "name": "Ice Cubes",
@@ -87398,7 +87446,7 @@
                                     "url": "https://apps.apple.com/app/id6738706671"
                                 },
                                 {
-                                    "name": "Mastodon",
+                                    "name": "",
                                     "url": "https://apps.apple.com/app/id1571998974"
                                 }
                             ]
@@ -149324,11 +149372,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Reveddit , ⁠Reddit Restore (Userscript), redditOSINT / , Ghostddit or Reddit Uncensored - View Deleted / Hidden Reddit Posts + Comments",
+                            "full_text": "Reveddit , rOSINT+ / , ⁠Reddit Restore (Userscript), redditOSINT / , Ghostddit or Reddit Uncensored - View Deleted / Hidden Reddit Posts + Comments",
                             "links": [
                                 {
                                     "name": "Reveddit",
                                     "url": "https://www.reveddit.com/"
+                                },
+                                {
+                                    "name": "rOSINT+",
+                                    "url": "https://rosintplus.github.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/rosintplus/rosintplus.github.io"
                                 },
                                 {
                                     "name": "⁠Reddit Restore",
@@ -153527,7 +153583,7 @@
                             ]
                         },
                         {
-                            "full_text": "Lemmy / Tools , Mastodon / Tools , Diaspora or Friendica - Decentralized Social Networks",
+                            "full_text": "Lemmy / Tools , / Tools , Diaspora or Friendica - Decentralized Social Networks",
                             "links": [
                                 {
                                     "name": "Lemmy",
@@ -153538,7 +153594,7 @@
                                     "url": "https://fmhy.net/social-media-tools/#lemmy-tools"
                                 },
                                 {
-                                    "name": "Mastodon",
+                                    "name": "",
                                     "url": "https://joinmastodon.org/"
                                 },
                                 {
@@ -157030,15 +157086,6 @@
                                 {
                                     "name": "TextSlave",
                                     "url": "https://www.textslave.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GhostText - Cloud Saves",
-                            "links": [
-                                {
-                                    "name": "GhostText",
-                                    "url": "https://ghosttext.fregante.com/"
                                 }
                             ]
                         },
@@ -165240,14 +165287,14 @@
                             ]
                         },
                         {
-                            "full_text": "WiiLink - Wii Channel Restoration / BlueSky / / /",
+                            "full_text": "WiiLink - Wii Channel Restoration / / / /",
                             "links": [
                                 {
                                     "name": "WiiLink",
                                     "url": "https://wiilink.ca/"
                                 },
                                 {
-                                    "name": "BlueSky",
+                                    "name": "",
                                     "url": "https://bsky.app/profile/wiilink.ca"
                                 },
                                 {
@@ -165265,7 +165312,7 @@
                             ]
                         },
                         {
-                            "full_text": "Wiimmfi or WiiLink WFC / BlueSky / / - Wii Multiplayer Servers",
+                            "full_text": "Wiimmfi or WiiLink WFC / / / - Wii Multiplayer Servers",
                             "links": [
                                 {
                                     "name": "Wiimmfi",
@@ -165276,7 +165323,7 @@
                                     "url": "https://wfc.wiilink.ca/"
                                 },
                                 {
-                                    "name": "BlueSky",
+                                    "name": "",
                                     "url": "https://bsky.app/profile/wiilink.ca"
                                 },
                                 {
@@ -202453,11 +202500,15 @@
                             ]
                         },
                         {
-                            "full_text": "Vexle - Daily Flag Drawing Game",
+                            "full_text": "Vexle or Vexle.net - Daily Flag Drawing Game",
                             "links": [
                                 {
                                     "name": "Vexle",
                                     "url": "https://vexle.org/"
+                                },
+                                {
+                                    "name": "Vexle.net",
+                                    "url": "https://vexle.net/"
                                 }
                             ]
                         }
@@ -225387,6 +225438,15 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "GhostText - Cloud Saves (Removed in b9400f9 )",
+                            "links": [
+                                {
+                                    "name": "b9400f9",
+                                    "url": "https://github.com/fmhy/edit/commit/b9400f9bcfda4a59d2e37b21900af896c1caf031#diff-22677cf783b082896ee54428761a2137c7e8e2b6385dee44f986c2f72194e222L299"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "PolitePol (Removed in dd2a8b4 , PR #_5798 : , fix lint errors (#_5798))",
                             "links": [
