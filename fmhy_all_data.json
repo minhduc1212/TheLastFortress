@@ -5067,28 +5067,56 @@
                             ]
                         },
                         {
-                            "full_text": "⁠WireSock or ⁠Tunnl - WireGuard Split Tunneling Clients",
+                            "full_text": "⁠WireSock , Amnezia , 2 / / / / or TunnlTo - Split Tunneling Clients",
                             "links": [
                                 {
                                     "name": "⁠WireSock",
                                     "url": "https://wiresock.net/"
                                 },
                                 {
-                                    "name": "⁠Tunnl",
+                                    "name": "Amnezia",
+                                    "url": "https://amnezia.org/self-hosted"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://storage.googleapis.com/amnezia/amnezia.org"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/AmneziaVPN/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/JfrKFScw6N"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/amnezia_vpn_en"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/amnezia-vpn"
+                                },
+                                {
+                                    "name": "TunnlTo",
                                     "url": "https://tunnl.to/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "WG Tunnel - WireGuard Client / AmneziaWG / / Desktop / /",
+                            "full_text": "WG Tunnel - WireGuard & AmneziaWG Client / Android / Desktop / /",
                             "links": [
                                 {
                                     "name": "WG Tunnel",
                                     "url": "https://wgtunnel.com/"
                                 },
                                 {
+                                    "name": "Android",
+                                    "url": "https://github.com/wgtunnel/android"
+                                },
+                                {
                                     "name": "Desktop",
-                                    "url": "https://wgtunnel.com/blog/desktop-launch/"
+                                    "url": "https://github.com/wgtunnel/desktop"
                                 },
                                 {
                                     "name": "",
@@ -5322,35 +5350,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/SagerNet/sing-box"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Amnezia , 2 - Multi Protocol Server / / / /",
-                            "links": [
-                                {
-                                    "name": "Amnezia",
-                                    "url": "https://amnezia.org/self-hosted"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://storage.googleapis.com/amnezia/amnezia.org"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/AmneziaVPN/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/JfrKFScw6N"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/amnezia_vpn_en"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/amnezia-vpn"
                                 }
                             ]
                         },
@@ -6042,6 +6041,27 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Qwen Studio - Qwen3.8 Max / Qwen3.7 Plus / Sign-Up / / /",
+                            "links": [
+                                {
+                                    "name": "Qwen Studio",
+                                    "url": "https://chat.qwen.ai/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/Qwen_AI/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/CV4E9rpNSD"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/QwenLM"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "DeepSeek - DeepSeek V4 Pro (Expert) / DeepSeek V4 Flash (Instant) / Sign-Up / Unlimited / Add Features / / /",
                             "links": [
                                 {
@@ -6147,27 +6167,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/MoonshotAI"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Qwen - Qwen3.7 Max / Qwen3.7 Plus / Sign-Up / / /",
-                            "links": [
-                                {
-                                    "name": "Qwen",
-                                    "url": "https://chat.qwen.ai/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/Qwen_AI/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/CV4E9rpNSD"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/QwenLM"
                                 }
                             ]
                         },
@@ -6386,15 +6385,11 @@
                             ]
                         },
                         {
-                            "full_text": "Tencent Hy3 - ⁠Hy3 / Unlimited / Sign-Up / Use Translator",
+                            "full_text": "Tencent AI Studio - ⁠Hy3 / Unlimited / Sign-Up",
                             "links": [
                                 {
-                                    "name": "Tencent Hy3",
+                                    "name": "Tencent AI Studio",
                                     "url": "https://aistudio.tencent.com/"
-                                },
-                                {
-                                    "name": "Translator",
-                                    "url": "https://fmhy.net/text-tools/#translators"
                                 }
                             ]
                         },
@@ -8096,19 +8091,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/gemini"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠DaFreeAI - Unlimited / GPT Image 2 / Nano Banana Pro / Discord Sign-Up /",
-                            "links": [
-                                {
-                                    "name": "⁠DaFreeAI",
-                                    "url": "https://www.dafreeai.site/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/MjMDC3ex"
                                 }
                             ]
                         },
@@ -11179,27 +11161,6 @@
                             ]
                         },
                         {
-                            "full_text": "MeowTV , FlickyStream or CineMora - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "MeowTV",
-                                    "url": "https://meowtv.ru/"
-                                },
-                                {
-                                    "name": "FlickyStream",
-                                    "url": "https://flickystream.dad/"
-                                },
-                                {
-                                    "name": "CineMora",
-                                    "url": "https://cinemora.ru/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/the-raven"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Coreflix - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11320,6 +11281,19 @@
                             ]
                         },
                         {
+                            "full_text": "Cinetaro - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Cinetaro",
+                                    "url": "https://cinetaro.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/4yGUxdz3h9"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "dulo.tv - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11381,19 +11355,6 @@
                                 {
                                     "name": "Shiopa",
                                     "url": "https://shiopa.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinetaro - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinetaro",
-                                    "url": "https://cinetaro.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/4yGUxdz3h9"
                                 }
                             ]
                         },
@@ -11501,6 +11462,27 @@
                             ]
                         },
                         {
+                            "full_text": "MeowTV , FlickyStream or CineMora - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "MeowTV",
+                                    "url": "https://meowtv.ru/"
+                                },
+                                {
+                                    "name": "FlickyStream",
+                                    "url": "https://flickystream.dad/"
+                                },
+                                {
+                                    "name": "CineMora",
+                                    "url": "https://cinemora.ru/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/the-raven"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Flixtrz - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11574,6 +11556,19 @@
                             ]
                         },
                         {
+                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Streamo",
+                                    "url": "https://streamo.pro/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/2q3bKwsDc"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "OpStream - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11608,19 +11603,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/UHYrFbvu4z"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Streamo - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Streamo",
-                                    "url": "https://streamo.pro/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/2q3bKwsDc"
                                 }
                             ]
                         },
@@ -11845,7 +11827,7 @@
                             "links": [
                                 {
                                     "name": "Zencine",
-                                    "url": "https://zencine.org/"
+                                    "url": "https://discord.gg/beWuUrKhHP"
                                 },
                                 {
                                     "name": "",
@@ -16894,7 +16876,7 @@
                             "links": [
                                 {
                                     "name": "WatchSports",
-                                    "url": "https://watchsports.my/"
+                                    "url": "https://watchsports.su/"
                                 }
                             ]
                         },
@@ -48221,11 +48203,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Comix / /",
+                            "full_text": "⁠Comix , 2 / /",
                             "links": [
                                 {
                                     "name": "⁠Comix",
                                     "url": "https://comix.to/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://comix.ws/"
                                 },
                                 {
                                     "name": "",
@@ -77826,7 +77812,7 @@
                             ]
                         },
                         {
-                            "full_text": "BCR / GUI , ⁠ShizuCallRecorder or ⁠TTSLexx - Call Recorder / Check Local Call Recording Laws",
+                            "full_text": "BCR (root) / GUI , ⁠ShizuCallRecorder or ⁠TTSLexx - Call Recorder / Check Local Call Recording Laws",
                             "links": [
                                 {
                                     "name": "BCR",
@@ -86703,6 +86689,15 @@
                                 {
                                     "name": "⁠Ksign",
                                     "url": "https://github.com/Nyasami/Ksign"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LiveContainer - iOS App Container Launcher",
+                            "links": [
+                                {
+                                    "name": "LiveContainer",
+                                    "url": "https://github.com/LiveContainer/LiveContainer"
                                 }
                             ]
                         },
@@ -111682,14 +111677,14 @@
                             ]
                         },
                         {
-                            "full_text": "dolthpt or tuhoc - Exam Prep",
+                            "full_text": "DOL THPT or DOL IELTS - Exam Prep",
                             "links": [
                                 {
-                                    "name": "dolthpt",
+                                    "name": "DOL THPT",
                                     "url": "https://dolthpt.vn/"
                                 },
                                 {
-                                    "name": "tuhoc",
+                                    "name": "DOL IELTS",
                                     "url": "https://tuhoc.dolenglish.vn/"
                                 }
                             ]
@@ -124744,6 +124739,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠ToolKnit - Image / Video / PDF / Audio / File",
+                            "links": [
+                                {
+                                    "name": "⁠ToolKnit",
+                                    "url": "https://toolknit.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "uFreeTools - Text / Code",
                             "links": [
                                 {
@@ -136937,6 +136941,15 @@
                                 {
                                     "name": "⁠Phone Link",
                                     "url": "https://www.microsoft.com/windows/sync-across-your-devices"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Google Quick Share - Hybrid /",
+                            "links": [
+                                {
+                                    "name": "Google Quick Share",
+                                    "url": "https://www.android.com/quick-share/"
                                 }
                             ]
                         },
@@ -154995,11 +155008,15 @@
                             ]
                         },
                         {
-                            "full_text": "Translate Web Pages (firefox) or Linguist Translator - Browser Extensions",
+                            "full_text": "Translate Web Pages (firefox), ⁠KISS Translator or Linguist Translator - Browser Extensions",
                             "links": [
                                 {
                                     "name": "Translate Web Pages",
                                     "url": "https://github.com/FilipePS/Traduzir-paginas-web"
+                                },
+                                {
+                                    "name": "⁠KISS Translator",
+                                    "url": "https://github.com/fishjar/kiss-translator/blob/dev/README.en.md"
                                 },
                                 {
                                     "name": "Linguist Translator",
@@ -167069,7 +167086,7 @@
                             ]
                         },
                         {
-                            "full_text": "ATLauncher - Modpack Launcher / /",
+                            "full_text": "ATLauncher - Modpack Launcher / / /",
                             "links": [
                                 {
                                     "name": "ATLauncher",
@@ -167078,6 +167095,10 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/B7TrrzH"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ATLauncher/ATLauncher"
                                 }
                             ]
                         },
@@ -167411,6 +167432,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/curseforge"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠ModDex - Minecraft Mods /",
+                            "links": [
+                                {
+                                    "name": "⁠ModDex",
+                                    "url": "https://moddex.gg/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/tRNZcpJbqY"
                                 }
                             ]
                         },
@@ -169393,11 +169427,15 @@
                             ]
                         },
                         {
-                            "full_text": "Tabletopy or Tabletop Audio - Immersive SFX / Music for TTRPGs",
+                            "full_text": "Tabletopy , Pocket Bard or Tabletop Audio - Immersive SFX / Music for TTRPGs",
                             "links": [
                                 {
                                     "name": "Tabletopy",
                                     "url": "https://tabletopy.com/"
+                                },
+                                {
+                                    "name": "Pocket Bard",
+                                    "url": "https://www.pocketbard.app/"
                                 },
                                 {
                                     "name": "Tabletop Audio",
@@ -173994,7 +174032,7 @@
                             ]
                         },
                         {
-                            "full_text": "Ultimate 88x31 Generator or blinkies.cafe / - Create Retro Blinkie GIFs / 88x31 Badges",
+                            "full_text": "Ultimate 88x31 Generator , blinkies.cafe / or ⁠88x31px Button Generator - Create Retro Blinkie GIFs / 88x31 Badges",
                             "links": [
                                 {
                                     "name": "Ultimate 88x31 Generator",
@@ -174007,6 +174045,10 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/piconaut/blinkies.cafe"
+                                },
+                                {
+                                    "name": "⁠88x31px Button Generator",
+                                    "url": "https://88x31.datakra.sh/"
                                 }
                             ]
                         },
@@ -225825,15 +225867,6 @@
                             ]
                         },
                         {
-                            "full_text": "LiveContainer - Run Apps Without Installing / Bypass Sidestore limits (Removed in e463975 )",
-                            "links": [
-                                {
-                                    "name": "e463975",
-                                    "url": "https://github.com/fmhy/edit/commit/e463975c2acaa654e25228329b4d312d1a46a408#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L1224"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "j315 - Movies / TV / Anime (Removed in e463975 )",
                             "links": [
                                 {
@@ -226397,15 +226430,6 @@
                                 {
                                     "name": "d58b425",
                                     "url": "https://github.com/fmhy/edit/commit/d58b4251b3e871c856607f707525cd67398e2df8#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL1001"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome Pokémon - Pokémon Resources (Removed in 05f5403 )",
-                            "links": [
-                                {
-                                    "name": "05f5403",
-                                    "url": "https://github.com/fmhy/edit/commit/05f5403eeda596af03dde2a198184dcca3817848#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L1009"
                                 }
                             ]
                         }

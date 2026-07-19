@@ -2635,6 +2635,31 @@
           }
         },
         {
+          "id": "animegers",
+          "title": "Animegers",
+          "link": "https://animegers.com/",
+          "icon": "https://static.everythingmoe.com/icons/animegers.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 67,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources & language"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "kaorii",
           "title": "Kaori",
           "link": "https://kaorii.app/",
@@ -2644,7 +2669,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2668,7 +2693,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2695,7 +2720,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2720,7 +2745,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2738,54 +2763,6 @@
           }
         },
         {
-          "id": "nekowatch",
-          "title": "NekoWatch",
-          "link": "https://nekowatch.xyz/",
-          "icon": "https://static.everythingmoe.com/icons/nekowatch.png",
-          "tags": [
-            "mult"
-          ],
-          "rank": 71,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ]
-          }
-        },
-        {
-          "id": "animegers",
-          "title": "Animegers",
-          "link": "https://animegers.com/",
-          "icon": "https://static.everythingmoe.com/icons/animegers.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 72,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources & language"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ]
-          }
-        },
-        {
           "id": "kawaiianime",
           "title": "Kawaii Anime",
           "link": "https://kawaii-anime.com/",
@@ -2795,7 +2772,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2812,6 +2789,52 @@
           }
         },
         {
+          "id": "anixo",
+          "title": "AniXo",
+          "link": "https://anixo.online/",
+          "icon": "https://static.everythingmoe.com/icons/anixo.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 73,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
+          "id": "nekowatch",
+          "title": "NekoWatch",
+          "link": "https://nekowatch.xyz/",
+          "icon": "https://static.everythingmoe.com/icons/nekowatch.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 74,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "shinora",
           "title": "Zanora",
           "link": "https://zanora.lol/home",
@@ -2822,7 +2845,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2855,7 +2878,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2880,7 +2903,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2921,7 +2944,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2968,7 +2991,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2995,7 +3018,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3040,7 +3063,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3068,7 +3091,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3102,7 +3125,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3148,7 +3171,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3175,7 +3198,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3215,7 +3238,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3249,7 +3272,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3322,7 +3345,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 87,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19254,6 +19277,7 @@
             ],
             "negatives": [
               "Anime only",
+              "Download require login",
               "NZB only"
             ],
             "info": "note: This is very new site"
@@ -38294,6 +38318,31 @@
         "domains": "streamzone1.site"
       }
     },
+    "animegers": {
+      "id": "animegers",
+      "title": "Animegers",
+      "link": "https://animegers.com/",
+      "icon": "https://static.everythingmoe.com/icons/animegers.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources & language"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "kaorii": {
       "id": "kaorii",
       "title": "Kaori",
@@ -38397,54 +38446,6 @@
         "info": "note: Also self host some anime"
       }
     },
-    "nekowatch": {
-      "id": "nekowatch",
-      "title": "NekoWatch",
-      "link": "https://nekowatch.xyz/",
-      "icon": "https://static.everythingmoe.com/icons/nekowatch.png",
-      "tags": [
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
-      }
-    },
-    "animegers": {
-      "id": "animegers",
-      "title": "Animegers",
-      "link": "https://animegers.com/",
-      "icon": "https://static.everythingmoe.com/icons/animegers.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources & language"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
-      }
-    },
     "kawaiianime": {
       "id": "kawaiianime",
       "title": "Kawaii Anime",
@@ -38469,6 +38470,52 @@
           "Content depends on the websites it scrapes"
         ],
         "info": "note: Arabic website, but have english language"
+      }
+    },
+    "anixo": {
+      "id": "anixo",
+      "title": "AniXo",
+      "link": "https://anixo.online/",
+      "icon": "https://static.everythingmoe.com/icons/anixo.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
+    "nekowatch": {
+      "id": "nekowatch",
+      "title": "NekoWatch",
+      "link": "https://nekowatch.xyz/",
+      "icon": "https://static.everythingmoe.com/icons/nekowatch.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
       }
     },
     "shinora": {
@@ -54824,6 +54871,7 @@
         ],
         "negatives": [
           "Anime only",
+          "Download require login",
           "NZB only"
         ],
         "info": "note: This is very new site"
