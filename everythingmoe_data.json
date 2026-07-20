@@ -2934,6 +2934,31 @@
           }
         },
         {
+          "id": "sankanime",
+          "title": "Sankanime",
+          "link": "https://sankanime.web.id/",
+          "icon": "https://static.everythingmoe.com/icons/sankanime.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 78,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "aniwaveclones",
           "title": "aniwavecomse",
           "link": "https://aniwave.com.se/",
@@ -2944,7 +2969,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2991,7 +3016,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3018,7 +3043,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3063,7 +3088,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3091,7 +3116,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3125,7 +3150,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3171,7 +3196,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3198,7 +3223,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3238,7 +3263,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3272,7 +3297,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 87,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3345,7 +3370,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 88,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -4374,11 +4399,12 @@
           "section": "hentai",
           "details": {
             "positives": [
-              "Provides quick download",
+              "Provides download",
               "Simple multi quality mp4 stream"
             ],
             "negatives": [
-              "Medium-small library"
+              "Lock download behind login",
+              "Lock higher resolution behind login"
             ]
           }
         },
@@ -7824,6 +7850,31 @@
           }
         },
         {
+          "id": "omanga",
+          "title": "oManga",
+          "link": "https://omanga.to/",
+          "icon": "https://static.everythingmoe.com/icons/omanga.png",
+          "tags": [
+            "Official Rips"
+          ],
+          "rank": 40,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Nice interface",
+              "Multi scan support"
+            ],
+            "negatives": [
+              "New site",
+              "Medium library"
+            ]
+          }
+        },
+        {
           "id": "godacomic",
           "title": "GodaComic",
           "link": "https://manhuascans.org/",
@@ -7831,7 +7882,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7864,7 +7915,7 @@
             "licensed",
             "physical"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -7895,7 +7946,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -7935,7 +7986,7 @@
             "raw",
             "licensed"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -7960,7 +8011,7 @@
             "Licensed",
             "licensed"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -7989,7 +8040,7 @@
             "Scanlator Hub",
             "mult"
           ],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8014,7 +8065,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8038,7 +8089,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8066,7 +8117,7 @@
             "Official Rips",
             "login"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8102,7 +8153,7 @@
             "Modern interface",
             "Scanlator Hub"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8139,7 +8190,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8175,7 +8226,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8227,7 +8278,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8252,7 +8303,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8277,7 +8328,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8311,7 +8362,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8349,7 +8400,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8373,7 +8424,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8397,7 +8448,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8421,7 +8472,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8451,7 +8502,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8482,7 +8533,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8506,7 +8557,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8530,7 +8581,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8562,7 +8613,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8593,7 +8644,7 @@
             "raw",
             "manhua"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8619,7 +8670,7 @@
             "raw",
             "manhua"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8658,7 +8709,7 @@
             "raw",
             "manhua"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8690,7 +8741,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8715,7 +8766,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8740,7 +8791,7 @@
             "Licensed",
             "licensed"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -8767,7 +8818,7 @@
             "Licensed",
             "licensed"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -8790,7 +8841,7 @@
           "link": "https://mangamikan.com/",
           "icon": "https://static.everythingmoe.com/icons/mangamikan.png",
           "tags": [],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8821,7 +8872,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8855,7 +8906,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8880,7 +8931,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8899,7 +8950,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8918,7 +8969,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8936,7 +8987,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8957,7 +9008,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8981,7 +9032,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9004,7 +9055,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9028,7 +9079,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9058,7 +9109,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9082,7 +9133,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9112,7 +9163,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9137,7 +9188,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9162,7 +9213,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 87,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9239,7 +9290,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 88,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9265,7 +9316,7 @@
           "link": "https://mangablaze.com/",
           "icon": "https://static.everythingmoe.com/icons/mangablaze.png",
           "tags": [],
-          "rank": 89,
+          "rank": 90,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9286,7 +9337,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 90,
+          "rank": 91,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9307,7 +9358,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 91,
+          "rank": 92,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9523,12 +9574,50 @@
           }
         },
         {
+          "id": "toonitube",
+          "title": "TooniTube",
+          "link": "https://toontop.io/home",
+          "icon": "https://static.everythingmoe.com/icons/toonitube.png",
+          "tags": [],
+          "rank": 7,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "manhwa",
+          "details": {
+            "positives": [
+              "Medium library"
+            ],
+            "negatives": [
+              "NSFW Manhwa only",
+              "Basic reader"
+            ],
+            "altlinks": [
+              {
+                "name": "old domain",
+                "url": "https://toonitube.com/"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": "toonily.me",
+                "url": "https://toonily.me/"
+              },
+              {
+                "name": "beehentai",
+                "url": "https://beehentai.com/"
+              }
+            ]
+          }
+        },
+        {
           "id": "readoppai",
           "title": "oppai.stream",
           "link": "https://read.oppai.stream/",
           "icon": "https://static.everythingmoe.com/icons/readoppai.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9551,7 +9640,7 @@
           "link": "https://hentai20.io/",
           "icon": "https://static.everythingmoe.com/icons/hentai20.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9590,7 +9679,7 @@
           "link": "https://comicland.org/",
           "icon": "https://static.everythingmoe.com/icons/comicland.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9612,7 +9701,7 @@
           "link": "https://hotcomics.me/",
           "icon": "https://static.everythingmoe.com/icons/toomicsfree.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9651,7 +9740,7 @@
           "link": "https://hiperdex.com/",
           "icon": "https://static.everythingmoe.com/icons/hiperdex.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9679,7 +9768,7 @@
           "link": "https://www.pornhwaz.com/",
           "icon": "https://static.everythingmoe.com/icons/pornhwaz.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9701,7 +9790,7 @@
             "Official Rips",
             "Manhwa"
           ],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9733,7 +9822,7 @@
             "Mostly Scans",
             "Manhwa"
           ],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9767,7 +9856,7 @@
             "Mostly Scans",
             "Manhwa"
           ],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9791,7 +9880,7 @@
           "link": "https://kuramanga.com/",
           "icon": "https://static.everythingmoe.com/icons/kuramanga.png",
           "tags": [],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9816,7 +9905,7 @@
             "Official Rips",
             "Manhwa"
           ],
-          "rank": 17,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9840,7 +9929,7 @@
             "Official Rips",
             "Manhwa"
           ],
-          "rank": 18,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9862,7 +9951,7 @@
           "link": "https://cocomic.co/",
           "icon": "https://static.everythingmoe.com/icons/cocomic.png",
           "tags": [],
-          "rank": 19,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9887,7 +9976,7 @@
             "Official Rips",
             "Manhwa"
           ],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9911,7 +10000,7 @@
             "Official Rips",
             "Manhwa"
           ],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9940,7 +10029,7 @@
             "Manhwa",
             "licensed"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -9978,7 +10067,7 @@
             "Official Rips",
             "Manhwa"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9996,7 +10085,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10018,7 +10107,7 @@
             "Manhwa",
             "nsfw"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10044,7 +10133,7 @@
             "Manhwa",
             "nsfw"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10062,7 +10151,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10090,7 +10179,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10131,7 +10220,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10172,7 +10261,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10223,7 +10312,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10266,7 +10355,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10318,7 +10407,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10339,7 +10428,7 @@
             "raw",
             "nsfw"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10366,7 +10455,7 @@
             "nsfw",
             "raw"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10387,7 +10476,7 @@
             "nsfw",
             "raw"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10409,7 +10498,7 @@
           "link": "https://kingofshojo.com/",
           "icon": "https://static.everythingmoe.com/icons/kingofshojo.png",
           "tags": [],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10432,7 +10521,7 @@
             "nsfw",
             "scan"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10450,7 +10539,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10476,7 +10565,7 @@
             "Manhwa",
             "nsfw"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10508,7 +10597,7 @@
             "Manhwa",
             "nsfw"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10532,7 +10621,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10556,7 +10645,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10574,7 +10663,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10592,7 +10681,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10610,7 +10699,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10628,7 +10717,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10646,7 +10735,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10665,7 +10754,7 @@
             "nsfw",
             "scan"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10683,7 +10772,7 @@
           "tags": [
             "scan"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10702,7 +10791,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10731,7 +10820,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10750,7 +10839,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10769,7 +10858,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10788,7 +10877,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10807,7 +10896,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10826,7 +10915,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10845,7 +10934,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10864,7 +10953,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10882,7 +10971,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10902,7 +10991,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10923,7 +11012,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10943,7 +11032,7 @@
           "tags": [
             "mtl"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -32227,7 +32316,7 @@
         {
           "id": "colamanga",
           "title": "ColaManga",
-          "link": "https://www.colamanga.com/",
+          "link": "https://www.yoyomanga.com/",
           "icon": "https://static.everythingmoe.com/icons/colamanga.png",
           "tags": [
             "RAW",
@@ -32246,6 +32335,12 @@
             "negatives": [
               "Untranslated Manhua (RAW)",
               "Also mixed with chinese translated manga"
+            ],
+            "ex-altlinks": [
+              {
+                "name": "old domain",
+                "url": "https://www.colamanga.com/"
+              }
             ]
           }
         },
@@ -32991,44 +33086,12 @@
           }
         },
         {
-          "id": "toonitube",
-          "title": "TooniTube",
-          "link": "https://toonitube.com/",
-          "icon": "https://static.everythingmoe.com/icons/toonitube.png",
-          "tags": [],
-          "rank": 4,
-          "is_licensed": false,
-          "is_nsfw": true,
-          "has_details": true,
-          "status": "graveyard",
-          "section": "manhwa",
-          "details": {
-            "positives": [
-              "Medium library"
-            ],
-            "negatives": [
-              "NSFW Manhwa only",
-              "Basic reader"
-            ],
-            "altlinks": [
-              {
-                "name": "toonily.me",
-                "url": "https://toonily.me/"
-              },
-              {
-                "name": "beehentai",
-                "url": "https://beehentai.com/"
-              }
-            ]
-          }
-        },
-        {
           "id": "saucemanhwa",
           "title": "Sauce Manhwa",
           "link": "https://saucemanhwa.com/",
           "icon": "https://static.everythingmoe.com/icons/saucemanhwa.png",
           "tags": [],
-          "rank": 5,
+          "rank": 4,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -33047,7 +33110,7 @@
           "link": "https://manhwazone.to/explore",
           "icon": "https://static.everythingmoe.com/icons/manhwazone.png",
           "tags": [],
-          "rank": 6,
+          "rank": 5,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33070,7 +33133,7 @@
           "link": "https://1st-kissmanga.net/",
           "icon": "https://static.everythingmoe.com/icons/1stkissmanga.png",
           "tags": [],
-          "rank": 7,
+          "rank": 6,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33091,7 +33154,7 @@
           "link": "https://manhwaclan.com/",
           "icon": "https://static.everythingmoe.com/icons/manhwaclan.png",
           "tags": [],
-          "rank": 8,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33127,7 +33190,7 @@
           "tags": [
             "RAW"
           ],
-          "rank": 9,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33162,7 +33225,7 @@
           "tags": [
             "RAW"
           ],
-          "rank": 10,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33193,7 +33256,7 @@
           "tags": [
             "RAW"
           ],
-          "rank": 11,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33215,7 +33278,7 @@
           "link": "https://freemanga.me/",
           "icon": "https://static.everythingmoe.com/icons/freemanga.png",
           "tags": [],
-          "rank": 12,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33236,7 +33299,7 @@
           "link": "https://manhwasco.net/",
           "icon": "https://static.everythingmoe.com/icons/manhwasco.png",
           "tags": [],
-          "rank": 13,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33262,7 +33325,7 @@
           "link": "https://mangacultivator.com/",
           "icon": "https://static.everythingmoe.com/icons/mangacultivator.png",
           "tags": [],
-          "rank": 14,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": false,
@@ -33278,7 +33341,7 @@
           "tags": [
             "SCAN"
           ],
-          "rank": 15,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33296,7 +33359,7 @@
           "tags": [
             "SCAN"
           ],
-          "rank": 16,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33312,7 +33375,7 @@
           "link": "https://manhuafast.net/",
           "icon": "https://static.everythingmoe.com/icons/manhuafast.png",
           "tags": [],
-          "rank": 17,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -38613,6 +38676,31 @@
         "info": "note : use third party api"
       }
     },
+    "sankanime": {
+      "id": "sankanime",
+      "title": "Sankanime",
+      "link": "https://sankanime.web.id/",
+      "icon": "https://static.everythingmoe.com/icons/sankanime.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "aniwaveclones": {
       "id": "aniwaveclones",
       "title": "aniwavecomse",
@@ -40036,11 +40124,12 @@
       ],
       "details": {
         "positives": [
-          "Provides quick download",
+          "Provides download",
           "Simple multi quality mp4 stream"
         ],
         "negatives": [
-          "Medium-small library"
+          "Lock download behind login",
+          "Lock higher resolution behind login"
         ]
       }
     },
@@ -43467,6 +43556,31 @@
         ]
       }
     },
+    "omanga": {
+      "id": "omanga",
+      "title": "oManga",
+      "link": "https://omanga.to/",
+      "icon": "https://static.everythingmoe.com/icons/omanga.png",
+      "tags": [
+        "Official Rips"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Nice interface",
+          "Multi scan support"
+        ],
+        "negatives": [
+          "New site",
+          "Medium library"
+        ]
+      }
+    },
     "godacomic": {
       "id": "godacomic",
       "title": "GodaComic",
@@ -45155,6 +45269,44 @@
           "Very basic reader"
         ],
         "info": "note: Mostly NSFW manhwa, but also provides some normal manga"
+      }
+    },
+    "toonitube": {
+      "id": "toonitube",
+      "title": "TooniTube",
+      "link": "https://toontop.io/home",
+      "icon": "https://static.everythingmoe.com/icons/toonitube.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "positives": [
+          "Medium library"
+        ],
+        "negatives": [
+          "NSFW Manhwa only",
+          "Basic reader"
+        ],
+        "altlinks": [
+          {
+            "name": "old domain",
+            "url": "https://toonitube.com/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": "toonily.me",
+            "url": "https://toonily.me/"
+          },
+          {
+            "name": "beehentai",
+            "url": "https://beehentai.com/"
+          }
+        ]
       }
     },
     "readoppai": {
@@ -67635,7 +67787,7 @@
     "colamanga": {
       "id": "colamanga",
       "title": "ColaManga",
-      "link": "https://www.colamanga.com/",
+      "link": "https://www.yoyomanga.com/",
       "icon": "https://static.everythingmoe.com/icons/colamanga.png",
       "tags": [
         "RAW",
@@ -67654,6 +67806,12 @@
         "negatives": [
           "Untranslated Manhua (RAW)",
           "Also mixed with chinese translated manga"
+        ],
+        "ex-altlinks": [
+          {
+            "name": "old domain",
+            "url": "https://www.colamanga.com/"
+          }
         ]
       }
     },
@@ -68386,38 +68544,6 @@
         ],
         "negatives": [
           "Machine Translation"
-        ]
-      }
-    },
-    "toonitube": {
-      "id": "toonitube",
-      "title": "TooniTube",
-      "link": "https://toonitube.com/",
-      "icon": "https://static.everythingmoe.com/icons/toonitube.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": true,
-      "status": "graveyard",
-      "sections": [
-        "manhwa"
-      ],
-      "details": {
-        "positives": [
-          "Medium library"
-        ],
-        "negatives": [
-          "NSFW Manhwa only",
-          "Basic reader"
-        ],
-        "altlinks": [
-          {
-            "name": "toonily.me",
-            "url": "https://toonily.me/"
-          },
-          {
-            "name": "beehentai",
-            "url": "https://beehentai.com/"
-          }
         ]
       }
     },
