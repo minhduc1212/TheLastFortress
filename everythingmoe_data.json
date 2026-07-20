@@ -56,12 +56,12 @@
                 "url": "https://anixtv.me/home"
               },
               {
-                "name": "animepahetv",
-                "url": "https://animepahetv.to/home"
-              },
-              {
                 "name": "animixplaytube",
                 "url": "https://animixplay.tube/home"
+              },
+              {
+                "name": "animepahetv",
+                "url": "https://animepahetv.to/home"
               },
               {
                 "name": "hianimezorg",
@@ -320,7 +320,7 @@
           "id": "anizone",
           "title": "AniZone",
           "link": "https://anizone.to/",
-          "icon": "https://static.everythingmoe.com/icons/default.png",
+          "icon": "https://static.everythingmoe.com/icons/anizone.png",
           "tags": [
             "Self-host",
             "Soft-sub",
@@ -13483,6 +13483,7 @@
           "details": {
             "positives": [
               "Licensed",
+              "DRM free",
               "Safe no virus",
               "Some free option available"
             ],
@@ -13941,6 +13942,31 @@
           }
         },
         {
+          "id": "jastusa",
+          "title": "JAST",
+          "link": "https://jastusa.com/",
+          "icon": "https://static.everythingmoe.com/icons/jastusa.png",
+          "tags": [],
+          "rank": 20,
+          "is_licensed": true,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "game",
+          "details": {
+            "positives": [
+              "Licensed",
+              "DRM free",
+              "Safe no virus"
+            ],
+            "negatives": [
+              "Need to pay for each item",
+              "Small library"
+            ],
+            "info": "note: This localizer's own website"
+          }
+        },
+        {
           "id": "desonovel",
           "title": "Deso Novel",
           "link": "https://desonovel.vnlx.org/",
@@ -13948,7 +13974,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13972,7 +13998,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13995,7 +14021,7 @@
           "link": "https://cpgrepacks.site/",
           "icon": "https://static.everythingmoe.com/icons/cpgrepacks.png",
           "tags": [],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14019,7 +14045,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14053,7 +14079,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14083,7 +14109,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -14105,7 +14131,7 @@
           "link": "https://vnpocket.com/",
           "icon": "https://static.everythingmoe.com/icons/vnpocket.png",
           "tags": [],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -14130,7 +14156,7 @@
             "ROM",
             "DDL"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14160,7 +14186,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14184,7 +14210,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14207,7 +14233,7 @@
           "link": "https://www.qoo-app.com/en",
           "icon": "https://static.everythingmoe.com/icons/qooapp.png",
           "tags": [],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14230,7 +14256,7 @@
           "link": "https://g123.jp/",
           "icon": "https://static.everythingmoe.com/icons/g123jp.png",
           "tags": [],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14252,7 +14278,7 @@
           "link": "https://pornova.org/hentai-gamess-list-1/",
           "icon": "https://static.everythingmoe.com/icons/pornova.png",
           "tags": [],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -14274,7 +14300,7 @@
           "link": "https://www.johren.games/",
           "icon": "https://static.everythingmoe.com/icons/johrengames.png",
           "tags": [],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": true,
           "is_nsfw": true,
           "has_details": true,
@@ -14303,7 +14329,7 @@
           "link": "https://sekaiproject.com/",
           "icon": "https://static.everythingmoe.com/icons/sekaiproject.png",
           "tags": [],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -14323,30 +14349,6 @@
                 "name": "nsfw",
                 "url": "https://denpasoft.com/"
               }
-            ],
-            "info": "note: This localizer's own website"
-          }
-        },
-        {
-          "id": "jastusa",
-          "title": "JAST",
-          "link": "https://jastusa.com/",
-          "icon": "https://static.everythingmoe.com/icons/jastusa.png",
-          "tags": [],
-          "rank": 35,
-          "is_licensed": true,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "game",
-          "details": {
-            "positives": [
-              "Licensed",
-              "Safe no virus"
-            ],
-            "negatives": [
-              "Need to pay for each item",
-              "Small library"
             ],
             "info": "note: This localizer's own website"
           }
@@ -15668,45 +15670,6 @@
           }
         },
         {
-          "id": "shiru",
-          "title": "Shiru",
-          "link": "https://github.com/RockinChaos/Shiru",
-          "icon": "https://static.everythingmoe.com/icons/shiru.png",
-          "tags": [
-            "Android",
-            "Windows",
-            "MacOS",
-            "Linux",
-            "Anime"
-          ],
-          "rank": 25,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "apps",
-          "details": {
-            "positives": [
-              "Same as Miru + changes",
-              "Some different features"
-            ],
-            "negatives": [
-              "Missing new features that added in Miru after fork"
-            ],
-            "altlinks": [
-              {
-                "name": "Release",
-                "url": "https://github.com/RockinChaos/Shiru/releases/latest"
-              },
-              {
-                "name": "Extension",
-                "url": "https://everythingmoe.com/post/shirurepo.html"
-              }
-            ],
-            "info": "note: Forked from Miru (now become <a href=\"/s/miru\">Hayase</a>). This app uses a torrent connection; beware of potential issues with your ISP."
-          }
-        },
-        {
           "id": "animechicken",
           "title": "AnimeChicken",
           "link": "https://animechicken.app/",
@@ -15717,7 +15680,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 26,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15754,7 +15717,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 27,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15791,7 +15754,7 @@
             "Linux",
             "Light Novel"
           ],
-          "rank": 28,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15818,7 +15781,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 29,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15858,7 +15821,7 @@
             "Linux",
             "Manga"
           ],
-          "rank": 30,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15901,7 +15864,7 @@
             "Manga",
             "universal"
           ],
-          "rank": 31,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15943,7 +15906,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 32,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15981,7 +15944,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 33,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16032,7 +15995,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 34,
+          "rank": 33,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16072,7 +16035,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 35,
+          "rank": 34,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16110,7 +16073,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 36,
+          "rank": 35,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16150,7 +16113,7 @@
             "Linux",
             "Light Novel"
           ],
-          "rank": 37,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16187,7 +16150,7 @@
             "Linux",
             "Manga"
           ],
-          "rank": 38,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16220,7 +16183,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 39,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16279,7 +16242,7 @@
             "Andoid",
             "Manga"
           ],
-          "rank": 40,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16317,7 +16280,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 41,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16355,7 +16318,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 42,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16400,7 +16363,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 43,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16441,7 +16404,7 @@
             "Andoid",
             "Manga"
           ],
-          "rank": 44,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16486,7 +16449,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 45,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16535,7 +16498,7 @@
             "Light Novel",
             "universal"
           ],
-          "rank": 46,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16576,7 +16539,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 47,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16622,7 +16585,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 48,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16656,7 +16619,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 49,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16691,7 +16654,7 @@
             "Anime",
             "desktop"
           ],
-          "rank": 50,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16727,7 +16690,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 51,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16763,7 +16726,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 52,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16802,7 +16765,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 53,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16840,7 +16803,7 @@
             "Windows",
             "Anime"
           ],
-          "rank": 54,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16879,7 +16842,7 @@
             "Light Novel",
             "universal"
           ],
-          "rank": 55,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16919,7 +16882,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 56,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16955,7 +16918,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 57,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16994,7 +16957,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 58,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17032,7 +16995,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 59,
+          "rank": 58,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -17074,7 +17037,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 60,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17102,7 +17065,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 61,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17135,7 +17098,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 62,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17174,7 +17137,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 63,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17208,7 +17171,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 64,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17245,7 +17208,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 65,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17278,7 +17241,7 @@
             "Anime",
             "desktop"
           ],
-          "rank": 66,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17308,7 +17271,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 67,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17346,7 +17309,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 68,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17392,7 +17355,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 69,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17426,7 +17389,7 @@
             "Android",
             "Imageboard"
           ],
-          "rank": 70,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17459,7 +17422,7 @@
             "Anime",
             "abandoned"
           ],
-          "rank": 71,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17499,7 +17462,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 72,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17539,7 +17502,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 73,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17575,7 +17538,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 74,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17619,7 +17582,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 75,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17657,7 +17620,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 76,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17694,7 +17657,7 @@
             "Anime",
             "desktop"
           ],
-          "rank": 77,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17731,7 +17694,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 78,
+          "rank": 77,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -17768,7 +17731,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 79,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17804,7 +17767,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 80,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17843,7 +17806,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 81,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17889,7 +17852,7 @@
             "Anime",
             "abandoned"
           ],
-          "rank": 82,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17926,7 +17889,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 83,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34285,12 +34248,45 @@
           }
         },
         {
+          "id": "shiru",
+          "title": "Shiru",
+          "link": "https://github.com/RockinChaos/Shiru",
+          "icon": "https://static.everythingmoe.com/icons/shiru.png",
+          "tags": [],
+          "rank": 4,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Same as Miru + changes",
+              "Some different features"
+            ],
+            "negatives": [
+              "Missing new features that added in Miru after fork"
+            ],
+            "altlinks": [
+              {
+                "name": "Release",
+                "url": "https://github.com/RockinChaos/Shiru/releases/latest"
+              },
+              {
+                "name": "Extension",
+                "url": "https://everythingmoe.com/post/shirurepo.html"
+              }
+            ],
+            "info": "note: Forked from Miru (now become <a href=\"/s/miru\">Hayase</a>). This app uses a torrent connection; beware of potential issues with your ISP."
+          }
+        },
+        {
           "id": "kuukiyomi",
           "title": "Kuukiyomi",
           "link": "https://aniyomi.org/forks/Kuukiyomi/",
           "icon": "https://static.everythingmoe.com/icons/kuukiyomi.png",
           "tags": [],
-          "rank": 4,
+          "rank": 5,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34329,7 +34325,7 @@
           "tags": [
             "IOS"
           ],
-          "rank": 5,
+          "rank": 6,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34361,7 +34357,7 @@
           "link": "https://github.com/Kylart/Anikki",
           "icon": "https://static.everythingmoe.com/icons/anikki.png",
           "tags": [],
-          "rank": 6,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34393,7 +34389,7 @@
           "link": "https://github.com/kl3jvi/animity",
           "icon": "https://static.everythingmoe.com/icons/animity.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34423,7 +34419,7 @@
           "link": "https://github.com/fakeyatogod/AnimeScrap",
           "icon": "https://static.everythingmoe.com/icons/animescrap.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34458,7 +34454,7 @@
           "link": "https://github.com/Chouten-App",
           "icon": "https://static.everythingmoe.com/icons/choutenapp.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34495,7 +34491,7 @@
           "link": "https://nekoflix-landing-page.vercel.app/",
           "icon": "https://static.everythingmoe.com/icons/nekoflixapp.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34533,7 +34529,7 @@
           "tags": [
             "IOS"
           ],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34570,7 +34566,7 @@
           "link": "https://wiwiianime.online/",
           "icon": "https://static.everythingmoe.com/icons/giiliapp.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34600,7 +34596,7 @@
           "link": "https://anilab.to/",
           "icon": "https://static.everythingmoe.com/icons/anilabto.png",
           "tags": [],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34627,7 +34623,7 @@
           "tags": [
             "DESKTOP"
           ],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -35740,12 +35736,12 @@
             "url": "https://anixtv.me/home"
           },
           {
-            "name": "animepahetv",
-            "url": "https://animepahetv.to/home"
-          },
-          {
             "name": "animixplaytube",
             "url": "https://animixplay.tube/home"
+          },
+          {
+            "name": "animepahetv",
+            "url": "https://animepahetv.to/home"
           },
           {
             "name": "hianimezorg",
@@ -36004,7 +36000,7 @@
       "id": "anizone",
       "title": "AniZone",
       "link": "https://anizone.to/",
-      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "icon": "https://static.everythingmoe.com/icons/anizone.png",
       "tags": [
         "Self-host",
         "Soft-sub",
@@ -49095,6 +49091,7 @@
       "details": {
         "positives": [
           "Licensed",
+          "DRM free",
           "Safe no virus",
           "Some free option available"
         ],
@@ -49552,6 +49549,31 @@
         ]
       }
     },
+    "jastusa": {
+      "id": "jastusa",
+      "title": "JAST",
+      "link": "https://jastusa.com/",
+      "icon": "https://static.everythingmoe.com/icons/jastusa.png",
+      "tags": [],
+      "is_licensed": true,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "game"
+      ],
+      "details": {
+        "positives": [
+          "Licensed",
+          "DRM free",
+          "Safe no virus"
+        ],
+        "negatives": [
+          "Need to pay for each item",
+          "Small library"
+        ],
+        "info": "note: This localizer's own website"
+      }
+    },
     "desonovel": {
       "id": "desonovel",
       "title": "Deso Novel",
@@ -49935,30 +49957,6 @@
             "name": "nsfw",
             "url": "https://denpasoft.com/"
           }
-        ],
-        "info": "note: This localizer's own website"
-      }
-    },
-    "jastusa": {
-      "id": "jastusa",
-      "title": "JAST",
-      "link": "https://jastusa.com/",
-      "icon": "https://static.everythingmoe.com/icons/jastusa.png",
-      "tags": [],
-      "is_licensed": true,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "game"
-      ],
-      "details": {
-        "positives": [
-          "Licensed",
-          "Safe no virus"
-        ],
-        "negatives": [
-          "Need to pay for each item",
-          "Small library"
         ],
         "info": "note: This localizer's own website"
       }
@@ -51268,45 +51266,6 @@
             "url": "https://github.com/manga-download/hakuneko"
           }
         ]
-      }
-    },
-    "shiru": {
-      "id": "shiru",
-      "title": "Shiru",
-      "link": "https://github.com/RockinChaos/Shiru",
-      "icon": "https://static.everythingmoe.com/icons/shiru.png",
-      "tags": [
-        "Android",
-        "Windows",
-        "MacOS",
-        "Linux",
-        "Anime"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "apps"
-      ],
-      "details": {
-        "positives": [
-          "Same as Miru + changes",
-          "Some different features"
-        ],
-        "negatives": [
-          "Missing new features that added in Miru after fork"
-        ],
-        "altlinks": [
-          {
-            "name": "Release",
-            "url": "https://github.com/RockinChaos/Shiru/releases/latest"
-          },
-          {
-            "name": "Extension",
-            "url": "https://everythingmoe.com/post/shirurepo.html"
-          }
-        ],
-        "info": "note: Forked from Miru (now become <a href=\"/s/miru\">Hayase</a>). This app uses a torrent connection; beware of potential issues with your ISP."
       }
     },
     "animechicken": {
@@ -69658,6 +69617,39 @@
             "url": "https://keiyoushi.github.io/"
           }
         ]
+      }
+    },
+    "shiru": {
+      "id": "shiru",
+      "title": "Shiru",
+      "link": "https://github.com/RockinChaos/Shiru",
+      "icon": "https://static.everythingmoe.com/icons/shiru.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Same as Miru + changes",
+          "Some different features"
+        ],
+        "negatives": [
+          "Missing new features that added in Miru after fork"
+        ],
+        "altlinks": [
+          {
+            "name": "Release",
+            "url": "https://github.com/RockinChaos/Shiru/releases/latest"
+          },
+          {
+            "name": "Extension",
+            "url": "https://everythingmoe.com/post/shirurepo.html"
+          }
+        ],
+        "info": "note: Forked from Miru (now become <a href=\"/s/miru\">Hayase</a>). This app uses a torrent connection; beware of potential issues with your ISP."
       }
     },
     "kuukiyomi": {
