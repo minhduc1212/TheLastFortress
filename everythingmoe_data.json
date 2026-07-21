@@ -12850,10 +12850,6 @@
             ],
             "altlinks": [
               {
-                "name": ".net",
-                "url": "https://asianctv.net/"
-              },
-              {
                 "name": "hidrama",
                 "url": "https://hidrama.to/"
               },
@@ -12862,8 +12858,8 @@
                 "url": "https://dramacools9.cam/"
               },
               {
-                "name": "kisskhuno",
-                "url": "https://kisskh.uno/"
+                "name": "kisskhorat",
+                "url": "https://kisskh.or.at/"
               },
               {
                 "name": "kshow123",
@@ -12871,6 +12867,10 @@
               }
             ],
             "ex-altlinks": [
+              {
+                "name": ".net",
+                "url": "https://asianctv.net/"
+              },
               {
                 "name": ".co",
                 "url": "https://asianctv.co/"
@@ -12916,7 +12916,7 @@
         {
           "id": "kdramaweb",
           "title": "Kdramaweb",
-          "link": "https://dramacool.com.tr/",
+          "link": "https://dramacoolr.buzz/",
           "icon": "https://static.everythingmoe.com/icons/dramacool.png",
           "tags": [],
           "rank": 7,
@@ -12936,6 +12936,12 @@
             "info": "note: This site unrelated with original <a href=\"/s/dramacool\">Dramacool</a>",
             "altlinks": [
               {
+                "name": "dramahoodmom",
+                "url": "https://dramahood.mom"
+              }
+            ],
+            "ex-altlinks": [
+              {
                 "name": "asianctv.fun",
                 "url": "https://asianctv.fun/"
               },
@@ -12944,11 +12950,9 @@
                 "url": "https://dramacool.net.lc/"
               },
               {
-                "name": "dramahoodmom",
-                "url": "https://dramahood.mom"
-              }
-            ],
-            "ex-altlinks": [
+                "name": "dramacoolcomtr",
+                "url": "https://dramacool.com.tr/"
+              },
               {
                 "name": "dramacooli",
                 "url": "https://dramacooli.li/"
@@ -21462,11 +21466,13 @@
           }
         },
         {
-          "id": "konsumr",
-          "title": "konsumr",
-          "link": "https://www.konsumr.com/",
-          "icon": "https://static.everythingmoe.com/icons/konsumr.png",
-          "tags": [],
+          "id": "pornhwadb",
+          "title": "Pornhwa Database",
+          "link": "https://pornhwadb.com/",
+          "icon": "https://static.everythingmoe.com/icons/pornhwadb.png",
+          "tags": [
+            "MANHWA"
+          ],
           "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
@@ -21475,13 +21481,36 @@
           "section": "database",
           "details": {
             "positives": [
-              "Anime & Manga Tracker",
-              "Nice modern interface"
+              "Pornwha Tracker + Database"
             ],
             "negatives": [
-              "Relatively new",
-              "Must login to use"
-            ]
+              "Pornwha only"
+            ],
+            "info": "note: This site display NSFW cover & images!"
+          }
+        },
+        {
+          "id": "mymangaindex",
+          "title": "MyMangaIndex",
+          "link": "https://mymangaindex.com/",
+          "icon": "https://static.everythingmoe.com/icons/mymangaindex.png",
+          "tags": [
+            "MANGA"
+          ],
+          "rank": 25,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "database",
+          "details": {
+            "positives": [
+              "Manga Tracker + Database"
+            ],
+            "negatives": [
+              "Relatively new"
+            ],
+            "info": "note: this is new site"
           }
         },
         {
@@ -21492,7 +21521,7 @@
           "tags": [
             "VN"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -21510,37 +21539,11 @@
           }
         },
         {
-          "id": "mymangaindex",
-          "title": "MyMangaIndex",
-          "link": "https://mymangaindex.com/",
-          "icon": "https://static.everythingmoe.com/icons/mymangaindex.png",
-          "tags": [
-            "manga"
-          ],
-          "rank": 26,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "database",
-          "details": {
-            "positives": [
-              "Manga Tracker + Database"
-            ],
-            "negatives": [
-              "Relatively new"
-            ],
-            "info": "note: this is new site"
-          }
-        },
-        {
-          "id": "pornhwadb",
-          "title": "Pornhwa Database",
-          "link": "https://pornhwadb.com/",
-          "icon": "https://static.everythingmoe.com/icons/pornhwadb.png",
-          "tags": [
-            "manhwa"
-          ],
+          "id": "konsumr",
+          "title": "konsumr",
+          "link": "https://www.konsumr.com/",
+          "icon": "https://static.everythingmoe.com/icons/konsumr.png",
+          "tags": [],
           "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
@@ -21549,13 +21552,13 @@
           "section": "database",
           "details": {
             "positives": [
-              "Pornwha Tracker + Database"
+              "Anime & Manga Tracker",
+              "Nice modern interface"
             ],
             "negatives": [
               "Relatively new",
-              "Pornwha only"
-            ],
-            "info": "note: This site display NSFW cover & images!"
+              "Must login to use"
+            ]
           }
         },
         {
@@ -48530,10 +48533,6 @@
         ],
         "altlinks": [
           {
-            "name": ".net",
-            "url": "https://asianctv.net/"
-          },
-          {
             "name": "hidrama",
             "url": "https://hidrama.to/"
           },
@@ -48542,8 +48541,8 @@
             "url": "https://dramacools9.cam/"
           },
           {
-            "name": "kisskhuno",
-            "url": "https://kisskh.uno/"
+            "name": "kisskhorat",
+            "url": "https://kisskh.or.at/"
           },
           {
             "name": "kshow123",
@@ -48551,6 +48550,10 @@
           }
         ],
         "ex-altlinks": [
+          {
+            "name": ".net",
+            "url": "https://asianctv.net/"
+          },
           {
             "name": ".co",
             "url": "https://asianctv.co/"
@@ -48596,7 +48599,7 @@
     "kdramaweb": {
       "id": "kdramaweb",
       "title": "Kdramaweb",
-      "link": "https://dramacool.com.tr/",
+      "link": "https://dramacoolr.buzz/",
       "icon": "https://static.everythingmoe.com/icons/dramacool.png",
       "tags": [],
       "is_licensed": false,
@@ -48616,6 +48619,12 @@
         "info": "note: This site unrelated with original <a href=\"/s/dramacool\">Dramacool</a>",
         "altlinks": [
           {
+            "name": "dramahoodmom",
+            "url": "https://dramahood.mom"
+          }
+        ],
+        "ex-altlinks": [
+          {
             "name": "asianctv.fun",
             "url": "https://asianctv.fun/"
           },
@@ -48624,11 +48633,9 @@
             "url": "https://dramacool.net.lc/"
           },
           {
-            "name": "dramahoodmom",
-            "url": "https://dramahood.mom"
-          }
-        ],
-        "ex-altlinks": [
+            "name": "dramacoolcomtr",
+            "url": "https://dramacool.com.tr/"
+          },
           {
             "name": "dramacooli",
             "url": "https://dramacooli.li/"
@@ -57087,12 +57094,14 @@
         "info": "note: This is primarily a discord bot"
       }
     },
-    "konsumr": {
-      "id": "konsumr",
-      "title": "konsumr",
-      "link": "https://www.konsumr.com/",
-      "icon": "https://static.everythingmoe.com/icons/konsumr.png",
-      "tags": [],
+    "pornhwadb": {
+      "id": "pornhwadb",
+      "title": "Pornhwa Database",
+      "link": "https://pornhwadb.com/",
+      "icon": "https://static.everythingmoe.com/icons/pornhwadb.png",
+      "tags": [
+        "MANHWA"
+      ],
       "is_licensed": false,
       "is_nsfw": false,
       "status": "active",
@@ -57101,13 +57110,36 @@
       ],
       "details": {
         "positives": [
-          "Anime & Manga Tracker",
-          "Nice modern interface"
+          "Pornwha Tracker + Database"
         ],
         "negatives": [
-          "Relatively new",
-          "Must login to use"
-        ]
+          "Pornwha only"
+        ],
+        "info": "note: This site display NSFW cover & images!"
+      }
+    },
+    "mymangaindex": {
+      "id": "mymangaindex",
+      "title": "MyMangaIndex",
+      "link": "https://mymangaindex.com/",
+      "icon": "https://static.everythingmoe.com/icons/mymangaindex.png",
+      "tags": [
+        "MANGA"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "database"
+      ],
+      "details": {
+        "positives": [
+          "Manga Tracker + Database"
+        ],
+        "negatives": [
+          "Relatively new"
+        ],
+        "info": "note: this is new site"
       }
     },
     "kaguya": {
@@ -57135,14 +57167,12 @@
         "info": "note: use <a href=\"/s/vndbwiki\">VNDB</a> as the database source"
       }
     },
-    "mymangaindex": {
-      "id": "mymangaindex",
-      "title": "MyMangaIndex",
-      "link": "https://mymangaindex.com/",
-      "icon": "https://static.everythingmoe.com/icons/mymangaindex.png",
-      "tags": [
-        "manga"
-      ],
+    "konsumr": {
+      "id": "konsumr",
+      "title": "konsumr",
+      "link": "https://www.konsumr.com/",
+      "icon": "https://static.everythingmoe.com/icons/konsumr.png",
+      "tags": [],
       "is_licensed": false,
       "is_nsfw": false,
       "status": "active",
@@ -57151,37 +57181,13 @@
       ],
       "details": {
         "positives": [
-          "Manga Tracker + Database"
-        ],
-        "negatives": [
-          "Relatively new"
-        ],
-        "info": "note: this is new site"
-      }
-    },
-    "pornhwadb": {
-      "id": "pornhwadb",
-      "title": "Pornhwa Database",
-      "link": "https://pornhwadb.com/",
-      "icon": "https://static.everythingmoe.com/icons/pornhwadb.png",
-      "tags": [
-        "manhwa"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "database"
-      ],
-      "details": {
-        "positives": [
-          "Pornwha Tracker + Database"
+          "Anime & Manga Tracker",
+          "Nice modern interface"
         ],
         "negatives": [
           "Relatively new",
-          "Pornwha only"
-        ],
-        "info": "note: This site display NSFW cover & images!"
+          "Must login to use"
+        ]
       }
     },
     "novellistdb": {
