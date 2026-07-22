@@ -2559,7 +2559,7 @@
                     ]
                 },
                 {
-                    "heading": "Privacy Indexes",
+                    "heading": "Privacy Guides / Indexes",
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
@@ -2753,6 +2753,15 @@
                                 {
                                     "name": "OPSEC guide",
                                     "url": "https://whos-zycher.github.io/opsec-guide/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "paranoiaprivacy.wiki - Educational Guide",
+                            "links": [
+                                {
+                                    "name": "paranoiaprivacy.wiki",
+                                    "url": "https://paranoiaprivacy.wiki/"
                                 }
                             ]
                         },
@@ -3280,6 +3289,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/brave/brave-browser"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Chromium Hardening Guide - Chromium Security Focused Guide + Config /",
+                            "links": [
+                                {
+                                    "name": "⁠Chromium Hardening Guide",
+                                    "url": "https://rknf404.github.io/chromium-hardening-guide/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/RKNF404/chromium-hardening-guide"
                                 }
                             ]
                         },
@@ -6104,7 +6126,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Studio - Gemini 3.1 Pro Preview / Gemini 3.5 Flash / Google Sign-Up / Add Features / /",
+                            "full_text": "Google AI Studio - Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / 3.6 Flash / Google Sign-Up / Add Features / /",
                             "links": [
                                 {
                                     "name": "Google AI Studio",
@@ -6125,7 +6147,7 @@
                             ]
                         },
                         {
-                            "full_text": "Gemini - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.1 Flash / Gemini 3.5 Flash / Add Features / Limits / /",
+                            "full_text": "Gemini - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.5 Flash-Lite / 3.6 Flash / Add Features / Limits / /",
                             "links": [
                                 {
                                     "name": "Gemini",
@@ -7106,7 +7128,7 @@
                             "links": [
                                 {
                                     "name": "⁠Odysseus",
-                                    "url": "https://pewdiepie-archdaemon.github.io/odysseus/"
+                                    "url": "https://odysseus-dev.github.io/odysseus/"
                                 },
                                 {
                                     "name": "",
@@ -12144,7 +12166,7 @@
                             "links": [
                                 {
                                     "name": "Moonflix",
-                                    "url": "https://moonflix.site/"
+                                    "url": "https://moonflix.website/"
                                 },
                                 {
                                     "name": "",
@@ -61263,11 +61285,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Space Time - 3D Solar System / Star System Simulator",
+                            "full_text": "⁠Space Time or ⁠SpaceSim - 3D Solar System / Star System Simulators",
                             "links": [
                                 {
                                     "name": "⁠Space Time",
                                     "url": "https://space.pointdynamics.com/"
+                                },
+                                {
+                                    "name": "⁠SpaceSim",
+                                    "url": "https://spacesim.co/"
                                 }
                             ]
                         },
@@ -67943,7 +67969,7 @@
                             ]
                         },
                         {
-                            "full_text": "GetKanda , Nihonoari or RealKana - Learn Kana",
+                            "full_text": "GetKanda , Nihonoari , ⁠Kana or RealKana - Learn Kana",
                             "links": [
                                 {
                                     "name": "GetKanda",
@@ -67952,6 +67978,10 @@
                                 {
                                     "name": "Nihonoari",
                                     "url": "https://github.com/aeri/Nihonoari-App"
+                                },
+                                {
+                                    "name": "⁠Kana",
+                                    "url": "https://vedxyz.github.io/kana/"
                                 },
                                 {
                                     "name": "RealKana",
@@ -110008,6 +110038,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Teleonline - Live TV",
+                            "links": [
+                                {
+                                    "name": "⁠Teleonline",
+                                    "url": "https://teleonline.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "rtvcplay - Free Public Colombian TV",
                             "links": [
                                 {
@@ -137805,15 +137844,6 @@
                             ]
                         },
                         {
-                            "full_text": "Ranoz - 20GB / 30 Days After Last Download / Use uBlock",
-                            "links": [
-                                {
-                                    "name": "Ranoz",
-                                    "url": "https://ranoz.gg/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Fast File - 10GB / 20 Days After Last Download / Status",
                             "links": [
                                 {
@@ -164026,6 +164056,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠start.gg - Organize / Track Esports Tournaments",
+                            "links": [
+                                {
+                                    "name": "⁠start.gg",
+                                    "url": "https://www.start.gg/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠bo3.gg - Track ESport Matches, Scores and Streams",
                             "links": [
                                 {
@@ -167463,10 +167502,10 @@
                             ]
                         },
                         {
-                            "full_text": "Not Essential - List of Alternatives to Essential /",
+                            "full_text": "Microcontrollers' Alternatives - List of Alternatives to Microcontrollers' /",
                             "links": [
                                 {
-                                    "name": "Not Essential",
+                                    "name": "Microcontrollers' Alternatives",
                                     "url": "https://alternatives.microcontrollers.dev/"
                                 },
                                 {
@@ -167476,11 +167515,15 @@
                             ]
                         },
                         {
-                            "full_text": "OptiFine Alternatives - OptiFine Alternatives for Fabric",
+                            "full_text": "OptiFine Alternatives or OptiFine Replacements - OptiFine Alternatives for Fabric",
                             "links": [
                                 {
                                     "name": "OptiFine Alternatives",
                                     "url": "https://optifine.alternatives.lambdaurora.dev/"
+                                },
+                                {
+                                    "name": "OptiFine Replacements",
+                                    "url": "https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements"
                                 }
                             ]
                         },
@@ -168633,11 +168676,19 @@
                             ]
                         },
                         {
-                            "full_text": "MinecraftSkins , MCSkins , ⁠BedrockExplorer or SkinMC - Minecraft Skins",
+                            "full_text": "MinecraftSkins , MC-Skins , ⁠MC Profiles , MCSkins , ⁠BedrockExplorer or SkinMC - Minecraft Skins",
                             "links": [
                                 {
                                     "name": "MinecraftSkins",
                                     "url": "https://www.minecraftskins.com/"
+                                },
+                                {
+                                    "name": "MC-Skins",
+                                    "url": "https://mc-skins.com/"
+                                },
+                                {
+                                    "name": "⁠MC Profiles",
+                                    "url": "https://mcprofiles.net/"
                                 },
                                 {
                                     "name": "MCSkins",
@@ -174795,6 +174846,15 @@
                                 {
                                     "name": "⁠Icon Gen",
                                     "url": "https://icon-gen.netlify.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Pico - Icon Editor /",
+                            "links": [
+                                {
+                                    "name": "⁠Pico",
+                                    "url": "https://pico-icons.vercel.app/"
                                 }
                             ]
                         },
@@ -200094,11 +200154,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Space Time - 3D Solar System / Star System Simulator",
+                            "full_text": "⁠Space Time or ⁠SpaceSim - 3D Solar System / Star System Simulators",
                             "links": [
                                 {
                                     "name": "⁠Space Time",
                                     "url": "https://space.pointdynamics.com/"
+                                },
+                                {
+                                    "name": "⁠SpaceSim",
+                                    "url": "https://spacesim.co/"
                                 }
                             ]
                         },
@@ -206774,7 +206838,7 @@
                             ]
                         },
                         {
-                            "full_text": "GetKanda , Nihonoari or RealKana - Learn Kana",
+                            "full_text": "GetKanda , Nihonoari , ⁠Kana or RealKana - Learn Kana",
                             "links": [
                                 {
                                     "name": "GetKanda",
@@ -206783,6 +206847,10 @@
                                 {
                                     "name": "Nihonoari",
                                     "url": "https://github.com/aeri/Nihonoari-App"
+                                },
+                                {
+                                    "name": "⁠Kana",
+                                    "url": "https://vedxyz.github.io/kana/"
                                 },
                                 {
                                     "name": "RealKana",
@@ -225776,6 +225844,15 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "Ranoz - 20GB / 30 Days After Last Download / Use uBlock (Removed in 5888c86 )",
+                            "links": [
+                                {
+                                    "name": "5888c86",
+                                    "url": "https://github.com/fmhy/edit/commit/5888c868f1335323356407258fbb3776434c2a2e#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL353"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Play RSI - Free w/ Ads (Removed in eae2a65 )",
                             "links": [

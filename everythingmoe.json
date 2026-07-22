@@ -9,9 +9,9 @@
       "sites": [
         {
           "id": "anikoto",
-          "title": "Anichi",
-          "link": "https://anichi.to/home",
-          "icon": "https://static.everythingmoe.com/icons/anichi.png",
+          "title": "Anikoto",
+          "link": "https://anikototv.to/home",
+          "icon": "https://static.everythingmoe.com/icons/animoe.png",
           "tags": [
             "Scraper",
             "Self-host",
@@ -37,11 +37,11 @@
               "Hard subs depend on <a href=\"/s/anitakuto\">AniNeko</a>",
               "Bad ads"
             ],
-            "info": "note: Also known as Anikoto. It also has many alt domain and brand names. It usually copies other websites.",
+            "info": "note: It also has many alt domain and brand names. It usually copies other websites.",
             "altlinks": [
               {
-                "name": "Anikoto",
-                "url": "https://anikototv.to/home"
+                "name": "Anichi",
+                "url": "https://anichi.to/home"
               },
               {
                 "name": "anisuge",
@@ -35755,9 +35755,9 @@
   "all_sites": {
     "anikoto": {
       "id": "anikoto",
-      "title": "Anichi",
-      "link": "https://anichi.to/home",
-      "icon": "https://static.everythingmoe.com/icons/anichi.png",
+      "title": "Anikoto",
+      "link": "https://anikototv.to/home",
+      "icon": "https://static.everythingmoe.com/icons/animoe.png",
       "tags": [
         "Scraper",
         "Self-host",
@@ -35783,11 +35783,11 @@
           "Hard subs depend on <a href=\"/s/anitakuto\">AniNeko</a>",
           "Bad ads"
         ],
-        "info": "note: Also known as Anikoto. It also has many alt domain and brand names. It usually copies other websites.",
+        "info": "note: It also has many alt domain and brand names. It usually copies other websites.",
         "altlinks": [
           {
-            "name": "Anikoto",
-            "url": "https://anikototv.to/home"
+            "name": "Anichi",
+            "url": "https://anichi.to/home"
           },
           {
             "name": "anisuge",
