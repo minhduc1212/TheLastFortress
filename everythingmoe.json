@@ -1175,7 +1175,8 @@
               "Actively updated"
             ],
             "negatives": [
-              "On old / unpopular show some servers are unavailable"
+              "On old / unpopular show some servers are unavailable",
+              "Bad ads"
             ],
             "ex-altlinks": [
               {
@@ -11773,7 +11774,7 @@
               },
               {
                 "name": "Openlib",
-                "url": "https://github.com/dstark5/Openlib"
+                "url": "https://github.com/warreth/OpenlibExtended"
               }
             ],
             "info": "note: This is ideal if you already know the ISBN of the LN you want"
@@ -36921,7 +36922,8 @@
           "Actively updated"
         ],
         "negatives": [
-          "On old / unpopular show some servers are unavailable"
+          "On old / unpopular show some servers are unavailable",
+          "Bad ads"
         ],
         "ex-altlinks": [
           {
@@ -47465,7 +47467,7 @@
           },
           {
             "name": "Openlib",
-            "url": "https://github.com/dstark5/Openlib"
+            "url": "https://github.com/warreth/OpenlibExtended"
           }
         ],
         "info": "note: This is ideal if you already know the ISBN of the LN you want"
