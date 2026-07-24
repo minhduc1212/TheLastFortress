@@ -1788,81 +1788,6 @@
           }
         },
         {
-          "id": "1anime",
-          "title": "1Anime",
-          "link": "https://1anime.app",
-          "icon": "https://static.everythingmoe.com/icons/1anime.png",
-          "tags": [
-            "Scraper",
-            "Modern interface",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 43,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options",
-              "Modern interface"
-            ],
-            "negatives": [
-              "Some content depends on the websites it scrapes",
-              "Sometimes broken"
-            ],
-            "ex-altlinks": [
-              {
-                "name": ".info",
-                "url": "https://1anime.co/"
-              },
-              {
-                "name": ".online",
-                "url": "https://1anime.online/"
-              }
-            ],
-            "info": "note: Also self host some anime."
-          }
-        },
-        {
-          "id": "Moopa",
-          "title": "Shiroko",
-          "link": "https://shiroko.co",
-          "icon": "https://static.everythingmoe.com/icons/shiroko.png",
-          "tags": [
-            "Scraper",
-            "Modern interface",
-            "Dub friendly",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 44,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources & language",
-              "Modern interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ],
-            "info": "note: Formerly known as Moopa. Now affilated with <a href=\"/s/1anime\">1Anime</a>",
-            "ex-altlinks": [
-              {
-                "name": "Kaizoku",
-                "url": "https://kaizoku.live/"
-              }
-            ],
-            "ex-info": "note: Formerly known as Moopa. Kaizoku is a fork / clone made by other people."
-          }
-        },
-        {
           "id": "av1please",
           "title": "AV1 EnCodes",
           "link": "https://av1please.com/",
@@ -1872,7 +1797,7 @@
             "Easy download",
             "Soft-sub"
           ],
-          "rank": 45,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1906,7 +1831,7 @@
           "link": "https://bettermelon.ru/",
           "icon": "https://static.everythingmoe.com/icons/bettermelon.png",
           "tags": [],
-          "rank": 46,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1935,7 +1860,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 47,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1964,7 +1889,7 @@
             "Easy download",
             "mult"
           ],
-          "rank": 48,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1991,6 +1916,33 @@
           }
         },
         {
+          "id": "anilight",
+          "title": "AniLight",
+          "link": "https://anilight.live/",
+          "icon": "https://static.everythingmoe.com/icons/anilight.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
+            "mult"
+          ],
+          "rank": 47,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "lunastream",
           "title": "Luna",
           "link": "https://luna-stream.me/",
@@ -2000,7 +1952,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 49,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2029,7 +1981,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 50,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2058,7 +2010,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 51,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2086,7 +2038,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 52,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2103,33 +2055,6 @@
           }
         },
         {
-          "id": "anilight",
-          "title": "AniLight",
-          "link": "https://anilight.live/",
-          "icon": "https://static.everythingmoe.com/icons/anilight.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "Hard-sub",
-            "mult"
-          ],
-          "rank": 53,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources options",
-              "Nice interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ]
-          }
-        },
-        {
           "id": "yumezone",
           "title": "YumeZone",
           "link": "https://yumezone.live/",
@@ -2137,7 +2062,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 54,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2162,7 +2087,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 55,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2189,7 +2114,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 56,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2216,7 +2141,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 57,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2243,7 +2168,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 58,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2290,7 +2215,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 59,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2316,7 +2241,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 60,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2383,7 +2308,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 61,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2412,7 +2337,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 62,
+          "rank": 60,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2440,7 +2365,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 63,
+          "rank": 61,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2470,7 +2395,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 64,
+          "rank": 62,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2499,7 +2424,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 65,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2541,6 +2466,10 @@
               {
                 "name": "anisakura.xyz",
                 "url": "https://anisakura.xyz/"
+              },
+              {
+                "name": "watchanimez.me",
+                "url": "https://watchanimez.me/"
               }
             ],
             "info": "note: each made by different people, uses third party embed.",
@@ -2558,7 +2487,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 66,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2643,7 +2572,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 67,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2668,7 +2597,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 68,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2693,7 +2622,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 69,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2717,7 +2646,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 70,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2744,7 +2673,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 71,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2753,6 +2682,33 @@
           "details": {
             "positives": [
               "Multiple sources & language"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
+          "id": "onianime",
+          "title": "Onianime",
+          "link": "https://onianime.eu/home",
+          "icon": "https://static.everythingmoe.com/icons/onianime.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Modern interface",
+            "mult"
+          ],
+          "rank": 70,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources & language",
+              "Nice interface"
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
@@ -2769,7 +2725,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2796,7 +2752,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2820,7 +2776,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 74,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2836,6 +2792,81 @@
           }
         },
         {
+          "id": "1anime",
+          "title": "1Anime",
+          "link": "https://1anime.app",
+          "icon": "https://static.everythingmoe.com/icons/1anime.png",
+          "tags": [
+            "Scraper",
+            "Modern interface",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 74,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Modern interface"
+            ],
+            "negatives": [
+              "Some content depends on the websites it scrapes",
+              "Sometimes broken"
+            ],
+            "ex-altlinks": [
+              {
+                "name": ".info",
+                "url": "https://1anime.co/"
+              },
+              {
+                "name": ".online",
+                "url": "https://1anime.online/"
+              }
+            ],
+            "info": "note: Also self host some anime."
+          }
+        },
+        {
+          "id": "Moopa",
+          "title": "Shiroko",
+          "link": "https://shiroko.co",
+          "icon": "https://static.everythingmoe.com/icons/shiroko.png",
+          "tags": [
+            "Scraper",
+            "Modern interface",
+            "Dub friendly",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 75,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources & language",
+              "Modern interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "info": "note: Formerly known as Moopa. Now affilated with <a href=\"/s/1anime\">1Anime</a>",
+            "ex-altlinks": [
+              {
+                "name": "Kaizoku",
+                "url": "https://kaizoku.live/"
+              }
+            ],
+            "ex-info": "note: Formerly known as Moopa. Kaizoku is a fork / clone made by other people."
+          }
+        },
+        {
           "id": "shinora",
           "title": "Zanora",
           "link": "https://zanora.lol/home",
@@ -2846,7 +2877,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2879,7 +2910,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2904,7 +2935,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2944,7 +2975,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2970,7 +3001,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3017,7 +3048,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3044,7 +3075,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3089,7 +3120,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3117,7 +3148,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3151,7 +3182,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3197,7 +3228,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3224,7 +3255,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3264,7 +3295,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 87,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3298,7 +3329,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 88,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3371,7 +3402,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 89,
+          "rank": 90,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -37534,81 +37565,6 @@
         "info": "note: Reupload streams on demand. Videos mostly taken from Anikoto."
       }
     },
-    "1anime": {
-      "id": "1anime",
-      "title": "1Anime",
-      "link": "https://1anime.app",
-      "icon": "https://static.everythingmoe.com/icons/1anime.png",
-      "tags": [
-        "Scraper",
-        "Modern interface",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options",
-          "Modern interface"
-        ],
-        "negatives": [
-          "Some content depends on the websites it scrapes",
-          "Sometimes broken"
-        ],
-        "ex-altlinks": [
-          {
-            "name": ".info",
-            "url": "https://1anime.co/"
-          },
-          {
-            "name": ".online",
-            "url": "https://1anime.online/"
-          }
-        ],
-        "info": "note: Also self host some anime."
-      }
-    },
-    "Moopa": {
-      "id": "Moopa",
-      "title": "Shiroko",
-      "link": "https://shiroko.co",
-      "icon": "https://static.everythingmoe.com/icons/shiroko.png",
-      "tags": [
-        "Scraper",
-        "Modern interface",
-        "Dub friendly",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources & language",
-          "Modern interface"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ],
-        "info": "note: Formerly known as Moopa. Now affilated with <a href=\"/s/1anime\">1Anime</a>",
-        "ex-altlinks": [
-          {
-            "name": "Kaizoku",
-            "url": "https://kaizoku.live/"
-          }
-        ],
-        "ex-info": "note: Formerly known as Moopa. Kaizoku is a fork / clone made by other people."
-      }
-    },
     "av1please": {
       "id": "av1please",
       "title": "AV1 EnCodes",
@@ -37737,6 +37693,33 @@
         ]
       }
     },
+    "anilight": {
+      "id": "anilight",
+      "title": "AniLight",
+      "link": "https://anilight.live/",
+      "icon": "https://static.everythingmoe.com/icons/anilight.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "lunastream": {
       "id": "lunastream",
       "title": "Luna",
@@ -37843,33 +37826,6 @@
         "positives": [
           "Multiple source options",
           "Separate page for each sources"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
-      }
-    },
-    "anilight": {
-      "id": "anilight",
-      "title": "AniLight",
-      "link": "https://anilight.live/",
-      "icon": "https://static.everythingmoe.com/icons/anilight.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "Hard-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources options",
-          "Nice interface"
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
@@ -38288,6 +38244,10 @@
           {
             "name": "anisakura.xyz",
             "url": "https://anisakura.xyz/"
+          },
+          {
+            "name": "watchanimez.me",
+            "url": "https://watchanimez.me/"
           }
         ],
         "info": "note: each made by different people, uses third party embed.",
@@ -38506,6 +38466,33 @@
         ]
       }
     },
+    "onianime": {
+      "id": "onianime",
+      "title": "Onianime",
+      "link": "https://onianime.eu/home",
+      "icon": "https://static.everythingmoe.com/icons/onianime.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Modern interface",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources & language",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "pimpanime": {
       "id": "pimpanime",
       "title": "PimpAnime",
@@ -38580,6 +38567,81 @@
         "negatives": [
           "Content depends on the websites it scrapes"
         ]
+      }
+    },
+    "1anime": {
+      "id": "1anime",
+      "title": "1Anime",
+      "link": "https://1anime.app",
+      "icon": "https://static.everythingmoe.com/icons/1anime.png",
+      "tags": [
+        "Scraper",
+        "Modern interface",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Modern interface"
+        ],
+        "negatives": [
+          "Some content depends on the websites it scrapes",
+          "Sometimes broken"
+        ],
+        "ex-altlinks": [
+          {
+            "name": ".info",
+            "url": "https://1anime.co/"
+          },
+          {
+            "name": ".online",
+            "url": "https://1anime.online/"
+          }
+        ],
+        "info": "note: Also self host some anime."
+      }
+    },
+    "Moopa": {
+      "id": "Moopa",
+      "title": "Shiroko",
+      "link": "https://shiroko.co",
+      "icon": "https://static.everythingmoe.com/icons/shiroko.png",
+      "tags": [
+        "Scraper",
+        "Modern interface",
+        "Dub friendly",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources & language",
+          "Modern interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "info": "note: Formerly known as Moopa. Now affilated with <a href=\"/s/1anime\">1Anime</a>",
+        "ex-altlinks": [
+          {
+            "name": "Kaizoku",
+            "url": "https://kaizoku.live/"
+          }
+        ],
+        "ex-info": "note: Formerly known as Moopa. Kaizoku is a fork / clone made by other people."
       }
     },
     "shinora": {
