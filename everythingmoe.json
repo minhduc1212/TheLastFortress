@@ -14806,7 +14806,7 @@
                 "url": "https://everythingmoe.com/post/mihonguide.html"
               }
             ],
-            "info": "notes: This is a fork of Mihon."
+            "info": "notes: This is a fork of <a href=\"/s/mihon\">Mihon</a>."
           }
         },
         {
@@ -15396,6 +15396,45 @@
           }
         },
         {
+          "id": "chimahon",
+          "title": "Chimahon",
+          "link": "https://github.com/sohilsayed/chimahon",
+          "icon": "https://static.everythingmoe.com/icons/chimahon.png",
+          "tags": [
+            "Android",
+            "Anime",
+            "Manga",
+            "Light Novel"
+          ],
+          "rank": 16,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Anime, LN, Manga + OCR app",
+              "Many extension sources are available",
+              "Open source"
+            ],
+            "negatives": [
+              "New app"
+            ],
+            "altlinks": [
+              {
+                "name": "Release",
+                "url": "https://github.com/KolbyML/Manatan/releases/latest"
+              },
+              {
+                "name": "Desktop ver",
+                "url": "https://github.com/1Selxo/Mangatan"
+              }
+            ],
+            "info": "notes: This is a fork of <a href=\"/s/mihon\">Mihon</a> and mixed with Kommiku. Extension same as Mihon / Aniyomi. Added serveral features for learning tools like dictionary, OCR, Anki."
+          }
+        },
+        {
           "id": "yokai",
           "title": "Yokai",
           "link": "https://github.com/null2264/yokai",
@@ -15404,7 +15443,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15440,7 +15479,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 17,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15485,7 +15524,7 @@
             "Windows",
             "Manga"
           ],
-          "rank": 18,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15528,7 +15567,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 19,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15579,7 +15618,7 @@
             "Manga",
             "DESKTOP"
           ],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15628,7 +15667,7 @@
             "Manga",
             "DESKTOP"
           ],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15663,7 +15702,7 @@
             "Manga",
             "DESKTOP"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15702,7 +15741,7 @@
             "Manga",
             "DESKTOP"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15749,7 +15788,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15786,7 +15825,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15823,7 +15862,7 @@
             "Linux",
             "Light Novel"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15850,7 +15889,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15890,7 +15929,7 @@
             "Linux",
             "Manga"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15933,7 +15972,7 @@
             "Manga",
             "universal"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15978,7 +16017,7 @@
             "Manga",
             "Novel"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16024,7 +16063,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16062,7 +16101,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16113,7 +16152,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16153,7 +16192,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16191,7 +16230,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16231,7 +16270,7 @@
             "Linux",
             "Light Novel"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16268,7 +16307,7 @@
             "Linux",
             "Manga"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16301,7 +16340,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16360,7 +16399,7 @@
             "Andoid",
             "Manga"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16398,7 +16437,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16436,7 +16475,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16481,7 +16520,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16522,7 +16561,7 @@
             "Andoid",
             "Manga"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16567,7 +16606,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16616,7 +16655,7 @@
             "Light Novel",
             "universal"
           ],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16657,7 +16696,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16703,7 +16742,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16737,7 +16776,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16772,7 +16811,7 @@
             "Anime",
             "desktop"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16808,7 +16847,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16844,7 +16883,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16883,7 +16922,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16921,7 +16960,7 @@
             "Windows",
             "Anime"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16960,7 +16999,7 @@
             "Light Novel",
             "universal"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17000,7 +17039,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17036,7 +17075,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17075,7 +17114,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17113,7 +17152,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -17155,7 +17194,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17183,7 +17222,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17216,7 +17255,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17255,7 +17294,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17289,7 +17328,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17326,7 +17365,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17359,7 +17398,7 @@
             "Anime",
             "desktop"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17389,7 +17428,7 @@
             "Manga",
             "desktop"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17427,7 +17466,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17473,7 +17512,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17507,7 +17546,7 @@
             "Android",
             "Imageboard"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17540,7 +17579,7 @@
             "Anime",
             "abandoned"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17580,7 +17619,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17620,7 +17659,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17656,7 +17695,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17700,7 +17739,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17738,7 +17777,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17775,7 +17814,7 @@
             "Anime",
             "desktop"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17812,7 +17851,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -17849,7 +17888,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17885,7 +17924,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17924,7 +17963,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17970,7 +18009,7 @@
             "Anime",
             "abandoned"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -18007,7 +18046,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19337,10 +19376,10 @@
           }
         },
         {
-          "id": "amenzb",
-          "title": "ameNZB",
-          "link": "https://amenzb.moe/",
-          "icon": "https://static.everythingmoe.com/icons/default.png",
+          "id": "aninzb",
+          "title": "aninzb",
+          "link": "https://aninzb.moe/",
+          "icon": "https://static.everythingmoe.com/icons/aninzb.png",
           "tags": [
             "Anime",
             "Torrent",
@@ -19358,10 +19397,37 @@
             ],
             "negatives": [
               "Anime only",
+              "NZB only"
+            ],
+            "info": "note: New site"
+          }
+        },
+        {
+          "id": "amenzb",
+          "title": "ameNZB",
+          "link": "https://amenzb.moe/",
+          "icon": "https://static.everythingmoe.com/icons/amenzb.png",
+          "tags": [
+            "Anime",
+            "Torrent",
+            "usenet"
+          ],
+          "rank": 41,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "download",
+          "details": {
+            "positives": [
+              "Provides NZB (Usenet) mirror of torrents"
+            ],
+            "negatives": [
+              "Anime only",
               "Download require login",
               "NZB only"
             ],
-            "info": "note: This is very new site"
+            "info": "note: New site"
           }
         },
         {
@@ -19374,7 +19440,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19400,7 +19466,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19428,7 +19494,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19455,7 +19521,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19483,7 +19549,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19523,7 +19589,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19552,7 +19618,7 @@
             "raw",
             "ddl"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19586,7 +19652,7 @@
             "raw",
             "ddl"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19614,7 +19680,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19647,7 +19713,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19675,7 +19741,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19701,7 +19767,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -50543,7 +50609,7 @@
             "url": "https://everythingmoe.com/post/mihonguide.html"
           }
         ],
-        "info": "notes: This is a fork of Mihon."
+        "info": "notes: This is a fork of <a href=\"/s/mihon\">Mihon</a>."
       }
     },
     "mangaplusapp": {
@@ -51130,6 +51196,45 @@
           }
         ],
         "info": "note: Made by same people who made CloudStream"
+      }
+    },
+    "chimahon": {
+      "id": "chimahon",
+      "title": "Chimahon",
+      "link": "https://github.com/sohilsayed/chimahon",
+      "icon": "https://static.everythingmoe.com/icons/chimahon.png",
+      "tags": [
+        "Android",
+        "Anime",
+        "Manga",
+        "Light Novel"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Anime, LN, Manga + OCR app",
+          "Many extension sources are available",
+          "Open source"
+        ],
+        "negatives": [
+          "New app"
+        ],
+        "altlinks": [
+          {
+            "name": "Release",
+            "url": "https://github.com/KolbyML/Manatan/releases/latest"
+          },
+          {
+            "name": "Desktop ver",
+            "url": "https://github.com/1Selxo/Mangatan"
+          }
+        ],
+        "info": "notes: This is a fork of <a href=\"/s/mihon\">Mihon</a> and mixed with Kommiku. Extension same as Mihon / Aniyomi. Added serveral features for learning tools like dictionary, OCR, Anki."
       }
     },
     "yokai": {
@@ -55064,11 +55169,38 @@
         ]
       }
     },
+    "aninzb": {
+      "id": "aninzb",
+      "title": "aninzb",
+      "link": "https://aninzb.moe/",
+      "icon": "https://static.everythingmoe.com/icons/aninzb.png",
+      "tags": [
+        "Anime",
+        "Torrent",
+        "usenet"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "download"
+      ],
+      "details": {
+        "positives": [
+          "Provides NZB (Usenet) mirror of torrents"
+        ],
+        "negatives": [
+          "Anime only",
+          "NZB only"
+        ],
+        "info": "note: New site"
+      }
+    },
     "amenzb": {
       "id": "amenzb",
       "title": "ameNZB",
       "link": "https://amenzb.moe/",
-      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "icon": "https://static.everythingmoe.com/icons/amenzb.png",
       "tags": [
         "Anime",
         "Torrent",
@@ -55089,7 +55221,7 @@
           "Download require login",
           "NZB only"
         ],
-        "info": "note: This is very new site"
+        "info": "note: New site"
       }
     },
     "kanime": {
