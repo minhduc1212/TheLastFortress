@@ -1187,6 +1187,19 @@
                             ]
                         },
                         {
+                            "full_text": "hBlock - Blocklist Collection /",
+                            "links": [
+                                {
+                                    "name": "hBlock",
+                                    "url": "https://hblock.molinero.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/hectorm/hblock"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "FMHY Filterlist - Unsafe Sites Filter",
                             "links": [
                                 {
@@ -1936,19 +1949,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Threat Insights Portal - Online File Scanner / Sign-Up Required /",
-                            "links": [
-                                {
-                                    "name": "⁠Threat Insights Portal",
-                                    "url": "https://www.threat.rip/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/p2YbdzJ6f2"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Jotti - Online File Scanner",
                             "links": [
                                 {
@@ -2483,7 +2483,7 @@
                             ]
                         },
                         {
-                            "full_text": "ALPR Watch , ⁠FlockHopper or DeFlock / / - AI Automated License Plate Reader Cameras / ALPR Maps",
+                            "full_text": "ALPR Watch , ⁠FlockHopper , ⁠Flock Surveillance Map or DeFlock / / - AI Automated License Plate Reader Cameras / ALPR Maps",
                             "links": [
                                 {
                                     "name": "ALPR Watch",
@@ -2492,6 +2492,10 @@
                                 {
                                     "name": "⁠FlockHopper",
                                     "url": "https://dontgetflocked.com/"
+                                },
+                                {
+                                    "name": "⁠Flock Surveillance Map",
+                                    "url": "https://uncensored.ai/flocksurveillance"
                                 },
                                 {
                                     "name": "DeFlock",
@@ -6185,7 +6189,7 @@
                             ]
                         },
                         {
-                            "full_text": "Kimi - Kimi K2.6 / Kimi K3 / Slides / Google Login or Phone # Required / / /",
+                            "full_text": "Kimi - Kimi K2.6 / Slides / Google Login or Phone # Required / / /",
                             "links": [
                                 {
                                     "name": "Kimi",
@@ -6416,6 +6420,15 @@
                                 {
                                     "name": "⁠Tinker",
                                     "url": "https://tinker.thinkingmachines.ai/playground"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Poolside AI - Laguna",
+                            "links": [
+                                {
+                                    "name": "⁠Poolside AI",
+                                    "url": "https://platform.poolside.ai/"
                                 }
                             ]
                         },
@@ -8026,7 +8039,7 @@
                             "links": [
                                 {
                                     "name": "Snapgen AI",
-                                    "url": "https://geminigen.ai/app/imagen"
+                                    "url": "https://snapgen.ai/app/imagen"
                                 },
                                 {
                                     "name": "",
@@ -8035,32 +8048,7 @@
                             ]
                         },
                         {
-                            "full_text": "Arena , 2 - Multiple Generators / Editing / Sign-Up / OpenAI Bridge / /",
-                            "links": [
-                                {
-                                    "name": "Arena",
-                                    "url": "https://arena.ai/?mode=direct&chat-modality=image"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://canaryarena.ai/image/direct"
-                                },
-                                {
-                                    "name": "OpenAI Bridge",
-                                    "url": "https://github.com/CloudWaddie/LMArenaBridge"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://x.com/arena"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/lmarena"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bing Create - Unlimited / GPT Image 1 / Editing / Generating / Sign-Up",
+                            "full_text": "Bing Create - Unlimited / MAI-Image-2.5-Flash / Editing / Generating / Sign-Up",
                             "links": [
                                 {
                                     "name": "Bing Create",
@@ -8245,7 +8233,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠MAI Playground - MAI-Image-2.5 / MAI-Image-2.5 Flash / 10 Daily / Sign-Up",
+                            "full_text": "⁠MAI Playground - MAI-Image-2.5 / MAI-Image-2.5 Flash / MAI-Image-2.5-Pro / 10 Daily / Sign-Up",
                             "links": [
                                 {
                                     "name": "⁠MAI Playground",
@@ -8332,11 +8320,36 @@
                             ]
                         },
                         {
-                            "full_text": "⁠ChatGPT Image - GPT Image 2 / 8 Daily / Sign-Up",
+                            "full_text": "⁠ChatGPT Images - GPT Image 2 / 8 Daily / Sign-Up",
                             "links": [
                                 {
-                                    "name": "⁠ChatGPT Image",
+                                    "name": "⁠ChatGPT Images",
                                     "url": "https://chatgpt.com/images/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Arena , 2 - Multiple Generators / Editing / Sign-Up / OpenAI Bridge / /",
+                            "links": [
+                                {
+                                    "name": "Arena",
+                                    "url": "https://arena.ai/?mode=direct&chat-modality=image"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://canaryarena.ai/image/direct"
+                                },
+                                {
+                                    "name": "OpenAI Bridge",
+                                    "url": "https://github.com/CloudWaddie/LMArenaBridge"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://x.com/arena"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/lmarena"
                                 }
                             ]
                         },
@@ -11078,6 +11091,19 @@
                             ]
                         },
                         {
+                            "full_text": "Cinejoy - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Cinejoy",
+                                    "url": "https://cinejoy.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/TWKxstBuv9"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11320,15 +11346,6 @@
                             ]
                         },
                         {
-                            "full_text": "Cinegram - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Cinegram",
-                                    "url": "https://cinegram.tv/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Shiopa - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11338,6 +11355,32 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/RTmqHSDReh"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cinegram - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Cinegram",
+                                    "url": "https://cinegram.tv/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Chillflix - Movies / TV / Anime / Auto-Next / /",
+                            "links": [
+                                {
+                                    "name": "Chillflix",
+                                    "url": "https://chillflix.lol/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/+jXrFnrO-TYA4ZGMy"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/6r5KTZgqXV"
                                 }
                             ]
                         },
@@ -11381,23 +11424,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/VjHhPyuZX"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Chillflix - Movies / TV / Anime / Auto-Next / /",
-                            "links": [
-                                {
-                                    "name": "Chillflix",
-                                    "url": "https://chillflix.lol/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/+jXrFnrO-TYA4ZGMy"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/6r5KTZgqXV"
                                 }
                             ]
                         },
@@ -11616,15 +11642,11 @@
                             ]
                         },
                         {
-                            "full_text": "Smashystream or AnyEmbed - Movies / TV / Anime /",
+                            "full_text": "Smashystream - Movies / TV / Anime /",
                             "links": [
                                 {
                                     "name": "Smashystream",
                                     "url": "https://smashystream.xyz/"
-                                },
-                                {
-                                    "name": "AnyEmbed",
-                                    "url": "https://anyembed.xyz/"
                                 },
                                 {
                                     "name": "",
@@ -11681,6 +11703,28 @@
                                 {
                                     "name": "3",
                                     "url": "https://nomorflix.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Moonflix - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Moonflix",
+                                    "url": "https://moonflix.website/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/Moonflix_official_Channel"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "NOVA - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "NOVA",
+                                    "url": "https://novahd.cc/"
                                 }
                             ]
                         },
@@ -12110,19 +12154,6 @@
                                 {
                                     "name": "WatchFlux",
                                     "url": "https://watchflux.tv/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Moonflix - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "Moonflix",
-                                    "url": "https://moonflix.website/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/Moonflix_official_Channel"
                                 }
                             ]
                         },
@@ -17072,6 +17103,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠FalconStreams /",
+                            "links": [
+                                {
+                                    "name": "⁠FalconStreams",
+                                    "url": "https://falconstreams.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/FPgKwtXcYV"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Palco /",
                             "links": [
                                 {
@@ -17103,19 +17147,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://crichd.com.co/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠FalconStreams /",
-                            "links": [
-                                {
-                                    "name": "⁠FalconStreams",
-                                    "url": "https://falconstreams.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/FPgKwtXcYV"
                                 }
                             ]
                         },
@@ -19848,6 +19879,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Anime Tosho - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠Anime Tosho",
+                                    "url": "https://animetosho.xyz/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Anime2Enjoy - Sub /",
                             "links": [
                                 {
@@ -21001,6 +21041,15 @@
                                 {
                                     "name": "⁠nekoBT",
                                     "url": "https://nekobt.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Anime Tosho - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠Anime Tosho",
+                                    "url": "https://animetosho.xyz/"
                                 }
                             ]
                         },
@@ -28031,15 +28080,11 @@
                             ]
                         },
                         {
-                            "full_text": "Metal Tracker or RockBox - Metal / MP3 320kb / FLAC",
+                            "full_text": "Metal Tracker - Metal / MP3 320kb / FLAC",
                             "links": [
                                 {
                                     "name": "Metal Tracker",
                                     "url": "https://en.metal-tracker.com/"
-                                },
-                                {
-                                    "name": "RockBox",
-                                    "url": "https://rawkbawx.rocks/"
                                 }
                             ]
                         },
@@ -55202,15 +55247,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Debridr or ⁠MixDebrid (use shortlink bypass) - Bypass Premium Link Limits",
+                            "full_text": "⁠Debridr - Bypass Premium Link Limits",
                             "links": [
                                 {
                                     "name": "⁠Debridr",
                                     "url": "https://debridr.com/"
-                                },
-                                {
-                                    "name": "⁠MixDebrid",
-                                    "url": "https://mixdebrid.com/"
                                 }
                             ]
                         },
@@ -56338,7 +56379,7 @@
                             "links": [
                                 {
                                     "name": "⁠SonicBit",
-                                    "url": "https://my.sonicbit.net/"
+                                    "url": "https://sonicbit.net/"
                                 }
                             ]
                         },
@@ -57692,15 +57733,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠All Write Alright - Creative Writing Guides + Prompts",
-                            "links": [
-                                {
-                                    "name": "⁠All Write Alright",
-                                    "url": "https://allwritealright.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Appropedia - Sustainability Wiki",
                             "links": [
                                 {
@@ -58488,7 +58520,7 @@
                             ]
                         },
                         {
-                            "full_text": "Manim , 2 - Generate Explanatory Math Videos / Videos / Difference Between Versions",
+                            "full_text": "Manim , 2 / - Generate Explanatory Math Videos / Videos / Difference Between Versions",
                             "links": [
                                 {
                                     "name": "Manim",
@@ -58497,6 +58529,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://github.com/3b1b/manim"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ManimCommunity/manim/"
                                 },
                                 {
                                     "name": "Videos",
@@ -69156,6 +69192,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Iltyem-iltyem - Australian Indigenous Sign Language Learning",
+                            "links": [
+                                {
+                                    "name": "⁠Iltyem-iltyem",
+                                    "url": "https://www.iltyemiltyem.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "HandyBSL - Learn / Practice BSL",
                             "links": [
                                 {
@@ -79078,11 +79123,15 @@
                             ]
                         },
                         {
-                            "full_text": "notesGPT - AI Voice Notes",
+                            "full_text": "notesGPT - AI Voice Notes /",
                             "links": [
                                 {
                                     "name": "notesGPT",
                                     "url": "https://usenotesgpt.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/nutlope/notesgpt"
                                 }
                             ]
                         },
@@ -80792,31 +80841,6 @@
                             ]
                         },
                         {
-                            "full_text": "Easy Notes , Notally , NotallyX , Google Keep or ColorNote - Minimalistic Note-Taking Apps",
-                            "links": [
-                                {
-                                    "name": "Easy Notes",
-                                    "url": "https://github.com/Kin69/EasyNotes"
-                                },
-                                {
-                                    "name": "Notally",
-                                    "url": "https://github.com/OmGodse/Notally"
-                                },
-                                {
-                                    "name": "NotallyX",
-                                    "url": "https://github.com/PhilKes/NotallyX"
-                                },
-                                {
-                                    "name": "Google Keep",
-                                    "url": "https://keep.google.com/"
-                                },
-                                {
-                                    "name": "ColorNote",
-                                    "url": "https://www.colornote.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Xed-Editor / , Acode , QuickEdit (search) - Text / Code Editors",
                             "links": [
                                 {
@@ -80919,6 +80943,31 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/anytype"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Notally , NotallyX , Google Keep , Easy Notes , or ColorNote - Minimalistic Note-Taking Apps",
+                            "links": [
+                                {
+                                    "name": "Notally",
+                                    "url": "https://github.com/OmGodse/Notally"
+                                },
+                                {
+                                    "name": "NotallyX",
+                                    "url": "https://github.com/PhilKes/NotallyX"
+                                },
+                                {
+                                    "name": "Google Keep",
+                                    "url": "https://keep.google.com/"
+                                },
+                                {
+                                    "name": "Easy Notes",
+                                    "url": "https://github.com/Kin69/EasyNotes"
+                                },
+                                {
+                                    "name": "ColorNote",
+                                    "url": "https://www.colornote.com/"
                                 }
                             ]
                         },
@@ -85117,6 +85166,19 @@
                                 {
                                     "name": "FluxTube",
                                     "url": "https://github.com/mu-fazil-vk/FluxTube"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Flow - Ad-Free YouTube /",
+                            "links": [
+                                {
+                                    "name": "⁠Flow",
+                                    "url": "https://flowapp-website.vercel.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/A-EDev/Flow"
                                 }
                             ]
                         },
@@ -95761,7 +95823,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠LonelyScreen - AirPlay Receiver for PC /",
+                            "full_text": "⁠LonelyScreen - AirPlay Receiver for PC / / Infinite Free Trial",
                             "links": [
                                 {
                                     "name": "⁠LonelyScreen",
@@ -97926,11 +97988,19 @@
                             ]
                         },
                         {
-                            "full_text": "animeslayer - Anime / 1080p / Avoid Their App (Outdated)",
+                            "full_text": "Anime Slayer - Anime / 1080p / Android App /",
                             "links": [
                                 {
-                                    "name": "animeslayer",
+                                    "name": "Anime Slayer",
                                     "url": "https://animeslayer.to/"
+                                },
+                                {
+                                    "name": "Android App",
+                                    "url": "https://anslayer.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/DNfGhF2RhQ"
                                 }
                             ]
                         },
@@ -97962,15 +98032,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/np4abdou1/ani-cli-arabic"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Anime Slayer - Anime Android App",
-                            "links": [
-                                {
-                                    "name": "⁠Anime Slayer",
-                                    "url": "https://app-mo.com/"
                                 }
                             ]
                         },
@@ -100771,6 +100832,15 @@
                                 {
                                     "name": "Viittomaluettelot",
                                     "url": "https://suvi.viittomat.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Fintraffic - Public Transport Route Planner",
+                            "links": [
+                                {
+                                    "name": "⁠Fintraffic",
+                                    "url": "https://matka.fintraffic.fi/"
                                 }
                             ]
                         }
@@ -111915,19 +111985,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠Tram Phim , 2 , 3 - Movies / TV / Anime / /",
+                            "full_text": "⁠Tram Phim - Movies / TV / Anime / /",
                             "links": [
                                 {
                                     "name": "⁠Tram Phim",
-                                    "url": "https://tramphim.org/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://tramphim.pro/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://tramphim.live/"
+                                    "url": "https://tramphim1.cc/"
                                 },
                                 {
                                     "name": "",
@@ -111940,11 +112002,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Sofaflix - Movies / TV / Anime",
+                            "full_text": "⁠Sofaflix - Movies / TV / Anime /",
                             "links": [
                                 {
                                     "name": "⁠Sofaflix",
-                                    "url": "https://sofaflix.mom/"
+                                    "url": "https://sofaflix.best/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/addlist/66uKS-YYSyZmM2M1"
                                 }
                             ]
                         },
@@ -116747,7 +116813,7 @@
                             ]
                         },
                         {
-                            "full_text": "ALPR Watch , ⁠FlockHopper or DeFlock / / - AI Automated License Plate Reader Cameras / ALPR Maps",
+                            "full_text": "ALPR Watch , ⁠FlockHopper , ⁠Flock Surveillance Map or DeFlock / / - AI Automated License Plate Reader Cameras / ALPR Maps",
                             "links": [
                                 {
                                     "name": "ALPR Watch",
@@ -116756,6 +116822,10 @@
                                 {
                                     "name": "⁠FlockHopper",
                                     "url": "https://dontgetflocked.com/"
+                                },
+                                {
+                                    "name": "⁠Flock Surveillance Map",
+                                    "url": "https://uncensored.ai/flocksurveillance"
                                 },
                                 {
                                     "name": "DeFlock",
@@ -124909,6 +124979,15 @@
                                 {
                                     "name": "⁠99Tools",
                                     "url": "https://99tools.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Edge Tools - Image / Text / PDF / Code",
+                            "links": [
+                                {
+                                    "name": "⁠Edge Tools",
+                                    "url": "https://edgetools.io/"
                                 }
                             ]
                         },
@@ -135005,11 +135084,19 @@
                             ]
                         },
                         {
-                            "full_text": "aria2 - Terminal Download Manager / Download Bot / WebUI , 2 / /",
+                            "full_text": "⁠Aria2 Next or aria2 / - Terminal Download Manager / Download Bot / WebUI , 2 / , Android",
                             "links": [
+                                {
+                                    "name": "⁠Aria2 Next",
+                                    "url": "https://github.com/AnInsomniacy/aria2-next"
+                                },
                                 {
                                     "name": "aria2",
                                     "url": "https://aria2.github.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/aria2/aria2"
                                 },
                                 {
                                     "name": "Download Bot",
@@ -135022,10 +135109,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://ariang.mayswind.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/aria2/aria2"
                                 }
                             ]
                         },
@@ -137372,7 +137455,7 @@
                             "links": [
                                 {
                                     "name": "FileZilla",
-                                    "url": "https://filezilla-project.org/download.php?show_all=1"
+                                    "url": "https://filezilla-project.org/"
                                 }
                             ]
                         },
@@ -137849,6 +137932,23 @@
                                 {
                                     "name": "MediaFire",
                                     "url": "https://www.mediafire.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hxfile , 2 , 3 - 5GB / 180 Days After Last View",
+                            "links": [
+                                {
+                                    "name": "Hxfile",
+                                    "url": "https://hxfile.co/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://down.mdiaload.com/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://down.fast-down.com/"
                                 }
                             ]
                         },
@@ -142449,19 +142549,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/adsbypasser/adsbypasser"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bypass-Links - Bypass Links /",
-                            "links": [
-                                {
-                                    "name": "Bypass-Links",
-                                    "url": "https://bypass-links.vercel.app"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/amitsingh-007/bypass-links"
                                 }
                             ]
                         },
@@ -161839,7 +161926,7 @@
                             ]
                         },
                         {
-                            "full_text": "Wand - Mods / Trainer Manager / Single Player Only / Features , 2",
+                            "full_text": "Wand - Mods / Trainer Manager / Single Player Only / Features , 2 (search)",
                             "links": [
                                 {
                                     "name": "Wand",
@@ -190991,15 +191078,11 @@
                             ]
                         },
                         {
-                            "full_text": "Metal Tracker or RockBox - Metal / MP3 320kb / FLAC",
+                            "full_text": "Metal Tracker - Metal / MP3 320kb / FLAC",
                             "links": [
                                 {
                                     "name": "Metal Tracker",
                                     "url": "https://en.metal-tracker.com/"
-                                },
-                                {
-                                    "name": "RockBox",
-                                    "url": "https://rawkbawx.rocks/"
                                 }
                             ]
                         },
@@ -196748,15 +196831,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠All Write Alright - Creative Writing Guides + Prompts",
-                            "links": [
-                                {
-                                    "name": "⁠All Write Alright",
-                                    "url": "https://allwritealright.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Appropedia - Sustainability Wiki",
                             "links": [
                                 {
@@ -197544,7 +197618,7 @@
                             ]
                         },
                         {
-                            "full_text": "Manim , 2 - Generate Explanatory Math Videos / Videos / Difference Between Versions",
+                            "full_text": "Manim , 2 / - Generate Explanatory Math Videos / Videos / Difference Between Versions",
                             "links": [
                                 {
                                     "name": "Manim",
@@ -197553,6 +197627,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://github.com/3b1b/manim"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ManimCommunity/manim/"
                                 },
                                 {
                                     "name": "Videos",
@@ -208212,6 +208290,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Iltyem-iltyem - Australian Indigenous Sign Language Learning",
+                            "links": [
+                                {
+                                    "name": "⁠Iltyem-iltyem",
+                                    "url": "https://www.iltyemiltyem.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "HandyBSL - Learn / Practice BSL",
                             "links": [
                                 {
@@ -216447,6 +216534,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠OmniRoute / or 9Router - Self-Hosted AI API Routers / Proxies for Developers",
+                            "links": [
+                                {
+                                    "name": "⁠OmniRoute",
+                                    "url": "https://omniroute.online/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/diegosouzapw/OmniRoute"
+                                },
+                                {
+                                    "name": "9Router",
+                                    "url": "https://9router.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Wyzie Subs - Subtitle Scraping API / NPM Package / Docs",
                             "links": [
                                 {
@@ -218878,6 +218982,15 @@
                                 {
                                     "name": "Ampcode",
                                     "url": "https://ampcode.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Poolside AI - Coding AI API",
+                            "links": [
+                                {
+                                    "name": "⁠Poolside AI",
+                                    "url": "https://platform.poolside.ai/"
                                 }
                             ]
                         },
@@ -224139,19 +224252,6 @@
                             ]
                         },
                         {
-                            "full_text": "Codeberg Pages - 750MB / Unlimited / Only Open-Source Projects / Request Storage",
-                            "links": [
-                                {
-                                    "name": "Codeberg Pages",
-                                    "url": "https://codeberg.page/"
-                                },
-                                {
-                                    "name": "Request Storage",
-                                    "url": "https://codeberg.org/Codeberg-e.V./requests"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Sourcehut Pages - 1GB / Unlimited",
                             "links": [
                                 {
@@ -224224,6 +224324,19 @@
                                 {
                                     "name": "Sevalla",
                                     "url": "https://sevalla.com/static-site-hosting/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Codeberg Pages - 750MB / Unlimited / Only Open-Source Projects / Request Storage",
+                            "links": [
+                                {
+                                    "name": "Codeberg Pages",
+                                    "url": "https://codeberg.page/"
+                                },
+                                {
+                                    "name": "Request Storage",
+                                    "url": "https://codeberg.org/Codeberg-e.V./requests"
                                 }
                             ]
                         },
@@ -224369,11 +224482,15 @@
                             ]
                         },
                         {
-                            "full_text": "BBRadar or BugBountyHunting - Bug Bounty Trackers",
+                            "full_text": "BBRadar , ⁠Open Bug Bounty or BugBountyHunting - Bug Bounty Trackers",
                             "links": [
                                 {
                                     "name": "BBRadar",
                                     "url": "https://bbradar.io/"
+                                },
+                                {
+                                    "name": "⁠Open Bug Bounty",
+                                    "url": "https://www.openbugbounty.org/"
                                 },
                                 {
                                     "name": "BugBountyHunting",
@@ -226023,6 +226140,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "⁠All Write Alright - Creative Writing Guides + Prompts (Removed in 4403dec )",
+                            "links": [
+                                {
+                                    "name": "4403dec",
+                                    "url": "https://github.com/fmhy/edit/commit/4403dec67d7a16c260fec92e2e669f9bba343ffe#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL113"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Anime Slayer - Anime Android App (Removed in 4403dec )",
+                            "links": [
+                                {
+                                    "name": "4403dec",
+                                    "url": "https://github.com/fmhy/edit/commit/4403dec67d7a16c260fec92e2e669f9bba343ffe#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L52"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Allusion - Reference Image Manager (Removed in cbf7ce5 )",
                             "links": [
                                 {
@@ -226911,15 +227046,6 @@
                                     "url": "https://github.com/fmhy/edit/commit/c90fec87aefb58dc794086c6a97dda9aaf75443d#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL99"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "cineplus - Movies / TV (Removed in 5d750a7 )",
-                            "links": [
-                                {
-                                    "name": "5d750a7",
-                                    "url": "https://github.com/fmhy/edit/commit/5d750a7338bd0e9a202f88d2fcd711ceda049506#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1499"
-                                }
-                            ]
                         }
                     ]
                 }
@@ -227179,11 +227305,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠ArrayCat - Convert Data to Array",
+                            "full_text": "⁠ArrayCat - Convert Data to Array / GitHub",
                             "links": [
                                 {
                                     "name": "⁠ArrayCat",
                                     "url": "https://arraycat.com/"
+                                },
+                                {
+                                    "name": "GitHub",
+                                    "url": "https://github.com/Great-Software-Company/array_cat"
                                 }
                             ]
                         },

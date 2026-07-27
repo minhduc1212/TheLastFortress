@@ -1905,12 +1905,14 @@
             ],
             "altlinks": [
               {
-                "name": ".fun",
-                "url": "https://justanime.fun/home"
-              },
-              {
                 "name": "mirrors",
                 "url": "https://www.justanime.site/"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": ".fun",
+                "url": "https://justanime.fun/home"
               }
             ]
           }
@@ -11108,7 +11110,7 @@
               "Archiving from multiple sources"
             ],
             "negatives": [
-              "New site"
+              "Relatively new site"
             ]
           }
         },
@@ -15424,7 +15426,7 @@
             "altlinks": [
               {
                 "name": "Release",
-                "url": "https://github.com/KolbyML/Manatan/releases/latest"
+                "url": "https://github.com/sohilsayed/chimahon/releases/latest"
               },
               {
                 "name": "Desktop ver",
@@ -37789,12 +37791,14 @@
         ],
         "altlinks": [
           {
-            "name": ".fun",
-            "url": "https://justanime.fun/home"
-          },
-          {
             "name": "mirrors",
             "url": "https://www.justanime.site/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": ".fun",
+            "url": "https://justanime.fun/home"
           }
         ]
       }
@@ -46938,7 +46942,7 @@
           "Archiving from multiple sources"
         ],
         "negatives": [
-          "New site"
+          "Relatively new site"
         ]
       }
     },
@@ -51227,7 +51231,7 @@
         "altlinks": [
           {
             "name": "Release",
-            "url": "https://github.com/KolbyML/Manatan/releases/latest"
+            "url": "https://github.com/sohilsayed/chimahon/releases/latest"
           },
           {
             "name": "Desktop ver",
