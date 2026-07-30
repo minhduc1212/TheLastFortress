@@ -830,86 +830,6 @@
           }
         },
         {
-          "id": "anisnatch",
-          "title": "AniSnatch",
-          "link": "https://anisnatch.to/home",
-          "icon": "https://static.everythingmoe.com/icons/anisnatch.png",
-          "tags": [
-            "Scraper",
-            "Hard-sub",
-            "Dub friendly",
-            "Soft-sub",
-            "MULT"
-          ],
-          "rank": 18,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ],
-            "info": "note: Similar interface with original Animixplay",
-            "altlinks": [
-              {
-                "name": ".top",
-                "url": "https://anisnatch.top/home"
-              },
-              {
-                "name": "mirrors",
-                "url": "https://anisnatch.site/"
-              }
-            ]
-          }
-        },
-        {
-          "id": "otakuu",
-          "title": "AnimeX",
-          "link": "https://animex.one/home",
-          "icon": "https://static.everythingmoe.com/icons/animexone.png",
-          "tags": [
-            "Scraper",
-            "Hard-sub",
-            "Soft-sub",
-            "Self-host",
-            "Easy download",
-            "Modern interface",
-            "MULT"
-          ],
-          "rank": 19,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources options",
-              "Nice interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ],
-            "ex-altlinks": [
-              {
-                "name": "aniwaveat",
-                "url": "https://aniwave.at/"
-              },
-              {
-                "name": "Anistream",
-                "url": "https://anistream.one/home"
-              }
-            ],
-            "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
-            "info": "note: formerly known as Otakuu. Also self host some anime"
-          }
-        },
-        {
           "id": "123animes",
           "title": "aniwaves.ru",
           "link": "https://aniwaves.ru/home",
@@ -918,7 +838,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 20,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1008,6 +928,87 @@
               }
             ],
             "domains": "hlsx3cdn.burntburst45.store"
+          }
+        },
+        {
+          "id": "anisnatch",
+          "title": "AniSnatch",
+          "link": "https://anisnatch.to/home",
+          "icon": "https://static.everythingmoe.com/icons/anisnatch.png",
+          "tags": [
+            "Scraper",
+            "Hard-sub",
+            "Easy download",
+            "Dub friendly",
+            "Soft-sub",
+            "MULT"
+          ],
+          "rank": 19,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "info": "note: Similar interface with original Animixplay",
+            "altlinks": [
+              {
+                "name": ".top",
+                "url": "https://anisnatch.top/home"
+              },
+              {
+                "name": "mirrors",
+                "url": "https://anisnatch.site/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "otakuu",
+          "title": "AnimeX",
+          "link": "https://animex.one/home",
+          "icon": "https://static.everythingmoe.com/icons/animexone.png",
+          "tags": [
+            "Scraper",
+            "Hard-sub",
+            "Soft-sub",
+            "Self-host",
+            "Easy download",
+            "Modern interface",
+            "MULT"
+          ],
+          "rank": 20,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "ex-altlinks": [
+              {
+                "name": "aniwaveat",
+                "url": "https://aniwave.at/"
+              },
+              {
+                "name": "Anistream",
+                "url": "https://anistream.one/home"
+              }
+            ],
+            "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
+            "info": "note: formerly known as Otakuu. Also self host some anime"
           }
         },
         {
@@ -2518,6 +2519,10 @@
               {
                 "name": "watchanimez.me",
                 "url": "https://watchanimez.me/"
+              },
+              {
+                "name": "Cihuynime",
+                "url": "https://www.cihuynime.net"
               }
             ],
             "info": "note: each made by different people, uses third party embed.",
@@ -2593,6 +2598,10 @@
               {
                 "name": "yoanime",
                 "url": "https://yoanime.me/"
+              },
+              {
+                "name": "babyanime",
+                "url": "https://babyanime.top/"
               }
             ],
             "ex-altlinks": [
@@ -22009,12 +22018,36 @@
         {
           "id": "neputo",
           "title": "NEPU Stream",
-          "link": "https://nepu.to/",
+          "link": "https://nepu.io/",
           "icon": "https://static.everythingmoe.com/icons/neputo.png",
           "tags": [
             "WESTERN"
           ],
           "rank": 4,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "western",
+          "details": {
+            "info": "note : not otaku related site",
+            "altlinks": [
+              {
+                "name": ".is",
+                "url": "https://nepu.is/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "bingr",
+          "title": "Bingr",
+          "link": "https://bingr.one/",
+          "icon": "https://static.everythingmoe.com/icons/bingr.png",
+          "tags": [
+            "WESTERN"
+          ],
+          "rank": 5,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22032,7 +22065,7 @@
           "tags": [
             "WESTERN"
           ],
-          "rank": 5,
+          "rank": 6,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22050,7 +22083,7 @@
           "tags": [
             "WESTERN"
           ],
-          "rank": 6,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22068,7 +22101,7 @@
           "tags": [
             "WESTERN"
           ],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22100,7 +22133,7 @@
           "tags": [
             "WESTERN"
           ],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22118,7 +22151,7 @@
           "tags": [
             "WESTERN"
           ],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -22136,7 +22169,7 @@
           "tags": [
             "WESTERN"
           ],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -36819,86 +36852,6 @@
         "domains": "playeng.animeapps.top,nukitashith.top"
       }
     },
-    "anisnatch": {
-      "id": "anisnatch",
-      "title": "AniSnatch",
-      "link": "https://anisnatch.to/home",
-      "icon": "https://static.everythingmoe.com/icons/anisnatch.png",
-      "tags": [
-        "Scraper",
-        "Hard-sub",
-        "Dub friendly",
-        "Soft-sub",
-        "MULT"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ],
-        "info": "note: Similar interface with original Animixplay",
-        "altlinks": [
-          {
-            "name": ".top",
-            "url": "https://anisnatch.top/home"
-          },
-          {
-            "name": "mirrors",
-            "url": "https://anisnatch.site/"
-          }
-        ]
-      }
-    },
-    "otakuu": {
-      "id": "otakuu",
-      "title": "AnimeX",
-      "link": "https://animex.one/home",
-      "icon": "https://static.everythingmoe.com/icons/animexone.png",
-      "tags": [
-        "Scraper",
-        "Hard-sub",
-        "Soft-sub",
-        "Self-host",
-        "Easy download",
-        "Modern interface",
-        "MULT"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources options",
-          "Nice interface"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ],
-        "ex-altlinks": [
-          {
-            "name": "aniwaveat",
-            "url": "https://aniwave.at/"
-          },
-          {
-            "name": "Anistream",
-            "url": "https://anistream.one/home"
-          }
-        ],
-        "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
-        "info": "note: formerly known as Otakuu. Also self host some anime"
-      }
-    },
     "123animes": {
       "id": "123animes",
       "title": "aniwaves.ru",
@@ -36998,6 +36951,87 @@
           }
         ],
         "domains": "hlsx3cdn.burntburst45.store"
+      }
+    },
+    "anisnatch": {
+      "id": "anisnatch",
+      "title": "AniSnatch",
+      "link": "https://anisnatch.to/home",
+      "icon": "https://static.everythingmoe.com/icons/anisnatch.png",
+      "tags": [
+        "Scraper",
+        "Hard-sub",
+        "Easy download",
+        "Dub friendly",
+        "Soft-sub",
+        "MULT"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "info": "note: Similar interface with original Animixplay",
+        "altlinks": [
+          {
+            "name": ".top",
+            "url": "https://anisnatch.top/home"
+          },
+          {
+            "name": "mirrors",
+            "url": "https://anisnatch.site/"
+          }
+        ]
+      }
+    },
+    "otakuu": {
+      "id": "otakuu",
+      "title": "AnimeX",
+      "link": "https://animex.one/home",
+      "icon": "https://static.everythingmoe.com/icons/animexone.png",
+      "tags": [
+        "Scraper",
+        "Hard-sub",
+        "Soft-sub",
+        "Self-host",
+        "Easy download",
+        "Modern interface",
+        "MULT"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "ex-altlinks": [
+          {
+            "name": "aniwaveat",
+            "url": "https://aniwave.at/"
+          },
+          {
+            "name": "Anistream",
+            "url": "https://anistream.one/home"
+          }
+        ],
+        "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
+        "info": "note: formerly known as Otakuu. Also self host some anime"
       }
     },
     "anifyto": {
@@ -38508,6 +38542,10 @@
           {
             "name": "watchanimez.me",
             "url": "https://watchanimez.me/"
+          },
+          {
+            "name": "Cihuynime",
+            "url": "https://www.cihuynime.net"
           }
         ],
         "info": "note: each made by different people, uses third party embed.",
@@ -38583,6 +38621,10 @@
           {
             "name": "yoanime",
             "url": "https://yoanime.me/"
+          },
+          {
+            "name": "babyanime",
+            "url": "https://babyanime.top/"
           }
         ],
         "ex-altlinks": [
@@ -57873,8 +57915,32 @@
     "neputo": {
       "id": "neputo",
       "title": "NEPU Stream",
-      "link": "https://nepu.to/",
+      "link": "https://nepu.io/",
       "icon": "https://static.everythingmoe.com/icons/neputo.png",
+      "tags": [
+        "WESTERN"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "western"
+      ],
+      "details": {
+        "info": "note : not otaku related site",
+        "altlinks": [
+          {
+            "name": ".is",
+            "url": "https://nepu.is/"
+          }
+        ]
+      }
+    },
+    "bingr": {
+      "id": "bingr",
+      "title": "Bingr",
+      "link": "https://bingr.one/",
+      "icon": "https://static.everythingmoe.com/icons/bingr.png",
       "tags": [
         "WESTERN"
       ],
