@@ -14833,68 +14833,6 @@
           }
         },
         {
-          "id": "aniyomi",
-          "title": "Aniyomi",
-          "link": "https://aniyomi.org/",
-          "icon": "https://static.everythingmoe.com/icons/aniyomi.png",
-          "tags": [
-            "Android",
-            "Anime",
-            "Manga"
-          ],
-          "rank": 6,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "apps",
-          "details": {
-            "positives": [
-              "Support both anime & manga",
-              "Many extension sources are available",
-              "Actively developed",
-              "Open source"
-            ],
-            "negatives": [
-              "Android only",
-              "Need to install an extension to use",
-              "Extension installed separately",
-              "Original repo no longer maintained"
-            ],
-            "altlinks": [
-              {
-                "name": "Git repo",
-                "url": "https://github.com/aniyomiorg/aniyomi"
-              },
-              {
-                "name": "Release",
-                "url": "https://github.com/aniyomiorg/aniyomi/releases"
-              },
-              {
-                "name": "fork 1",
-                "url": "https://github.com/Animetailapp/Animetail"
-              },
-              {
-                "name": "fork 2",
-                "url": "https://github.com/andarcanum/Tadami-Aniyomi-fork"
-              },
-              {
-                "name": "fork 3",
-                "url": "https://aniyomi.org/forks/"
-              },
-              {
-                "name": "Anime Extensions",
-                "url": "https://everythingmoe.com/post/aniyomirepo.html"
-              },
-              {
-                "name": "Manga Extensions",
-                "url": "https://everythingmoe.com/post/mihonguide.html"
-              }
-            ],
-            "info": "note: This app forked from Tachiyomi (<a href=\"/s/mihon\">Mihon</a>)"
-          }
-        },
-        {
           "id": "tachiyomisy",
           "title": "TachiyomiSY",
           "link": "https://mihon.app/forks/TachiyomiSY/",
@@ -14903,7 +14841,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 7,
+          "rank": 6,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14956,7 +14894,7 @@
             "Manga",
             "UNIVERSAL"
           ],
-          "rank": 8,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15013,7 +14951,7 @@
             "Manga",
             "UNIVERSAL"
           ],
-          "rank": 9,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15061,7 +14999,7 @@
             "Novel",
             "UNIVERSAL"
           ],
-          "rank": 10,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15109,45 +15047,6 @@
           }
         },
         {
-          "id": "anikku",
-          "title": "Anikku",
-          "link": "https://anikku-app.github.io/",
-          "icon": "https://static.everythingmoe.com/icons/anikku.png",
-          "tags": [
-            "Android",
-            "Anime"
-          ],
-          "rank": 11,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "apps",
-          "details": {
-            "positives": [
-              "Same as Aniyomi + new features"
-            ],
-            "negatives": [
-              "Anime only"
-            ],
-            "altlinks": [
-              {
-                "name": "Release",
-                "url": "https://github.com/komikku-app/anikku/releases/latest"
-              },
-              {
-                "name": "Anime Extensions",
-                "url": "https://everythingmoe.com/post/aniyomirepo.html"
-              },
-              {
-                "name": "AniZen",
-                "url": "https://github.com/salmanbappi/AniZen"
-              }
-            ],
-            "info": "notes: This is a fork of Aniyomi but Manga removed. Made by same people who made Komikku. AniZen is another fork."
-          }
-        },
-        {
           "id": "cloudstream",
           "title": "CloudStream",
           "link": "https://github.com/recloudstream/cloudstream",
@@ -15156,7 +15055,7 @@
             "Android",
             "Anime"
           ],
-          "rank": 12,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15210,7 +15109,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 13,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15250,6 +15149,107 @@
               }
             ],
             "info": "note: Formerly known as Miru. This app uses NZB and torrent connection; beware of potential issues with your ISP. Not open source, but source available."
+          }
+        },
+        {
+          "id": "aniyomi",
+          "title": "Aniyomi",
+          "link": "https://aniyomi.org/",
+          "icon": "https://static.everythingmoe.com/icons/aniyomi.png",
+          "tags": [
+            "Android",
+            "Anime",
+            "Manga"
+          ],
+          "rank": 12,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Support both anime & manga",
+              "Many extension sources are available",
+              "Actively developed",
+              "Open source"
+            ],
+            "negatives": [
+              "Android only",
+              "Need to install an extension to use",
+              "Extension installed separately",
+              "Original repo no longer maintained"
+            ],
+            "altlinks": [
+              {
+                "name": "Git repo",
+                "url": "https://github.com/aniyomiorg/aniyomi"
+              },
+              {
+                "name": "Release",
+                "url": "https://github.com/aniyomiorg/aniyomi/releases"
+              },
+              {
+                "name": "fork 1",
+                "url": "https://github.com/Animetailapp/Animetail"
+              },
+              {
+                "name": "fork 2",
+                "url": "https://github.com/andarcanum/Tadami-Aniyomi-fork"
+              },
+              {
+                "name": "fork 3",
+                "url": "https://aniyomi.org/forks/"
+              },
+              {
+                "name": "Anime Extensions",
+                "url": "https://everythingmoe.com/post/aniyomirepo.html"
+              },
+              {
+                "name": "Manga Extensions",
+                "url": "https://everythingmoe.com/post/mihonguide.html"
+              }
+            ],
+            "info": "note: This app forked from Tachiyomi (<a href=\"/s/mihon\">Mihon</a>)"
+          }
+        },
+        {
+          "id": "anikku",
+          "title": "Anikku",
+          "link": "https://anikku-app.github.io/",
+          "icon": "https://static.everythingmoe.com/icons/anikku.png",
+          "tags": [
+            "Android",
+            "Anime"
+          ],
+          "rank": 13,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Same as Aniyomi + new features"
+            ],
+            "negatives": [
+              "Anime only"
+            ],
+            "altlinks": [
+              {
+                "name": "Release",
+                "url": "https://github.com/komikku-app/anikku/releases/latest"
+              },
+              {
+                "name": "Anime Extensions",
+                "url": "https://everythingmoe.com/post/aniyomirepo.html"
+              },
+              {
+                "name": "AniZen",
+                "url": "https://github.com/salmanbappi/AniZen"
+              }
+            ],
+            "info": "notes: This is a fork of Aniyomi but Manga removed. Made by same people who made Komikku. AniZen is another fork."
           }
         },
         {
@@ -50777,68 +50777,6 @@
         ]
       }
     },
-    "aniyomi": {
-      "id": "aniyomi",
-      "title": "Aniyomi",
-      "link": "https://aniyomi.org/",
-      "icon": "https://static.everythingmoe.com/icons/aniyomi.png",
-      "tags": [
-        "Android",
-        "Anime",
-        "Manga"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "apps"
-      ],
-      "details": {
-        "positives": [
-          "Support both anime & manga",
-          "Many extension sources are available",
-          "Actively developed",
-          "Open source"
-        ],
-        "negatives": [
-          "Android only",
-          "Need to install an extension to use",
-          "Extension installed separately",
-          "Original repo no longer maintained"
-        ],
-        "altlinks": [
-          {
-            "name": "Git repo",
-            "url": "https://github.com/aniyomiorg/aniyomi"
-          },
-          {
-            "name": "Release",
-            "url": "https://github.com/aniyomiorg/aniyomi/releases"
-          },
-          {
-            "name": "fork 1",
-            "url": "https://github.com/Animetailapp/Animetail"
-          },
-          {
-            "name": "fork 2",
-            "url": "https://github.com/andarcanum/Tadami-Aniyomi-fork"
-          },
-          {
-            "name": "fork 3",
-            "url": "https://aniyomi.org/forks/"
-          },
-          {
-            "name": "Anime Extensions",
-            "url": "https://everythingmoe.com/post/aniyomirepo.html"
-          },
-          {
-            "name": "Manga Extensions",
-            "url": "https://everythingmoe.com/post/mihonguide.html"
-          }
-        ],
-        "info": "note: This app forked from Tachiyomi (<a href=\"/s/mihon\">Mihon</a>)"
-      }
-    },
     "tachiyomisy": {
       "id": "tachiyomisy",
       "title": "TachiyomiSY",
@@ -51053,45 +50991,6 @@
         ]
       }
     },
-    "anikku": {
-      "id": "anikku",
-      "title": "Anikku",
-      "link": "https://anikku-app.github.io/",
-      "icon": "https://static.everythingmoe.com/icons/anikku.png",
-      "tags": [
-        "Android",
-        "Anime"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "apps"
-      ],
-      "details": {
-        "positives": [
-          "Same as Aniyomi + new features"
-        ],
-        "negatives": [
-          "Anime only"
-        ],
-        "altlinks": [
-          {
-            "name": "Release",
-            "url": "https://github.com/komikku-app/anikku/releases/latest"
-          },
-          {
-            "name": "Anime Extensions",
-            "url": "https://everythingmoe.com/post/aniyomirepo.html"
-          },
-          {
-            "name": "AniZen",
-            "url": "https://github.com/salmanbappi/AniZen"
-          }
-        ],
-        "info": "notes: This is a fork of Aniyomi but Manga removed. Made by same people who made Komikku. AniZen is another fork."
-      }
-    },
     "cloudstream": {
       "id": "cloudstream",
       "title": "CloudStream",
@@ -51195,6 +51094,107 @@
           }
         ],
         "info": "note: Formerly known as Miru. This app uses NZB and torrent connection; beware of potential issues with your ISP. Not open source, but source available."
+      }
+    },
+    "aniyomi": {
+      "id": "aniyomi",
+      "title": "Aniyomi",
+      "link": "https://aniyomi.org/",
+      "icon": "https://static.everythingmoe.com/icons/aniyomi.png",
+      "tags": [
+        "Android",
+        "Anime",
+        "Manga"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Support both anime & manga",
+          "Many extension sources are available",
+          "Actively developed",
+          "Open source"
+        ],
+        "negatives": [
+          "Android only",
+          "Need to install an extension to use",
+          "Extension installed separately",
+          "Original repo no longer maintained"
+        ],
+        "altlinks": [
+          {
+            "name": "Git repo",
+            "url": "https://github.com/aniyomiorg/aniyomi"
+          },
+          {
+            "name": "Release",
+            "url": "https://github.com/aniyomiorg/aniyomi/releases"
+          },
+          {
+            "name": "fork 1",
+            "url": "https://github.com/Animetailapp/Animetail"
+          },
+          {
+            "name": "fork 2",
+            "url": "https://github.com/andarcanum/Tadami-Aniyomi-fork"
+          },
+          {
+            "name": "fork 3",
+            "url": "https://aniyomi.org/forks/"
+          },
+          {
+            "name": "Anime Extensions",
+            "url": "https://everythingmoe.com/post/aniyomirepo.html"
+          },
+          {
+            "name": "Manga Extensions",
+            "url": "https://everythingmoe.com/post/mihonguide.html"
+          }
+        ],
+        "info": "note: This app forked from Tachiyomi (<a href=\"/s/mihon\">Mihon</a>)"
+      }
+    },
+    "anikku": {
+      "id": "anikku",
+      "title": "Anikku",
+      "link": "https://anikku-app.github.io/",
+      "icon": "https://static.everythingmoe.com/icons/anikku.png",
+      "tags": [
+        "Android",
+        "Anime"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Same as Aniyomi + new features"
+        ],
+        "negatives": [
+          "Anime only"
+        ],
+        "altlinks": [
+          {
+            "name": "Release",
+            "url": "https://github.com/komikku-app/anikku/releases/latest"
+          },
+          {
+            "name": "Anime Extensions",
+            "url": "https://everythingmoe.com/post/aniyomirepo.html"
+          },
+          {
+            "name": "AniZen",
+            "url": "https://github.com/salmanbappi/AniZen"
+          }
+        ],
+        "info": "notes: This is a fork of Aniyomi but Manga removed. Made by same people who made Komikku. AniZen is another fork."
       }
     },
     "lnreader": {
