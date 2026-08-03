@@ -11509,6 +11509,15 @@
                             ]
                         },
                         {
+                            "full_text": "Cineapse - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Cineapse",
+                                    "url": "https://www.cineapse.net/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "All You Can Watch - Movies / TV / Anime / /",
                             "links": [
                                 {
@@ -11767,15 +11776,6 @@
                                 {
                                     "name": "NOVA",
                                     "url": "https://novahd.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cineapse - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Cineapse",
-                                    "url": "https://www.cineapse.net/"
                                 }
                             ]
                         },
@@ -12867,6 +12867,15 @@
                             ]
                         },
                         {
+                            "full_text": "MovieFY - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "MovieFY",
+                                    "url": "https://player.xtra.wtf/search"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LunaStream - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -13122,15 +13131,6 @@
                                 {
                                     "name": "KaitoVault",
                                     "url": "https://www.kaitovault.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MovieFY - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "MovieFY",
-                                    "url": "https://player.xtra.wtf/search"
                                 }
                             ]
                         },
@@ -14762,7 +14762,7 @@
                             "links": [
                                 {
                                     "name": "⁠Animelok",
-                                    "url": "https://animelok.online/"
+                                    "url": "https://animelok.live/"
                                 },
                                 {
                                     "name": "Mirrors",
@@ -16834,8 +16834,12 @@
                             ]
                         },
                         {
-                            "full_text": "SportyHunter , 2 - Stream Aggregator",
+                            "full_text": "WatchSports or SportyHunter , 2 - Stream Aggregator",
                             "links": [
+                                {
+                                    "name": "WatchSports",
+                                    "url": "https://watchsports.st/"
+                                },
                                 {
                                     "name": "SportyHunter",
                                     "url": "https://sportyhunter.xyz/"
@@ -25437,6 +25441,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Rinse FM - London-Based Community Radio",
+                            "links": [
+                                {
+                                    "name": "⁠Rinse FM",
+                                    "url": "https://www.rinse.fm/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "radio.uwu - Subculture Radio",
                             "links": [
                                 {
@@ -33406,11 +33419,11 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://www.reddit.com/r/OfficialSteamGG/"
+                                    "url": "https://www.reddit.com/r/NotSteamGG/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/Rw6AT3hZZE"
+                                    "url": "https://discord.com/invite/Rw6AT3hZZE"
                                 }
                             ]
                         },
@@ -36465,7 +36478,7 @@
                             ]
                         },
                         {
-                            "full_text": "RetroGameTalk (sign-up required) / , CDRomance , ⁠ROMHack.ing / , ⁠ROMHacking.com , ROMhacking , ⁠ROMHack Plaza / or Reality Incorporated - ROM Fan Translations / Hacks",
+                            "full_text": "RetroGameTalk (sign-up required) / , CDRomance , ⁠ROMHack.ing / , ROMhacking , ⁠ROMHack Plaza / or Reality Incorporated - ROM Fan Translations / Hacks",
                             "links": [
                                 {
                                     "name": "RetroGameTalk",
@@ -36486,10 +36499,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/uAufcgz"
-                                },
-                                {
-                                    "name": "⁠ROMHacking.com",
-                                    "url": "https://romhacking.com/"
                                 },
                                 {
                                     "name": "ROMhacking",
@@ -37050,7 +37059,7 @@
                             ]
                         },
                         {
-                            "full_text": "GNS - ROMs / Switch",
+                            "full_text": "GNS - ROMs / Switch / Requires Telegram",
                             "links": [
                                 {
                                     "name": "GNS",
@@ -37126,8 +37135,12 @@
                             ]
                         },
                         {
-                            "full_text": "SM64ROMHacks - Super Mario 64 Mods /",
+                            "full_text": "⁠ROMHacking.com or SM64ROMHacks / - Super Mario 64 Mods",
                             "links": [
+                                {
+                                    "name": "⁠ROMHacking.com",
+                                    "url": "https://romhacking.com/"
+                                },
                                 {
                                     "name": "SM64ROMHacks",
                                     "url": "https://rentry.co/FMHYB64#sm64romhacks"
@@ -38095,7 +38108,7 @@
                             ]
                         },
                         {
-                            "full_text": "JetHolt , RebelWithoutACause or Aramor - Fallout Terminal Hacking Game",
+                            "full_text": "JetHolt or RebelWithoutACause - Fallout Terminal Hacking Game",
                             "links": [
                                 {
                                     "name": "JetHolt",
@@ -38104,10 +38117,6 @@
                                 {
                                     "name": "RebelWithoutACause",
                                     "url": "https://rebelwithoutarootcause.com/demos/terminal/"
-                                },
-                                {
-                                    "name": "Aramor",
-                                    "url": "https://aramor.epizy.com/fallout-terminal/main"
                                 }
                             ]
                         },
@@ -93015,15 +93024,6 @@
                                 {
                                     "name": "Selfh.st",
                                     "url": "https://selfh.st/apps/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Self-Hosting-Guide - Self-Hosted Software Index",
-                            "links": [
-                                {
-                                    "name": "Self-Hosting-Guide",
-                                    "url": "https://github.com/mikeroyal/Self-Hosting-Guide"
                                 }
                             ]
                         },
@@ -188910,6 +188910,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Rinse FM - London-Based Community Radio",
+                            "links": [
+                                {
+                                    "name": "⁠Rinse FM",
+                                    "url": "https://www.rinse.fm/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "radio.uwu - Subculture Radio",
                             "links": [
                                 {
@@ -219396,7 +219405,7 @@
                             ]
                         },
                         {
-                            "full_text": "OpenCode - Coding AI / GPT-5 nano / Minimax-M2.5 / Resources / /",
+                            "full_text": "OpenCode - Coding AI / GPT-5 nano / Minimax-M2.5 / Resources / Config Manager / /",
                             "links": [
                                 {
                                     "name": "OpenCode",
@@ -219405,6 +219414,10 @@
                                 {
                                     "name": "Resources",
                                     "url": "https://github.com/awesome-opencode/awesome-opencode"
+                                },
+                                {
+                                    "name": "Config Manager",
+                                    "url": "https://opencode-studio.micr.dev/"
                                 },
                                 {
                                     "name": "",
@@ -224555,19 +224568,6 @@
                             ]
                         },
                         {
-                            "full_text": "netlify - 300 Credits Monhtly",
-                            "links": [
-                                {
-                                    "name": "netlify",
-                                    "url": "https://www.netlify.com/"
-                                },
-                                {
-                                    "name": "Monhtly",
-                                    "url": "https://docs.netlify.com/manage/accounts-and-billing/billing/billing-for-credit-based-plans/how-credits-work/#credits-usage-for-metered-billing"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "alwaysdata.com - 1GB Storage / Unlimited Bandwidth / Unlimited DB / 256MB RAM",
                             "links": [
                                 {
@@ -224577,29 +224577,11 @@
                             ]
                         },
                         {
-                            "full_text": "ALCHosting.net - 5GB Storage / Unlimited Bandwidth / 2 DB",
-                            "links": [
-                                {
-                                    "name": "ALCHosting.net",
-                                    "url": "https://www.alchosting.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AwardSpace.com - 1GB Storage / 5GB Bandwidth / 1 DB",
+                            "full_text": "AwardSpace.com - 1GB Storage / 5GB Bandwidth / 1 DB / 5K Monthly Visits",
                             "links": [
                                 {
                                     "name": "AwardSpace.com",
                                     "url": "https://www.awardspace.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GoogieHost.com - 1GB Storage / 100GB Bandwidth / 2 DB",
-                            "links": [
-                                {
-                                    "name": "GoogieHost.com",
-                                    "url": "https://googiehost.com/"
                                 }
                             ]
                         },
@@ -224654,6 +224636,19 @@
                                 {
                                     "name": "100WebSpace.com",
                                     "url": "https://www.100webspace.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "netlify - 300 Credits Monhtly",
+                            "links": [
+                                {
+                                    "name": "netlify",
+                                    "url": "https://www.netlify.com/"
+                                },
+                                {
+                                    "name": "Monhtly",
+                                    "url": "https://docs.netlify.com/manage/accounts-and-billing/billing/billing-for-credit-based-plans/how-credits-work/#credits-usage-for-metered-billing"
                                 }
                             ]
                         },
@@ -226853,6 +226848,33 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "GoogieHost.com - 1GB Storage / 100GB Bandwidth / 2 DB (Removed in 50092bb )",
+                            "links": [
+                                {
+                                    "name": "50092bb",
+                                    "url": "https://github.com/fmhy/edit/commit/50092bb2291e09f85455f6174ff7128367bf5fba#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1050"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Self-Hosting-Guide - Self-Hosted Software Index (Removed in 50092bb )",
+                            "links": [
+                                {
+                                    "name": "50092bb",
+                                    "url": "https://github.com/fmhy/edit/commit/50092bb2291e09f85455f6174ff7128367bf5fba#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL411"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ALCHosting.net - 5GB Storage / Unlimited Bandwidth / 2 DB (Removed in 08a9d3d )",
+                            "links": [
+                                {
+                                    "name": "08a9d3d",
+                                    "url": "https://github.com/fmhy/edit/commit/08a9d3d3186bdf16032d8c75f1fafec971b64622#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1049"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "⁠Torr9 - Video / Audio / Books / Signup Required (Removed in 9fa905b )",
                             "links": [
