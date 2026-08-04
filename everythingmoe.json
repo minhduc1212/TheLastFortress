@@ -14884,61 +14884,6 @@
           }
         },
         {
-          "id": "seanime",
-          "title": "Seanime",
-          "link": "https://seanime.app/",
-          "icon": "https://static.everythingmoe.com/icons/seanime.png",
-          "tags": [
-            "Windows",
-            "MacOS",
-            "Linux",
-            "Anime",
-            "Manga",
-            "UNIVERSAL"
-          ],
-          "rank": 7,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "apps",
-          "details": {
-            "positives": [
-              "Support both anime & manga",
-              "Support viewing & download",
-              "Support debrid services",
-              "Cross platform (Android, iOS, Mac, Windows, Linux)",
-              "Nice interface",
-              "Actively developed",
-              "Open source"
-            ],
-            "negatives": [
-              "Some features depend on torrent connection"
-            ],
-            "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
-            "altlinks": [
-              {
-                "name": "Release",
-                "url": "https://seanime.app/download"
-              },
-              {
-                "name": "Docs",
-                "url": "https://seanime.app/docs"
-              },
-              {
-                "name": "Git repo",
-                "url": "https://github.com/5rahim/seanime"
-              }
-            ],
-            "ex-altlinks": [
-              {
-                "name": "Android port",
-                "url": "https://github.com/Seanime-contributions/Seanime-Android"
-              }
-            ]
-          }
-        },
-        {
           "id": "mangayomi",
           "title": "Mangayomi",
           "link": "https://github.com/kodjodevf/mangayomi",
@@ -14953,7 +14898,7 @@
             "Manga",
             "UNIVERSAL"
           ],
-          "rank": 8,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -14983,6 +14928,62 @@
               }
             ],
             "info": "note: You can edit extension code directly in the app"
+          }
+        },
+        {
+          "id": "seanime",
+          "title": "Seanime",
+          "link": "https://seanime.app/",
+          "icon": "https://static.everythingmoe.com/icons/seanime.png",
+          "tags": [
+            "Windows",
+            "MacOS",
+            "Linux",
+            "Anime",
+            "Manga",
+            "UNIVERSAL"
+          ],
+          "rank": 8,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Support both anime & manga",
+              "Support viewing & download",
+              "Support debrid services",
+              "Cross platform (Android, iOS, Mac, Windows, Linux)",
+              "Nice interface",
+              "Actively developed",
+              "Open source"
+            ],
+            "negatives": [
+              "Some features depend on torrent connection",
+              "Mobile need setup 2 separate app (client & server)"
+            ],
+            "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
+            "altlinks": [
+              {
+                "name": "Release",
+                "url": "https://seanime.app/download"
+              },
+              {
+                "name": "Docs",
+                "url": "https://seanime.app/docs"
+              },
+              {
+                "name": "Git repo",
+                "url": "https://github.com/5rahim/seanime"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": "Android port",
+                "url": "https://github.com/Seanime-contributions/Seanime-Android"
+              }
+            ]
           }
         },
         {
@@ -50989,61 +50990,6 @@
         "info": "note: This app forked from Tachiyomi (<a href=\"/s/mihon\">Mihon</a>)"
       }
     },
-    "seanime": {
-      "id": "seanime",
-      "title": "Seanime",
-      "link": "https://seanime.app/",
-      "icon": "https://static.everythingmoe.com/icons/seanime.png",
-      "tags": [
-        "Windows",
-        "MacOS",
-        "Linux",
-        "Anime",
-        "Manga",
-        "UNIVERSAL"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "apps"
-      ],
-      "details": {
-        "positives": [
-          "Support both anime & manga",
-          "Support viewing & download",
-          "Support debrid services",
-          "Cross platform (Android, iOS, Mac, Windows, Linux)",
-          "Nice interface",
-          "Actively developed",
-          "Open source"
-        ],
-        "negatives": [
-          "Some features depend on torrent connection"
-        ],
-        "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
-        "altlinks": [
-          {
-            "name": "Release",
-            "url": "https://seanime.app/download"
-          },
-          {
-            "name": "Docs",
-            "url": "https://seanime.app/docs"
-          },
-          {
-            "name": "Git repo",
-            "url": "https://github.com/5rahim/seanime"
-          }
-        ],
-        "ex-altlinks": [
-          {
-            "name": "Android port",
-            "url": "https://github.com/Seanime-contributions/Seanime-Android"
-          }
-        ]
-      }
-    },
     "mangayomi": {
       "id": "mangayomi",
       "title": "Mangayomi",
@@ -51089,6 +51035,62 @@
           }
         ],
         "info": "note: You can edit extension code directly in the app"
+      }
+    },
+    "seanime": {
+      "id": "seanime",
+      "title": "Seanime",
+      "link": "https://seanime.app/",
+      "icon": "https://static.everythingmoe.com/icons/seanime.png",
+      "tags": [
+        "Windows",
+        "MacOS",
+        "Linux",
+        "Anime",
+        "Manga",
+        "UNIVERSAL"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Support both anime & manga",
+          "Support viewing & download",
+          "Support debrid services",
+          "Cross platform (Android, iOS, Mac, Windows, Linux)",
+          "Nice interface",
+          "Actively developed",
+          "Open source"
+        ],
+        "negatives": [
+          "Some features depend on torrent connection",
+          "Mobile need setup 2 separate app (client & server)"
+        ],
+        "info": "note: Extension marketplace already built-in the app. This app may use torrent connection; beware of potential issues with your ISP.",
+        "altlinks": [
+          {
+            "name": "Release",
+            "url": "https://seanime.app/download"
+          },
+          {
+            "name": "Docs",
+            "url": "https://seanime.app/docs"
+          },
+          {
+            "name": "Git repo",
+            "url": "https://github.com/5rahim/seanime"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": "Android port",
+            "url": "https://github.com/Seanime-contributions/Seanime-Android"
+          }
+        ]
       }
     },
     "anymex": {
