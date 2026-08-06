@@ -2483,6 +2483,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Atlas of Surveillance - Police / Surveillance Tech Map",
+                            "links": [
+                                {
+                                    "name": "⁠Atlas of Surveillance",
+                                    "url": "https://www.atlasofsurveillance.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "ALPR Watch , ⁠FlockHopper , ⁠Flock Surveillance Map or DeFlock / / - AI Automated License Plate Reader Cameras / ALPR Maps",
                             "links": [
                                 {
@@ -10766,6 +10775,15 @@
                             ]
                         },
                         {
+                            "full_text": "️ AI / ML Learning - Educational AI / ML Resources",
+                            "links": [
+                                {
+                                    "name": "AI / ML Learning",
+                                    "url": "https://fmhy.net/educational/#ai-ml-learning"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Hugging Face , ModelScope , LLM Papers or OpenML - Machine Learning Datasets / Papers",
                             "links": [
                                 {
@@ -10880,189 +10898,6 @@
                                 {
                                     "name": "Nixified",
                                     "url": "https://nixified.ai/"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "heading": "AI / ML Learning",
-                    "level": "h3",
-                    "text_explanations": [],
-                    "resource_items": [
-                        {
-                            "full_text": "Everything AI/ML - LLM Learning Resources /",
-                            "links": [
-                                {
-                                    "name": "Everything AI/ML",
-                                    "url": "https://viveknaskar.github.io/everything-ai-ml/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/viveknaskar/everything-ai-ml"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome Free AI Books , AI-For-Beginners , mlsysbook , udlbook / , ML Engineering , Beginner Guides or HF Learn - Machine Learning Books / Guides",
-                            "links": [
-                                {
-                                    "name": "Awesome Free AI Books",
-                                    "url": "https://github.com/MarcosSete/awesome-free-ai-books"
-                                },
-                                {
-                                    "name": "AI-For-Beginners",
-                                    "url": "https://github.com/microsoft/AI-For-Beginners"
-                                },
-                                {
-                                    "name": "mlsysbook",
-                                    "url": "https://www.mlsysbook.ai/"
-                                },
-                                {
-                                    "name": "udlbook",
-                                    "url": "https://udlbook.github.io/udlbook/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/udlbook/udlbook/"
-                                },
-                                {
-                                    "name": "ML Engineering",
-                                    "url": "https://github.com/stas00/ml-engineering"
-                                },
-                                {
-                                    "name": "Beginner Guides",
-                                    "url": "https://microsoft.github.io/generative-ai-for-beginners/"
-                                },
-                                {
-                                    "name": "HF Learn",
-                                    "url": "https://huggingface.co/learn"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "LLM Course , DeepLearningWizard , IAILab , Handson ML3 , KO MicroGPT / or ⁠Anthropic Courses - Machine Learning Courses",
-                            "links": [
-                                {
-                                    "name": "LLM Course",
-                                    "url": "https://github.com/mlabonne/llm-course"
-                                },
-                                {
-                                    "name": "DeepLearningWizard",
-                                    "url": "https://www.deeplearningwizard.com/"
-                                },
-                                {
-                                    "name": "IAILab",
-                                    "url": "https://iailab.kaist.ac.kr/teaching/deep-learning"
-                                },
-                                {
-                                    "name": "Handson ML3",
-                                    "url": "https://github.com/ageron/handson-ml3"
-                                },
-                                {
-                                    "name": "KO MicroGPT",
-                                    "url": "https://ko-microgpt.vercel.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/woduq1414/ko-microgpt"
-                                },
-                                {
-                                    "name": "⁠Anthropic Courses",
-                                    "url": "https://anthropic.skilljar.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ML YouTube Courses or Deep Learning Drizzle - Machine Learning Courses on YouTube",
-                            "links": [
-                                {
-                                    "name": "ML YouTube Courses",
-                                    "url": "https://github.com/dair-ai/ML-YouTube-Courses"
-                                },
-                                {
-                                    "name": "Deep Learning Drizzle",
-                                    "url": "https://deep-learning-drizzle.github.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Machine Learning Roadmap - Machine Learning Roadmap / Guide",
-                            "links": [
-                                {
-                                    "name": "Machine Learning Roadmap",
-                                    "url": "https://rentry.org/machine-learning-roadmap"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ML Course Notes - Machine Learning Course Notes",
-                            "links": [
-                                {
-                                    "name": "ML Course Notes",
-                                    "url": "https://github.com/dair-ai/ML-Course-Notes"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠aman.ai - Artificial Intelligence / Deep Learning Stanford Notes",
-                            "links": [
-                                {
-                                    "name": "⁠aman.ai",
-                                    "url": "https://aman.ai/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Awesome Generative AI Guide - LLM Research Resources / Guide",
-                            "links": [
-                                {
-                                    "name": "Awesome Generative AI Guide",
-                                    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "LLM Visualization or ML Visualized / - LLM Visualizations",
-                            "links": [
-                                {
-                                    "name": "LLM Visualization",
-                                    "url": "https://bbycroft.net/llm"
-                                },
-                                {
-                                    "name": "ML Visualized",
-                                    "url": "https://ml-visualized.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/gavinkhung/machine-learning-visualized"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Transformer Explainer - ⁠Transformer Visualization",
-                            "links": [
-                                {
-                                    "name": "⁠Transformer Explainer",
-                                    "url": "https://poloclub.github.io/transformer-explainer/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Deep ML - Solve Machine Learning Problems",
-                            "links": [
-                                {
-                                    "name": "Deep ML",
-                                    "url": "https://www.deep-ml.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Approaching (Almost) Any Machine Learning Problem - Machine Learning Problem-Solving Book",
-                            "links": [
-                                {
-                                    "name": "Approaching (Almost) Any Machine Learning Problem",
-                                    "url": "https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf"
                                 }
                             ]
                         }
@@ -11206,7 +11041,7 @@
                             ]
                         },
                         {
-                            "full_text": "67Movies , 2 - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "67Movies , 2 , 3 or PhantomFlix , 2 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "67Movies",
@@ -11215,6 +11050,18 @@
                                 {
                                     "name": "2",
                                     "url": "https://67movies.net/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://shows.st/"
+                                },
+                                {
+                                    "name": "PhantomFlix",
+                                    "url": "https://phantomflix.net/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://ravenflix.net/"
                                 },
                                 {
                                     "name": "",
@@ -11507,27 +11354,6 @@
                             ]
                         },
                         {
-                            "full_text": "Cinevibe , 2 , 3 - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinevibe",
-                                    "url": "https://cinevibe.asia/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://cinevibe.site/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://cinevibe.icu/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/4BU2XbAPdu"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Cineapse - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11597,6 +11423,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/S7XYrYesr2"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Vivarium - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Vivarium",
+                                    "url": "https://vivarium.wtf/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/jT6daX7q2u"
                                 }
                             ]
                         },
@@ -11782,6 +11621,15 @@
                                 {
                                     "name": "NOVA",
                                     "url": "https://novahd.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FlyStream - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "FlyStream",
+                                    "url": "https://flystream.net/"
                                 }
                             ]
                         },
@@ -12176,15 +12024,11 @@
                             ]
                         },
                         {
-                            "full_text": "Bingr or FilmU - Movies / TV / Anime /",
+                            "full_text": "Bingr - Movies / TV / Anime /",
                             "links": [
                                 {
                                     "name": "Bingr",
                                     "url": "https://bingr.one/"
-                                },
-                                {
-                                    "name": "FilmU",
-                                    "url": "https://watch.filmu.in/"
                                 },
                                 {
                                     "name": "",
@@ -12741,6 +12585,27 @@
                             ]
                         },
                         {
+                            "full_text": "rizzking movies , 2 , 3 , 4 - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "rizzking movies",
+                                    "url": "https://rizzking.org/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://anton.likesyou.org/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://rizzking.xo.je/"
+                                },
+                                {
+                                    "name": "4",
+                                    "url": "https://rizzking.vercel.app/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Youflex - Movies / TV / Anime",
                             "links": [
                                 {
@@ -12797,6 +12662,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/5CETfHBD7R"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KiraStreams - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "KiraStreams",
+                                    "url": "https://k.thekirastreams.workers.dev/"
                                 }
                             ]
                         },
@@ -13136,15 +13010,6 @@
                             ]
                         },
                         {
-                            "full_text": "KiraStreams - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "KiraStreams",
-                                    "url": "https://kirastreams.onlykirastreams.workers.dev/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "FLNK - Movies / TV / Anime",
                             "links": [
                                 {
@@ -13325,6 +13190,15 @@
                                 {
                                     "name": "FLIKER",
                                     "url": "https://fliker.freebuff.app/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Meowly - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Meowly",
+                                    "url": "https://meowly.qzz.io/"
                                 }
                             ]
                         },
@@ -17203,11 +17077,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Streami",
+                            "full_text": "⁠Streami / Status",
                             "links": [
                                 {
                                     "name": "⁠Streami",
                                     "url": "https://streamic.st/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://rentry.co/Streami"
                                 }
                             ]
                         },
@@ -18905,10 +18783,14 @@
                             ]
                         },
                         {
-                            "full_text": "DDLBase - Movies / TV / 4K / 3D / Remuxes / Use Bypass",
+                            "full_text": "DDLBase , 2 - Movies / TV / 4K / 3D / Remuxes / Use Bypass",
                             "links": [
                                 {
                                     "name": "DDLBase",
+                                    "url": "https://ddlbase.net/"
+                                },
+                                {
+                                    "name": "2",
                                     "url": "https://ddlbase.com/"
                                 },
                                 {
@@ -24107,12 +23989,8 @@
                             ]
                         },
                         {
-                            "full_text": "r/MusicalBootlegs , OperaVision , OperaOnVideo or \"Slime Tutorials\" - Broadway Show Recordings / Opera",
+                            "full_text": "OperaVision or OperaOnVideo - Opera Recordings",
                             "links": [
-                                {
-                                    "name": "r/MusicalBootlegs",
-                                    "url": "https://www.reddit.com/r/MusicalBootlegs"
-                                },
                                 {
                                     "name": "OperaVision",
                                     "url": "https://operavision.eu/"
@@ -24120,6 +23998,15 @@
                                 {
                                     "name": "OperaOnVideo",
                                     "url": "https://www.operaonvideo.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "r/MusicalBootlegs or \"Slime Tutorials\" - Broadway Show Recordings",
+                            "links": [
+                                {
+                                    "name": "r/MusicalBootlegs",
+                                    "url": "https://www.reddit.com/r/MusicalBootlegs"
                                 },
                                 {
                                     "name": "\"Slime Tutorials\"",
@@ -29947,7 +29834,7 @@
                             ]
                         },
                         {
-                            "full_text": "FFmpeg , fre:ac / , FlicFlac , LameXP or Sox - Audio Converters",
+                            "full_text": "FFmpeg , fre:ac / , Shutter Encoder / , FlicFlac , LameXP or Sox - Audio Converters",
                             "links": [
                                 {
                                     "name": "FFmpeg",
@@ -29960,6 +29847,14 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/enzo1982/freac"
+                                },
+                                {
+                                    "name": "Shutter Encoder",
+                                    "url": "https://www.shutterencoder.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/paulpacifico/shutter-encoder"
                                 },
                                 {
                                     "name": "FlicFlac",
@@ -33127,7 +33022,7 @@
                             ]
                         },
                         {
-                            "full_text": "AnkerGames - Download / Torrent (Sign-Up) / Pre-Installed / Achievements / Fluxer / /",
+                            "full_text": "AnkerGames - Download / Torrent (Sign-Up) / Pre-Installed / Fluxer / /",
                             "links": [
                                 {
                                     "name": "AnkerGames",
@@ -33165,7 +33060,7 @@
                             ]
                         },
                         {
-                            "full_text": "AstralGames - Download / Achievements / Pre-Installed / Use Adblock / /",
+                            "full_text": "AstralGames - Download / Achievements / Pre-Installed / /",
                             "links": [
                                 {
                                     "name": "AstralGames",
@@ -43585,11 +43480,15 @@
                             ]
                         },
                         {
-                            "full_text": "Guess The Price - Price Guessing Game",
+                            "full_text": "Guess The Price or PricePoint - Price Guessing Game",
                             "links": [
                                 {
                                     "name": "Guess The Price",
                                     "url": "https://guesstheprice.net/"
+                                },
+                                {
+                                    "name": "PricePoint",
+                                    "url": "https://pricepoint.gg/"
                                 }
                             ]
                         },
@@ -46116,15 +46015,6 @@
                                 {
                                     "name": "Amazon Kindle EPUB Fix",
                                     "url": "https://kindle-epub-fix.netlify.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ItsFOSS Guide - Kindle DRM Removal Guide",
-                            "links": [
-                                {
-                                    "name": "ItsFOSS Guide",
-                                    "url": "https://itsfoss.com/calibre-remove-drm-kindle/"
                                 }
                             ]
                         },
@@ -52079,7 +51969,7 @@
                             "links": [
                                 {
                                     "name": "Library of Leaks",
-                                    "url": "https://libraryofleaks.org/"
+                                    "url": "https://search.libraryofleaks.org/"
                                 }
                             ]
                         },
@@ -52726,6 +52616,15 @@
                                 {
                                     "name": "Frontend",
                                     "url": "https://biblioreads.eu.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Book Notification - Book / Author Release Notifications",
+                            "links": [
+                                {
+                                    "name": "⁠Book Notification",
+                                    "url": "https://www.booknotification.com/"
                                 }
                             ]
                         },
@@ -54736,15 +54635,6 @@
                                 {
                                     "name": "WorldSRC",
                                     "url": "https://www.worldsrc.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "DirtyWarez - Video / Audio / Books / Comics",
-                            "links": [
-                                {
-                                    "name": "DirtyWarez",
-                                    "url": "https://forum.dirtywarez.com/"
                                 }
                             ]
                         },
@@ -64551,6 +64441,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Landscape of Consciousness - Consciousness Theory Index",
+                            "links": [
+                                {
+                                    "name": "⁠Landscape of Consciousness",
+                                    "url": "https://loc.closertotruth.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Brainkit - Learn Helpful Principles",
                             "links": [
                                 {
@@ -71728,15 +71627,6 @@
                             ]
                         },
                         {
-                            "full_text": "️ Machine / Deep Learning",
-                            "links": [
-                                {
-                                    "name": "Machine / Deep Learning",
-                                    "url": "https://fmhy.net/ai/#machine-learning"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "OSSU Data Science - Data Science Roadmap /",
                             "links": [
                                 {
@@ -72908,6 +72798,198 @@
                                 {
                                     "name": "8bitWorkshop",
                                     "url": "https://8bitworkshop.com/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "AI / ML Learning",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "Everything AI/ML - LLM Learning Resources /",
+                            "links": [
+                                {
+                                    "name": "Everything AI/ML",
+                                    "url": "https://viveknaskar.github.io/everything-ai-ml/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/viveknaskar/everything-ai-ml"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Machine Learning Resources",
+                            "links": [
+                                {
+                                    "name": "Machine Learning Resources",
+                                    "url": "https://fmhy.net/ai/#machine-learning"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome Free AI Books , AI-For-Beginners , mlsysbook , udlbook / , ML Engineering , Beginner Guides or HF Learn - Machine Learning Books / Guides",
+                            "links": [
+                                {
+                                    "name": "Awesome Free AI Books",
+                                    "url": "https://github.com/MarcosSete/awesome-free-ai-books"
+                                },
+                                {
+                                    "name": "AI-For-Beginners",
+                                    "url": "https://github.com/microsoft/AI-For-Beginners"
+                                },
+                                {
+                                    "name": "mlsysbook",
+                                    "url": "https://www.mlsysbook.ai/"
+                                },
+                                {
+                                    "name": "udlbook",
+                                    "url": "https://udlbook.github.io/udlbook/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/udlbook/udlbook/"
+                                },
+                                {
+                                    "name": "ML Engineering",
+                                    "url": "https://github.com/stas00/ml-engineering"
+                                },
+                                {
+                                    "name": "Beginner Guides",
+                                    "url": "https://microsoft.github.io/generative-ai-for-beginners/"
+                                },
+                                {
+                                    "name": "HF Learn",
+                                    "url": "https://huggingface.co/learn"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LLM Course , DeepLearningWizard , IAILab , Handson ML3 , KO MicroGPT / or ⁠Anthropic Courses - Machine Learning Courses",
+                            "links": [
+                                {
+                                    "name": "LLM Course",
+                                    "url": "https://github.com/mlabonne/llm-course"
+                                },
+                                {
+                                    "name": "DeepLearningWizard",
+                                    "url": "https://www.deeplearningwizard.com/"
+                                },
+                                {
+                                    "name": "IAILab",
+                                    "url": "https://iailab.kaist.ac.kr/teaching/deep-learning"
+                                },
+                                {
+                                    "name": "Handson ML3",
+                                    "url": "https://github.com/ageron/handson-ml3"
+                                },
+                                {
+                                    "name": "KO MicroGPT",
+                                    "url": "https://ko-microgpt.vercel.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/woduq1414/ko-microgpt"
+                                },
+                                {
+                                    "name": "⁠Anthropic Courses",
+                                    "url": "https://anthropic.skilljar.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ML YouTube Courses or Deep Learning Drizzle - Machine Learning Courses on YouTube",
+                            "links": [
+                                {
+                                    "name": "ML YouTube Courses",
+                                    "url": "https://github.com/dair-ai/ML-YouTube-Courses"
+                                },
+                                {
+                                    "name": "Deep Learning Drizzle",
+                                    "url": "https://deep-learning-drizzle.github.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Machine Learning Roadmap - Machine Learning Roadmap / Guide",
+                            "links": [
+                                {
+                                    "name": "Machine Learning Roadmap",
+                                    "url": "https://rentry.org/machine-learning-roadmap"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ML Course Notes - Machine Learning Course Notes",
+                            "links": [
+                                {
+                                    "name": "ML Course Notes",
+                                    "url": "https://github.com/dair-ai/ML-Course-Notes"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠aman.ai - Artificial Intelligence / Deep Learning Stanford Notes",
+                            "links": [
+                                {
+                                    "name": "⁠aman.ai",
+                                    "url": "https://aman.ai/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome Generative AI Guide - LLM Research Resources / Guide",
+                            "links": [
+                                {
+                                    "name": "Awesome Generative AI Guide",
+                                    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LLM Visualization or ML Visualized / - LLM Visualizations",
+                            "links": [
+                                {
+                                    "name": "LLM Visualization",
+                                    "url": "https://bbycroft.net/llm"
+                                },
+                                {
+                                    "name": "ML Visualized",
+                                    "url": "https://ml-visualized.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/gavinkhung/machine-learning-visualized"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Transformer Explainer - ⁠Transformer Visualization",
+                            "links": [
+                                {
+                                    "name": "⁠Transformer Explainer",
+                                    "url": "https://poloclub.github.io/transformer-explainer/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Deep ML - Solve Machine Learning Problems",
+                            "links": [
+                                {
+                                    "name": "Deep ML",
+                                    "url": "https://www.deep-ml.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Approaching (Almost) Any Machine Learning Problem - Machine Learning Problem-Solving Book",
+                            "links": [
+                                {
+                                    "name": "Approaching (Almost) Any Machine Learning Problem",
+                                    "url": "https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf"
                                 }
                             ]
                         }
@@ -76222,19 +76304,6 @@
                             ]
                         },
                         {
-                            "full_text": "Discreet Launcher - Minimalist / Clean Launcher /",
-                            "links": [
-                                {
-                                    "name": "Discreet Launcher",
-                                    "url": "https://falzonv.github.io/discreet-launcher/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/falzonv/discreet-launcher"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Lunar Launcher - Minimalist / Clean Launcher /",
                             "links": [
                                 {
@@ -76557,7 +76626,7 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Morphe Patch Index / 2 or NullStore / - Morphe Patch Indexes",
+                            "full_text": "Morphe Patch Index / 2 - Morphe Patch Indexes",
                             "links": [
                                 {
                                     "name": "Morphe Patch Index",
@@ -76566,14 +76635,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://redd.it/1ta0bek"
-                                },
-                                {
-                                    "name": "NullStore",
-                                    "url": "https://nullcpy.github.io/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/nullcpy/rvb"
                                 }
                             ]
                         },
@@ -76658,8 +76719,16 @@
                             ]
                         },
                         {
-                            "full_text": "FiorenMas Pre-Built - Every Patched App /",
+                            "full_text": "NullStore / or FiorenMas Pre-Built / - Every Patched App",
                             "links": [
+                                {
+                                    "name": "NullStore",
+                                    "url": "https://nullcpy.github.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/nullcpy/rvb"
+                                },
                                 {
                                     "name": "FiorenMas Pre-Built",
                                     "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root"
@@ -76899,19 +76968,6 @@
                             ]
                         },
                         {
-                            "full_text": "Nobook or Materialbook - Ad-Free Facebook Lite",
-                            "links": [
-                                {
-                                    "name": "Nobook",
-                                    "url": "https://github.com/ycngmn/Nobook"
-                                },
-                                {
-                                    "name": "Materialbook",
-                                    "url": "https://github.com/eepiemi/Materialbook"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Voyager / , Jerboa , Eternity , summit , Raccoon or Thunder - Lemmy Clients / Index",
                             "links": [
                                 {
@@ -77043,6 +77099,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/mozzius/graysky"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Materialbook or Nobook - Ad-Free Facebook Lite",
+                            "links": [
+                                {
+                                    "name": "Materialbook",
+                                    "url": "https://github.com/eepiemi/Materialbook"
+                                },
+                                {
+                                    "name": "Nobook",
+                                    "url": "https://github.com/ycngmn/Nobook"
                                 }
                             ]
                         },
@@ -77237,7 +77306,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "AyuGram - Desktop Client / Portable / Chat / /",
+                            "full_text": "AyuGram - Portable / Chat / /",
                             "links": [
                                 {
                                     "name": "AyuGram",
@@ -88015,11 +88084,15 @@
                             ]
                         },
                         {
-                            "full_text": "Swiftgram - Telegram App /",
+                            "full_text": "Swiftgram - Telegram App / /",
                             "links": [
                                 {
                                     "name": "Swiftgram",
                                     "url": "https://swiftgram.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/s/SwiftgramLinks"
                                 },
                                 {
                                     "name": "",
@@ -88683,7 +88756,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠NuvioMobile iOS / Plugins / Wiki / Guides / / , Fusion / , Forward / or Stremio - Movies / TV / Anime / Tools",
+                            "full_text": "⁠NuvioMobile iOS / Plugins / Wiki / Guides / / , Fusion / , Forward / / or Stremio - Movies / TV / Anime / Tools",
                             "links": [
                                 {
                                     "name": "⁠NuvioMobile iOS",
@@ -88716,6 +88789,10 @@
                                 {
                                     "name": "Forward",
                                     "url": "https://apps.apple.com/app/forward/id6503940939"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/ForwardPlayer/"
                                 },
                                 {
                                     "name": "",
@@ -88982,7 +89059,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Shirox / TestFlight / /",
+                            "full_text": "⁠Shirox / TestFlight / Modules / /",
                             "links": [
                                 {
                                     "name": "⁠Shirox",
@@ -88991,6 +89068,10 @@
                                 {
                                     "name": "TestFlight",
                                     "url": "https://testflight.apple.com/join/jvGzcXYh"
+                                },
+                                {
+                                    "name": "Modules",
+                                    "url": "https://library.cufiy.net/library/"
                                 },
                                 {
                                     "name": "",
@@ -92209,6 +92290,15 @@
                                 {
                                     "name": "⁠UMU",
                                     "url": "https://github.com/Open-Wine-Components/umu-launcher"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Proton-LinUwUx - Automated Proton-GE + Proton-CachyOS Builds",
+                            "links": [
+                                {
+                                    "name": "Proton-LinUwUx",
+                                    "url": "https://github.com/xshaduwulfx/proton-linuwux"
                                 }
                             ]
                         },
@@ -98256,7 +98346,7 @@
                             "links": [
                                 {
                                     "name": "TopCinema",
-                                    "url": "https://topcinemaa.cc/"
+                                    "url": "https://topcinemaa.co/"
                                 },
                                 {
                                     "name": "Adblock",
@@ -98340,7 +98430,7 @@
                             "links": [
                                 {
                                     "name": "FaselHD",
-                                    "url": "https://web72818x.faselhdx.bid/"
+                                    "url": "https://web860x.faselhdx.life/"
                                 },
                                 {
                                     "name": "Adblock",
@@ -98397,7 +98487,7 @@
                             "links": [
                                 {
                                     "name": "TopCinema",
-                                    "url": "https://topcinemaa.cc/"
+                                    "url": "https://topcinemaa.co/"
                                 },
                                 {
                                     "name": "Adblock",
@@ -102793,23 +102883,6 @@
                                 {
                                     "name": "Anime-Loads",
                                     "url": "https://www.anime-loads.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Anime-Base - Anime / Dub / 1080p / Improvement Extension /",
-                            "links": [
-                                {
-                                    "name": "Anime-Base",
-                                    "url": "https://anime-base.net/"
-                                },
-                                {
-                                    "name": "Improvement Extension",
-                                    "url": "https://berni-92.github.io/anime-base-autoplayer/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/sj6mDujvMD"
                                 }
                             ]
                         },
@@ -113367,6 +113440,15 @@
                             ]
                         },
                         {
+                            "full_text": "Dan's Guides - List of Guides by Dan",
+                            "links": [
+                                {
+                                    "name": "Dan's Guides",
+                                    "url": "https://rentry.co/danxyz7"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Awesome Search - Awesome List Search",
                             "links": [
                                 {
@@ -113429,15 +113511,6 @@
                                 {
                                     "name": "⁠Kagi Small Web",
                                     "url": "https://kagi.com/smallweb/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Dan's Guides - List of Guides by Dan",
-                            "links": [
-                                {
-                                    "name": "Dan's Guides",
-                                    "url": "https://rentry.co/danxyz7"
                                 }
                             ]
                         },
@@ -116992,7 +117065,7 @@
                             ]
                         },
                         {
-                            "full_text": "Erin's Informed Consent HRT Map - Informed Consent HRT Clinics Map",
+                            "full_text": "Erin's Informed Consent HRT Map - Gender Identity Clinics / Maps",
                             "links": [
                                 {
                                     "name": "Erin's Informed Consent HRT Map",
@@ -117342,6 +117415,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/FoggedLens/deflock"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Atlas of Surveillance - Police / Surveillance Tech Map",
+                            "links": [
+                                {
+                                    "name": "⁠Atlas of Surveillance",
+                                    "url": "https://www.atlasofsurveillance.org/"
                                 }
                             ]
                         },
@@ -118790,7 +118872,7 @@
                             ]
                         },
                         {
-                            "full_text": "MedicineNet , MedPageToday , EverydayHealth , Medscape , healthline , Medicalxpress or WebMD - Health News",
+                            "full_text": "MedicineNet , MedPageToday , EverydayHealth , Medscape , Healthline , Medicalxpress or WebMD - Health News",
                             "links": [
                                 {
                                     "name": "MedicineNet",
@@ -118809,7 +118891,7 @@
                                     "url": "https://www.medscape.com/"
                                 },
                                 {
-                                    "name": "healthline",
+                                    "name": "Healthline",
                                     "url": "https://www.healthline.com/"
                                 },
                                 {
@@ -120792,11 +120874,15 @@
                             ]
                         },
                         {
-                            "full_text": "Erin's Informed Consent HRT Map - Informed Consent HRT Clinics / Map",
+                            "full_text": "Erin's Informed Consent HRT Map or ⁠Trans Clinic Index (UK) - Gender Identity Clinics / Map",
                             "links": [
                                 {
                                     "name": "Erin's Informed Consent HRT Map",
                                     "url": "https://redd.it/d6p05q"
+                                },
+                                {
+                                    "name": "⁠Trans Clinic Index",
+                                    "url": "https://transclinicindex.org.uk/"
                                 }
                             ]
                         },
@@ -135954,12 +136040,11 @@
                         "VERT- Online for Videos / Offline for Other Formats ///",
                         "Convert to it!- Offline / File Converter //",
                         "Aconvert- Online / Various Converters / 40MB /",
-                        "⁠Docling/orPandoc/- Document / PDF File Converters",
+                        "⁠Docling/orPandoc/- PDF / Documents CLI Converters",
                         "ConvertCSV- Online CSV Data Conversion /",
                         "Encoding Converter- Online File Encoding Converter /",
                         "Deark- Decode and Convert Files //",
                         "text2img- Local NFO Files to Image Converter //",
-                        "Shutter Encoder- File Converter //",
                         "Xconvert- Online / File Converter / 400MB /",
                         "FreeConvert- Online / Unlimited / Clear Cookies /",
                         "Convertio- Online / File Converter / 100MB /",
@@ -136024,7 +136109,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Docling / or Pandoc / - Document / PDF File Converters",
+                            "full_text": "⁠Docling / or Pandoc / - PDF / Documents CLI Converters",
                             "links": [
                                 {
                                     "name": "⁠Docling",
@@ -136085,19 +136170,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/AyrA/text2img"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Shutter Encoder - File Converter / /",
-                            "links": [
-                                {
-                                    "name": "Shutter Encoder",
-                                    "url": "https://www.shutterencoder.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/paulpacifico/shutter-encoder"
                                 }
                             ]
                         },
@@ -151140,15 +151212,6 @@
                                     "url": "https://github.com/1inch/shieldy"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "r/TelegramBots - Telegram Bots Discussion",
-                            "links": [
-                                {
-                                    "name": "r/TelegramBots",
-                                    "url": "https://www.reddit.com/r/TelegramBots/"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -152240,7 +152303,7 @@
                             ]
                         },
                         {
-                            "full_text": "yoink.tools / , ⁠YT1s , ⁠YTDown or CNVMP3 / - Online YT-DL Downloaders",
+                            "full_text": "yoink.tools / , ⁠YT1s or CNVMP3 / - Online YT-DL Downloaders",
                             "links": [
                                 {
                                     "name": "yoink.tools",
@@ -152253,10 +152316,6 @@
                                 {
                                     "name": "⁠YT1s",
                                     "url": "https://yt1s.com.co/"
-                                },
-                                {
-                                    "name": "⁠YTDown",
-                                    "url": "https://app.ytdown.to/en7/"
                                 },
                                 {
                                     "name": "CNVMP3",
@@ -165006,6 +165065,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Porthole - LAN Multiplayer Fix",
+                            "links": [
+                                {
+                                    "name": "⁠Porthole",
+                                    "url": "https://store.steampowered.com/app/4963920/Porthole__Local_Port_Sharing/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "NetMaker - LAN Multiplayer Fix",
                             "links": [
                                 {
@@ -169635,6 +169703,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Skin Closet - Skin / Clothing Layer Customization Tool",
+                            "links": [
+                                {
+                                    "name": "⁠Skin Closet",
+                                    "url": "https://skin-closet.chabo.tokyo/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "MSkins - Skin Grabber",
                             "links": [
                                 {
@@ -169767,6 +169844,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "Blockbench - Low Poly 3D Editor /",
+                            "links": [
+                                {
+                                    "name": "Blockbench",
+                                    "url": "https://www.blockbench.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/blockbench"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mineways / , MiEX , Minutor - Minecraft World Exporters",
                             "links": [
                                 {
@@ -169870,19 +169960,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/VCeHfSd6Xa"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Blockbench - Low Poly 3D Editor /",
-                            "links": [
-                                {
-                                    "name": "Blockbench",
-                                    "url": "https://www.blockbench.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/blockbench"
                                 }
                             ]
                         },
@@ -171400,6 +171477,15 @@
                                 {
                                     "name": "Ready or Not Doc",
                                     "url": "https://docs.google.com/spreadsheets/d/1d89lpFDA9lo_v13iBlnhtuA6DvuUnKfPaeo0d4RBGJ4/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Detroit Become Text - Detroit: Become Human Text Transcript",
+                            "links": [
+                                {
+                                    "name": "⁠Detroit Become Text",
+                                    "url": "https://detroitbecometext.github.io/"
                                 }
                             ]
                         },
@@ -186024,11 +186110,19 @@
                             ]
                         },
                         {
-                            "full_text": "Video Enhance AI - Video Enhancement Tool / Search \"Topaz\" or \"UniFab\" on LR",
+                            "full_text": "Topaz / 2 or UniFab (search) - AI Video Enhancement Tools",
                             "links": [
                                 {
-                                    "name": "Video Enhance AI",
-                                    "url": "https://lrepacks.net/repaki-programm-dlya-grafiki/"
+                                    "name": "Topaz",
+                                    "url": "https://fmhy.net/downloading/#software-sites"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://fmhy.net/video-tools/#vfx-sites"
+                                },
+                                {
+                                    "name": "UniFab",
+                                    "url": "https://fmhy.net/downloading/#software-site"
                                 }
                             ]
                         },
@@ -186249,7 +186343,16 @@
                             ]
                         },
                         {
-                            "full_text": "HunterAE - After Effects",
+                            "full_text": "VFX Plugins",
+                            "links": [
+                                {
+                                    "name": "VFX Plugins",
+                                    "url": "https://rentry.co/FMHYB64#vfx-plugins"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HunterAE",
                             "links": [
                                 {
                                     "name": "HunterAE",
@@ -186258,7 +186361,7 @@
                             ]
                         },
                         {
-                            "full_text": "AETemp - After Effects",
+                            "full_text": "AETemp",
                             "links": [
                                 {
                                     "name": "AETemp",
@@ -186267,7 +186370,7 @@
                             ]
                         },
                         {
-                            "full_text": "Visual Effects Pack - After Effects",
+                            "full_text": "Visual Effects Pack",
                             "links": [
                                 {
                                     "name": "Visual Effects Pack",
@@ -186276,7 +186379,7 @@
                             ]
                         },
                         {
-                            "full_text": "AEDownloadPro - After Effects",
+                            "full_text": "AEDownloadPro",
                             "links": [
                                 {
                                     "name": "AEDownloadPro",
@@ -186285,7 +186388,7 @@
                             ]
                         },
                         {
-                            "full_text": "Intro HD - After Effects /",
+                            "full_text": "Intro HD /",
                             "links": [
                                 {
                                     "name": "Intro HD",
@@ -187874,12 +187977,8 @@
                             ]
                         },
                         {
-                            "full_text": "r/MusicalBootlegs , OperaVision , OperaOnVideo or \"Slime Tutorials\" - Broadway Show Recordings / Opera",
+                            "full_text": "OperaVision or OperaOnVideo - Opera Recordings",
                             "links": [
-                                {
-                                    "name": "r/MusicalBootlegs",
-                                    "url": "https://www.reddit.com/r/MusicalBootlegs"
-                                },
                                 {
                                     "name": "OperaVision",
                                     "url": "https://operavision.eu/"
@@ -187887,6 +187986,15 @@
                                 {
                                     "name": "OperaOnVideo",
                                     "url": "https://www.operaonvideo.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "r/MusicalBootlegs or \"Slime Tutorials\" - Broadway Show Recordings",
+                            "links": [
+                                {
+                                    "name": "r/MusicalBootlegs",
+                                    "url": "https://www.reddit.com/r/MusicalBootlegs"
                                 },
                                 {
                                     "name": "\"Slime Tutorials\"",
@@ -193714,7 +193822,7 @@
                             ]
                         },
                         {
-                            "full_text": "FFmpeg , fre:ac / , FlicFlac , LameXP or Sox - Audio Converters",
+                            "full_text": "FFmpeg , fre:ac / , Shutter Encoder / , FlicFlac , LameXP or Sox - Audio Converters",
                             "links": [
                                 {
                                     "name": "FFmpeg",
@@ -193727,6 +193835,14 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/enzo1982/freac"
+                                },
+                                {
+                                    "name": "Shutter Encoder",
+                                    "url": "https://www.shutterencoder.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/paulpacifico/shutter-encoder"
                                 },
                                 {
                                     "name": "FlicFlac",
@@ -204315,6 +204431,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Landscape of Consciousness - Consciousness Theory Index",
+                            "links": [
+                                {
+                                    "name": "⁠Landscape of Consciousness",
+                                    "url": "https://loc.closertotruth.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Brainkit - Learn Helpful Principles",
                             "links": [
                                 {
@@ -211492,15 +211617,6 @@
                             ]
                         },
                         {
-                            "full_text": "️ Machine / Deep Learning",
-                            "links": [
-                                {
-                                    "name": "Machine / Deep Learning",
-                                    "url": "https://fmhy.net/ai/#machine-learning"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "OSSU Data Science - Data Science Roadmap /",
                             "links": [
                                 {
@@ -212672,6 +212788,198 @@
                                 {
                                     "name": "8bitWorkshop",
                                     "url": "https://8bitworkshop.com/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "AI / ML Learning",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "Everything AI/ML - LLM Learning Resources /",
+                            "links": [
+                                {
+                                    "name": "Everything AI/ML",
+                                    "url": "https://viveknaskar.github.io/everything-ai-ml/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/viveknaskar/everything-ai-ml"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "️ Machine Learning Resources",
+                            "links": [
+                                {
+                                    "name": "Machine Learning Resources",
+                                    "url": "https://fmhy.net/ai/#machine-learning"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome Free AI Books , AI-For-Beginners , mlsysbook , udlbook / , ML Engineering , Beginner Guides or HF Learn - Machine Learning Books / Guides",
+                            "links": [
+                                {
+                                    "name": "Awesome Free AI Books",
+                                    "url": "https://github.com/MarcosSete/awesome-free-ai-books"
+                                },
+                                {
+                                    "name": "AI-For-Beginners",
+                                    "url": "https://github.com/microsoft/AI-For-Beginners"
+                                },
+                                {
+                                    "name": "mlsysbook",
+                                    "url": "https://www.mlsysbook.ai/"
+                                },
+                                {
+                                    "name": "udlbook",
+                                    "url": "https://udlbook.github.io/udlbook/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/udlbook/udlbook/"
+                                },
+                                {
+                                    "name": "ML Engineering",
+                                    "url": "https://github.com/stas00/ml-engineering"
+                                },
+                                {
+                                    "name": "Beginner Guides",
+                                    "url": "https://microsoft.github.io/generative-ai-for-beginners/"
+                                },
+                                {
+                                    "name": "HF Learn",
+                                    "url": "https://huggingface.co/learn"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LLM Course , DeepLearningWizard , IAILab , Handson ML3 , KO MicroGPT / or ⁠Anthropic Courses - Machine Learning Courses",
+                            "links": [
+                                {
+                                    "name": "LLM Course",
+                                    "url": "https://github.com/mlabonne/llm-course"
+                                },
+                                {
+                                    "name": "DeepLearningWizard",
+                                    "url": "https://www.deeplearningwizard.com/"
+                                },
+                                {
+                                    "name": "IAILab",
+                                    "url": "https://iailab.kaist.ac.kr/teaching/deep-learning"
+                                },
+                                {
+                                    "name": "Handson ML3",
+                                    "url": "https://github.com/ageron/handson-ml3"
+                                },
+                                {
+                                    "name": "KO MicroGPT",
+                                    "url": "https://ko-microgpt.vercel.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/woduq1414/ko-microgpt"
+                                },
+                                {
+                                    "name": "⁠Anthropic Courses",
+                                    "url": "https://anthropic.skilljar.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ML YouTube Courses or Deep Learning Drizzle - Machine Learning Courses on YouTube",
+                            "links": [
+                                {
+                                    "name": "ML YouTube Courses",
+                                    "url": "https://github.com/dair-ai/ML-YouTube-Courses"
+                                },
+                                {
+                                    "name": "Deep Learning Drizzle",
+                                    "url": "https://deep-learning-drizzle.github.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Machine Learning Roadmap - Machine Learning Roadmap / Guide",
+                            "links": [
+                                {
+                                    "name": "Machine Learning Roadmap",
+                                    "url": "https://rentry.org/machine-learning-roadmap"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ML Course Notes - Machine Learning Course Notes",
+                            "links": [
+                                {
+                                    "name": "ML Course Notes",
+                                    "url": "https://github.com/dair-ai/ML-Course-Notes"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠aman.ai - Artificial Intelligence / Deep Learning Stanford Notes",
+                            "links": [
+                                {
+                                    "name": "⁠aman.ai",
+                                    "url": "https://aman.ai/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome Generative AI Guide - LLM Research Resources / Guide",
+                            "links": [
+                                {
+                                    "name": "Awesome Generative AI Guide",
+                                    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "LLM Visualization or ML Visualized / - LLM Visualizations",
+                            "links": [
+                                {
+                                    "name": "LLM Visualization",
+                                    "url": "https://bbycroft.net/llm"
+                                },
+                                {
+                                    "name": "ML Visualized",
+                                    "url": "https://ml-visualized.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/gavinkhung/machine-learning-visualized"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Transformer Explainer - ⁠Transformer Visualization",
+                            "links": [
+                                {
+                                    "name": "⁠Transformer Explainer",
+                                    "url": "https://poloclub.github.io/transformer-explainer/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Deep ML - Solve Machine Learning Problems",
+                            "links": [
+                                {
+                                    "name": "Deep ML",
+                                    "url": "https://www.deep-ml.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Approaching (Almost) Any Machine Learning Problem - Machine Learning Problem-Solving Book",
+                            "links": [
+                                {
+                                    "name": "Approaching (Almost) Any Machine Learning Problem",
+                                    "url": "https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf"
                                 }
                             ]
                         }
@@ -227398,6 +227706,42 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "DirtyWarez - Video / Audio / Books / Comics (Removed in 3812cbd )",
+                            "links": [
+                                {
+                                    "name": "3812cbd",
+                                    "url": "https://github.com/fmhy/edit/commit/3812cbd2956711afc3f7c234be932ddf6c7c3853#diff-e99a29dbd027c863fb08fa8efa6696239b223807b373c3d8f9778e14fc122a1fL123"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ItsFOSS Guide - Kindle DRM Removal Guide (Removed in 3812cbd )",
+                            "links": [
+                                {
+                                    "name": "3812cbd",
+                                    "url": "https://github.com/fmhy/edit/commit/3812cbd2956711afc3f7c234be932ddf6c7c3853#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L186"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "r/TelegramBots - Telegram Bots Discussion (Removed in 3812cbd )",
+                            "links": [
+                                {
+                                    "name": "3812cbd",
+                                    "url": "https://github.com/fmhy/edit/commit/3812cbd2956711afc3f7c234be932ddf6c7c3853#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L300"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Video Enhance AI - Video Enhancement Tool / Search \"Topaz\" or \"UniFab\" on LR (Removed in 3812cbd )",
+                            "links": [
+                                {
+                                    "name": "3812cbd",
+                                    "url": "https://github.com/fmhy/edit/commit/3812cbd2956711afc3f7c234be932ddf6c7c3853#diff-4beefdf2c5ab826161d5d11bb50853585bff157b69a9e83e36b6e143ddb744a3L466"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "r/wowthissubexists - Find Niche Subreddits (Removed in 46a277a )",
                             "links": [
                                 {
@@ -228095,33 +228439,6 @@
                                 {
                                     "name": "f5f3b58",
                                     "url": "https://github.com/fmhy/edit/commit/f5f3b583202caed0a905d7c42f48e702f0b3b43f#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL495"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Fetchrr - MEGA Link Direct Downloader (Removed in 8c44e43 )",
-                            "links": [
-                                {
-                                    "name": "8c44e43",
-                                    "url": "https://github.com/fmhy/edit/commit/8c44e43b205088f225a1869706b1d2dee4340175#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL484"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ReadComicOnline (Removed in 8c44e43 )",
-                            "links": [
-                                {
-                                    "name": "8c44e43",
-                                    "url": "https://github.com/fmhy/edit/commit/8c44e43b205088f225a1869706b1d2dee4340175#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L388"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "HiCartoons - TV / Movies (Removed in 8c44e43 )",
-                            "links": [
-                                {
-                                    "name": "8c44e43",
-                                    "url": "https://github.com/fmhy/edit/commit/8c44e43b205088f225a1869706b1d2dee4340175#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL352"
                                 }
                             ]
                         }

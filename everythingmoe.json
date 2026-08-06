@@ -2689,10 +2689,10 @@
           }
         },
         {
-          "id": "animegers",
-          "title": "Animegers",
-          "link": "https://animegers.com/",
-          "icon": "https://static.everythingmoe.com/icons/animegers.png",
+          "id": "kaorii",
+          "title": "Kaori",
+          "link": "https://kaorii.app/",
+          "icon": "https://static.everythingmoe.com/icons/kaorii.png",
           "tags": [
             "Scraper",
             "Soft-sub",
@@ -2706,7 +2706,8 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Multiple sources & language"
+              "Multiple source options",
+              "Nice interface"
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
@@ -2714,10 +2715,10 @@
           }
         },
         {
-          "id": "kaorii",
-          "title": "Kaori",
-          "link": "https://kaorii.app/",
-          "icon": "https://static.everythingmoe.com/icons/kaorii.png",
+          "id": "anikura",
+          "title": "Anikura",
+          "link": "https://anikura.club/",
+          "icon": "https://static.everythingmoe.com/icons/anikura.png",
           "tags": [
             "Scraper",
             "Soft-sub",
@@ -2735,7 +2736,8 @@
               "Nice interface"
             ],
             "negatives": [
-              "Content depends on the websites it scrapes"
+              "Content depends on the websites it scrapes",
+              "New site"
             ]
           }
         },
@@ -2791,10 +2793,10 @@
           }
         },
         {
-          "id": "anikura",
-          "title": "Anikura",
-          "link": "https://anikura.club/",
-          "icon": "https://static.everythingmoe.com/icons/anikura.png",
+          "id": "animegers",
+          "title": "Animegers",
+          "link": "https://animegers.com/",
+          "icon": "https://static.everythingmoe.com/icons/animegers.png",
           "tags": [
             "Scraper",
             "Soft-sub",
@@ -2808,12 +2810,10 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Multiple source options",
-              "Nice interface"
+              "Multiple sources & language"
             ],
             "negatives": [
-              "Content depends on the websites it scrapes",
-              "New site"
+              "Content depends on the websites it scrapes"
             ]
           }
         },
@@ -21210,9 +21210,7 @@
           "title": "ComicK",
           "link": "https://comick.dev/",
           "icon": "https://static.everythingmoe.com/icons/comick.png",
-          "tags": [
-            "MANGA"
-          ],
+          "tags": [],
           "rank": 4,
           "is_licensed": false,
           "is_nsfw": false,
@@ -21221,11 +21219,11 @@
           "section": "database",
           "details": {
             "positives": [
-              "Manga Tracker + Database",
+              "Manga & Anime Tracker + Database",
               "Detailed tags categories",
               "Scanlator and release information"
             ],
-            "info": "note: <a href=\"/s/comick\">Originally</a> manga reading site, but now doesn't have reading feature."
+            "info": "note: <a href=\"/s/comick\">Originally</a> manga reading site, but now doesn't have reading feature. Recently also add anime database."
           }
         },
         {
@@ -38949,31 +38947,6 @@
         ]
       }
     },
-    "animegers": {
-      "id": "animegers",
-      "title": "Animegers",
-      "link": "https://animegers.com/",
-      "icon": "https://static.everythingmoe.com/icons/animegers.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources & language"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
-      }
-    },
     "kaorii": {
       "id": "kaorii",
       "title": "Kaori",
@@ -38997,6 +38970,33 @@
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
+        ]
+      }
+    },
+    "anikura": {
+      "id": "anikura",
+      "title": "Anikura",
+      "link": "https://anikura.club/",
+      "icon": "https://static.everythingmoe.com/icons/anikura.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes",
+          "New site"
         ]
       }
     },
@@ -39051,11 +39051,11 @@
         ]
       }
     },
-    "anikura": {
-      "id": "anikura",
-      "title": "Anikura",
-      "link": "https://anikura.club/",
-      "icon": "https://static.everythingmoe.com/icons/anikura.png",
+    "animegers": {
+      "id": "animegers",
+      "title": "Animegers",
+      "link": "https://animegers.com/",
+      "icon": "https://static.everythingmoe.com/icons/animegers.png",
       "tags": [
         "Scraper",
         "Soft-sub",
@@ -39069,12 +39069,10 @@
       ],
       "details": {
         "positives": [
-          "Multiple source options",
-          "Nice interface"
+          "Multiple sources & language"
         ],
         "negatives": [
-          "Content depends on the websites it scrapes",
-          "New site"
+          "Content depends on the websites it scrapes"
         ]
       }
     },
@@ -57354,9 +57352,7 @@
       "title": "ComicK",
       "link": "https://comick.dev/",
       "icon": "https://static.everythingmoe.com/icons/comick.png",
-      "tags": [
-        "MANGA"
-      ],
+      "tags": [],
       "is_licensed": false,
       "is_nsfw": false,
       "status": "active",
@@ -57365,11 +57361,11 @@
       ],
       "details": {
         "positives": [
-          "Manga Tracker + Database",
+          "Manga & Anime Tracker + Database",
           "Detailed tags categories",
           "Scanlator and release information"
         ],
-        "info": "note: <a href=\"/s/comick\">Originally</a> manga reading site, but now doesn't have reading feature."
+        "info": "note: <a href=\"/s/comick\">Originally</a> manga reading site, but now doesn't have reading feature. Recently also add anime database."
       }
     },
     "mupdates": {
