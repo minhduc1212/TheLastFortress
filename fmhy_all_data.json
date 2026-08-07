@@ -7064,7 +7064,7 @@
                             "links": [
                                 {
                                     "name": "Cherry Studio",
-                                    "url": "https://www.cherry-ai.com/"
+                                    "url": "https://cherryai.com/"
                                 },
                                 {
                                     "name": "Mobile",
@@ -32940,7 +32940,7 @@
                     "level": "h2",
                     "text_explanations": [
                         "TIP",
-                        "Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version ofuBlock Origincan prevent this but it doesn't always work. checkthis guideto learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host."
+                        "Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version ofuBlock Origincan prevent this but it doesn't always work. Checkthis guideto learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host."
                     ],
                     "resource_items": [
                         {
@@ -45802,7 +45802,7 @@
                             "links": [
                                 {
                                     "name": "ComparisonTabl.es",
-                                    "url": "https://comparisontabl.es/tag/e-reader/"
+                                    "url": "https://comparisontabl.es/e-readers/"
                                 }
                             ]
                         },
@@ -59089,6 +59089,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠VibeMathed - Index of Mathematical Problems Solved by AI",
+                            "links": [
+                                {
+                                    "name": "⁠VibeMathed",
+                                    "url": "https://vibemathed.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LibreTexts Statistic - Statistic Practice / Guides",
                             "links": [
                                 {
@@ -62062,8 +62071,12 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Awesome Aerospace Engineering - Aerospace Engineering Learning Resources",
+                            "full_text": "⁠Star Rocketry or Awesome Aerospace Engineering - Aerospace Engineering Learning Resources",
                             "links": [
+                                {
+                                    "name": "⁠Star Rocketry",
+                                    "url": "https://starrocketry.github.io/archive/AE4L/"
+                                },
                                 {
                                     "name": "Awesome Aerospace Engineering",
                                     "url": "https://github.com/mahran-sayed/awesome-aerospace-engineering/"
@@ -64779,6 +64792,15 @@
                                 {
                                     "name": "⁠Craft Yarn Council",
                                     "url": "https://www.craftyarncouncil.com/instructions_kn.php3"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠BraceletBook - DIY Bracelet Pattern Database",
+                            "links": [
+                                {
+                                    "name": "⁠BraceletBook",
+                                    "url": "https://www.braceletbook.com/"
                                 }
                             ]
                         },
@@ -81127,6 +81149,19 @@
                             ]
                         },
                         {
+                            "full_text": "Sia Storage - Cloud Storage / 50GB /",
+                            "links": [
+                                {
+                                    "name": "Sia Storage",
+                                    "url": "https://sia.storage"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/siafoundation"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "RSAF - Add RClone Remotes to Android Storage Framework",
                             "links": [
                                 {
@@ -85898,6 +85933,19 @@
                             ]
                         },
                         {
+                            "full_text": "Sia Storage - Cloud Storage / 50GB /",
+                            "links": [
+                                {
+                                    "name": "Sia Storage",
+                                    "url": "https://sia.storage"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/siafoundation"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "The National Do Not Call Registry - Opt Out of Telemarketing Calls",
                             "links": [
                                 {
@@ -88248,11 +88296,11 @@
                                 },
                                 {
                                     "name": "⁠RyukGram",
-                                    "url": "https://github.com/faroukbmiled/RyukGram"
+                                    "url": "https://t.me/ryukgram"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://t.me/ryukgram"
+                                    "url": "https://github.com/faroukbmiled/RyukGram"
                                 },
                                 {
                                     "name": "BHInstagram",
@@ -92350,19 +92398,6 @@
                                 {
                                     "name": "Accela",
                                     "url": "https://github.com/ciscosweater/enter-the-wired"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "LuaTools - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix /",
-                            "links": [
-                                {
-                                    "name": "LuaTools",
-                                    "url": "https://lua.tools/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/madoiscool/ltsteamplugin"
                                 }
                             ]
                         },
@@ -115444,6 +115479,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠BraceletBook - DIY Bracelet Pattern Database",
+                            "links": [
+                                {
+                                    "name": "⁠BraceletBook",
+                                    "url": "https://www.braceletbook.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Ravelry - Fiber Artist Tools",
                             "links": [
                                 {
@@ -124414,6 +124458,15 @@
                             ]
                         },
                         {
+                            "full_text": "ComparisonTabl.es - Compare E-Readers, Phones, Speakers, etc.",
+                            "links": [
+                                {
+                                    "name": "ComparisonTabl.es",
+                                    "url": "https://comparisontabl.es/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SpeakerRanking - Speaker Comparisons / Reviews",
                             "links": [
                                 {
@@ -124529,15 +124582,6 @@
                                 {
                                     "name": "Handheld Emulation Compatibility",
                                     "url": "https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ComparisonTabl.es - Compare E-Readers",
-                            "links": [
-                                {
-                                    "name": "ComparisonTabl.es",
-                                    "url": "https://comparisontabl.es/"
                                 }
                             ]
                         },
@@ -127186,47 +127230,28 @@
                             ]
                         },
                         {
-                            "full_text": "⁠MagnifiedSand - Microscopic Sand Magnification Database",
+                            "full_text": "EveryoneDraw , pixels.land or World of Pixels - Infinite Online Pixel Art",
                             "links": [
                                 {
-                                    "name": "⁠MagnifiedSand",
-                                    "url": "https://magnifiedsand.com/"
+                                    "name": "EveryoneDraw",
+                                    "url": "https://everyonedraw.com/"
+                                },
+                                {
+                                    "name": "pixels.land",
+                                    "url": "https://pixel.land/"
+                                },
+                                {
+                                    "name": "World of Pixels",
+                                    "url": "https://ourworldofpixels.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Magic Sketchpad - Magical Sketchpad",
+                            "full_text": "⁠3place - Infinite Online 3D Pixel Art Globe",
                             "links": [
                                 {
-                                    "name": "Magic Sketchpad",
-                                    "url": "https://magic-sketchpad.glitch.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Webchemy - Drawing / Sketching",
-                            "links": [
-                                {
-                                    "name": "Webchemy",
-                                    "url": "https://webchemy.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "World Draw - Draw World Together",
-                            "links": [
-                                {
-                                    "name": "World Draw",
-                                    "url": "https://world-draw.appspot.com/draw"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Eschersket - Symmetry Drawing Tool",
-                            "links": [
-                                {
-                                    "name": "Eschersket",
-                                    "url": "https://eschersket.ch/"
+                                    "name": "⁠3place",
+                                    "url": "https://3place.world/"
                                 }
                             ]
                         },
@@ -127308,6 +127333,51 @@
                                 {
                                     "name": "paint.wtf",
                                     "url": "https://paint.wtf/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠MagnifiedSand - Microscopic Sand Magnification Database",
+                            "links": [
+                                {
+                                    "name": "⁠MagnifiedSand",
+                                    "url": "https://magnifiedsand.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Magic Sketchpad - Magical Sketchpad",
+                            "links": [
+                                {
+                                    "name": "Magic Sketchpad",
+                                    "url": "https://magic-sketchpad.glitch.me/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Webchemy - Drawing / Sketching",
+                            "links": [
+                                {
+                                    "name": "Webchemy",
+                                    "url": "https://webchemy.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "World Draw - Draw World Together",
+                            "links": [
+                                {
+                                    "name": "World Draw",
+                                    "url": "https://world-draw.appspot.com/draw"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Eschersket - Symmetry Drawing Tool",
+                            "links": [
+                                {
+                                    "name": "Eschersket",
+                                    "url": "https://eschersket.ch/"
                                 }
                             ]
                         },
@@ -128366,23 +128436,6 @@
                                 {
                                     "name": "Popcat",
                                     "url": "https://popcat.click/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "EveryoneDraw , pixels.land or World of Pixels - Infinite Online Pixel Art",
-                            "links": [
-                                {
-                                    "name": "EveryoneDraw",
-                                    "url": "https://everyonedraw.com/"
-                                },
-                                {
-                                    "name": "pixels.land",
-                                    "url": "https://pixel.land/"
-                                },
-                                {
-                                    "name": "World of Pixels",
-                                    "url": "https://ourworldofpixels.com/"
                                 }
                             ]
                         },
@@ -170032,6 +170085,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠2XKO Wiki - 2XKO Wiki / Move Database",
+                            "links": [
+                                {
+                                    "name": "⁠2XKO Wiki",
+                                    "url": "https://wiki.play2xko.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Wavu / , Okizeme or TekkenDocs - Tekken Game Guides / Move Databases",
                             "links": [
                                 {
@@ -177259,7 +177321,7 @@
                             ]
                         },
                         {
-                            "full_text": "Danbooru , ⁠Gsbooru , Sankaku Complex , Safebooru , TBIB or yande.re - Anime-Style Image Booru / Downloader",
+                            "full_text": "Danbooru , ⁠Gsbooru , Sankaku Complex , Safebooru , TBIB or yande.re - Anime-Style Image Booru's / Downloader",
                             "links": [
                                 {
                                     "name": "Danbooru",
@@ -177493,6 +177555,15 @@
                                 {
                                     "name": "Buhitter",
                                     "url": "https://buhitter.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Boorusama - Multi-Booru App /",
+                            "links": [
+                                {
+                                    "name": "⁠Boorusama",
+                                    "url": "https://play.google.com/store/apps/details?id=com.degenk.boorusama"
                                 }
                             ]
                         },
@@ -178581,6 +178652,15 @@
                                 {
                                     "name": "Ultimaker Cura",
                                     "url": "https://ultimaker.com/software/ultimaker-cura"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠keygen - Print High-Quality Copies of Your Keys",
+                            "links": [
+                                {
+                                    "name": "⁠keygen",
+                                    "url": "https://keygen.co/"
                                 }
                             ]
                         },
@@ -198733,6 +198813,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠VibeMathed - Index of Mathematical Problems Solved by AI",
+                            "links": [
+                                {
+                                    "name": "⁠VibeMathed",
+                                    "url": "https://vibemathed.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LibreTexts Statistic - Statistic Practice / Guides",
                             "links": [
                                 {
@@ -201706,8 +201795,12 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Awesome Aerospace Engineering - Aerospace Engineering Learning Resources",
+                            "full_text": "⁠Star Rocketry or Awesome Aerospace Engineering - Aerospace Engineering Learning Resources",
                             "links": [
+                                {
+                                    "name": "⁠Star Rocketry",
+                                    "url": "https://starrocketry.github.io/archive/AE4L/"
+                                },
                                 {
                                     "name": "Awesome Aerospace Engineering",
                                     "url": "https://github.com/mahran-sayed/awesome-aerospace-engineering/"
@@ -204423,6 +204516,15 @@
                                 {
                                     "name": "⁠Craft Yarn Council",
                                     "url": "https://www.craftyarncouncil.com/instructions_kn.php3"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠BraceletBook - DIY Bracelet Pattern Database",
+                            "links": [
+                                {
+                                    "name": "⁠BraceletBook",
+                                    "url": "https://www.braceletbook.com/"
                                 }
                             ]
                         },
@@ -215252,7 +215354,7 @@
                             ]
                         },
                         {
-                            "full_text": "DevToys - Dev Multi-Tool App /",
+                            "full_text": "DevToys - Dev Multi-Tool App / /",
                             "links": [
                                 {
                                     "name": "DevToys",
@@ -215265,7 +215367,7 @@
                             ]
                         },
                         {
-                            "full_text": "DevDocs / or ZealDocs - Dev Documentation",
+                            "full_text": "DevDocs / or ZealDocs - Dev Documentation / /",
                             "links": [
                                 {
                                     "name": "DevDocs",
@@ -215282,7 +215384,7 @@
                             ]
                         },
                         {
-                            "full_text": "ImHex / Web Version / or HexEd.it - Hex Editors",
+                            "full_text": "ImHex / Web Version / / or HexEd.it - Hex Editors",
                             "links": [
                                 {
                                     "name": "ImHex",
@@ -215546,7 +215648,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠bin - Binary Manager",
+                            "full_text": "⁠bin - Binary Manager /",
                             "links": [
                                 {
                                     "name": "⁠bin",
@@ -216141,7 +216243,7 @@
                             ]
                         },
                         {
-                            "full_text": "DB Browser , SQLook or SQL Lite Studio - SQLite Browsers",
+                            "full_text": "DB Browser / , SQLook or SQL Lite Studio - SQLite Browsers",
                             "links": [
                                 {
                                     "name": "DB Browser",
@@ -218412,7 +218514,7 @@
                             ]
                         },
                         {
-                            "full_text": "JetBrains / Features",
+                            "full_text": "JetBrains - Professional IDEs / Features /",
                             "links": [
                                 {
                                     "name": "JetBrains",
@@ -218425,7 +218527,7 @@
                             ]
                         },
                         {
-                            "full_text": "Neovim - Code Editor / Matrix",
+                            "full_text": "Neovim - Code Editor / Matrix /",
                             "links": [
                                 {
                                     "name": "Neovim",
@@ -218438,10 +218540,10 @@
                             ]
                         },
                         {
-                            "full_text": "Zed - Code Editor /",
+                            "full_text": "zed - Code Editor / /",
                             "links": [
                                 {
-                                    "name": "Zed",
+                                    "name": "zed",
                                     "url": "https://zed.dev/"
                                 },
                                 {
@@ -218451,7 +218553,7 @@
                             ]
                         },
                         {
-                            "full_text": "Lite XL or Pragtical - Code Editor / Plugin Manager / Plugins / Themes",
+                            "full_text": "Lite XL or Pragtical - Code Editor / Plugin Manager / Plugins / Themes /",
                             "links": [
                                 {
                                     "name": "Lite XL",
@@ -218476,7 +218578,7 @@
                             ]
                         },
                         {
-                            "full_text": "Emacs - Code Editor / Resources",
+                            "full_text": "Emacs - Code Editor / Resources /",
                             "links": [
                                 {
                                     "name": "Emacs",
@@ -220138,7 +220240,7 @@
                             ]
                         },
                         {
-                            "full_text": "Kimi - Kimi K2.6 (Thinking) / / Kimi K3 / Coding AI / Google Login or Phone # Required / / /",
+                            "full_text": "Kimi - Kimi K2.6 (Thinking) / Kimi K3 / Coding AI / Google Login or Phone # Required / / /",
                             "links": [
                                 {
                                     "name": "Kimi",
@@ -227384,6 +227486,15 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "LuaTools - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / GitHub (Removed in 2314e10 )",
+                            "links": [
+                                {
+                                    "name": "2314e10",
+                                    "url": "https://github.com/fmhy/edit/commit/2314e10e69cc52bc6aff21eefdbadb1ee74d41a2#diff-0665d47a9d277cb3aa8ed4169f2b097d0aba1a21230fe143c617a0a5f5d44dbeL311"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠BedrockConnect - Connect Consoles to Custom Minecraft Bedrock Servers (Removed in d9efed6 )",
                             "links": [
                                 {
@@ -230313,7 +230424,7 @@
                     "heading": "SMS Verification Sites",
                     "level": "h2",
                     "text_explanations": [
-                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,ReceiveSMSOnline,7sim,yunjiema,us-phone-number,shownumber,yunduanxin,smsget,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,receivesmsonline,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠7Sim,⁠TempSMSOnline,SMSReceiveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠Receive SMS Free,⁠TempBoxPro,gettempnumber,ZUSMS,PVAcodes"
+                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,ReceiveSMSOnline,7sim,yunjiema,us-phone-number,shownumber,yunduanxin,smsget,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,receivesmsonline,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠7Sim,⁠TempSMSOnline,SMSReceiveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠Receive SMS Free,⁠TempBoxPro,gettempnumber,ZUSMS,PVAcodes,Anosim"
                     ],
                     "resource_items": [
                         {

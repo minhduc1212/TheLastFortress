@@ -2218,7 +2218,7 @@
         {
           "id": "animerulz",
           "title": "Animelok",
-          "link": "https://animelok.online/",
+          "link": "https://animelok.live/",
           "icon": "https://static.everythingmoe.com/icons/animelok.png",
           "tags": [
             "Scraper",
@@ -15848,6 +15848,14 @@
               {
                 "name": "Extension",
                 "url": "https://everythingmoe.com/post/shirurepo.html"
+              },
+              {
+                "name": "Gitlab repo",
+                "url": "https://gitlab.com/RockinChaos/Shiru"
+              },
+              {
+                "name": "Codeberg repo",
+                "url": "https://codeberg.org/RockinChaos/Shiru"
               }
             ],
             "info": "note: Forked from Miru (now become <a href=\"/s/miru\">Hayase</a>). This app uses a torrent connection; beware of potential issues with your ISP."
@@ -23273,12 +23281,28 @@
           }
         },
         {
+          "id": "yubori",
+          "title": "Yubori",
+          "link": "https://yubori.com/",
+          "icon": "https://static.everythingmoe.com/icons/yubori.png",
+          "tags": [],
+          "rank": 4,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "quiz",
+          "details": {
+            "info": "Daily anime guessing game. Various game mode (emoji, synopsis, higher or lower, versus). Also have tools watch / read order, time calculator, comparison tool, etc."
+          }
+        },
+        {
           "id": "aniconnections",
           "title": "AniConnections",
           "link": "https://www.aniconnections.com/",
           "icon": "https://static.everythingmoe.com/icons/aniconnections.png",
           "tags": [],
-          "rank": 4,
+          "rank": 5,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23304,7 +23328,7 @@
           "link": "https://baranimes.com/",
           "icon": "https://static.everythingmoe.com/icons/baranimes.png",
           "tags": [],
-          "rank": 5,
+          "rank": 6,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23320,7 +23344,7 @@
           "link": "https://erogemusicquiz.com/",
           "icon": "https://static.everythingmoe.com/icons/erogemusicquiz.png",
           "tags": [],
-          "rank": 6,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23342,7 +23366,7 @@
           "link": "https://guesstheopening.com/anime",
           "icon": "https://static.everythingmoe.com/icons/guesstheopening.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23364,7 +23388,7 @@
           "link": "https://animeopeningquiz.com/",
           "icon": "https://static.everythingmoe.com/icons/animeopeningquiz.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23380,7 +23404,7 @@
           "link": "https://quiz.animesongs.org/",
           "icon": "https://static.everythingmoe.com/icons/animesongsorg.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23402,7 +23426,7 @@
           "link": "https://www.animerdle.com/",
           "icon": "https://static.everythingmoe.com/icons/animerdle.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23418,7 +23442,7 @@
           "link": "https://animetrivia.app/",
           "icon": "https://static.everythingmoe.com/icons/animetrivia.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23440,7 +23464,7 @@
           "link": "https://www.animeguess.moe/",
           "icon": "https://static.everythingmoe.com/icons/animeguess.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -23456,7 +23480,7 @@
           "link": "https://suisoku.xgorn.com/",
           "icon": "https://static.everythingmoe.com/icons/default.png",
           "tags": [],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -38500,7 +38524,7 @@
     "animerulz": {
       "id": "animerulz",
       "title": "Animelok",
-      "link": "https://animelok.online/",
+      "link": "https://animelok.live/",
       "icon": "https://static.everythingmoe.com/icons/animelok.png",
       "tags": [
         "Scraper",
@@ -52049,6 +52073,14 @@
           {
             "name": "Extension",
             "url": "https://everythingmoe.com/post/shirurepo.html"
+          },
+          {
+            "name": "Gitlab repo",
+            "url": "https://gitlab.com/RockinChaos/Shiru"
+          },
+          {
+            "name": "Codeberg repo",
+            "url": "https://codeberg.org/RockinChaos/Shiru"
           }
         ],
         "info": "note: Forked from Miru (now become <a href=\"/s/miru\">Hayase</a>). This app uses a torrent connection; beware of potential issues with your ISP."
@@ -59399,6 +59431,22 @@
       ],
       "details": {
         "info": "Guess character names or anime series they belong to by images also have Multiplayer & leaderboard"
+      }
+    },
+    "yubori": {
+      "id": "yubori",
+      "title": "Yubori",
+      "link": "https://yubori.com/",
+      "icon": "https://static.everythingmoe.com/icons/yubori.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "quiz"
+      ],
+      "details": {
+        "info": "Daily anime guessing game. Various game mode (emoji, synopsis, higher or lower, versus). Also have tools watch / read order, time calculator, comparison tool, etc."
       }
     },
     "aniconnections": {
