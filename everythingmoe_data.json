@@ -202,8 +202,7 @@
             "positives": [
               "Multiple sources & language",
               "Modern interface",
-              "Long track record",
-              "Open source"
+              "Long track record"
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
@@ -232,7 +231,7 @@
             ],
             "exx-info": "note: animeuwutv is a fork / clone made by other people.",
             "ex-info": "note: animeyee is a fork / clone made by other people.",
-            "info": "note: Also self host on some server",
+            "info": "note: Also self host on some server. Open source but only old version.",
             "ex-altlinks": [
               {
                 "name": ".online",
@@ -12862,12 +12861,14 @@
                 "url": "https://kisskh.ovh/"
               },
               {
-                "name": ".com",
-                "url": "https://kiskh.com/"
-              },
-              {
                 "name": "anime",
                 "url": "https://kisskh.la/Explore?type=3&sub=1&country=3"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": ".com",
+                "url": "https://kiskh.com/"
               }
             ]
           }
@@ -12972,7 +12973,7 @@
         {
           "id": "asianctvco",
           "title": "Asianc TV",
-          "link": "https://asianctv.cc",
+          "link": "https://asianc.id/",
           "icon": "https://static.everythingmoe.com/icons/asianctvco.png",
           "tags": [],
           "rank": 5,
@@ -12991,20 +12992,12 @@
             ],
             "altlinks": [
               {
+                "name": "drama123",
+                "url": "https://drama123.tv/"
+              },
+              {
                 "name": "hidrama",
                 "url": "https://hidrama.to/"
-              },
-              {
-                "name": "dramacools9cam",
-                "url": "https://dramacools9.cam/"
-              },
-              {
-                "name": "kisskhorat",
-                "url": "https://kisskh.or.at/"
-              },
-              {
-                "name": "kshow123",
-                "url": "https://kshow123.tv/"
               }
             ],
             "ex-altlinks": [
@@ -13015,9 +13008,47 @@
               {
                 "name": ".co",
                 "url": "https://asianctv.co/"
+              },
+              {
+                "name": ".cc",
+                "url": "https://asianctv.cc/"
+              },
+              {
+                "name": "dramacools9cam",
+                "url": "https://dramacools9.cam/"
               }
             ],
             "info": "note: This site unrelated with original <a href=\"/s/dramacool\">Dramacool</a> and <a href=\"/s/kisskh\">Kisskh</a>"
+          }
+        },
+        {
+          "id": "kshow123",
+          "title": "Kshow123",
+          "link": "https://kshow123.tv/",
+          "icon": "https://static.everythingmoe.com/icons/kshow123.png",
+          "tags": [],
+          "rank": 6,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "drama",
+          "details": {
+            "positives": [
+              "Fast stream server",
+              "Multiple server options",
+              "Medium library"
+            ],
+            "altlinks": [
+              {
+                "name": ".tv",
+                "url": "https://kshow123.tv/"
+              },
+              {
+                "name": "A-Z list",
+                "url": "https://kshow123.tv/show/"
+              }
+            ]
           }
         },
         {
@@ -13026,7 +13057,7 @@
           "link": "https://wetv.vip/",
           "icon": "https://static.everythingmoe.com/icons/wetv.png",
           "tags": [],
-          "rank": 6,
+          "rank": 7,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -13060,7 +13091,7 @@
           "link": "https://dramacoolr.buzz/",
           "icon": "https://static.everythingmoe.com/icons/dramacool.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13079,6 +13110,10 @@
               {
                 "name": "dramahoodmom",
                 "url": "https://dramahood.mom"
+              },
+              {
+                "name": "dramacooli.buzz",
+                "url": "https://dramacooli.buzz/"
               }
             ],
             "ex-altlinks": [
@@ -13128,7 +13163,7 @@
           "link": "https://dramanice.cl/",
           "icon": "https://static.everythingmoe.com/icons/dramanicee.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13142,7 +13177,13 @@
             "negatives": [
               "Only single server option"
             ],
-            "ex-note": "player.5274274.xyz",
+            "altlinks": [
+              {
+                "name": ".boo",
+                "url": "https://dramanice.boo/"
+              }
+            ],
+            "ex-note": "player.5274274.xyz#dramavideo.se",
             "ex-altlinks": [
               {
                 "name": "",
@@ -13157,7 +13198,7 @@
           "link": "https://www.anime-loads.org/asialive",
           "icon": "https://static.everythingmoe.com/icons/animeloads.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13175,12 +13216,12 @@
           }
         },
         {
-          "id": "kisskhweb",
-          "title": "kisskhweb.com",
-          "link": "https://www.kisskhweb.com/",
-          "icon": "https://static.everythingmoe.com/icons/kisskhweb.png",
+          "id": "myasiantv",
+          "title": "Myasiantv",
+          "link": "https://myasiantv.rest",
+          "icon": "https://static.everythingmoe.com/icons/myasiantv.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13188,18 +13229,50 @@
           "section": "drama",
           "details": {
             "positives": [
-              "Multiple server options"
+              "Reliable stream",
+              "Multiple third party host"
             ],
-            "negatives": [
-              "Confusing brand name"
-            ],
+            "info": "note: Have many alt brand name and domains, same stream.",
             "altlinks": [
               {
-                "name": "dramanice.cyou",
+                "name": ".com.bz",
+                "url": "https://myasiantv.com.bz/"
+              },
+              {
+                "name": ".lv",
+                "url": "https://myasiantv.com.lv/"
+              },
+              {
+                "name": "kisskhweb.com",
+                "url": "https://www.kisskhweb.com/"
+              },
+              {
+                "name": "dramanicecyou",
                 "url": "https://dramanice.cyou/"
+              },
+              {
+                "name": "kissasiantv.my",
+                "url": "https://kissasiantv.my/"
+              },
+              {
+                "name": "kisskhspace",
+                "url": "https://kisskh.space/"
+              },
+              {
+                "name": "dramika",
+                "url": "https://dramika.com/"
+              },
+              {
+                "name": "dramamoly",
+                "url": "https://dramamoly.com/"
               }
             ],
-            "info": "note: This site is unrelated with Kisskh"
+            "ex-altlinks": [
+              {
+                "name": ".ac",
+                "url": "https://myasiantv.ac/"
+              }
+            ]
           }
         },
         {
@@ -13210,7 +13283,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13224,6 +13297,12 @@
             "negatives": [
               "Shortlink ads",
               "Use third party DDL host"
+            ],
+            "altlinks": [
+              {
+                "name": ".shop",
+                "url": "https://onlykdrama.shop/"
+              }
             ]
           }
         },
@@ -13235,7 +13314,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13261,7 +13340,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -13284,46 +13363,6 @@
               {
                 "name": "dramiko",
                 "url": "https://dramiko.com/"
-              }
-            ]
-          }
-        },
-        {
-          "id": "myasiantv",
-          "title": "Myasiantv",
-          "link": "https://myasiantv.rest",
-          "icon": "https://static.everythingmoe.com/icons/myasiantv.png",
-          "tags": [],
-          "rank": 14,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "drama",
-          "details": {
-            "info": "note: no review yet",
-            "altlinks": [
-              {
-                "name": ".com.bz",
-                "url": "https://myasiantv.com.bz/"
-              },
-              {
-                "name": ".lv",
-                "url": "https://myasiantv.com.lv/"
-              },
-              {
-                "name": "dramanicecyou",
-                "url": "https://dramanice.cyou/"
-              },
-              {
-                "name": "kisskhspace",
-                "url": "https://kisskh.space/"
-              }
-            ],
-            "ex-altlinks": [
-              {
-                "name": ".ac",
-                "url": "https://myasiantv.ac/"
               }
             ]
           }
@@ -13354,6 +13393,10 @@
               {
                 "name": ".in",
                 "url": "https://asiaflix.in/home"
+              },
+              {
+                "name": "kisskh.or.at",
+                "url": "https://kisskh.or.at/"
               }
             ],
             "ex-altlinks": [
@@ -13361,13 +13404,14 @@
                 "name": ".live",
                 "url": "https://asiaflix.live/home"
               }
-            ]
+            ],
+            "info": "note: kisskh.or.at is different site that also embed stream"
           }
         },
         {
           "id": "kissoppa",
           "title": "KissOppa",
-          "link": "https://freshdrama.net/",
+          "link": "https://kisskh.org/",
           "icon": "https://static.everythingmoe.com/icons/kissoppa.png",
           "tags": [],
           "rank": 16,
@@ -13383,23 +13427,23 @@
             "negatives": [
               "Small library"
             ],
-            "altlinks": [
+            "exx-altlinks": [
               {
                 "name": "dramacoolasia",
                 "url": "https://dramacool.asia/kissasianme<<https://kissasian.me/"
-              },
-              {
-                "name": "kisskhorg",
-                "url": "https://kisskh.org/"
               }
             ],
             "ex-altlinks": [
               {
                 "name": "kissoppa",
                 "url": "https://www.kissoppa.com/"
+              },
+              {
+                "name": "freshdrama",
+                "url": "https://freshdrama.net/"
               }
             ],
-            "info": "note: this site have many alt domains similar to other websites",
+            "info": "note: Unrelated with original Kisskh.",
             "ex-note": "1a-1791.com"
           }
         },
@@ -13423,7 +13467,7 @@
               "Small library"
             ],
             "info": "note: This site is unrelated with Kisskh",
-            "altlinks": [
+            "exx-altlinks": [
               {
                 "name": "Kissasiame",
                 "url": "https://kissasia.me/"
@@ -13453,10 +13497,6 @@
             "info": "note: No review yet. This is different with original <a href='/s/kissasian'>KissAsian</a>",
             "altlinks": [
               {
-                "name": ".org.cv",
-                "url": "https://kissasian.org.vc/"
-              },
-              {
                 "name": ".video",
                 "url": "https://kissasian.video/"
               }
@@ -13465,6 +13505,10 @@
               {
                 "name": ".cx",
                 "url": "https://kissasiantv.cx/kissasian"
+              },
+              {
+                "name": ".org.cv",
+                "url": "https://kissasian.org.vc/"
               }
             ]
           }
@@ -13499,36 +13543,12 @@
           }
         },
         {
-          "id": "kissasianvip",
-          "title": "Kissasianvip",
-          "link": "https://kissasian.vip/home",
-          "icon": "https://static.everythingmoe.com/icons/kissasianvip.png",
-          "tags": [],
-          "rank": 20,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "drama",
-          "details": {
-            "positives": [
-              "Multiple server options",
-              "Medium library"
-            ],
-            "negatives": [
-              "Confusing brand name",
-              "Stream error on some shows"
-            ],
-            "info": "note: This is unrelated with original <a href=\"/s/kissasian\">KissAsian</a>"
-          }
-        },
-        {
           "id": "onetouchtv",
           "title": "OneTouchTV",
           "link": "https://onetouchtv.xyz/",
           "icon": "https://static.everythingmoe.com/icons/onetouchtv.png",
           "tags": [],
-          "rank": 21,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20931,7 +20951,9 @@
           "title": "English Dubbed",
           "link": "https://english-dubbed.com/",
           "icon": "https://static.everythingmoe.com/icons/englishdubbed.png",
-          "tags": [],
+          "tags": [
+            "DUB"
+          ],
           "rank": 5,
           "is_licensed": false,
           "is_nsfw": false,
@@ -34587,12 +34609,40 @@
           }
         },
         {
+          "id": "kisskhweb",
+          "title": "kisskhweb.com",
+          "link": "https://www.kisskhweb.com/",
+          "icon": "https://static.everythingmoe.com/icons/kisskhweb.png",
+          "tags": [],
+          "rank": 10,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "drama",
+          "details": {
+            "positives": [
+              "Reliable stream"
+            ],
+            "negatives": [
+              "Confusing brand name"
+            ],
+            "altlinks": [
+              {
+                "name": "dramanice.cyou",
+                "url": "https://dramanice.cyou/"
+              }
+            ],
+            "info": "note: This site is unrelated with Kisskh"
+          }
+        },
+        {
           "id": "dramago",
           "title": "DramaGo",
           "link": "https://dramatalk.net/",
           "icon": "https://static.everythingmoe.com/icons/dramacool.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34615,7 +34665,7 @@
           "link": "https://asianrev.fun/",
           "icon": "https://static.everythingmoe.com/icons/asianrevfun.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34636,7 +34686,7 @@
           "link": "https://dramacity.me/",
           "icon": "https://static.everythingmoe.com/icons/dramacity.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34659,7 +34709,7 @@
           "link": "https://dramafire.com.pl/",
           "icon": "https://static.everythingmoe.com/icons/dramafire.png",
           "tags": [],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34692,12 +34742,36 @@
           }
         },
         {
+          "id": "kissasianvip",
+          "title": "Kissasianvip",
+          "link": "https://kissasian.vip/home",
+          "icon": "https://static.everythingmoe.com/icons/kissasianvip.png",
+          "tags": [],
+          "rank": 15,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "drama",
+          "details": {
+            "positives": [
+              "Multiple server options",
+              "Medium library"
+            ],
+            "negatives": [
+              "Confusing brand name",
+              "Stream error on some shows"
+            ],
+            "info": "note: This is unrelated with original <a href=\"/s/kissasian\">KissAsian</a>"
+          }
+        },
+        {
           "id": "asianctop",
           "title": "asianc.top",
           "link": "https://asianc.top/",
           "icon": "https://static.everythingmoe.com/icons/asianctop.png",
           "tags": [],
-          "rank": 14,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34721,7 +34795,7 @@
           "link": "https://kisskhdrama.com/",
           "icon": "https://static.everythingmoe.com/icons/kisskhdrama.png",
           "tags": [],
-          "rank": 15,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34737,7 +34811,7 @@
           "link": "https://kdrama-tv.com/",
           "icon": "https://static.everythingmoe.com/icons/kdramatv.png",
           "tags": [],
-          "rank": 16,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34756,7 +34830,7 @@
           "link": "https://asiansubs.com/",
           "icon": "https://static.everythingmoe.com/icons/asiansubs.png",
           "tags": [],
-          "rank": 17,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34777,7 +34851,7 @@
           "tags": [
             "DC"
           ],
-          "rank": 18,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -36516,8 +36590,7 @@
         "positives": [
           "Multiple sources & language",
           "Modern interface",
-          "Long track record",
-          "Open source"
+          "Long track record"
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
@@ -36546,7 +36619,7 @@
         ],
         "exx-info": "note: animeuwutv is a fork / clone made by other people.",
         "ex-info": "note: animeyee is a fork / clone made by other people.",
-        "info": "note: Also self host on some server",
+        "info": "note: Also self host on some server. Open source but only old version.",
         "ex-altlinks": [
           {
             "name": ".online",
@@ -49113,12 +49186,14 @@
             "url": "https://kisskh.ovh/"
           },
           {
-            "name": ".com",
-            "url": "https://kiskh.com/"
-          },
-          {
             "name": "anime",
             "url": "https://kisskh.la/Explore?type=3&sub=1&country=3"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": ".com",
+            "url": "https://kiskh.com/"
           }
         ]
       }
@@ -49223,7 +49298,7 @@
     "asianctvco": {
       "id": "asianctvco",
       "title": "Asianc TV",
-      "link": "https://asianctv.cc",
+      "link": "https://asianc.id/",
       "icon": "https://static.everythingmoe.com/icons/asianctvco.png",
       "tags": [],
       "is_licensed": false,
@@ -49242,20 +49317,12 @@
         ],
         "altlinks": [
           {
+            "name": "drama123",
+            "url": "https://drama123.tv/"
+          },
+          {
             "name": "hidrama",
             "url": "https://hidrama.to/"
-          },
-          {
-            "name": "dramacools9cam",
-            "url": "https://dramacools9.cam/"
-          },
-          {
-            "name": "kisskhorat",
-            "url": "https://kisskh.or.at/"
-          },
-          {
-            "name": "kshow123",
-            "url": "https://kshow123.tv/"
           }
         ],
         "ex-altlinks": [
@@ -49266,9 +49333,47 @@
           {
             "name": ".co",
             "url": "https://asianctv.co/"
+          },
+          {
+            "name": ".cc",
+            "url": "https://asianctv.cc/"
+          },
+          {
+            "name": "dramacools9cam",
+            "url": "https://dramacools9.cam/"
           }
         ],
         "info": "note: This site unrelated with original <a href=\"/s/dramacool\">Dramacool</a> and <a href=\"/s/kisskh\">Kisskh</a>"
+      }
+    },
+    "kshow123": {
+      "id": "kshow123",
+      "title": "Kshow123",
+      "link": "https://kshow123.tv/",
+      "icon": "https://static.everythingmoe.com/icons/kshow123.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "drama"
+      ],
+      "details": {
+        "positives": [
+          "Fast stream server",
+          "Multiple server options",
+          "Medium library"
+        ],
+        "altlinks": [
+          {
+            "name": ".tv",
+            "url": "https://kshow123.tv/"
+          },
+          {
+            "name": "A-Z list",
+            "url": "https://kshow123.tv/show/"
+          }
+        ]
       }
     },
     "wetv": {
@@ -49330,6 +49435,10 @@
           {
             "name": "dramahoodmom",
             "url": "https://dramahood.mom"
+          },
+          {
+            "name": "dramacooli.buzz",
+            "url": "https://dramacooli.buzz/"
           }
         ],
         "ex-altlinks": [
@@ -49393,7 +49502,13 @@
         "negatives": [
           "Only single server option"
         ],
-        "ex-note": "player.5274274.xyz",
+        "altlinks": [
+          {
+            "name": ".boo",
+            "url": "https://dramanice.boo/"
+          }
+        ],
+        "ex-note": "player.5274274.xyz#dramavideo.se",
         "ex-altlinks": [
           {
             "name": "",
@@ -49425,11 +49540,11 @@
         "info": "note: This site mainly provide Anime, but have asian drama / live action category"
       }
     },
-    "kisskhweb": {
-      "id": "kisskhweb",
-      "title": "kisskhweb.com",
-      "link": "https://www.kisskhweb.com/",
-      "icon": "https://static.everythingmoe.com/icons/kisskhweb.png",
+    "myasiantv": {
+      "id": "myasiantv",
+      "title": "Myasiantv",
+      "link": "https://myasiantv.rest",
+      "icon": "https://static.everythingmoe.com/icons/myasiantv.png",
       "tags": [],
       "is_licensed": false,
       "is_nsfw": false,
@@ -49439,18 +49554,50 @@
       ],
       "details": {
         "positives": [
-          "Multiple server options"
+          "Reliable stream",
+          "Multiple third party host"
         ],
-        "negatives": [
-          "Confusing brand name"
-        ],
+        "info": "note: Have many alt brand name and domains, same stream.",
         "altlinks": [
           {
-            "name": "dramanice.cyou",
+            "name": ".com.bz",
+            "url": "https://myasiantv.com.bz/"
+          },
+          {
+            "name": ".lv",
+            "url": "https://myasiantv.com.lv/"
+          },
+          {
+            "name": "kisskhweb.com",
+            "url": "https://www.kisskhweb.com/"
+          },
+          {
+            "name": "dramanicecyou",
             "url": "https://dramanice.cyou/"
+          },
+          {
+            "name": "kissasiantv.my",
+            "url": "https://kissasiantv.my/"
+          },
+          {
+            "name": "kisskhspace",
+            "url": "https://kisskh.space/"
+          },
+          {
+            "name": "dramika",
+            "url": "https://dramika.com/"
+          },
+          {
+            "name": "dramamoly",
+            "url": "https://dramamoly.com/"
           }
         ],
-        "info": "note: This site is unrelated with Kisskh"
+        "ex-altlinks": [
+          {
+            "name": ".ac",
+            "url": "https://myasiantv.ac/"
+          }
+        ]
       }
     },
     "onlykdrama": {
@@ -49475,6 +49622,12 @@
         "negatives": [
           "Shortlink ads",
           "Use third party DDL host"
+        ],
+        "altlinks": [
+          {
+            "name": ".shop",
+            "url": "https://onlykdrama.shop/"
+          }
         ]
       }
     },
@@ -49539,46 +49692,6 @@
         ]
       }
     },
-    "myasiantv": {
-      "id": "myasiantv",
-      "title": "Myasiantv",
-      "link": "https://myasiantv.rest",
-      "icon": "https://static.everythingmoe.com/icons/myasiantv.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "drama"
-      ],
-      "details": {
-        "info": "note: no review yet",
-        "altlinks": [
-          {
-            "name": ".com.bz",
-            "url": "https://myasiantv.com.bz/"
-          },
-          {
-            "name": ".lv",
-            "url": "https://myasiantv.com.lv/"
-          },
-          {
-            "name": "dramanicecyou",
-            "url": "https://dramanice.cyou/"
-          },
-          {
-            "name": "kisskhspace",
-            "url": "https://kisskh.space/"
-          }
-        ],
-        "ex-altlinks": [
-          {
-            "name": ".ac",
-            "url": "https://myasiantv.ac/"
-          }
-        ]
-      }
-    },
     "asiaflix": {
       "id": "asiaflix",
       "title": "Asiaflix",
@@ -49605,6 +49718,10 @@
           {
             "name": ".in",
             "url": "https://asiaflix.in/home"
+          },
+          {
+            "name": "kisskh.or.at",
+            "url": "https://kisskh.or.at/"
           }
         ],
         "ex-altlinks": [
@@ -49612,13 +49729,14 @@
             "name": ".live",
             "url": "https://asiaflix.live/home"
           }
-        ]
+        ],
+        "info": "note: kisskh.or.at is different site that also embed stream"
       }
     },
     "kissoppa": {
       "id": "kissoppa",
       "title": "KissOppa",
-      "link": "https://freshdrama.net/",
+      "link": "https://kisskh.org/",
       "icon": "https://static.everythingmoe.com/icons/kissoppa.png",
       "tags": [],
       "is_licensed": false,
@@ -49634,23 +49752,23 @@
         "negatives": [
           "Small library"
         ],
-        "altlinks": [
+        "exx-altlinks": [
           {
             "name": "dramacoolasia",
             "url": "https://dramacool.asia/kissasianme<<https://kissasian.me/"
-          },
-          {
-            "name": "kisskhorg",
-            "url": "https://kisskh.org/"
           }
         ],
         "ex-altlinks": [
           {
             "name": "kissoppa",
             "url": "https://www.kissoppa.com/"
+          },
+          {
+            "name": "freshdrama",
+            "url": "https://freshdrama.net/"
           }
         ],
-        "info": "note: this site have many alt domains similar to other websites",
+        "info": "note: Unrelated with original Kisskh.",
         "ex-note": "1a-1791.com"
       }
     },
@@ -49674,7 +49792,7 @@
           "Small library"
         ],
         "info": "note: This site is unrelated with Kisskh",
-        "altlinks": [
+        "exx-altlinks": [
           {
             "name": "Kissasiame",
             "url": "https://kissasia.me/"
@@ -49704,10 +49822,6 @@
         "info": "note: No review yet. This is different with original <a href='/s/kissasian'>KissAsian</a>",
         "altlinks": [
           {
-            "name": ".org.cv",
-            "url": "https://kissasian.org.vc/"
-          },
-          {
             "name": ".video",
             "url": "https://kissasian.video/"
           }
@@ -49716,6 +49830,10 @@
           {
             "name": ".cx",
             "url": "https://kissasiantv.cx/kissasian"
+          },
+          {
+            "name": ".org.cv",
+            "url": "https://kissasian.org.vc/"
           }
         ]
       }
@@ -49745,30 +49863,6 @@
             "name": "kisskhorg",
             "url": "https://kisskh.org/"
           }
-        ],
-        "info": "note: This is unrelated with original <a href=\"/s/kissasian\">KissAsian</a>"
-      }
-    },
-    "kissasianvip": {
-      "id": "kissasianvip",
-      "title": "Kissasianvip",
-      "link": "https://kissasian.vip/home",
-      "icon": "https://static.everythingmoe.com/icons/kissasianvip.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "drama"
-      ],
-      "details": {
-        "positives": [
-          "Multiple server options",
-          "Medium library"
-        ],
-        "negatives": [
-          "Confusing brand name",
-          "Stream error on some shows"
         ],
         "info": "note: This is unrelated with original <a href=\"/s/kissasian\">KissAsian</a>"
       }
@@ -57137,7 +57231,9 @@
       "title": "English Dubbed",
       "link": "https://english-dubbed.com/",
       "icon": "https://static.everythingmoe.com/icons/englishdubbed.png",
-      "tags": [],
+      "tags": [
+        "DUB"
+      ],
       "is_licensed": false,
       "is_nsfw": false,
       "status": "active",
@@ -70601,6 +70697,34 @@
         ]
       }
     },
+    "kisskhweb": {
+      "id": "kisskhweb",
+      "title": "kisskhweb.com",
+      "link": "https://www.kisskhweb.com/",
+      "icon": "https://static.everythingmoe.com/icons/kisskhweb.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "drama"
+      ],
+      "details": {
+        "positives": [
+          "Reliable stream"
+        ],
+        "negatives": [
+          "Confusing brand name"
+        ],
+        "altlinks": [
+          {
+            "name": "dramanice.cyou",
+            "url": "https://dramanice.cyou/"
+          }
+        ],
+        "info": "note: This site is unrelated with Kisskh"
+      }
+    },
     "dramago": {
       "id": "dramago",
       "title": "DramaGo",
@@ -70704,6 +70828,30 @@
             "url": "https://kisstvshow.pro/"
           }
         ]
+      }
+    },
+    "kissasianvip": {
+      "id": "kissasianvip",
+      "title": "Kissasianvip",
+      "link": "https://kissasian.vip/home",
+      "icon": "https://static.everythingmoe.com/icons/kissasianvip.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "drama"
+      ],
+      "details": {
+        "positives": [
+          "Multiple server options",
+          "Medium library"
+        ],
+        "negatives": [
+          "Confusing brand name",
+          "Stream error on some shows"
+        ],
+        "info": "note: This is unrelated with original <a href=\"/s/kissasian\">KissAsian</a>"
       }
     },
     "asianctop": {
