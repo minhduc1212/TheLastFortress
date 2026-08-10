@@ -10460,6 +10460,10 @@
             ],
             "altlinks": [
               {
+                "name": "joa-vip",
+                "url": "https://joa-vip.com/"
+              },
+              {
                 "name": "8282",
                 "url": "https://joa-8282.com/"
               },
@@ -12747,31 +12751,6 @@
           }
         },
         {
-          "id": "readmtl",
-          "title": "ReadMTL",
-          "link": "https://readmtl.com/",
-          "icon": "https://static.everythingmoe.com/icons/readmtl.png",
-          "tags": [
-            "MTL"
-          ],
-          "rank": 53,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "novel",
-          "details": {
-            "positives": [
-              "Affilated with Wuxiaworld.site",
-              "Can request Novels"
-            ],
-            "negatives": [
-              "Machine Translation",
-              "Medium-small library"
-            ]
-          }
-        },
-        {
           "id": "requiemtls",
           "title": "Requiem Translations",
           "link": "https://requiemtls.com/",
@@ -12779,7 +12758,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 54,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12800,7 +12779,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 55,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12814,24 +12793,6 @@
               "Machine Translation",
               "Remove some novel"
             ]
-          }
-        },
-        {
-          "id": "mtlbooks",
-          "title": "MTL Books",
-          "link": "https://mtlbooks.com/",
-          "icon": "https://static.everythingmoe.com/icons/mtlbooks.png",
-          "tags": [
-            "MTL"
-          ],
-          "rank": 56,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "novel",
-          "details": {
-            "info": "note: No review yet."
           }
         }
       ]
@@ -22423,7 +22384,7 @@
         {
           "id": "rivestream",
           "title": "Rive",
-          "link": "https://rivestream.org/",
+          "link": "https://www.rivestream.app/",
           "icon": "https://static.everythingmoe.com/icons/rivestream.png",
           "tags": [
             "WESTERN"
@@ -22438,12 +22399,12 @@
             "info": "note : not otaku related site",
             "altlinks": [
               {
-                "name": ".xyz",
-                "url": "https://rivestream.xyz/"
+                "name": ".vip",
+                "url": "https://rivestream.vip/"
               },
               {
-                "name": ".net",
-                "url": "https://rivestream.net/"
+                "name": ".ru",
+                "url": "https://rivestream.ru"
               },
               {
                 "name": "mirrors",
@@ -34375,10 +34336,10 @@
           }
         },
         {
-          "id": "mtlfanfic",
-          "title": "MTLFanfic",
-          "link": "https://mtlfanfic.com/",
-          "icon": "https://static.everythingmoe.com/icons/mtlfanfic.png",
+          "id": "readmtl",
+          "title": "ReadMTL",
+          "link": "https://readmtl.com/",
+          "icon": "https://static.everythingmoe.com/icons/readmtl.png",
           "tags": [
             "MTL"
           ],
@@ -34389,10 +34350,53 @@
           "status": "graveyard",
           "section": "novel",
           "details": {
+            "positives": [
+              "Affilated with Wuxiaworld.site",
+              "Can request Novels"
+            ],
+            "negatives": [
+              "Machine Translation",
+              "Medium-small library"
+            ]
+          }
+        },
+        {
+          "id": "mtlfanfic",
+          "title": "MTLFanfic",
+          "link": "https://mtlfanfic.com/",
+          "icon": "https://static.everythingmoe.com/icons/mtlfanfic.png",
+          "tags": [
+            "MTL"
+          ],
+          "rank": 16,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "novel",
+          "details": {
             "negatives": [
               "Machine Translation",
               "Short track record"
             ]
+          }
+        },
+        {
+          "id": "mtlbooks",
+          "title": "MTL Books",
+          "link": "https://mtlbooks.com/",
+          "icon": "https://static.everythingmoe.com/icons/mtlbooks.png",
+          "tags": [
+            "MTL"
+          ],
+          "rank": 17,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "novel",
+          "details": {
+            "info": "note: No review yet."
           }
         }
       ]
@@ -46863,6 +46867,10 @@
         ],
         "altlinks": [
           {
+            "name": "joa-vip",
+            "url": "https://joa-vip.com/"
+          },
+          {
             "name": "8282",
             "url": "https://joa-8282.com/"
           },
@@ -49140,31 +49148,6 @@
         ]
       }
     },
-    "readmtl": {
-      "id": "readmtl",
-      "title": "ReadMTL",
-      "link": "https://readmtl.com/",
-      "icon": "https://static.everythingmoe.com/icons/readmtl.png",
-      "tags": [
-        "MTL"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "novel"
-      ],
-      "details": {
-        "positives": [
-          "Affilated with Wuxiaworld.site",
-          "Can request Novels"
-        ],
-        "negatives": [
-          "Machine Translation",
-          "Medium-small library"
-        ]
-      }
-    },
     "requiemtls": {
       "id": "requiemtls",
       "title": "Requiem Translations",
@@ -49208,24 +49191,6 @@
           "Machine Translation",
           "Remove some novel"
         ]
-      }
-    },
-    "mtlbooks": {
-      "id": "mtlbooks",
-      "title": "MTL Books",
-      "link": "https://mtlbooks.com/",
-      "icon": "https://static.everythingmoe.com/icons/mtlbooks.png",
-      "tags": [
-        "MTL"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "novel"
-      ],
-      "details": {
-        "info": "note: No review yet."
       }
     },
     "kisskh": {
@@ -58745,7 +58710,7 @@
     "rivestream": {
       "id": "rivestream",
       "title": "Rive",
-      "link": "https://rivestream.org/",
+      "link": "https://www.rivestream.app/",
       "icon": "https://static.everythingmoe.com/icons/rivestream.png",
       "tags": [
         "WESTERN"
@@ -58760,12 +58725,12 @@
         "info": "note : not otaku related site",
         "altlinks": [
           {
-            "name": ".xyz",
-            "url": "https://rivestream.xyz/"
+            "name": ".vip",
+            "url": "https://rivestream.vip/"
           },
           {
-            "name": ".net",
-            "url": "https://rivestream.net/"
+            "name": ".ru",
+            "url": "https://rivestream.ru"
           },
           {
             "name": "mirrors",
@@ -70532,6 +70497,31 @@
         ]
       }
     },
+    "readmtl": {
+      "id": "readmtl",
+      "title": "ReadMTL",
+      "link": "https://readmtl.com/",
+      "icon": "https://static.everythingmoe.com/icons/readmtl.png",
+      "tags": [
+        "MTL"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "positives": [
+          "Affilated with Wuxiaworld.site",
+          "Can request Novels"
+        ],
+        "negatives": [
+          "Machine Translation",
+          "Medium-small library"
+        ]
+      }
+    },
     "mtlfanfic": {
       "id": "mtlfanfic",
       "title": "MTLFanfic",
@@ -70551,6 +70541,24 @@
           "Machine Translation",
           "Short track record"
         ]
+      }
+    },
+    "mtlbooks": {
+      "id": "mtlbooks",
+      "title": "MTL Books",
+      "link": "https://mtlbooks.com/",
+      "icon": "https://static.everythingmoe.com/icons/mtlbooks.png",
+      "tags": [
+        "MTL"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "info": "note: No review yet."
       }
     },
     "kissasian": {
