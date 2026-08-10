@@ -6453,19 +6453,6 @@
                             ]
                         },
                         {
-                            "full_text": "Apertus , 2 - Apertus 70B",
-                            "links": [
-                                {
-                                    "name": "Apertus",
-                                    "url": "https://publicai.co/chat"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://chat.publicai.co/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Poolside AI - Laguna-s-2.1",
                             "links": [
                                 {
@@ -6617,6 +6604,19 @@
                                 {
                                     "name": "Cerebras Chat",
                                     "url": "https://chat.cerebras.ai/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Apertus , 2 - Apertus 70B / Multiple Models",
+                            "links": [
+                                {
+                                    "name": "Apertus",
+                                    "url": "https://publicai.co/chat"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://chat.publicai.co/"
                                 }
                             ]
                         }
@@ -11223,19 +11223,6 @@
                             ]
                         },
                         {
-                            "full_text": "7Movies - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "7Movies",
-                                    "url": "https://7movies.in/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/JxgRaYMVHF"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Moovie - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11302,6 +11289,19 @@
                                 {
                                     "name": "VidPlay",
                                     "url": "https://vidplay.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "7Movies - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "7Movies",
+                                    "url": "https://7movies.in/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/JxgRaYMVHF"
                                 }
                             ]
                         },
@@ -12082,15 +12082,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/nepu"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "WatchFlux - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "WatchFlux",
-                                    "url": "https://watchflux.tv/"
                                 }
                             ]
                         },
@@ -15392,15 +15383,11 @@
                             ]
                         },
                         {
-                            "full_text": "Vidbox - TV / Movies / Status /",
+                            "full_text": "Vidbox - TV / Movies /",
                             "links": [
                                 {
                                     "name": "Vidbox",
                                     "url": "https://vidbox.dev/asian-drama"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://vidbox.xyz/"
                                 },
                                 {
                                     "name": "",
@@ -16297,7 +16284,7 @@
                             ]
                         },
                         {
-                            "full_text": "Rive , 2 , 3 - TV / Sports /",
+                            "full_text": "Rive , 2 - TV / Sports /",
                             "links": [
                                 {
                                     "name": "Rive",
@@ -16306,10 +16293,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://rivestream.ru/iptv"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://rivestream.top/iptv"
                                 },
                                 {
                                     "name": "",
@@ -18953,19 +18936,6 @@
                             ]
                         },
                         {
-                            "full_text": "MoviesFlix - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "MoviesFlix",
-                                    "url": "https://themoviesflix.onl/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://telegram.dog/TheMoviesflix_Official"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Medeberiya - Movie / TV",
                             "links": [
                                 {
@@ -20635,7 +20605,7 @@
                             ]
                         },
                         {
-                            "full_text": "Rive , 2 , 3 or CorsFlix , 2 , 3 - Movies / TV / Anime / Status /",
+                            "full_text": "Rive , 2 or CorsFlix , 2 , 3 - Movies / TV / Anime / Status /",
                             "links": [
                                 {
                                     "name": "Rive",
@@ -20644,10 +20614,6 @@
                                 {
                                     "name": "2",
                                     "url": "https://rivestream.ru/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://rivestream.top/"
                                 },
                                 {
                                     "name": "CorsFlix",
@@ -157419,7 +157385,7 @@
                             ]
                         },
                         {
-                            "full_text": "HelixNotes - Markdown Note-Taking / / /",
+                            "full_text": "HelixNotes - Markdown Note-Taking / All Platforms / /",
                             "links": [
                                 {
                                     "name": "HelixNotes",
@@ -157454,36 +157420,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/quillpad/quillpad"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Anytype - Markdown Note-Taking / /",
-                            "links": [
-                                {
-                                    "name": "⁠Anytype",
-                                    "url": "https://play.google.com/store/apps/details?id=io.anytype.app"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/anytype"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AppFlowy - Markdown Note-Taking / / /",
-                            "links": [
-                                {
-                                    "name": "AppFlowy",
-                                    "url": "https://appflowy.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/appflowy-903549834160635914"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/AppFlowy-IO"
                                 }
                             ]
                         },
@@ -157710,23 +157646,6 @@
                             ]
                         },
                         {
-                            "full_text": "Logseq - Outlining / / /",
-                            "links": [
-                                {
-                                    "name": "Logseq",
-                                    "url": "https://logseq.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/VNfUaTtdFb"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/logseq/logseq"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Crypt.ee - Encrypted Notes / E2EE / All Platforms",
                             "links": [
                                 {
@@ -157800,12 +157719,8 @@
                             ]
                         },
                         {
-                            "full_text": "Saber or Notein / Features (search) - Handwritten Notes /",
+                            "full_text": "Notein / Features (search) - Handwritten Notes /",
                             "links": [
-                                {
-                                    "name": "Saber",
-                                    "url": "https://github.com/saber-notes/saber"
-                                },
                                 {
                                     "name": "Notein",
                                     "url": "https://www.notein.ai/"
@@ -223536,15 +223451,6 @@
                             ]
                         },
                         {
-                            "full_text": "the component gallery - Design Components Gallery",
-                            "links": [
-                                {
-                                    "name": "the component gallery",
-                                    "url": "https://component.gallery/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Scrollbar.app - Design Custom Scrollbars",
                             "links": [
                                 {
@@ -223689,6 +223595,28 @@
                                 {
                                     "name": "Frontend Development",
                                     "url": "https://github.com/dypsilon/frontend-dev-bookmarks"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Dembrandt - Extract / Derive Site Design /",
+                            "links": [
+                                {
+                                    "name": "Dembrandt",
+                                    "url": "http://dembrandt.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/dembrandt/dembrandt"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "the component gallery - Design Components Gallery",
+                            "links": [
+                                {
+                                    "name": "the component gallery",
+                                    "url": "https://component.gallery/"
                                 }
                             ]
                         },
@@ -227510,6 +227438,24 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "MoviesFlix - Movies / TV / Anime / Telegram (Removed in 1f0324a )",
+                            "links": [
+                                {
+                                    "name": "1f0324a",
+                                    "url": "https://github.com/fmhy/edit/commit/1f0324ab2a2ecc877fc17a8ca6225980640870cd#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL776"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WatchFlux - Movies / TV / Anime / Auto-Next (Removed in c672456 )",
+                            "links": [
+                                {
+                                    "name": "c672456",
+                                    "url": "https://github.com/fmhy/edit/commit/c6724562c2c2c43420f4c32f88ec13fdcf065d9b#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL108"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "⁠WikiBoard - Pin Board Style Browser (Removed in 24f5b57 )",
                             "links": [

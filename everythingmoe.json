@@ -9437,27 +9437,6 @@
           }
         },
         {
-          "id": "coffeemanga",
-          "title": "CoffeManga",
-          "link": "https://coffeemanga.io/",
-          "icon": "https://static.everythingmoe.com/icons/coffeemanga.png",
-          "tags": [
-            "Official Rips"
-          ],
-          "rank": 92,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "negatives": [
-              "Small library",
-              "Basic reader"
-            ]
-          }
-        },
-        {
           "id": "mangasushi",
           "title": "Mangasushi",
           "link": "https://mangasushi.org/",
@@ -9465,7 +9444,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 93,
+          "rank": 92,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12255,53 +12234,12 @@
           }
         },
         {
-          "id": "cherreads",
-          "title": "Cherreads",
-          "link": "https://www.cherreads.com/",
-          "icon": "https://static.everythingmoe.com/icons/lightreader.png",
-          "tags": [],
-          "rank": 35,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "novel",
-          "details": {
-            "positives": [
-              "Have contents that removed in other sites"
-            ],
-            "negatives": [
-              "Barebone site",
-              "Bad search engine"
-            ],
-            "altlinks": [
-              {
-                "name": "lightreader",
-                "url": "https://www.lightreader.com"
-              },
-              {
-                "name": "webnovels",
-                "url": "https://www.webnovels.com/"
-              },
-              {
-                "name": "ficool",
-                "url": "https://www.ficool.com"
-              },
-              {
-                "name": "ellatoria",
-                "url": "https://www.ellatoria.com"
-              }
-            ],
-            "info": "note: Likely related with <a href=\"/s/webnovelcom\">Webnovel</a>."
-          }
-        },
-        {
           "id": "wuxiaworld",
           "title": "Wuxiaworld.site",
           "link": "https://wuxiaworld.site/",
           "icon": "https://static.everythingmoe.com/icons/wuxiaworld.png",
           "tags": [],
-          "rank": 36,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12323,7 +12261,7 @@
           "link": "https://katreadingcafe.com/",
           "icon": "https://static.everythingmoe.com/icons/katreadingarchive.png",
           "tags": [],
-          "rank": 37,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12352,7 +12290,7 @@
           "link": "https://www.asianovel.net/",
           "icon": "https://static.everythingmoe.com/icons/asianovelnet.png",
           "tags": [],
-          "rank": 38,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12376,7 +12314,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 39,
+          "rank": 38,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12402,7 +12340,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 40,
+          "rank": 39,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12428,7 +12366,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 41,
+          "rank": 40,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12464,7 +12402,7 @@
           "link": "https://www.scribblehub.com/",
           "icon": "https://static.everythingmoe.com/icons/scribblehub.png",
           "tags": [],
-          "rank": 42,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12487,7 +12425,7 @@
           "link": "https://novelfull.net/",
           "icon": "https://static.everythingmoe.com/icons/allnovelfull.png",
           "tags": [],
-          "rank": 43,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12508,20 +12446,22 @@
                 "url": "https://allnovelfull.net/"
               },
               {
-                "name": "novelxo",
-                "url": "https://novelxo.org/"
-              },
-              {
                 "name": "novgonet",
                 "url": "https://novgo.net/"
               },
               {
-                "name": "novelnext",
-                "url": "https://novelnext.com/"
-              },
-              {
                 "name": "readnovelfullcom",
                 "url": "https://readnovelfull.com/"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": "novelxo",
+                "url": "https://novelxo.org/"
+              },
+              {
+                "name": "novelnext",
+                "url": "https://novelnext.com/"
               }
             ],
             "info": "note: Copies other sites brand and use novel bin layout"
@@ -12533,7 +12473,7 @@
           "link": "https://woopread.com/",
           "icon": "https://static.everythingmoe.com/icons/woopread.png",
           "tags": [],
-          "rank": 44,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12555,7 +12495,7 @@
           "link": "https://ranovel.com/",
           "icon": "https://static.everythingmoe.com/icons/ranovel.png",
           "tags": [],
-          "rank": 45,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12571,7 +12511,7 @@
           "link": "https://wuxiadreams.com/",
           "icon": "https://static.everythingmoe.com/icons/wuxiadreams.png",
           "tags": [],
-          "rank": 46,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12593,7 +12533,7 @@
           "link": "https://fullnovels.com/",
           "icon": "https://static.everythingmoe.com/icons/fullnovels.png",
           "tags": [],
-          "rank": 47,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12633,7 +12573,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 48,
+          "rank": 47,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12658,7 +12598,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 49,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12671,6 +12611,34 @@
             "negatives": [
               "Download only",
               "Small library"
+            ]
+          }
+        },
+        {
+          "id": "coffeemanga",
+          "title": "BunnyNovel",
+          "link": "https://bunnynovel.com/",
+          "icon": "https://static.everythingmoe.com/icons/coffeemanga.png",
+          "tags": [
+            "Official Rips"
+          ],
+          "rank": 49,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "novel",
+          "details": {
+            "negatives": [
+              "Very small library",
+              "Basic reader"
+            ],
+            "info": "note: Formerly known as CoffeManga, new site have nothing in common other than old domain redirect.",
+            "ex-altlinks": [
+              {
+                "name": "coffeemanga",
+                "url": "https://coffeemanga.io/"
+              }
             ]
           }
         },
@@ -34153,12 +34121,53 @@
           }
         },
         {
+          "id": "cherreads",
+          "title": "Cherreads",
+          "link": "https://www.cherreads.com/",
+          "icon": "https://static.everythingmoe.com/icons/lightreader.png",
+          "tags": [],
+          "rank": 7,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "novel",
+          "details": {
+            "positives": [
+              "Have contents that removed in other sites"
+            ],
+            "negatives": [
+              "Barebone site",
+              "Bad search engine"
+            ],
+            "altlinks": [
+              {
+                "name": "lightreader",
+                "url": "https://www.lightreader.com"
+              },
+              {
+                "name": "webnovels",
+                "url": "https://www.webnovels.com/"
+              },
+              {
+                "name": "ficool",
+                "url": "https://www.ficool.com"
+              },
+              {
+                "name": "ellatoria",
+                "url": "https://www.ellatoria.com"
+              }
+            ],
+            "info": "note: Likely related with <a href=\"/s/webnovelcom\">Webnovel</a>."
+          }
+        },
+        {
           "id": "webnovel",
           "title": "Webnovel.wtf",
           "link": "https://webnovel.wtf/",
           "icon": "https://static.everythingmoe.com/icons/webnovelcom.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34179,7 +34188,7 @@
           "link": "https://novelable.com/",
           "icon": "https://static.everythingmoe.com/icons/novelable.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34201,7 +34210,7 @@
           "link": "https://www.novellist.co/",
           "icon": "https://static.everythingmoe.com/icons/novellist.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34224,7 +34233,7 @@
           "link": "https://www.pandasnovel.com/",
           "icon": "https://static.everythingmoe.com/icons/pandasnovel.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34246,7 +34255,7 @@
           "link": "https://asuralightnovel.com/",
           "icon": "https://static.everythingmoe.com/icons/asuralightnovel.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34269,7 +34278,7 @@
           "link": "https://novgo.co/",
           "icon": "https://static.everythingmoe.com/icons/novgoco.png",
           "tags": [],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34294,7 +34303,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34319,7 +34328,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34343,7 +34352,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34368,7 +34377,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -34389,7 +34398,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 17,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -45852,27 +45861,6 @@
         ]
       }
     },
-    "coffeemanga": {
-      "id": "coffeemanga",
-      "title": "CoffeManga",
-      "link": "https://coffeemanga.io/",
-      "icon": "https://static.everythingmoe.com/icons/coffeemanga.png",
-      "tags": [
-        "Official Rips"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "negatives": [
-          "Small library",
-          "Basic reader"
-        ]
-      }
-    },
     "mangasushi": {
       "id": "mangasushi",
       "title": "Mangasushi",
@@ -48652,47 +48640,6 @@
         "info": "note: This is the publisher's site"
       }
     },
-    "cherreads": {
-      "id": "cherreads",
-      "title": "Cherreads",
-      "link": "https://www.cherreads.com/",
-      "icon": "https://static.everythingmoe.com/icons/lightreader.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "novel"
-      ],
-      "details": {
-        "positives": [
-          "Have contents that removed in other sites"
-        ],
-        "negatives": [
-          "Barebone site",
-          "Bad search engine"
-        ],
-        "altlinks": [
-          {
-            "name": "lightreader",
-            "url": "https://www.lightreader.com"
-          },
-          {
-            "name": "webnovels",
-            "url": "https://www.webnovels.com/"
-          },
-          {
-            "name": "ficool",
-            "url": "https://www.ficool.com"
-          },
-          {
-            "name": "ellatoria",
-            "url": "https://www.ellatoria.com"
-          }
-        ],
-        "info": "note: Likely related with <a href=\"/s/webnovelcom\">Webnovel</a>."
-      }
-    },
     "wuxiaworld": {
       "id": "wuxiaworld",
       "title": "Wuxiaworld.site",
@@ -48906,20 +48853,22 @@
             "url": "https://allnovelfull.net/"
           },
           {
-            "name": "novelxo",
-            "url": "https://novelxo.org/"
-          },
-          {
             "name": "novgonet",
             "url": "https://novgo.net/"
           },
           {
-            "name": "novelnext",
-            "url": "https://novelnext.com/"
-          },
-          {
             "name": "readnovelfullcom",
             "url": "https://readnovelfull.com/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": "novelxo",
+            "url": "https://novelxo.org/"
+          },
+          {
+            "name": "novelnext",
+            "url": "https://novelnext.com/"
           }
         ],
         "info": "note: Copies other sites brand and use novel bin layout"
@@ -49069,6 +49018,34 @@
         "negatives": [
           "Download only",
           "Small library"
+        ]
+      }
+    },
+    "coffeemanga": {
+      "id": "coffeemanga",
+      "title": "BunnyNovel",
+      "link": "https://bunnynovel.com/",
+      "icon": "https://static.everythingmoe.com/icons/coffeemanga.png",
+      "tags": [
+        "Official Rips"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "negatives": [
+          "Very small library",
+          "Basic reader"
+        ],
+        "info": "note: Formerly known as CoffeManga, new site have nothing in common other than old domain redirect.",
+        "ex-altlinks": [
+          {
+            "name": "coffeemanga",
+            "url": "https://coffeemanga.io/"
+          }
         ]
       }
     },
@@ -70312,6 +70289,47 @@
             "url": "https://thatnovelcorner.com/light-novels/"
           }
         ]
+      }
+    },
+    "cherreads": {
+      "id": "cherreads",
+      "title": "Cherreads",
+      "link": "https://www.cherreads.com/",
+      "icon": "https://static.everythingmoe.com/icons/lightreader.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "positives": [
+          "Have contents that removed in other sites"
+        ],
+        "negatives": [
+          "Barebone site",
+          "Bad search engine"
+        ],
+        "altlinks": [
+          {
+            "name": "lightreader",
+            "url": "https://www.lightreader.com"
+          },
+          {
+            "name": "webnovels",
+            "url": "https://www.webnovels.com/"
+          },
+          {
+            "name": "ficool",
+            "url": "https://www.ficool.com"
+          },
+          {
+            "name": "ellatoria",
+            "url": "https://www.ellatoria.com"
+          }
+        ],
+        "info": "note: Likely related with <a href=\"/s/webnovelcom\">Webnovel</a>."
       }
     },
     "webnovel": {
