@@ -9177,29 +9177,6 @@
           }
         },
         {
-          "id": "pawmanga",
-          "title": "PAWMANGA",
-          "link": "https://pawmanga.com/",
-          "icon": "https://static.everythingmoe.com/icons/pawmanga.png",
-          "tags": [
-            "Official Rips"
-          ],
-          "rank": 82,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Focus mostly on Yaoi manga"
-            ],
-            "negatives": [
-              "Basic reader features"
-            ]
-          }
-        },
-        {
           "id": "lilymanga",
           "title": "Lilymanga",
           "link": "https://lilymanga.net/",
@@ -9207,7 +9184,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 83,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9231,7 +9208,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 84,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9261,7 +9238,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 85,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9285,7 +9262,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 86,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9315,7 +9292,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 87,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9340,7 +9317,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 88,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9365,7 +9342,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 89,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9442,7 +9419,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 90,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9468,7 +9445,7 @@
           "link": "https://mangablaze.com/",
           "icon": "https://static.everythingmoe.com/icons/mangablaze.png",
           "tags": [],
-          "rank": 91,
+          "rank": 90,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9489,7 +9466,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 92,
+          "rank": 91,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12128,7 +12105,7 @@
           "link": "https://armaell-library.net/",
           "icon": "https://static.everythingmoe.com/icons/armaelllib.png",
           "tags": [
-            "DDL"
+            "ddl"
           ],
           "rank": 29,
           "is_licensed": false,
@@ -12263,12 +12240,34 @@
           }
         },
         {
+          "id": "scrollerspub",
+          "title": "ScrollersPub",
+          "link": "https://www.scrollerspub.com/",
+          "icon": "https://static.everythingmoe.com/icons/scrollerspub.png",
+          "tags": [],
+          "rank": 34,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "novel",
+          "details": {
+            "positives": [
+              "Large library"
+            ],
+            "negatives": [
+              "New site"
+            ],
+            "info": "note: Lock advance search and 18+ novel behind login"
+          }
+        },
+        {
           "id": "wuxiaworld",
           "title": "Wuxiaworld.site",
           "link": "https://wuxiaworld.site/",
           "icon": "https://static.everythingmoe.com/icons/wuxiaworld.png",
           "tags": [],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12290,7 +12289,7 @@
           "link": "https://katreadingcafe.com/",
           "icon": "https://static.everythingmoe.com/icons/katreadingarchive.png",
           "tags": [],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12319,7 +12318,7 @@
           "link": "https://www.asianovel.net/",
           "icon": "https://static.everythingmoe.com/icons/asianovelnet.png",
           "tags": [],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12343,7 +12342,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12369,7 +12368,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12395,7 +12394,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12431,7 +12430,7 @@
           "link": "https://www.scribblehub.com/",
           "icon": "https://static.everythingmoe.com/icons/scribblehub.png",
           "tags": [],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12454,7 +12453,7 @@
           "link": "https://novelfull.net/",
           "icon": "https://static.everythingmoe.com/icons/allnovelfull.png",
           "tags": [],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12502,7 +12501,7 @@
           "link": "https://woopread.com/",
           "icon": "https://static.everythingmoe.com/icons/woopread.png",
           "tags": [],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12524,7 +12523,7 @@
           "link": "https://ranovel.com/",
           "icon": "https://static.everythingmoe.com/icons/ranovel.png",
           "tags": [],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12540,7 +12539,7 @@
           "link": "https://wuxiadreams.com/",
           "icon": "https://static.everythingmoe.com/icons/wuxiadreams.png",
           "tags": [],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12562,7 +12561,7 @@
           "link": "https://fullnovels.com/",
           "icon": "https://static.everythingmoe.com/icons/fullnovels.png",
           "tags": [],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12602,7 +12601,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -12627,7 +12626,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12651,7 +12650,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12679,7 +12678,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12703,7 +12702,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12730,7 +12729,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12755,7 +12754,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -12776,7 +12775,7 @@
           "tags": [
             "MTL"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16028,7 +16027,9 @@
           "tags": [
             "Android",
             "Windows",
-            "Manga"
+            "Anime",
+            "Manga",
+            "Light Novel"
           ],
           "rank": 30,
           "is_licensed": false,
@@ -16038,7 +16039,7 @@
           "section": "apps",
           "details": {
             "positives": [
-              "Anime / video watching app",
+              "Manga, LN, Anime watching app",
               "Support android TV",
               "Open source"
             ],
@@ -16060,7 +16061,7 @@
                 "url": "https://github.com/Spyou/Zangetsu"
               }
             ],
-            "info": "note: Support Cloudstream & Aniyomi extensions"
+            "info": "note: Support Cloudstream, Mihon, Aniyomi, LNReader extensions"
           }
         },
         {
@@ -22297,7 +22298,13 @@
           "status": "active",
           "section": "western",
           "details": {
-            "info": "note : not otaku related site"
+            "info": "note : not otaku related site",
+            "altlinks": [
+              {
+                "name": ".com",
+                "url": "https://hydrahd.com/"
+              }
+            ]
           }
         },
         {
@@ -33291,12 +33298,33 @@
           }
         },
         {
+          "id": "pawmanga",
+          "title": "PAWMANGA",
+          "link": "https://pawmanga.com/",
+          "icon": "https://static.everythingmoe.com/icons/pawmanga.png",
+          "tags": [],
+          "rank": 56,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Focus mostly on Yaoi manga"
+            ],
+            "negatives": [
+              "Basic reader features"
+            ]
+          }
+        },
+        {
           "id": "mangaclash",
           "title": "Mangaclash",
           "link": "https://toonclash.com/",
           "icon": "https://static.everythingmoe.com/icons/mangaclash.png",
           "tags": [],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33318,7 +33346,7 @@
           "link": "https://mangaready.com/",
           "icon": "https://static.everythingmoe.com/icons/mangaready.png",
           "tags": [],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33341,7 +33369,7 @@
           "link": "https://onlinemanga.xyz/",
           "icon": "https://static.everythingmoe.com/icons/onlinemanga.png",
           "tags": [],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33369,7 +33397,7 @@
           "link": "https://mangago.io/",
           "icon": "https://static.everythingmoe.com/icons/mangagoio.png",
           "tags": [],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33392,7 +33420,7 @@
           "link": "https://www.mangasub.com/",
           "icon": "https://static.everythingmoe.com/icons/mangasub.png",
           "tags": [],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33414,7 +33442,7 @@
           "link": "https://coloredmanga.com/",
           "icon": "https://static.everythingmoe.com/icons/coloredmanga.png",
           "tags": [],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33447,7 +33475,7 @@
           "link": "https://mangaclan.online/",
           "icon": "https://static.everythingmoe.com/icons/mangaclan.png",
           "tags": [],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33476,7 +33504,7 @@
           "link": "https://retsu.org/",
           "icon": "https://static.everythingmoe.com/icons/retsu.png",
           "tags": [],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33494,7 +33522,7 @@
           "link": "https://mangakomi.io/",
           "icon": "https://static.everythingmoe.com/icons/mangakomi.png",
           "tags": [],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -45631,29 +45659,6 @@
         ]
       }
     },
-    "pawmanga": {
-      "id": "pawmanga",
-      "title": "PAWMANGA",
-      "link": "https://pawmanga.com/",
-      "icon": "https://static.everythingmoe.com/icons/pawmanga.png",
-      "tags": [
-        "Official Rips"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Focus mostly on Yaoi manga"
-        ],
-        "negatives": [
-          "Basic reader features"
-        ]
-      }
-    },
     "lilymanga": {
       "id": "lilymanga",
       "title": "Lilymanga",
@@ -48565,7 +48570,7 @@
       "link": "https://armaell-library.net/",
       "icon": "https://static.everythingmoe.com/icons/armaelllib.png",
       "tags": [
-        "DDL"
+        "ddl"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -48697,6 +48702,28 @@
           "Digital ver provided by external stores"
         ],
         "info": "note: This is the publisher's site"
+      }
+    },
+    "scrollerspub": {
+      "id": "scrollerspub",
+      "title": "ScrollersPub",
+      "link": "https://www.scrollerspub.com/",
+      "icon": "https://static.everythingmoe.com/icons/scrollerspub.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "novel"
+      ],
+      "details": {
+        "positives": [
+          "Large library"
+        ],
+        "negatives": [
+          "New site"
+        ],
+        "info": "note: Lock advance search and 18+ novel behind login"
       }
     },
     "wuxiaworld": {
@@ -52438,7 +52465,9 @@
       "tags": [
         "Android",
         "Windows",
-        "Manga"
+        "Anime",
+        "Manga",
+        "Light Novel"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -52448,7 +52477,7 @@
       ],
       "details": {
         "positives": [
-          "Anime / video watching app",
+          "Manga, LN, Anime watching app",
           "Support android TV",
           "Open source"
         ],
@@ -52470,7 +52499,7 @@
             "url": "https://github.com/Spyou/Zangetsu"
           }
         ],
-        "info": "note: Support Cloudstream & Aniyomi extensions"
+        "info": "note: Support Cloudstream, Mihon, Aniyomi, LNReader extensions"
       }
     },
     "nyora": {
@@ -58662,7 +58691,13 @@
         "western"
       ],
       "details": {
-        "info": "note : not otaku related site"
+        "info": "note : not otaku related site",
+        "altlinks": [
+          {
+            "name": ".com",
+            "url": "https://hydrahd.com/"
+          }
+        ]
       }
     },
     "neputo": {
@@ -69506,6 +69541,27 @@
             "name": "A-Z list",
             "url": "https://mangagojo.com/manga/list-mode/"
           }
+        ]
+      }
+    },
+    "pawmanga": {
+      "id": "pawmanga",
+      "title": "PAWMANGA",
+      "link": "https://pawmanga.com/",
+      "icon": "https://static.everythingmoe.com/icons/pawmanga.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Focus mostly on Yaoi manga"
+        ],
+        "negatives": [
+          "Basic reader features"
         ]
       }
     },
