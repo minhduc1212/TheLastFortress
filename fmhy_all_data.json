@@ -11221,10 +11221,10 @@
                             ]
                         },
                         {
-                            "full_text": "Vyla , 2 - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "Vyla Entertainment , 2 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
-                                    "name": "Vyla",
+                                    "name": "Vyla Entertainment",
                                     "url": "https://vyla.cc/"
                                 },
                                 {
@@ -19129,10 +19129,10 @@
                             ]
                         },
                         {
-                            "full_text": "Vyla , 2 - Movies / TV / Anime /",
+                            "full_text": "Vyla Entertainment , 2 - Movies / TV / Anime /",
                             "links": [
                                 {
-                                    "name": "Vyla",
+                                    "name": "Vyla Entertainment",
                                     "url": "https://vyla.pages.dev/"
                                 },
                                 {
@@ -55303,15 +55303,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Debridr or ⁠MixDebrid (use shortlink bypass) - Bypass Premium Link Limits",
+                            "full_text": "⁠Debridr - Bypass Premium Link Limits",
                             "links": [
                                 {
                                     "name": "⁠Debridr",
                                     "url": "https://debridr.com/"
-                                },
-                                {
-                                    "name": "⁠MixDebrid",
-                                    "url": "https://mixdebrid.com/"
                                 }
                             ]
                         },
@@ -154878,23 +154874,6 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "4chan X - Enhancement Extension / Theme /",
-                            "links": [
-                                {
-                                    "name": "4chan X",
-                                    "url": "https://www.4chan-x.net/"
-                                },
-                                {
-                                    "name": "Theme",
-                                    "url": "https://github.com/KevinParnell/OneeChan"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ccd0/4chan-x"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Chan - 4chan Mobile Apps",
                             "links": [
                                 {
@@ -227438,6 +227417,15 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "4chan X - Enhancement Extension / Theme / GitHub (Removed in 1676465 )",
+                            "links": [
+                                {
+                                    "name": "1676465",
+                                    "url": "https://github.com/fmhy/edit/commit/1676465e5a5c14712487b0aa51bfc451a90eed62#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L762"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Blip - File Transfer / Turn \"Searchable by Name\" Off in Settings (Removed in 1dfc1d8 )",
                             "links": [
