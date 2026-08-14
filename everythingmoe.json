@@ -2162,31 +2162,6 @@
           }
         },
         {
-          "id": "yumezone",
-          "title": "YumeZone",
-          "link": "https://yumezone.live/",
-          "icon": "https://static.everythingmoe.com/icons/yumezone.png",
-          "tags": [
-            "mult"
-          ],
-          "rank": 55,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options",
-              "Modern interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes",
-              "New site"
-            ]
-          }
-        },
-        {
           "id": "itachitv",
           "title": "Itachi",
           "link": "https://itachi.tv/",
@@ -2196,7 +2171,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 56,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2223,7 +2198,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 57,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2250,7 +2225,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 58,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2297,7 +2272,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 59,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2323,7 +2298,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 60,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2354,7 +2329,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 61,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2425,7 +2400,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 62,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2454,7 +2429,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 63,
+          "rank": 62,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2482,7 +2457,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 64,
+          "rank": 63,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2512,7 +2487,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 65,
+          "rank": 64,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2541,7 +2516,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 66,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2608,7 +2583,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 67,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2697,7 +2672,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 68,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2722,7 +2697,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 69,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2748,7 +2723,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 70,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2773,7 +2748,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 71,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2797,7 +2772,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 72,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2824,7 +2799,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 73,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2850,7 +2825,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2875,7 +2850,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2902,7 +2877,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2926,7 +2901,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 77,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2952,7 +2927,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2992,7 +2967,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3027,7 +3002,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3060,7 +3035,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3085,7 +3060,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 82,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3125,7 +3100,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 83,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3138,6 +3113,31 @@
             "negatives": [
               "Content depends on the websites it scrapes"
             ]
+          }
+        },
+        {
+          "id": "yumezone",
+          "title": "YumeZone",
+          "link": "https://yumezone.live/",
+          "icon": "https://static.everythingmoe.com/icons/yumezone.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 83,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes",
+              "New site"
+            ],
+            "info": "note: Just embed other site stream"
           }
         },
         {
@@ -9476,25 +9476,6 @@
           }
         },
         {
-          "id": "mangablaze",
-          "title": "MangaBlaze",
-          "link": "https://mangablaze.com/",
-          "icon": "https://static.everythingmoe.com/icons/mangablaze.png",
-          "tags": [],
-          "rank": 91,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "negatives": [
-              "Small library",
-              "Coins system"
-            ]
-          }
-        },
-        {
           "id": "mangasushi",
           "title": "Mangasushi",
           "link": "https://mangasushi.org/",
@@ -9502,7 +9483,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 92,
+          "rank": 91,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15821,55 +15802,6 @@
           }
         },
         {
-          "id": "hakuneko",
-          "title": "Hakuneko",
-          "link": "https://hakuneko.download/",
-          "icon": "https://static.everythingmoe.com/icons/hakuneko.png",
-          "tags": [
-            "Windows",
-            "MacOS",
-            "Linux",
-            "Anime",
-            "Manga",
-            "DESKTOP"
-          ],
-          "rank": 24,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "apps",
-          "details": {
-            "positives": [
-              "Support both anime & manga",
-              "Ton of website sources supported",
-              "Support viewing & download",
-              "Support Windows, Mac, Linux",
-              "Open source"
-            ],
-            "negatives": [
-              "Desktop only",
-              "Old user interface",
-              "Not designed for bulk download"
-            ],
-            "info": "note: haruneko is prototype of HakuNeko (like beta version), more actively maintained.",
-            "altlinks": [
-              {
-                "name": "haruneko",
-                "url": "https://github.com/manga-download/haruneko"
-              },
-              {
-                "name": "Release",
-                "url": "https://github.com/manga-download/hakuneko/releases/latest"
-              },
-              {
-                "name": "Git repo",
-                "url": "https://github.com/manga-download/hakuneko"
-              }
-            ]
-          }
-        },
-        {
           "id": "shiru",
           "title": "Shiru",
           "link": "https://github.com/RockinChaos/Shiru",
@@ -15881,7 +15813,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 25,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15927,7 +15859,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 26,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15964,7 +15896,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 27,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16001,7 +15933,7 @@
             "Linux",
             "Light Novel"
           ],
-          "rank": 28,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16028,7 +15960,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 29,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16067,7 +15999,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 30,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16110,7 +16042,7 @@
             "Windows",
             "Manga"
           ],
-          "rank": 31,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16159,7 +16091,7 @@
             "Linux",
             "Manga"
           ],
-          "rank": 32,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16199,7 +16131,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 33,
+          "rank": 32,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16239,7 +16171,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 34,
+          "rank": 33,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16280,7 +16212,7 @@
             "Manga",
             "licensed"
           ],
-          "rank": 35,
+          "rank": 34,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -16322,7 +16254,7 @@
             "Manga",
             "universal"
           ],
-          "rank": 36,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16367,7 +16299,7 @@
             "Manga",
             "Novel"
           ],
-          "rank": 37,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16413,7 +16345,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 38,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16451,7 +16383,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 39,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16503,7 +16435,7 @@
             "Linux",
             "Light Novel"
           ],
-          "rank": 40,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16540,7 +16472,7 @@
             "Linux",
             "Manga"
           ],
-          "rank": 41,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16573,7 +16505,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 42,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16632,7 +16564,7 @@
             "Andoid",
             "Manga"
           ],
-          "rank": 43,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16670,7 +16602,7 @@
             "iOS",
             "Manga"
           ],
-          "rank": 44,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16708,7 +16640,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 45,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16753,7 +16685,7 @@
             "iOS",
             "Anime"
           ],
-          "rank": 46,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16794,7 +16726,7 @@
             "Andoid",
             "Manga"
           ],
-          "rank": 47,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16839,7 +16771,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 48,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16868,6 +16800,55 @@
               {
                 "name": "Release",
                 "url": "https://github.com/amarullz/AnimeTV/releases/latest"
+              }
+            ]
+          }
+        },
+        {
+          "id": "hakuneko",
+          "title": "Hakuneko",
+          "link": "https://hakuneko.download/",
+          "icon": "https://static.everythingmoe.com/icons/hakuneko.png",
+          "tags": [
+            "Windows",
+            "MacOS",
+            "Linux",
+            "Anime",
+            "Manga",
+            "desktop"
+          ],
+          "rank": 48,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Support both anime & manga",
+              "Ton of website sources supported",
+              "Support viewing & download",
+              "Support Windows, Mac, Linux",
+              "Open source"
+            ],
+            "negatives": [
+              "Desktop only",
+              "Old user interface",
+              "Not designed for bulk download"
+            ],
+            "info": "note: haruneko is prototype of HakuNeko (like beta version), more actively maintained.",
+            "altlinks": [
+              {
+                "name": "haruneko",
+                "url": "https://github.com/manga-download/haruneko"
+              },
+              {
+                "name": "Release",
+                "url": "https://github.com/manga-download/hakuneko/releases/latest"
+              },
+              {
+                "name": "Git repo",
+                "url": "https://github.com/manga-download/hakuneko"
               }
             ]
           }
@@ -33535,12 +33516,31 @@
           }
         },
         {
+          "id": "mangablaze",
+          "title": "MangaBlaze",
+          "link": "https://mangablaze.com/",
+          "icon": "https://static.everythingmoe.com/icons/mangablaze.png",
+          "tags": [],
+          "rank": 64,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "manga",
+          "details": {
+            "negatives": [
+              "Small library",
+              "Coins system"
+            ]
+          }
+        },
+        {
           "id": "retsu",
           "title": "Retsu",
           "link": "https://retsu.org/",
           "icon": "https://static.everythingmoe.com/icons/retsu.png",
           "tags": [],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -33558,7 +33558,7 @@
           "link": "https://mangakomi.io/",
           "icon": "https://static.everythingmoe.com/icons/mangakomi.png",
           "tags": [],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -38716,31 +38716,6 @@
         "info": "note: Also self host some anime"
       }
     },
-    "yumezone": {
-      "id": "yumezone",
-      "title": "YumeZone",
-      "link": "https://yumezone.live/",
-      "icon": "https://static.everythingmoe.com/icons/yumezone.png",
-      "tags": [
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options",
-          "Modern interface"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes",
-          "New site"
-        ]
-      }
-    },
     "itachitv": {
       "id": "itachitv",
       "title": "Itachi",
@@ -39693,6 +39668,31 @@
         "negatives": [
           "Content depends on the websites it scrapes"
         ]
+      }
+    },
+    "yumezone": {
+      "id": "yumezone",
+      "title": "YumeZone",
+      "link": "https://yumezone.live/",
+      "icon": "https://static.everythingmoe.com/icons/yumezone.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes",
+          "New site"
+        ],
+        "info": "note: Just embed other site stream"
       }
     },
     "aniwaveclones": {
@@ -45994,25 +45994,6 @@
         ]
       }
     },
-    "mangablaze": {
-      "id": "mangablaze",
-      "title": "MangaBlaze",
-      "link": "https://mangablaze.com/",
-      "icon": "https://static.everythingmoe.com/icons/mangablaze.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "negatives": [
-          "Small library",
-          "Coins system"
-        ]
-      }
-    },
     "mangasushi": {
       "id": "mangasushi",
       "title": "Mangasushi",
@@ -52294,55 +52275,6 @@
         ]
       }
     },
-    "hakuneko": {
-      "id": "hakuneko",
-      "title": "Hakuneko",
-      "link": "https://hakuneko.download/",
-      "icon": "https://static.everythingmoe.com/icons/hakuneko.png",
-      "tags": [
-        "Windows",
-        "MacOS",
-        "Linux",
-        "Anime",
-        "Manga",
-        "DESKTOP"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "apps"
-      ],
-      "details": {
-        "positives": [
-          "Support both anime & manga",
-          "Ton of website sources supported",
-          "Support viewing & download",
-          "Support Windows, Mac, Linux",
-          "Open source"
-        ],
-        "negatives": [
-          "Desktop only",
-          "Old user interface",
-          "Not designed for bulk download"
-        ],
-        "info": "note: haruneko is prototype of HakuNeko (like beta version), more actively maintained.",
-        "altlinks": [
-          {
-            "name": "haruneko",
-            "url": "https://github.com/manga-download/haruneko"
-          },
-          {
-            "name": "Release",
-            "url": "https://github.com/manga-download/hakuneko/releases/latest"
-          },
-          {
-            "name": "Git repo",
-            "url": "https://github.com/manga-download/hakuneko"
-          }
-        ]
-      }
-    },
     "shiru": {
       "id": "shiru",
       "title": "Shiru",
@@ -53342,6 +53274,55 @@
           {
             "name": "Release",
             "url": "https://github.com/amarullz/AnimeTV/releases/latest"
+          }
+        ]
+      }
+    },
+    "hakuneko": {
+      "id": "hakuneko",
+      "title": "Hakuneko",
+      "link": "https://hakuneko.download/",
+      "icon": "https://static.everythingmoe.com/icons/hakuneko.png",
+      "tags": [
+        "Windows",
+        "MacOS",
+        "Linux",
+        "Anime",
+        "Manga",
+        "desktop"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Support both anime & manga",
+          "Ton of website sources supported",
+          "Support viewing & download",
+          "Support Windows, Mac, Linux",
+          "Open source"
+        ],
+        "negatives": [
+          "Desktop only",
+          "Old user interface",
+          "Not designed for bulk download"
+        ],
+        "info": "note: haruneko is prototype of HakuNeko (like beta version), more actively maintained.",
+        "altlinks": [
+          {
+            "name": "haruneko",
+            "url": "https://github.com/manga-download/haruneko"
+          },
+          {
+            "name": "Release",
+            "url": "https://github.com/manga-download/hakuneko/releases/latest"
+          },
+          {
+            "name": "Git repo",
+            "url": "https://github.com/manga-download/hakuneko"
           }
         ]
       }
@@ -69814,6 +69795,25 @@
             "name": "manhwanest",
             "url": "https://www.manhwanest.fun/"
           }
+        ]
+      }
+    },
+    "mangablaze": {
+      "id": "mangablaze",
+      "title": "MangaBlaze",
+      "link": "https://mangablaze.com/",
+      "icon": "https://static.everythingmoe.com/icons/mangablaze.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "graveyard",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "negatives": [
+          "Small library",
+          "Coins system"
         ]
       }
     },
