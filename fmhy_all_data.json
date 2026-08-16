@@ -72,19 +72,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Streaming: NEPU / Cineby / Aether",
+                            "full_text": "Streaming: NEPU / Z-Stream / PopcornMovies",
                             "links": [
                                 {
                                     "name": "NEPU",
                                     "url": "https://nepu.to/"
                                 },
                                 {
-                                    "name": "Cineby",
-                                    "url": "https://cineby.at/"
+                                    "name": "Z-Stream",
+                                    "url": "https://zstream.mov/"
                                 },
                                 {
-                                    "name": "Aether",
-                                    "url": "https://aether.bar/"
+                                    "name": "PopcornMovies",
+                                    "url": "https://popcornmovies.io/"
                                 }
                             ]
                         },
@@ -674,7 +674,7 @@
                             "links": [
                                 {
                                     "name": "Glossary / Terminology",
-                                    "url": "https://paste.fmhy.net/glossary"
+                                    "url": "https://yaso.su/glossary"
                                 }
                             ]
                         },
@@ -2610,15 +2610,11 @@
                             ]
                         },
                         {
-                            "full_text": "The OPSEC Bible (.onion), 2 - Online Anonymity Guide",
+                            "full_text": "The OPSEC Bible (.onion) - Online Anonymity Guide",
                             "links": [
                                 {
                                     "name": "The OPSEC Bible",
                                     "url": "http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://bible.beginnerprivacy.com/opsec/"
                                 }
                             ]
                         },
@@ -2812,27 +2808,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/PrivSec-dev"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Beginner Privacy - Beginners Privacy Guide / Checklist / / /",
-                            "links": [
-                                {
-                                    "name": "Beginner Privacy",
-                                    "url": "https://beginnerprivacy.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://mastodon.social/@BeginnerPrivacy"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://codeberg.org/BeginnerPrivacy"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/beginnerprivacy/beginnerprivacy.com"
                                 }
                             ]
                         },
@@ -6172,7 +6147,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Z.ai - GLM 5.2 (Deep Think Max) / GLM 5 Turbo / Slides / Sign-Up / /",
+                            "full_text": "⁠Z.ai - GLM 5.3 (Deep Think Max) / GLM 5.2 / Slides / Sign-Up / /",
                             "links": [
                                 {
                                     "name": "⁠Z.ai",
@@ -6235,7 +6210,7 @@
                             ]
                         },
                         {
-                            "full_text": "Meta AI - Muse Spark 1.2 (Thinking) / Meta Sign-Up / Unlimited",
+                            "full_text": "Meta AI - Muse Spark 1.2 (Thinking) / Muse Glimmer 30b (local) / Meta Sign-Up / Unlimited",
                             "links": [
                                 {
                                     "name": "Meta AI",
@@ -6285,7 +6260,7 @@
                                 },
                                 {
                                     "name": "Limits",
-                                    "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md"
+                                    "url": "https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#how-do-rate-limits-work-on-the-free-tier"
                                 }
                             ]
                         },
@@ -6312,7 +6287,7 @@
                             ]
                         },
                         {
-                            "full_text": "Grok - Grok 4.5 (Fast) / Traffic Based / Rate Display , 2 / /",
+                            "full_text": "Grok - Grok 4.6 (Fast) / Traffic Based / Rate Display , 2 / /",
                             "links": [
                                 {
                                     "name": "Grok",
@@ -6346,7 +6321,7 @@
                             ]
                         },
                         {
-                            "full_text": "Claude - Claude Sonnet 5 / Claude Sonnet 4.6 / Requires Sign-Up + Phone # / Resources / Learning , 2 / Usage Tracker / /",
+                            "full_text": "Claude - Claude Opus 5 / Claude Sonnet 5 / Requires Sign-Up + Phone # / Resources / Learning , 2 / Usage Tracker / /",
                             "links": [
                                 {
                                     "name": "Claude",
@@ -6448,7 +6423,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Solar Playground - Solar Pro 3 (High AI Reasoning) / No Sign-Up /",
+                            "full_text": "⁠Solar Playground - Solar Pro 4 (High AI Reasoning) / No Sign-Up /",
                             "links": [
                                 {
                                     "name": "⁠Solar Playground",
@@ -6517,6 +6492,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "⁠Together.ai - GLM 5.2 / Kimi K3 / DeepSeek V4 Pro / MiniMax-M3 / Multiple Models / Up To 110 Daily /",
+                            "links": [
+                                {
+                                    "name": "⁠Together.ai",
+                                    "url": "https://chat.together.ai/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/9Rk6sSeWEG"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠ISH - Claude Opus 5 / Claude Sonnet 5 / Multiple Models / Sign-Up (GitHub) / / /",
                             "links": [
                                 {
@@ -6530,19 +6518,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/cwDTVKyKJz"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Together.ai - GLM 5.2 / Kimi K3 / DeepSeek V4 Pro / MiniMax-M3 / Multiple Models / Up To 110 Daily /",
-                            "links": [
-                                {
-                                    "name": "⁠Together.ai",
-                                    "url": "https://chat.together.ai/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/9Rk6sSeWEG"
                                 }
                             ]
                         },
@@ -6629,7 +6604,7 @@
                             ]
                         },
                         {
-                            "full_text": "AI Assistant - Mistral Medium / gpt-oss-120b / Multiple Models / No Sign-Up",
+                            "full_text": "AI Assistant - DeepSeek v3.2 / Glm 4.7 / Multiple Models / No Sign-Up",
                             "links": [
                                 {
                                     "name": "AI Assistant",
@@ -6638,7 +6613,7 @@
                             ]
                         },
                         {
-                            "full_text": "Apertus , 2 - Apertus v1.5 70B Thinking / ALIA 40B (Poland) / Apertus v1.5 8B Thinking (No Sign-Up) / Multiple Models",
+                            "full_text": "Apertus , 2 - Apertus v1.5 70B Thinking / ALIA 40B (Spain) / Apertus v1.5 8B Thinking (No Sign-Up) / Multiple Models",
                             "links": [
                                 {
                                     "name": "Apertus",
@@ -6696,7 +6671,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Mode - AI Search Engine / Pro (Google Sign-Up) / Fast (No Sign-Up)",
+                            "full_text": "Google AI Mode - AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)",
                             "links": [
                                 {
                                     "name": "Google AI Mode",
@@ -7076,27 +7051,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Unsloth - Desktop App / Self-Hosted / Notebooks / Guide /",
-                            "links": [
-                                {
-                                    "name": "⁠Unsloth",
-                                    "url": "https://unsloth.ai/"
-                                },
-                                {
-                                    "name": "Notebooks",
-                                    "url": "https://github.com/unslothai/notebooks"
-                                },
-                                {
-                                    "name": "Guide",
-                                    "url": "https://docs.unsloth.ai/get-started/fine-tuning-guide"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/unslothai/unsloth"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Cherry Studio - Desktop App / Mobile / /",
                             "links": [
                                 {
@@ -7114,6 +7068,27 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/CherryHQ/cherry-studio"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Unsloth - Desktop App / Self-Hosted / Notebooks / Guide /",
+                            "links": [
+                                {
+                                    "name": "⁠Unsloth",
+                                    "url": "https://unsloth.ai/"
+                                },
+                                {
+                                    "name": "Notebooks",
+                                    "url": "https://github.com/unslothai/notebooks"
+                                },
+                                {
+                                    "name": "Guide",
+                                    "url": "https://docs.unsloth.ai/get-started/fine-tuning-guide"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/unslothai/unsloth"
                                 }
                             ]
                         },
@@ -7879,7 +7854,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google Flow - Veo 3.1 / Veo 3.1 Lite / 50 Credits Daily / Google Sign-Up / Android /",
+                            "full_text": "Google Flow - Veo 3.1 / Veo 3.1 Lite / Omni Flash / 50 Credits Daily / Google Sign-Up / Android /",
                             "links": [
                                 {
                                     "name": "Google Flow",
@@ -8223,19 +8198,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/gemini"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠DaFreeAI - Unlimited / GPT Image 2 / Nano Banana Pro / Discord Sign-Up /",
-                            "links": [
-                                {
-                                    "name": "⁠DaFreeAI",
-                                    "url": "https://www.dafreeai.site/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/MjMDC3ex"
                                 }
                             ]
                         },
@@ -9274,6 +9236,15 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
+                        {
+                            "full_text": "Awesome AI Sound - TTS + Voice Generation Model Index",
+                            "links": [
+                                {
+                                    "name": "Awesome AI Sound",
+                                    "url": "https://github.com/wildminder/awesome-ai-voice"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Arena TTS - Text to Speech Model Benchmarks / Leaderboards",
                             "links": [
@@ -11191,6 +11162,15 @@
                             ]
                         },
                         {
+                            "full_text": "Movy - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Movy",
+                                    "url": "https://www.movy.bz/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "bCine - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11418,7 +11398,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/2q3bKwsDc"
+                                    "url": "https://discord.gg/7hKRQ92SN"
                                 }
                             ]
                         },
@@ -11523,7 +11503,7 @@
                             ]
                         },
                         {
-                            "full_text": "Cineapse - Movies / TV / Anime / Auto-Next",
+                            "full_text": "Cineapse - Movies / TV / Anime / Auto-Next / 4K",
                             "links": [
                                 {
                                     "name": "Cineapse",
@@ -11678,19 +11658,6 @@
                                 {
                                     "name": "CineFlix",
                                     "url": "https://cineflix.fstream.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniCine - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "AniCine",
-                                    "url": "https://anicine.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/2GYMjGuh3"
                                 }
                             ]
                         },
@@ -11993,27 +11960,6 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "Aether , 2 - Movies / TV / Anime / Auto-Next / 4K / Status /",
-                            "links": [
-                                {
-                                    "name": "Aether",
-                                    "url": "https://aether.bar/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://aether.cx/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://rentry.co/aetherdomains"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/MadMF7xb5q"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Z-Stream - Movies / TV / Anime / Auto-Next / 4K / Status / /",
                             "links": [
                                 {
@@ -12031,6 +11977,27 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/xp-technologies-dev/p-stream"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Aether , 2 - Movies / TV / Anime / Auto-Next / 4K / Status /",
+                            "links": [
+                                {
+                                    "name": "Aether",
+                                    "url": "https://aether.bar/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://aether.cx/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://rentry.co/aetherdomains"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/MadMF7xb5q"
                                 }
                             ]
                         },
@@ -12564,6 +12531,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/JxgRaYMVHF"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AniCine - Movies / TV / Anime /",
+                            "links": [
+                                {
+                                    "name": "AniCine",
+                                    "url": "https://anicine.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/2GYMjGuh3"
                                 }
                             ]
                         },
@@ -14181,23 +14161,6 @@
                             ]
                         },
                         {
-                            "full_text": "MKissa or All Manga - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "MKissa",
-                                    "url": "https://mkissa.to/"
-                                },
-                                {
-                                    "name": "All Manga",
-                                    "url": "https://allmanga.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/6nce6cyJyM"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "animepahe - Hard Sub / Dub / Some NSFW / Enhancements / Downloader",
                             "links": [
                                 {
@@ -14232,6 +14195,23 @@
                             ]
                         },
                         {
+                            "full_text": "MKissa or All Manga - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "MKissa",
+                                    "url": "https://mkissa.to/"
+                                },
+                                {
+                                    "name": "All Manga",
+                                    "url": "https://allmanga.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/6nce6cyJyM"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "AnimeX - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
@@ -14241,6 +14221,360 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/xNZcSQRbTm"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Anikoto , 2 - Sub / Dub / Auto-Next / Backups",
+                            "links": [
+                                {
+                                    "name": "Anikoto",
+                                    "url": "https://anikototv.to/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://animesuge.cz/"
+                                },
+                                {
+                                    "name": "Backups",
+                                    "url": "https://animesuge.bid/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Anidap - Sub / Dub / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Anidap",
+                                    "url": "https://anidap.lol/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/btsMTSsBM7"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Anistream - Sub / Dub / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "⁠Anistream",
+                                    "url": "https://anistream.one/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/kwgASavPvG"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Re:ANIME , 2 - Sub / Dub / Auto-Next / /",
+                            "links": [
+                                {
+                                    "name": "Re:ANIME",
+                                    "url": "https://reanime.to/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://kuudere.ru/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/kuudere0to"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/h9v9Vfzp7B"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Kazora - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "⁠Kazora",
+                                    "url": "https://kazora.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KuroAnime - Sub / Dub / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "KuroAnime",
+                                    "url": "https://kuroanime.lol/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/UsPMHMnXAy"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Neko Watch - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "⁠Neko Watch",
+                                    "url": "https://nekowatch.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/52UrTJ3ytT"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AnimaxAnime , 2 - Hard Sub / Dub / Auto-Next / Status",
+                            "links": [
+                                {
+                                    "name": "AnimaxAnime",
+                                    "url": "https://animaxanime.dpdns.org/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://anianimax.dpdns.org/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://status.animaxanime.dpdns.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠JustAnime - Sub / Dub / Auto-Next / Mirrors / /",
+                            "links": [
+                                {
+                                    "name": "⁠JustAnime",
+                                    "url": "https://justanime.to/"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://justanime.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/JustAnimeZone"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/P3yqksmGun"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AniLight - Sub / Dub / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "AniLight",
+                                    "url": "https://anilight.live/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/RFN93sMwdW "
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AniKuro , 2 - Sub / Dub / Status / /",
+                            "links": [
+                                {
+                                    "name": "⁠AniKuro",
+                                    "url": "https://anikuro.to/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://anikuro.ru/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://anikuro.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/+DrD7eAO7R69mZGM0"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/Svc9yFjQBq"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Aniwave or 123anime - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Aniwave",
+                                    "url": "https://aniwaves.ru/"
+                                },
+                                {
+                                    "name": "123anime",
+                                    "url": "https://123animes.ru/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Senshi - Sub / Dub / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Senshi",
+                                    "url": "https://senshi.live/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/bFvtjQuwjy"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AniZone - Sub",
+                            "links": [
+                                {
+                                    "name": "AniZone",
+                                    "url": "https://anizone.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AniDoor - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "AniDoor",
+                                    "url": "https://anidoor.me/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Lunar - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "⁠Lunar",
+                                    "url": "https://lunaranime.ru/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/NBBnhbFHBT"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AniSnatch , 2 - Sub / Dub / /",
+                            "links": [
+                                {
+                                    "name": "AniSnatch",
+                                    "url": "https://anisnatch.top/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://anisnatch.p1y.top/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/anisnatch"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/3zrNYqeT4e"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AnimeStream - Sub / 720p",
+                            "links": [
+                                {
+                                    "name": "AnimeStream",
+                                    "url": "https://anime.uniquestream.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Anime Nexus - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "⁠Anime Nexus",
+                                    "url": "https://anime.nexus/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/AfMau96ppt"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AnimeParadise - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "AnimeParadise",
+                                    "url": "https://www.animeparadise.moe/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/q3N6eWMMNP"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AnimeDex - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "AnimeDex",
+                                    "url": "https://animedex.fun/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/animedex"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Anify - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "Anify",
+                                    "url": "https://anify.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/79GgUXYwey"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AniKitty - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "AniKitty",
+                                    "url": "https://anikitty.moe/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Enma - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "⁠Enma",
+                                    "url": "https://www.enma.lol/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠1Anime - Sub / Dub / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "⁠1Anime",
+                                    "url": "https://1ani.me/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/jUjSeCrmQt"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Kyren - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠Kyren",
+                                    "url": "https://kyren.moe/"
                                 }
                             ]
                         },
@@ -14258,15 +14592,172 @@
                             ]
                         },
                         {
-                            "full_text": "Anidap - Sub / Dub / Auto-Next /",
+                            "full_text": "AnimeNoSub - Sub / Dub",
                             "links": [
                                 {
-                                    "name": "Anidap",
-                                    "url": "https://anidap.lol/"
+                                    "name": "AnimeNoSub",
+                                    "url": "https://animenosub.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AnimeOnsen - Sub / 720p /",
+                            "links": [
+                                {
+                                    "name": "AnimeOnsen",
+                                    "url": "https://animeonsen.xyz/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.com/invite/btsMTSsBM7"
+                                    "url": "https://discord.com/invite/U56ZMrD"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Yomi - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Yomi",
+                                    "url": "https://yomi.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Babyanime - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "Babyanime",
+                                    "url": "https://babyanime.top/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AniHQ - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠AniHQ",
+                                    "url": "https://anihq.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Luna - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠Luna",
+                                    "url": "https://luna-stream.me/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AniNami - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "AniNami",
+                                    "url": "https://aninami.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/J2V2skvMBk"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Anime Silo - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "⁠Anime Silo",
+                                    "url": "https://animesilo.cc/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/5myNNCqx8"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Rive Anime , 2 , 3 - Sub / Dub / Auto-Next / Status /",
+                            "links": [
+                                {
+                                    "name": "Rive Anime",
+                                    "url": "https://www.rivestream.app/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://rivestream.ru/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://rivestream.vip/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://rentry.co/rivestream"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/6xJmJja8fV"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Kawaii Anime - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "Kawaii Anime",
+                                    "url": "https://kawaii-anime.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FireAnime - Sub",
+                            "links": [
+                                {
+                                    "name": "FireAnime",
+                                    "url": "https://fireani.me/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Animelok - Sub / Dub / Mirrors / /",
+                            "links": [
+                                {
+                                    "name": "⁠Animelok",
+                                    "url": "https://animelok.live/"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://animelok.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/animerulz_xyz"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/32taxtj5BC"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠GojoStream - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "⁠GojoStream",
+                                    "url": "https://www.modsyndicate.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PirateXplay - Sub / Mirrors",
+                            "links": [
+                                {
+                                    "name": "PirateXplay",
+                                    "url": "https://piratexplay.cc/home"
+                                },
+                                {
+                                    "name": "Mirrors",
+                                    "url": "https://piratexplay.com/"
                                 }
                             ]
                         },
@@ -14373,517 +14864,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/miru-project/miru-app"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnimaxAnime , 2 - Hard Sub / Dub / Auto-Next / Status",
-                            "links": [
-                                {
-                                    "name": "AnimaxAnime",
-                                    "url": "https://animaxanime.dpdns.org/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://anianimax.dpdns.org/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://status.animaxanime.dpdns.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Anistream - Sub / Dub / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "⁠Anistream",
-                                    "url": "https://anistream.one/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/kwgASavPvG"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KuroAnime - Sub / Dub / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "KuroAnime",
-                                    "url": "https://kuroanime.lol/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/UsPMHMnXAy"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Anify - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "Anify",
-                                    "url": "https://anify.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/79GgUXYwey"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Aniwave or 123anime - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Aniwave",
-                                    "url": "https://aniwaves.ru/"
-                                },
-                                {
-                                    "name": "123anime",
-                                    "url": "https://123animes.ru/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Enma - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "⁠Enma",
-                                    "url": "https://www.enma.lol/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Kazora - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "⁠Kazora",
-                                    "url": "https://kazora.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniKitty - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "AniKitty",
-                                    "url": "https://anikitty.moe/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠1Anime - Sub / Dub / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "⁠1Anime",
-                                    "url": "https://1ani.me/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/jUjSeCrmQt"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Re:ANIME , 2 - Sub / Dub / Auto-Next / /",
-                            "links": [
-                                {
-                                    "name": "Re:ANIME",
-                                    "url": "https://reanime.to/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://kuudere.ru/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/kuudere0to"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/h9v9Vfzp7B"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniDoor - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "AniDoor",
-                                    "url": "https://anidoor.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniLight - Sub / Dub / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "AniLight",
-                                    "url": "https://anilight.live/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/RFN93sMwdW "
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠AniHQ - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "⁠AniHQ",
-                                    "url": "https://anihq.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠JustAnime - Sub / Dub / Auto-Next / Mirrors / /",
-                            "links": [
-                                {
-                                    "name": "⁠JustAnime",
-                                    "url": "https://justanime.to/"
-                                },
-                                {
-                                    "name": "Mirrors",
-                                    "url": "https://justanime.site/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/JustAnimeZone"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/P3yqksmGun"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠AniKuro , 2 - Sub / Dub / Status / /",
-                            "links": [
-                                {
-                                    "name": "⁠AniKuro",
-                                    "url": "https://anikuro.to/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://anikuro.ru/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://anikuro.site/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/+DrD7eAO7R69mZGM0"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/Svc9yFjQBq"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Anime Silo - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "⁠Anime Silo",
-                                    "url": "https://animesilo.cc/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/5myNNCqx8"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Kawaii Anime - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "Kawaii Anime",
-                                    "url": "https://kawaii-anime.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniNami - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "AniNami",
-                                    "url": "https://aninami.site/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/J2V2skvMBk"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Babyanime - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "Babyanime",
-                                    "url": "https://babyanime.top/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Luna - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "⁠Luna",
-                                    "url": "https://luna-stream.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniSnatch , 2 - Sub / Dub / /",
-                            "links": [
-                                {
-                                    "name": "AniSnatch",
-                                    "url": "https://anisnatch.top/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://anisnatch.p1y.top/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/anisnatch"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/3zrNYqeT4e"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnimeDex - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "AnimeDex",
-                                    "url": "https://animedex.fun/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/animedex"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnimeNoSub - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "AnimeNoSub",
-                                    "url": "https://animenosub.to/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Anime Nexus - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "⁠Anime Nexus",
-                                    "url": "https://anime.nexus/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/AfMau96ppt"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rive , 2 , 3 - Sub / Dub / Auto-Next / Status /",
-                            "links": [
-                                {
-                                    "name": "Rive",
-                                    "url": "https://www.rivestream.app/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://rivestream.ru/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://rivestream.vip/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://rentry.co/rivestream"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/6xJmJja8fV"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniZone - Sub",
-                            "links": [
-                                {
-                                    "name": "AniZone",
-                                    "url": "https://anizone.to/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠GojoStream - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "⁠GojoStream",
-                                    "url": "https://www.modsyndicate.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Kyren - Sub / Dub",
-                            "links": [
-                                {
-                                    "name": "⁠Kyren",
-                                    "url": "https://kyren.moe/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Yomi - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Yomi",
-                                    "url": "https://yomi.to/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Animelok - Sub / Dub / Mirrors / /",
-                            "links": [
-                                {
-                                    "name": "⁠Animelok",
-                                    "url": "https://animelok.live/"
-                                },
-                                {
-                                    "name": "Mirrors",
-                                    "url": "https://animelok.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/animerulz_xyz"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/32taxtj5BC"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Anikoto , 2 - Sub / Dub / Auto-Next / Backups",
-                            "links": [
-                                {
-                                    "name": "Anikoto",
-                                    "url": "https://anikototv.to/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://animesuge.cz/"
-                                },
-                                {
-                                    "name": "Backups",
-                                    "url": "https://animesuge.bid/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Lunar - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "⁠Lunar",
-                                    "url": "https://lunaranime.ru/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/NBBnhbFHBT"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Senshi - Sub / Dub / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Senshi",
-                                    "url": "https://senshi.live/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/bFvtjQuwjy"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnimeParadise - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "AnimeParadise",
-                                    "url": "https://www.animeparadise.moe/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/q3N6eWMMNP"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Neko Watch - Sub / Dub /",
-                            "links": [
-                                {
-                                    "name": "⁠Neko Watch",
-                                    "url": "https://nekowatch.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/52UrTJ3ytT"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnimeOnsen - Sub / 720p /",
-                            "links": [
-                                {
-                                    "name": "AnimeOnsen",
-                                    "url": "https://animeonsen.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/U56ZMrD"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnimeStream - Sub / 720p",
-                            "links": [
-                                {
-                                    "name": "AnimeStream",
-                                    "url": "https://anime.uniquestream.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FireAnime - Sub",
-                            "links": [
-                                {
-                                    "name": "FireAnime",
-                                    "url": "https://fireani.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PirateXplay - Sub / Mirrors",
-                            "links": [
-                                {
-                                    "name": "PirateXplay",
-                                    "url": "https://piratexplay.cc/home"
-                                },
-                                {
-                                    "name": "Mirrors",
-                                    "url": "https://piratexplay.com/"
                                 }
                             ]
                         },
@@ -19006,27 +18986,11 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - Multi-Site Downloader / Movies / TV / Anime / / /",
+                            "full_text": "downloadeverythingfromeverywhere - Multi-Site Aggregator / Movies / TV / Anime",
                             "links": [
                                 {
-                                    "name": "PlayTorrio",
-                                    "url": "https://playtorrio.xyz/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://playtorrio.pages.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/PlayTorrio/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV2"
+                                    "name": "downloadeverythingfromeverywhere",
+                                    "url": "https://rentry.co/FMHYB64#defe"
                                 }
                             ]
                         },
@@ -19089,6 +19053,31 @@
                                 {
                                     "name": "Ripper's Archive",
                                     "url": "https://rentry.co/FMHYB64#rippers-archive"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PlayTorrio , 2 - Multi-Site Downloader / Movies / TV / Anime / / /",
+                            "links": [
+                                {
+                                    "name": "PlayTorrio",
+                                    "url": "https://playtorrio.xyz/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://playtorrio.pages.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/PlayTorrio/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/bbkVHRHnRk"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ayman708-UX/PlayTorrioV2"
                                 }
                             ]
                         },
@@ -24880,11 +24869,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "FMSTREAM , Recommended Streams , Station Index , RadioStationWorld or Radio Browser - Radio Indexes",
+                            "full_text": "FMSTREAM / Virtual Radio , Recommended Streams , Station Index , RadioStationWorld or Radio Browser - Radio Indexes",
                             "links": [
                                 {
                                     "name": "FMSTREAM",
                                     "url": "https://fmstream.org/"
+                                },
+                                {
+                                    "name": "Virtual Radio",
+                                    "url": "https://fmstream.org/setpos.htm"
                                 },
                                 {
                                     "name": "Recommended Streams",
@@ -24944,11 +24937,15 @@
                             ]
                         },
                         {
-                            "full_text": "iHeartRadio , Mixcloud , myTuner or TuneIn - Podcasts / Radio",
+                            "full_text": "iHeartRadio / Countries , Mixcloud , myTuner or TuneIn - Podcasts / Radio",
                             "links": [
                                 {
                                     "name": "iHeartRadio",
                                     "url": "https://www.iheart.com/"
+                                },
+                                {
+                                    "name": "Countries",
+                                    "url": "https://help.iheart.com/hc//articles/228919427"
                                 },
                                 {
                                     "name": "Mixcloud",
@@ -25168,6 +25165,24 @@
                             ]
                         },
                         {
+                            "full_text": "Audiophile - Online Radio Directory",
+                            "links": [
+                                {
+                                    "name": "Audiophile",
+                                    "url": "https://audiophile.fm/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "You Radio - Online Radio Directory",
+                            "links": [
+                                {
+                                    "name": "You Radio",
+                                    "url": "https://play.you.radio/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "KWSX Radio - Online Radio / Listener Supported",
                             "links": [
                                 {
@@ -25208,17 +25223,12 @@
                             ]
                         },
                         {
-                            "full_text": "0nRadio - Online Radio Directory",
+                            "full_text": "0nRadio or 1a Radio - Online Radio Directory",
                             "links": [
                                 {
                                     "name": "0nRadio",
                                     "url": "https://www.0nradio.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "1a Radio - Online Radio Directory",
-                            "links": [
+                                },
                                 {
                                     "name": "1a Radio",
                                     "url": "https://www.1aradio.com/"
@@ -25307,24 +25317,6 @@
                             ]
                         },
                         {
-                            "full_text": "You Radio - Online Radio Directory",
-                            "links": [
-                                {
-                                    "name": "You Radio",
-                                    "url": "https://play.you.radio/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Audiophile - Online Radio Directory",
-                            "links": [
-                                {
-                                    "name": "Audiophile",
-                                    "url": "https://audiophile.fm/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Vidbox Radio - Online Radio Directory",
                             "links": [
                                 {
@@ -25334,26 +25326,16 @@
                             ]
                         },
                         {
-                            "full_text": "ShoutCast - User-Stations",
+                            "full_text": "ShoutCast , Zeno.fm or Live365 - User-Stations",
                             "links": [
                                 {
                                     "name": "ShoutCast",
                                     "url": "https://directory.shoutcast.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zeno.fm - User-Stations",
-                            "links": [
+                                },
                                 {
                                     "name": "Zeno.fm",
                                     "url": "https://zeno.fm/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Live365 - User-Stations",
-                            "links": [
+                                },
                                 {
                                     "name": "Live365",
                                     "url": "https://live365.com/"
@@ -25393,15 +25375,6 @@
                                 {
                                     "name": "deepcut.fm",
                                     "url": "https://deepcut.live/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Radiooooo - Radio / Time Machine",
-                            "links": [
-                                {
-                                    "name": "Radiooooo",
-                                    "url": "https://app.radiooooo.com/"
                                 }
                             ]
                         },
@@ -25486,7 +25459,7 @@
                             "links": [
                                 {
                                     "name": "RadioSide",
-                                    "url": "https://radioside.com/"
+                                    "url": "https://radioside.com/v1/"
                                 }
                             ]
                         },
@@ -40347,6 +40320,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Pen Fight - Pen Fight Game",
+                            "links": [
+                                {
+                                    "name": "⁠Pen Fight",
+                                    "url": "https://www.penfight.xyz/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mexican Train - Domino Train Game / Requires Sign-Up",
                             "links": [
                                 {
@@ -41171,11 +41153,15 @@
                             ]
                         },
                         {
-                            "full_text": "mizu - Browser Games",
+                            "full_text": "mizu - Browser Games /",
                             "links": [
                                 {
                                     "name": "mizu",
-                                    "url": "https://www.mizumath.com/"
+                                    "url": "https://mizumath.com/study.html"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/MwKRJkJrJB"
                                 }
                             ]
                         },
@@ -44479,7 +44465,7 @@
                             ]
                         },
                         {
-                            "full_text": "Z-Library , 2 , 3 , 4 - Books / Comics / Apps / Extensions , 2 / , 2 /",
+                            "full_text": "Z-Library , 2 , 3 , 4 , 5 - Books / Comics / Apps / Extensions , 2 / , 2 /",
                             "links": [
                                 {
                                     "name": "Z-Library",
@@ -44496,6 +44482,10 @@
                                 {
                                     "name": "4",
                                     "url": "https://z-lib.fm/"
+                                },
+                                {
+                                    "name": "5",
+                                    "url": "https://articles.sk/"
                                 },
                                 {
                                     "name": "Apps / Extensions",
@@ -59996,10 +59986,10 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Not Voodoo XX - Organic Chemistry Laboratory Techniques Guide",
+                            "full_text": "Not Voodoo ReduX - Organic Chemistry Laboratory Techniques Guide",
                             "links": [
                                 {
-                                    "name": "⁠Not Voodoo XX",
+                                    "name": "Not Voodoo ReduX",
                                     "url": "https://www.chem.rochester.edu/notvoodoo/"
                                 }
                             ]
@@ -74973,7 +74963,7 @@
                             "links": [
                                 {
                                     "name": "The Piracy Glossary",
-                                    "url": "https://paste.fmhy.net/glossary"
+                                    "url": "./"
                                 }
                             ]
                         },
@@ -78662,7 +78652,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Needrom - Stock ROM / Firmware Repo",
+                            "full_text": "⁠Needrom - Stock ROM / Firmware Repo / Use Adblock",
                             "links": [
                                 {
                                     "name": "⁠Needrom",
@@ -84838,15 +84828,6 @@
                             "links": [
                                 {
                                     "name": "BeeTV",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TeaTV (search) - Movies / TV / Requires TPlayer",
-                            "links": [
-                                {
-                                    "name": "TeaTV",
                                     "url": "https://fmhy.net/mobile/#modded-apks"
                                 }
                             ]
@@ -92261,11 +92242,15 @@
                             ]
                         },
                         {
-                            "full_text": "Proton-LinUwUx - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass",
+                            "full_text": "Proton-LinUwUx - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass / Pre-Load Library",
                             "links": [
                                 {
                                     "name": "Proton-LinUwUx",
                                     "url": "https://github.com/xshaduwulfx/proton-linuwux"
+                                },
+                                {
+                                    "name": "Pre-Load Library",
+                                    "url": "https://github.com/brcly/linuwux-runtime"
                                 }
                             ]
                         },
@@ -100033,15 +100018,6 @@
                             ]
                         },
                         {
-                            "full_text": "xigua2 - Movies / TV / Sub",
-                            "links": [
-                                {
-                                    "name": "xigua2",
-                                    "url": "https://xigua2.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Imaple - Movies / TV / Sub / 1080p",
                             "links": [
                                 {
@@ -103683,7 +103659,7 @@
                             "links": [
                                 {
                                     "name": "HDHub4u",
-                                    "url": "https://hdhub4u.tv/"
+                                    "url": "https://hdhub4u.ec/"
                                 }
                             ]
                         },
@@ -116964,6 +116940,24 @@
                             ]
                         },
                         {
+                            "full_text": "⁠CrashAtlas - Aviation Accident Database / Map",
+                            "links": [
+                                {
+                                    "name": "⁠CrashAtlas",
+                                    "url": "https://crashatlas.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Skimap.org - Detailed Ski Maps",
+                            "links": [
+                                {
+                                    "name": "Skimap.org",
+                                    "url": "https://skimap.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "LGA World Database - LGBT Legal Rights Map / Policy Tracking",
                             "links": [
                                 {
@@ -117294,15 +117288,6 @@
                                 {
                                     "name": "kakaomap",
                                     "url": "https://map.kakao.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Skimap.org - Detailed Ski Maps",
-                            "links": [
-                                {
-                                    "name": "Skimap.org",
-                                    "url": "https://skimap.org/"
                                 }
                             ]
                         },
@@ -137480,7 +137465,7 @@
                             ]
                         },
                         {
-                            "full_text": "BentoPDF - Client-Side or File PDF /",
+                            "full_text": "BentoPDF or File PDF - Client-Side /",
                             "links": [
                                 {
                                     "name": "BentoPDF",
@@ -138327,15 +138312,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠ZeroFS - Unlimited / 15 Days After Last Download / CLI /",
+                            "full_text": "⁠ZeroFS - Unlimited / 15 Days After Last Download /",
                             "links": [
                                 {
                                     "name": "⁠ZeroFS",
                                     "url": "https://zerofs.link/"
-                                },
-                                {
-                                    "name": "CLI",
-                                    "url": "https://github.com/kirmola/zerofs-cli"
                                 },
                                 {
                                     "name": "",
@@ -138457,6 +138438,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/mKyBMyeKvh"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Luffy Files - 10GB / 30 Days",
+                            "links": [
+                                {
+                                    "name": "⁠Luffy Files",
+                                    "url": "https://luffyfiles.com/"
                                 }
                             ]
                         },
@@ -138615,15 +138605,6 @@
                                 {
                                     "name": "Status",
                                     "url": "https://status.fast-file.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Luffy Files - 5GB / 30 Days",
-                            "links": [
-                                {
-                                    "name": "⁠Luffy Files",
-                                    "url": "https://luffyfiles.com/"
                                 }
                             ]
                         },
@@ -143729,11 +143710,15 @@
                             ]
                         },
                         {
-                            "full_text": "Outlook or ⁠navi.land - Number-Free Email Services",
+                            "full_text": "Outlook , ⁠Aster Mail or ⁠navi.land - Number-Free Email Services",
                             "links": [
                                 {
                                     "name": "Outlook",
                                     "url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook"
+                                },
+                                {
+                                    "name": "⁠Aster Mail",
+                                    "url": "https://astermail.org/"
                                 },
                                 {
                                     "name": "⁠navi.land",
@@ -145611,15 +145596,6 @@
                             ]
                         },
                         {
-                            "full_text": "Hidden Settings - Firefox Hidden Settings",
-                            "links": [
-                                {
-                                    "name": "Hidden Settings",
-                                    "url": "https://gitlab.com/Madis0/hidden-settings/-/blob/master/firefox.md"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Bookmark Search Plus 2 - Search Firefox Bookmarks",
                             "links": [
                                 {
@@ -145703,15 +145679,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/ShivanKaul/chromium-drift"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hidden Settings - Chromium-Based Hidden Settings",
-                            "links": [
-                                {
-                                    "name": "Hidden Settings",
-                                    "url": "https://gitlab.com/Madis0/hidden-settings/"
                                 }
                             ]
                         },
@@ -148465,16 +148432,8 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Farside / 2 , Disroot , ⁠Radical Servers , canine.tools , 4d2 , bloat.cat , Vern , ⁠NerdVPN , ⁠Privacy Redirect , ⁠Nadeko or alternative-frontends - Frontend Indexes",
+                            "full_text": "Disroot , ⁠Radical Servers , canine.tools , 4d2 , bloat.cat , Vern , ⁠NerdVPN , ⁠Privacy Redirect , ⁠Nadeko or alternative-frontends - Frontend Indexes",
                             "links": [
-                                {
-                                    "name": "Farside",
-                                    "url": "https://farside.link/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://cf.farside.link/"
-                                },
                                 {
                                     "name": "Disroot",
                                     "url": "https://disroot.org/en/#services"
@@ -162974,23 +162933,15 @@
                             ]
                         },
                         {
-                            "full_text": "Ludusavi , ⁠Ambidex , SaveState or GameSave Manager - Game Save Backup Tools / Managers",
+                            "full_text": "Ludusavi - Game Save Manager / Backup / Emulator Paths",
                             "links": [
                                 {
                                     "name": "Ludusavi",
                                     "url": "https://github.com/mtkennerly/ludusavi"
                                 },
                                 {
-                                    "name": "⁠Ambidex",
-                                    "url": "https://github.com/chwair/ambidex"
-                                },
-                                {
-                                    "name": "SaveState",
-                                    "url": "https://github.com/Matteo842/SaveState"
-                                },
-                                {
-                                    "name": "GameSave Manager",
-                                    "url": "https://www.gamesave-manager.com/"
+                                    "name": "Emulator Paths",
+                                    "url": "https://github.com/DogancanYr/ludusavi-piracy-manifest"
                                 }
                             ]
                         },
@@ -163000,6 +162951,33 @@
                                 {
                                     "name": "PCGamingWiki",
                                     "url": "https://www.pcgamingwiki.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Ambidex - Game Save Manager / Backup",
+                            "links": [
+                                {
+                                    "name": "⁠Ambidex",
+                                    "url": "https://github.com/chwair/ambidex"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SaveState - Game Save Manager / Backup",
+                            "links": [
+                                {
+                                    "name": "SaveState",
+                                    "url": "https://github.com/Matteo842/SaveState"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "GameSave Manager - Game Save Manager / Backup",
+                            "links": [
+                                {
+                                    "name": "GameSave Manager",
+                                    "url": "https://www.gamesave-manager.com/"
                                 }
                             ]
                         },
@@ -176814,15 +176792,6 @@
                             ]
                         },
                         {
-                            "full_text": "Have I Been Trained? - AI Image Search",
-                            "links": [
-                                {
-                                    "name": "Have I Been Trained?",
-                                    "url": "https://haveibeentrained.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "RootAbout - Archive / OpenLibrary Reverse Image Search",
                             "links": [
                                 {
@@ -188629,11 +188598,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "FMSTREAM , Recommended Streams , Station Index , RadioStationWorld or Radio Browser - Radio Indexes",
+                            "full_text": "FMSTREAM / Virtual Radio , Recommended Streams , Station Index , RadioStationWorld or Radio Browser - Radio Indexes",
                             "links": [
                                 {
                                     "name": "FMSTREAM",
                                     "url": "https://fmstream.org/"
+                                },
+                                {
+                                    "name": "Virtual Radio",
+                                    "url": "https://fmstream.org/setpos.htm"
                                 },
                                 {
                                     "name": "Recommended Streams",
@@ -188693,11 +188666,15 @@
                             ]
                         },
                         {
-                            "full_text": "iHeartRadio , Mixcloud , myTuner or TuneIn - Podcasts / Radio",
+                            "full_text": "iHeartRadio / Countries , Mixcloud , myTuner or TuneIn - Podcasts / Radio",
                             "links": [
                                 {
                                     "name": "iHeartRadio",
                                     "url": "https://www.iheart.com/"
+                                },
+                                {
+                                    "name": "Countries",
+                                    "url": "https://help.iheart.com/hc//articles/228919427"
                                 },
                                 {
                                     "name": "Mixcloud",
@@ -188917,6 +188894,24 @@
                             ]
                         },
                         {
+                            "full_text": "Audiophile - Online Radio Directory",
+                            "links": [
+                                {
+                                    "name": "Audiophile",
+                                    "url": "https://audiophile.fm/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "You Radio - Online Radio Directory",
+                            "links": [
+                                {
+                                    "name": "You Radio",
+                                    "url": "https://play.you.radio/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "KWSX Radio - Online Radio / Listener Supported",
                             "links": [
                                 {
@@ -188957,17 +188952,12 @@
                             ]
                         },
                         {
-                            "full_text": "0nRadio - Online Radio Directory",
+                            "full_text": "0nRadio or 1a Radio - Online Radio Directory",
                             "links": [
                                 {
                                     "name": "0nRadio",
                                     "url": "https://www.0nradio.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "1a Radio - Online Radio Directory",
-                            "links": [
+                                },
                                 {
                                     "name": "1a Radio",
                                     "url": "https://www.1aradio.com/"
@@ -189056,24 +189046,6 @@
                             ]
                         },
                         {
-                            "full_text": "You Radio - Online Radio Directory",
-                            "links": [
-                                {
-                                    "name": "You Radio",
-                                    "url": "https://play.you.radio/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Audiophile - Online Radio Directory",
-                            "links": [
-                                {
-                                    "name": "Audiophile",
-                                    "url": "https://audiophile.fm/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Vidbox Radio - Online Radio Directory",
                             "links": [
                                 {
@@ -189083,26 +189055,16 @@
                             ]
                         },
                         {
-                            "full_text": "ShoutCast - User-Stations",
+                            "full_text": "ShoutCast , Zeno.fm or Live365 - User-Stations",
                             "links": [
                                 {
                                     "name": "ShoutCast",
                                     "url": "https://directory.shoutcast.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zeno.fm - User-Stations",
-                            "links": [
+                                },
                                 {
                                     "name": "Zeno.fm",
                                     "url": "https://zeno.fm/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Live365 - User-Stations",
-                            "links": [
+                                },
                                 {
                                     "name": "Live365",
                                     "url": "https://live365.com/"
@@ -189142,15 +189104,6 @@
                                 {
                                     "name": "deepcut.fm",
                                     "url": "https://deepcut.live/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Radiooooo - Radio / Time Machine",
-                            "links": [
-                                {
-                                    "name": "Radiooooo",
-                                    "url": "https://app.radiooooo.com/"
                                 }
                             ]
                         },
@@ -189235,7 +189188,7 @@
                             "links": [
                                 {
                                     "name": "RadioSide",
-                                    "url": "https://radioside.com/"
+                                    "url": "https://radioside.com/v1/"
                                 }
                             ]
                         },
@@ -199729,10 +199682,10 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Not Voodoo XX - Organic Chemistry Laboratory Techniques Guide",
+                            "full_text": "Not Voodoo ReduX - Organic Chemistry Laboratory Techniques Guide",
                             "links": [
                                 {
-                                    "name": "⁠Not Voodoo XX",
+                                    "name": "Not Voodoo ReduX",
                                     "url": "https://www.chem.rochester.edu/notvoodoo/"
                                 }
                             ]
@@ -214706,7 +214659,7 @@
                             "links": [
                                 {
                                     "name": "The Piracy Glossary",
-                                    "url": "https://paste.fmhy.net/glossary"
+                                    "url": "./"
                                 }
                             ]
                         },
@@ -227712,6 +227665,51 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Radiooooo - Radio / Time Machine (Removed in 5447178 )",
+                            "links": [
+                                {
+                                    "name": "5447178",
+                                    "url": "https://github.com/fmhy/edit/commit/54471788b0706b9d17e4dbd67b65b412035877d5#diff-a8c7bad18f39342e1e7f8a3c2c3b35b17c4bd1d98c1bea6b67af92f85ed26892L255"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Have I Been Trained? - AI Image Search (Removed in 5447178 )",
+                            "links": [
+                                {
+                                    "name": "5447178",
+                                    "url": "https://github.com/fmhy/edit/commit/54471788b0706b9d17e4dbd67b65b412035877d5#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL419"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hidden Settings - Firefox Hidden Settings (Removed in 5447178 )",
+                            "links": [
+                                {
+                                    "name": "5447178",
+                                    "url": "https://github.com/fmhy/edit/commit/54471788b0706b9d17e4dbd67b65b412035877d5#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L648"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hidden Settings - Chromium-Based Hidden Settings (Removed in 5447178 )",
+                            "links": [
+                                {
+                                    "name": "5447178",
+                                    "url": "https://github.com/fmhy/edit/commit/54471788b0706b9d17e4dbd67b65b412035877d5#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L662"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "xigua2 - Movies / TV / Sub (Removed in 5447178 )",
+                            "links": [
+                                {
+                                    "name": "5447178",
+                                    "url": "https://github.com/fmhy/edit/commit/54471788b0706b9d17e4dbd67b65b412035877d5#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L235"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Rawg - Game Database (Removed in ee512e1 )",
                             "links": [
                                 {
@@ -228729,15 +228727,6 @@
                                 {
                                     "name": "48d06b5",
                                     "url": "https://github.com/fmhy/edit/commit/48d06b513aa87f4e19b5aca5386eef1f672b8e88#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL495"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Android-Mock-Location or GPS JoyStick Guide (root) - Fake GPS Location (Removed in 2e551a6 )",
-                            "links": [
-                                {
-                                    "name": "2e551a6",
-                                    "url": "https://github.com/fmhy/edit/commit/2e551a6be02d48ac653e2b59c9cf41e74ad42f1e#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L715"
                                 }
                             ]
                         }

@@ -9672,12 +9672,40 @@
           }
         },
         {
+          "id": "hiperdex",
+          "title": "HiperDEX",
+          "link": "https://hiperdex.com/",
+          "icon": "https://static.everythingmoe.com/icons/hiperdex.png",
+          "tags": [],
+          "rank": 7,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "manhwa",
+          "details": {
+            "positives": [
+              "Decent manhwa library"
+            ],
+            "negatives": [
+              "Manhwa only",
+              "Very basic reader"
+            ],
+            "altlinks": [
+              {
+                "name": ".tv",
+                "url": "https://hiperdex.tv/"
+              }
+            ]
+          }
+        },
+        {
           "id": "toonitube",
           "title": "TooniTube",
           "link": "https://toontop.io/home",
           "icon": "https://static.everythingmoe.com/icons/toonitube.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9715,7 +9743,7 @@
           "link": "https://read.oppai.stream/",
           "icon": "https://static.everythingmoe.com/icons/readoppai.png",
           "tags": [],
-          "rank": 8,
+          "rank": 9,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9738,7 +9766,7 @@
           "link": "https://hentai20.io/",
           "icon": "https://static.everythingmoe.com/icons/hentai20.png",
           "tags": [],
-          "rank": 9,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9777,7 +9805,7 @@
           "link": "https://comicland.org/",
           "icon": "https://static.everythingmoe.com/icons/comicland.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9799,7 +9827,7 @@
           "link": "https://hotcomics.me/",
           "icon": "https://static.everythingmoe.com/icons/toomicsfree.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9830,34 +9858,6 @@
               }
             ],
             "info": "note: default family safe is off, formerly known as ToomicsFree"
-          }
-        },
-        {
-          "id": "hiperdex",
-          "title": "HiperDEX",
-          "link": "https://hiperdex.com/",
-          "icon": "https://static.everythingmoe.com/icons/hiperdex.png",
-          "tags": [],
-          "rank": 12,
-          "is_licensed": false,
-          "is_nsfw": true,
-          "has_details": true,
-          "status": "active",
-          "section": "manhwa",
-          "details": {
-            "positives": [
-              "Decent manhwa library"
-            ],
-            "negatives": [
-              "Manhwa only",
-              "Very basic reader"
-            ],
-            "altlinks": [
-              {
-                "name": ".tv",
-                "url": "https://hiperdex.tv/"
-              }
-            ]
           }
         },
         {
@@ -10219,6 +10219,31 @@
           }
         },
         {
+          "id": "mangadistrict",
+          "title": "Manga District",
+          "link": "https://mangadistrict.com/",
+          "icon": "https://static.everythingmoe.com/icons/mangadistrict.png",
+          "tags": [
+            "nsfw"
+          ],
+          "rank": 27,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "manhwa",
+          "details": {
+            "positives": [
+              "Large library",
+              "Mostly official rips"
+            ],
+            "negatives": [
+              "basic reader"
+            ],
+            "info": "note: Upscale the images with AI (detail lost)"
+          }
+        },
+        {
           "id": "mangator",
           "title": "Mangator",
           "link": "https://mangator.com/",
@@ -10228,7 +10253,7 @@
             "Manhwa",
             "nsfw"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10254,7 +10279,7 @@
             "Manhwa",
             "nsfw"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10272,7 +10297,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10300,7 +10325,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10351,7 +10376,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10392,7 +10417,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10435,7 +10460,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10482,7 +10507,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10534,7 +10559,7 @@
             "Manhwa",
             "raw"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10555,7 +10580,7 @@
             "raw",
             "nsfw"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10582,7 +10607,7 @@
             "nsfw",
             "raw"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10603,7 +10628,7 @@
             "nsfw",
             "raw"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10625,7 +10650,7 @@
           "link": "https://kingofshojo.com/",
           "icon": "https://static.everythingmoe.com/icons/kingofshojo.png",
           "tags": [],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -10648,7 +10673,7 @@
             "nsfw",
             "scan"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10666,7 +10691,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10692,7 +10717,7 @@
             "Manhwa",
             "nsfw"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10724,7 +10749,7 @@
             "Manhwa",
             "nsfw"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -10738,30 +10763,6 @@
             "negatives": [
               "Very basic reader"
             ]
-          }
-        },
-        {
-          "id": "mangadistrict",
-          "title": "Manga District",
-          "link": "https://mangadistrict.com/",
-          "icon": "https://static.everythingmoe.com/icons/mangadistrict.png",
-          "tags": [
-            "nsfw"
-          ],
-          "rank": 44,
-          "is_licensed": false,
-          "is_nsfw": true,
-          "has_details": true,
-          "status": "active",
-          "section": "manhwa",
-          "details": {
-            "positives": [
-              "mostly official rips"
-            ],
-            "negatives": [
-              "basic reader"
-            ],
-            "info": "note: Upscale the images with AI (detail lost)"
           }
         },
         {
@@ -46185,6 +46186,34 @@
         "info": "note: Mostly NSFW manhwa, but also provides some normal manga"
       }
     },
+    "hiperdex": {
+      "id": "hiperdex",
+      "title": "HiperDEX",
+      "link": "https://hiperdex.com/",
+      "icon": "https://static.everythingmoe.com/icons/hiperdex.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "positives": [
+          "Decent manhwa library"
+        ],
+        "negatives": [
+          "Manhwa only",
+          "Very basic reader"
+        ],
+        "altlinks": [
+          {
+            "name": ".tv",
+            "url": "https://hiperdex.tv/"
+          }
+        ]
+      }
+    },
     "toonitube": {
       "id": "toonitube",
       "title": "TooniTube",
@@ -46344,34 +46373,6 @@
           }
         ],
         "info": "note: default family safe is off, formerly known as ToomicsFree"
-      }
-    },
-    "hiperdex": {
-      "id": "hiperdex",
-      "title": "HiperDEX",
-      "link": "https://hiperdex.com/",
-      "icon": "https://static.everythingmoe.com/icons/hiperdex.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": true,
-      "status": "active",
-      "sections": [
-        "manhwa"
-      ],
-      "details": {
-        "positives": [
-          "Decent manhwa library"
-        ],
-        "negatives": [
-          "Manhwa only",
-          "Very basic reader"
-        ],
-        "altlinks": [
-          {
-            "name": ".tv",
-            "url": "https://hiperdex.tv/"
-          }
-        ]
       }
     },
     "pornhwaz": {
@@ -46730,6 +46731,31 @@
         "positives": [
           "Medium library"
         ]
+      }
+    },
+    "mangadistrict": {
+      "id": "mangadistrict",
+      "title": "Manga District",
+      "link": "https://mangadistrict.com/",
+      "icon": "https://static.everythingmoe.com/icons/mangadistrict.png",
+      "tags": [
+        "nsfw"
+      ],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "positives": [
+          "Large library",
+          "Mostly official rips"
+        ],
+        "negatives": [
+          "basic reader"
+        ],
+        "info": "note: Upscale the images with AI (detail lost)"
       }
     },
     "mangator": {
@@ -47252,30 +47278,6 @@
         "negatives": [
           "Very basic reader"
         ]
-      }
-    },
-    "mangadistrict": {
-      "id": "mangadistrict",
-      "title": "Manga District",
-      "link": "https://mangadistrict.com/",
-      "icon": "https://static.everythingmoe.com/icons/mangadistrict.png",
-      "tags": [
-        "nsfw"
-      ],
-      "is_licensed": false,
-      "is_nsfw": true,
-      "status": "active",
-      "sections": [
-        "manhwa"
-      ],
-      "details": {
-        "positives": [
-          "mostly official rips"
-        ],
-        "negatives": [
-          "basic reader"
-        ],
-        "info": "note: Upscale the images with AI (detail lost)"
       }
     },
     "xtoonhub": {
