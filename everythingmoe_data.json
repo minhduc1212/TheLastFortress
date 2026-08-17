@@ -1948,6 +1948,46 @@
           }
         },
         {
+          "id": "meguanime",
+          "title": "MeguAnimes",
+          "link": "https://meguanime.com/",
+          "icon": "https://static.everythingmoe.com/icons/meguanime.png",
+          "tags": [
+            "Scraper",
+            "Self-host",
+            "Hard-sub",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 48,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Modern interface"
+            ],
+            "negatives": [
+              "Most content depends on the websites it scrapes",
+              "New site"
+            ],
+            "altlinks": [
+              {
+                "name": ".org",
+                "url": "https://meguanime.org/"
+              },
+              {
+                "name": ".net",
+                "url": "https://meguanime.net/"
+              }
+            ],
+            "info": "note: Also self host some anime"
+          }
+        },
+        {
           "id": "justanime",
           "title": "JustAnime",
           "link": "https://www.justanime.to/",
@@ -1959,7 +1999,7 @@
             "Easy download",
             "mult"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1998,7 +2038,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2024,7 +2064,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2052,7 +2092,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2081,7 +2121,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2109,7 +2149,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2136,7 +2176,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2149,46 +2189,6 @@
             "negatives": [
               "Content depends on the websites it scrapes"
             ]
-          }
-        },
-        {
-          "id": "meguanime",
-          "title": "MeguAnimes",
-          "link": "https://meguanime.com/",
-          "icon": "https://static.everythingmoe.com/icons/meguanime.png",
-          "tags": [
-            "Scraper",
-            "Self-host",
-            "Hard-sub",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 55,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options",
-              "Modern interface"
-            ],
-            "negatives": [
-              "Most content depends on the websites it scrapes",
-              "New site"
-            ],
-            "altlinks": [
-              {
-                "name": ".org",
-                "url": "https://meguanime.org/"
-              },
-              {
-                "name": ".net",
-                "url": "https://meguanime.net/"
-              }
-            ],
-            "info": "note: Also self host some anime"
           }
         },
         {
@@ -2916,6 +2916,31 @@
           }
         },
         {
+          "id": "yumezone",
+          "title": "YumeZone",
+          "link": "https://yumezone.live/",
+          "icon": "https://static.everythingmoe.com/icons/yumezone.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 77,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes",
+              "New site"
+            ],
+            "ex-info": "note: Just embed other site stream"
+          }
+        },
+        {
           "id": "1anime",
           "title": "1Anime",
           "link": "https://1anime.app",
@@ -2926,7 +2951,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2966,7 +2991,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3001,7 +3026,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3034,7 +3059,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3059,7 +3084,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3099,7 +3124,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3112,31 +3137,6 @@
             "negatives": [
               "Content depends on the websites it scrapes"
             ]
-          }
-        },
-        {
-          "id": "yumezone",
-          "title": "YumeZone",
-          "link": "https://yumezone.live/",
-          "icon": "https://static.everythingmoe.com/icons/yumezone.png",
-          "tags": [
-            "mult"
-          ],
-          "rank": 83,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes",
-              "New site"
-            ],
-            "info": "note: Just embed other site stream"
           }
         },
         {
@@ -5230,7 +5230,7 @@
     {
       "name": "hentairead",
       "title": "Hentai Reading",
-      "notes": "If you looking for Pronhwa it's onManhwasection",
+      "notes": "If you looking for Pornhwa it's onManhwasection",
       "is_graveyard": false,
       "lowcont_id": "lowcont-hentairead",
       "sites": [
@@ -38507,6 +38507,46 @@
         "info": "note: Reupload streams on demand. Videos mostly taken from Anikoto."
       }
     },
+    "meguanime": {
+      "id": "meguanime",
+      "title": "MeguAnimes",
+      "link": "https://meguanime.com/",
+      "icon": "https://static.everythingmoe.com/icons/meguanime.png",
+      "tags": [
+        "Scraper",
+        "Self-host",
+        "Hard-sub",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Modern interface"
+        ],
+        "negatives": [
+          "Most content depends on the websites it scrapes",
+          "New site"
+        ],
+        "altlinks": [
+          {
+            "name": ".org",
+            "url": "https://meguanime.org/"
+          },
+          {
+            "name": ".net",
+            "url": "https://meguanime.net/"
+          }
+        ],
+        "info": "note: Also self host some anime"
+      }
+    },
     "justanime": {
       "id": "justanime",
       "title": "JustAnime",
@@ -38709,46 +38749,6 @@
         "negatives": [
           "Content depends on the websites it scrapes"
         ]
-      }
-    },
-    "meguanime": {
-      "id": "meguanime",
-      "title": "MeguAnimes",
-      "link": "https://meguanime.com/",
-      "icon": "https://static.everythingmoe.com/icons/meguanime.png",
-      "tags": [
-        "Scraper",
-        "Self-host",
-        "Hard-sub",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options",
-          "Modern interface"
-        ],
-        "negatives": [
-          "Most content depends on the websites it scrapes",
-          "New site"
-        ],
-        "altlinks": [
-          {
-            "name": ".org",
-            "url": "https://meguanime.org/"
-          },
-          {
-            "name": ".net",
-            "url": "https://meguanime.net/"
-          }
-        ],
-        "info": "note: Also self host some anime"
       }
     },
     "itachitv": {
@@ -39475,6 +39475,31 @@
         ]
       }
     },
+    "yumezone": {
+      "id": "yumezone",
+      "title": "YumeZone",
+      "link": "https://yumezone.live/",
+      "icon": "https://static.everythingmoe.com/icons/yumezone.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes",
+          "New site"
+        ],
+        "ex-info": "note: Just embed other site stream"
+      }
+    },
     "1anime": {
       "id": "1anime",
       "title": "1Anime",
@@ -39672,31 +39697,6 @@
         "negatives": [
           "Content depends on the websites it scrapes"
         ]
-      }
-    },
-    "yumezone": {
-      "id": "yumezone",
-      "title": "YumeZone",
-      "link": "https://yumezone.live/",
-      "icon": "https://static.everythingmoe.com/icons/yumezone.png",
-      "tags": [
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes",
-          "New site"
-        ],
-        "info": "note: Just embed other site stream"
       }
     },
     "aniwaveclones": {

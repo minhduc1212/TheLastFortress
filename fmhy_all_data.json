@@ -72,19 +72,23 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Streaming: NEPU / Z-Stream / PopcornMovies",
+                            "full_text": "Streaming: NEPU / Aether / Z-Stream / Rive",
                             "links": [
                                 {
                                     "name": "NEPU",
                                     "url": "https://nepu.to/"
                                 },
                                 {
+                                    "name": "Aether",
+                                    "url": "https://aether.bar/"
+                                },
+                                {
                                     "name": "Z-Stream",
                                     "url": "https://zstream.mov/"
                                 },
                                 {
-                                    "name": "PopcornMovies",
-                                    "url": "https://popcornmovies.io/"
+                                    "name": "Rive",
+                                    "url": "https://www.rivestream.app/"
                                 }
                             ]
                         },
@@ -6147,7 +6151,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Z.ai - GLM 5.3 (Deep Think Max) / GLM 5.2 / Slides / Sign-Up / /",
+                            "full_text": "⁠Z.ai - GLM 5.2 (Deep Think Max) / GLM 5.2 / Slides / Sign-Up / /",
                             "links": [
                                 {
                                     "name": "⁠Z.ai",
@@ -6164,7 +6168,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Studio - Gemini 3.1 Pro Preview / 3.6 Flash / Gemini 3.5 Flash-Lite / Google Sign-Up / Add Features / /",
+                            "full_text": "Google AI Studio - Gemini 3.1 Pro Preview / 3.7 Flash / Gemini 3.5 Flash-Lite / Google Sign-Up / Add Features / /",
                             "links": [
                                 {
                                     "name": "Google AI Studio",
@@ -11031,37 +11035,11 @@
                             ]
                         },
                         {
-                            "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "PopcornMovies",
-                                    "url": "https://popcornmovies.io/"
-                                },
-                                {
-                                    "name": "BingeBox",
-                                    "url": "https://bingebox.to/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "P-Stream Forks - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
                                     "name": "P-Stream Forks",
                                     "url": "https://fmhy.net/video/#p-stream-forks"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinejoy - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinejoy",
-                                    "url": "https://cinejoy.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/TWKxstBuv9"
                                 }
                             ]
                         },
@@ -11103,15 +11081,28 @@
                             ]
                         },
                         {
-                            "full_text": "GOATED - Movies / TV / Anime / Auto-Next / 4K /",
+                            "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
-                                    "name": "GOATED",
-                                    "url": "https://goated.cx/"
+                                    "name": "PopcornMovies",
+                                    "url": "https://popcornmovies.io/"
+                                },
+                                {
+                                    "name": "BingeBox",
+                                    "url": "https://bingebox.to/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cinejoy - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Cinejoy",
+                                    "url": "https://cinejoy.to/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/b5SKRgX5Br"
+                                    "url": "https://discord.gg/TWKxstBuv9"
                                 }
                             ]
                         },
@@ -12044,6 +12035,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/steveyout/streamwatch"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠P-Stream Fork - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "⁠P-Stream Fork",
+                                    "url": "https://pstream.cfd/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/Yd3HG2N4Pv"
                                 }
                             ]
                         },
@@ -14311,7 +14315,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Neko Watch - Sub / Dub /",
+                            "full_text": "⁠Neko Watch - Sub / Dub / Auto-Next /",
                             "links": [
                                 {
                                     "name": "⁠Neko Watch",
@@ -14628,6 +14632,19 @@
                                 {
                                     "name": "Babyanime",
                                     "url": "https://babyanime.top/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AniClipse - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "⁠AniClipse",
+                                    "url": "https://aniclipse.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/zvD8xDhqzu"
                                 }
                             ]
                         },
@@ -17182,6 +17199,15 @@
                                 {
                                     "name": "xyzstreams",
                                     "url": "https://xyzstreams.st/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TheStreamDen",
+                            "links": [
+                                {
+                                    "name": "TheStreamDen",
+                                    "url": "https://thestreamden.com/"
                                 }
                             ]
                         },
@@ -25130,11 +25156,15 @@
                             ]
                         },
                         {
-                            "full_text": "AccuRadio - Online Radio Directory",
+                            "full_text": "AccuRadio - Online Radio Directory / Add Features",
                             "links": [
                                 {
                                     "name": "AccuRadio",
                                     "url": "https://www.accuradio.com/"
+                                },
+                                {
+                                    "name": "Add Features",
+                                    "url": "https://greasyfork.org/scripts/591641"
                                 }
                             ]
                         },
@@ -30563,19 +30593,6 @@
                             ]
                         },
                         {
-                            "full_text": "AudioRelay - Stream Audio Between Devices / Mobile (search)",
-                            "links": [
-                                {
-                                    "name": "AudioRelay",
-                                    "url": "https://audiorelay.net/"
-                                },
-                                {
-                                    "name": "Mobile",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Lyrion / Extensions",
                             "links": [
                                 {
@@ -30585,19 +30602,6 @@
                                 {
                                     "name": "Extensions",
                                     "url": "https://lyrion.org/extensions/applications/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SnapCast or SonoBus - Sound System Sync",
-                            "links": [
-                                {
-                                    "name": "SnapCast",
-                                    "url": "https://github.com/badaix/snapcast"
-                                },
-                                {
-                                    "name": "SonoBus",
-                                    "url": "https://sonobus.net/"
                                 }
                             ]
                         },
@@ -39893,19 +39897,6 @@
                             ]
                         },
                         {
-                            "full_text": "Mario Kart PC - Browser SNES Style Mario Kart / Multiplayer / Custom Maps",
-                            "links": [
-                                {
-                                    "name": "Mario Kart PC",
-                                    "url": "https://mkpc.malahieude.net/mariokart.php"
-                                },
-                                {
-                                    "name": "Custom Maps",
-                                    "url": "https://mkpc.malahieude.net/creations.php"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Super Monkey Ball Web - Browser Super Monkey Ball",
                             "links": [
                                 {
@@ -39932,15 +39923,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/RandomityGuy/MBHaxe"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Slope Plus - Downhill Ball Game",
-                            "links": [
-                                {
-                                    "name": "Slope Plus",
-                                    "url": "https://coweggs.itch.io/slope-plus"
                                 }
                             ]
                         },
@@ -40148,15 +40130,6 @@
                             ]
                         },
                         {
-                            "full_text": "JoeDangerTheGame - Trials Inspired Game",
-                            "links": [
-                                {
-                                    "name": "JoeDangerTheGame",
-                                    "url": "https://joedangerthegame.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Polka Dot Game - Dodge & Eat Dots",
                             "links": [
                                 {
@@ -40334,45 +40307,6 @@
                                 {
                                     "name": "Mexican Train",
                                     "url": "https://mexicantrain.online/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "racing-game - Driving Game / Requires Sign-Up / /",
-                            "links": [
-                                {
-                                    "name": "racing-game",
-                                    "url": "https://racing.pmnd.rs/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/dQW7fDmaAG"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/pmndrs/racing-game"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "The Race , 2 - Driving Game",
-                            "links": [
-                                {
-                                    "name": "The Race",
-                                    "url": "https://therace.montblanclegend.com/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://therace.montblancexplorer.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "slow roads - Driving Game",
-                            "links": [
-                                {
-                                    "name": "slow roads",
-                                    "url": "https://slowroads.io/"
                                 }
                             ]
                         },
@@ -40866,15 +40800,6 @@
                                 {
                                     "name": "Spatial",
                                     "url": "https://www.spatial.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠drifted - Drifting-Focused Browser Games",
-                            "links": [
-                                {
-                                    "name": "⁠drifted",
-                                    "url": "https://www.drifted.com/"
                                 }
                             ]
                         },
@@ -42332,6 +42257,101 @@
                                 {
                                     "name": "PrinceJS",
                                     "url": "https://princejs.com/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Racing / Driving",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "⁠drifted - Drifting-Focused Browser Games",
+                            "links": [
+                                {
+                                    "name": "⁠drifted",
+                                    "url": "https://www.drifted.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Mario Kart PC - Browser SNES Style Mario Kart / Multiplayer / Custom Maps",
+                            "links": [
+                                {
+                                    "name": "Mario Kart PC",
+                                    "url": "https://mkpc.malahieude.net/mariokart.php"
+                                },
+                                {
+                                    "name": "Custom Maps",
+                                    "url": "https://mkpc.malahieude.net/creations.php"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Slope Plus - Downhill Ball Game",
+                            "links": [
+                                {
+                                    "name": "Slope Plus",
+                                    "url": "https://coweggs.itch.io/slope-plus"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "racing-game - Driving Game / Requires Sign-Up / /",
+                            "links": [
+                                {
+                                    "name": "racing-game",
+                                    "url": "https://racing.pmnd.rs/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/dQW7fDmaAG"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/pmndrs/racing-game"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "The Race , 2 - Driving Game",
+                            "links": [
+                                {
+                                    "name": "The Race",
+                                    "url": "https://therace.montblanclegend.com/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://therace.montblancexplorer.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Swervle - Daily Racing Game",
+                            "links": [
+                                {
+                                    "name": "⁠Swervle",
+                                    "url": "https://swervle.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "slow roads - Driving Game",
+                            "links": [
+                                {
+                                    "name": "slow roads",
+                                    "url": "https://slowroads.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "JoeDangerTheGame - Trials Inspired Game",
+                            "links": [
+                                {
+                                    "name": "JoeDangerTheGame",
+                                    "url": "https://joedangerthegame.com/"
                                 }
                             ]
                         }
@@ -48353,7 +48373,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.com/invite/kBPYVSzwUE"
+                                    "url": "https://discord.gg/kaganeto"
                                 }
                             ]
                         },
@@ -53087,11 +53107,24 @@
                             ]
                         },
                         {
-                            "full_text": "The Greatest Books - Algorithmic Books List",
+                            "full_text": "The Greatest Books or Greater Books - Algorithmic Books Lists",
                             "links": [
                                 {
                                     "name": "The Greatest Books",
                                     "url": "https://www.thegreatestbooks.org/"
+                                },
+                                {
+                                    "name": "Greater Books",
+                                    "url": "http://www.greaterbooks.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠NPR's Books We Love - Book Discovery / Recommendations",
+                            "links": [
+                                {
+                                    "name": "⁠NPR's Books We Love",
+                                    "url": "https://apps.npr.org/best-books/"
                                 }
                             ]
                         },
@@ -53114,11 +53147,15 @@
                             ]
                         },
                         {
-                            "full_text": "GoodBooks - Book Recommendations by Influential People",
+                            "full_text": "GoodBooks or Read This Twice - Book Recommendations by Influential People",
                             "links": [
                                 {
                                     "name": "GoodBooks",
                                     "url": "https://www.goodbooks.io/"
+                                },
+                                {
+                                    "name": "Read This Twice",
+                                    "url": "https://readthistwice.com/"
                                 }
                             ]
                         },
@@ -53164,15 +53201,6 @@
                                 {
                                     "name": "Gnooks",
                                     "url": "https://www.gnooks.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠NPR's Books We Love - Book Discovery / Recommendations",
-                            "links": [
-                                {
-                                    "name": "⁠NPR's Books We Love",
-                                    "url": "https://apps.npr.org/best-books/"
                                 }
                             ]
                         },
@@ -53263,15 +53291,6 @@
                                 {
                                     "name": "Most Recommended Books",
                                     "url": "https://www.mostrecommendedbooks.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Read This Twice - Book Recommendations",
-                            "links": [
-                                {
-                                    "name": "Read This Twice",
-                                    "url": "https://readthistwice.com/"
                                 }
                             ]
                         },
@@ -63084,8 +63103,12 @@
                             ]
                         },
                         {
-                            "full_text": "⁠The Dreadnought Project - Naval History Wiki (1880-1920) /",
+                            "full_text": "NHHC or ⁠The Dreadnought Project / - Naval History Sites",
                             "links": [
+                                {
+                                    "name": "NHHC",
+                                    "url": "https://www.history.navy.mil/"
+                                },
                                 {
                                     "name": "⁠The Dreadnought Project",
                                     "url": "https://www.dreadnoughtproject.org/"
@@ -69952,7 +69975,7 @@
                             "links": [
                                 {
                                     "name": "Beej's Guide to Git",
-                                    "url": "https://beej.us/guide//"
+                                    "url": "https://beej.us/guide/"
                                 },
                                 {
                                     "name": "Git Tips",
@@ -73780,6 +73803,15 @@
                                 {
                                     "name": "⁠Student Offers",
                                     "url": "https://www.studentoffers.co/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Temp .edu Mail - Temp .edu Email Addresses",
+                            "links": [
+                                {
+                                    "name": "Temp .edu Mail",
+                                    "url": "https://fmhy.net/internet-tools/#temp-mail"
                                 }
                             ]
                         },
@@ -82446,11 +82478,11 @@
                             ]
                         },
                         {
-                            "full_text": "JoiPlay - RPG Maker Game Interpreter & more",
+                            "full_text": "JoiPlay - Game Interpreter for RPG Maker, Ren'Py, & Other Formats",
                             "links": [
                                 {
                                     "name": "JoiPlay",
-                                    "url": "https://joiplay.net/"
+                                    "url": "https://joiiplay.com/"
                                 }
                             ]
                         },
@@ -84723,6 +84755,15 @@
                                 {
                                     "name": "VivaTV",
                                     "url": "https://fmhy.net/mobile/#modded-apks"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠VueTopia - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "⁠VueTopia",
+                                    "url": "https://vuetopia.buzz/"
                                 }
                             ]
                         },
@@ -91419,15 +91460,11 @@
                             ]
                         },
                         {
-                            "full_text": "SpotX-Bash , BlockTheSpot or spotify-adblock - Spotify Adblockers",
+                            "full_text": "SpotX-Bash or spotify-adblock - Spotify Adblockers",
                             "links": [
                                 {
                                     "name": "SpotX-Bash",
                                     "url": "https://github.com/SpotX-Official/SpotX-Bash"
-                                },
-                                {
-                                    "name": "BlockTheSpot",
-                                    "url": "https://github.com/Nuzair46/BlockTheSpot-Installer"
                                 },
                                 {
                                     "name": "spotify-adblock",
@@ -92242,15 +92279,11 @@
                             ]
                         },
                         {
-                            "full_text": "Proton-LinUwUx - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass / Pre-Load Library",
+                            "full_text": "Proton-LinUwUx - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass",
                             "links": [
                                 {
                                     "name": "Proton-LinUwUx",
                                     "url": "https://github.com/xshaduwulfx/proton-linuwux"
-                                },
-                                {
-                                    "name": "Pre-Load Library",
-                                    "url": "https://github.com/brcly/linuwux-runtime"
                                 }
                             ]
                         },
@@ -96363,15 +96396,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "SpotX-Bash or BlockTheSpot - Spotify Adblockers",
+                            "full_text": "SpotX-Bash - Spotify Adblockers",
                             "links": [
                                 {
                                     "name": "SpotX-Bash",
                                     "url": "https://github.com/SpotX-Official/SpotX-Bash"
-                                },
-                                {
-                                    "name": "BlockTheSpot",
-                                    "url": "https://github.com/Nuzair46/BlockTheSpot-Installer"
                                 }
                             ]
                         },
@@ -102299,6 +102328,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Gallica - Books / Documents",
+                            "links": [
+                                {
+                                    "name": "⁠Gallica",
+                                    "url": "https://gallica.bnf.fr/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Audiocite - Audiobooks",
                             "links": [
                                 {
@@ -103287,11 +103325,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Ktuvit - Subtitles",
+                            "full_text": "Ktuvit or ⁠Wizdom - Subtitles",
                             "links": [
                                 {
                                     "name": "Ktuvit",
                                     "url": "https://www.ktuvit.me/"
+                                },
+                                {
+                                    "name": "⁠Wizdom",
+                                    "url": "https://wizdom.xyz/"
                                 }
                             ]
                         },
@@ -103591,6 +103633,15 @@
                                 {
                                     "name": "NDL",
                                     "url": "https://www.ndl.gov.in/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Tathya - Indian Datasets",
+                            "links": [
+                                {
+                                    "name": "⁠Tathya",
+                                    "url": "https://tathyakosh.in/"
                                 }
                             ]
                         },
@@ -112265,7 +112316,7 @@
                     ]
                 },
                 {
-                    "heading": "Vietnamese / Việt",
+                    "heading": "Vietnamese / Tiếng Việt",
                     "level": "h2",
                     "text_explanations": [],
                     "resource_items": [
@@ -112424,15 +112475,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠Tram Phim - Movies / TV / Anime / /",
+                            "full_text": "⁠Tram Phim - Movies / TV / Anime / Sub / 1080p / 4K / /",
                             "links": [
                                 {
                                     "name": "⁠Tram Phim",
-                                    "url": "https://tramphim1.cc/"
+                                    "url": "https://tramphim2.org/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://t.me/tramphimorg"
+                                    "url": "https://t.me/Adtramphim"
                                 },
                                 {
                                     "name": "",
@@ -112441,11 +112492,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Sofaflix - Movies / TV / Anime /",
+                            "full_text": "⁠Sofaflix - Movies / TV / Anime / Sub / 1080p /",
                             "links": [
                                 {
                                     "name": "⁠Sofaflix",
-                                    "url": "https://sofaflix.best/"
+                                    "url": "https://sofaflix.biz/"
                                 },
                                 {
                                     "name": "",
@@ -112477,15 +112528,6 @@
                                 {
                                     "name": "OPhim",
                                     "url": "https://ophim18.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "rophim - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "rophim",
-                                    "url": "https://rophim1.vip/"
                                 }
                             ]
                         },
@@ -113324,6 +113366,105 @@
                             ]
                         },
                         {
+                            "full_text": "Ripped - Piracy Index /",
+                            "links": [
+                                {
+                                    "name": "Ripped",
+                                    "url": "https://ripped.guide/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/6qVr2aR"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "r/PiratedGames Megathread - Game Piracy Index /",
+                            "links": [
+                                {
+                                    "name": "r/PiratedGames Megathread",
+                                    "url": "https://rentry.org/pgames"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/dZWwhUy"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CS.RIN Mega - Game Piracy Index",
+                            "links": [
+                                {
+                                    "name": "CS.RIN Mega",
+                                    "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "privateersclub - Game Piracy Index /",
+                            "links": [
+                                {
+                                    "name": "privateersclub",
+                                    "url": "https://privateers.wiki/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/jz8dUnnD6Q"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Wotaku - Otaku Index /",
+                            "links": [
+                                {
+                                    "name": "Wotaku",
+                                    "url": "https://wotaku.wiki/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/vShRGx8ZBC"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "EverythingMoe , 2 - Otaku Media Index / /",
+                            "links": [
+                                {
+                                    "name": "EverythingMoe",
+                                    "url": "https://everythingmoe.com/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://everythingmoe.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/everythingmoe/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/GuueaDgKdS"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "The Index - Japanese Piracy Index / Bookmarking Site / Wiki /",
+                            "links": [
+                                {
+                                    "name": "The Index",
+                                    "url": "https://theindex.moe"
+                                },
+                                {
+                                    "name": "Wiki",
+                                    "url": "https://thewiki.moe/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/Snackbox"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Dan's Guides - List of Guides by Dan",
                             "links": [
                                 {
@@ -113457,6 +113598,59 @@
                             ]
                         },
                         {
+                            "full_text": "Pixelated Pathways , 2 - Site / Tool Index",
+                            "links": [
+                                {
+                                    "name": "Pixelated Pathways",
+                                    "url": "https://courage-1984.github.io/pixelated-pathways/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://rentry.org/Pixelated_Pathways"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "OSS Insight or sourcehut - Public Project Indexes",
+                            "links": [
+                                {
+                                    "name": "OSS Insight",
+                                    "url": "https://ossinsight.io/"
+                                },
+                                {
+                                    "name": "sourcehut",
+                                    "url": "https://sr.ht/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ibiblio - Site / Tool Index",
+                            "links": [
+                                {
+                                    "name": "ibiblio",
+                                    "url": "https://www.ibiblio.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "unapothecary's terminal - Site / Tool Index",
+                            "links": [
+                                {
+                                    "name": "unapothecary's terminal",
+                                    "url": "https://unapothecary.neocities.org/websites"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "mw.rat.bz - Site / Tool Index",
+                            "links": [
+                                {
+                                    "name": "mw.rat.bz",
+                                    "url": "https://mw.rat.bz/index.html"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SmartLinks - Website Directory",
                             "links": [
                                 {
@@ -113520,19 +113714,6 @@
                                 {
                                     "name": "Open Sustainable Technology",
                                     "url": "https://opensustain.tech/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "OldSchoolSitesCatalogue or href.cool - Oldschool Site Indexes",
-                            "links": [
-                                {
-                                    "name": "OldSchoolSitesCatalogue",
-                                    "url": "https://github.com/rarelygoeshere/OldSchoolSitesCatalogue"
-                                },
-                                {
-                                    "name": "href.cool",
-                                    "url": "https://href.cool/"
                                 }
                             ]
                         },
@@ -113603,184 +113784,244 @@
                             ]
                         },
                         {
-                            "full_text": "sourcehut - Public Project Index",
+                            "full_text": "OldSchoolSitesCatalogue , 404PageFound or href.cool - Oldschool Site Indexes",
                             "links": [
                                 {
-                                    "name": "sourcehut",
-                                    "url": "https://sr.ht/"
+                                    "name": "OldSchoolSitesCatalogue",
+                                    "url": "https://github.com/rarelygoeshere/OldSchoolSitesCatalogue"
+                                },
+                                {
+                                    "name": "404PageFound",
+                                    "url": "https://www.404pagefound.com/"
+                                },
+                                {
+                                    "name": "href.cool",
+                                    "url": "https://href.cool/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Funny / Useless - Funny / Useless Websites",
+                            "links": [
+                                {
+                                    "name": "Funny / Useless",
+                                    "url": "https://rentry.org/aksry2vc"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Websites From Hell - Shitty Websites",
+                            "links": [
+                                {
+                                    "name": "Websites From Hell",
+                                    "url": "https://websitesfromhell.net/"
                                 }
                             ]
                         }
                     ]
                 },
                 {
-                    "heading": "Site / Tool Indexes",
+                    "heading": "Random Sites / Discovery",
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Ripped - Piracy Index /",
+                            "full_text": "Random FMHY Sites - Find Random Sites Listed on FMHY / Works Per Page / Use Button , 2",
                             "links": [
                                 {
-                                    "name": "Ripped",
-                                    "url": "https://ripped.guide/"
+                                    "name": "Random FMHY Sites",
+                                    "url": "https://ffmhy.pages.dev/"
                                 },
                                 {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/6qVr2aR"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "r/PiratedGames Megathread - Game Piracy Index /",
-                            "links": [
-                                {
-                                    "name": "r/PiratedGames Megathread",
-                                    "url": "https://rentry.org/pgames"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/dZWwhUy"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CS.RIN Mega - Game Piracy Index",
-                            "links": [
-                                {
-                                    "name": "CS.RIN Mega",
-                                    "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "privateersclub - Game Piracy Index /",
-                            "links": [
-                                {
-                                    "name": "privateersclub",
-                                    "url": "https://privateers.wiki/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/jz8dUnnD6Q"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Wotaku - Otaku Index /",
-                            "links": [
-                                {
-                                    "name": "Wotaku",
-                                    "url": "https://wotaku.wiki/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/vShRGx8ZBC"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "EverythingMoe , 2 - Otaku Media Index / /",
-                            "links": [
-                                {
-                                    "name": "EverythingMoe",
-                                    "url": "https://everythingmoe.com/"
+                                    "name": "Use Button",
+                                    "url": "https://i.ibb.co/xrqkVGJ/image.png"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://everythingmoe.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/everythingmoe/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/GuueaDgKdS"
+                                    "url": "https://i.imgur.com/88eNtD4.png"
                                 }
                             ]
                         },
                         {
-                            "full_text": "The Index - Japanese Piracy Index / Bookmarking Site / Wiki /",
+                            "full_text": "Vijay's Virtual Vibes - Find Random Sites / iFrame Version",
                             "links": [
                                 {
-                                    "name": "The Index",
-                                    "url": "https://theindex.moe"
+                                    "name": "Vijay's Virtual Vibes",
+                                    "url": "https://vijaysvibes.uk/"
                                 },
                                 {
-                                    "name": "Wiki",
-                                    "url": "https://thewiki.moe/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/Snackbox"
+                                    "name": "iFrame Version",
+                                    "url": "https://vijaysvibes.uk/iframe-version.html"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Delightful Creative Tools - Media Creation Index",
+                            "full_text": "Chance - Find Random Sites",
                             "links": [
                                 {
-                                    "name": "Delightful Creative Tools",
-                                    "url": "https://codeberg.org/ADHDefy/delightful-creative-tools"
+                                    "name": "Chance",
+                                    "url": "https://chanceapp.io/?c=CHANCE-FMHY-DOOR"
                                 }
                             ]
                         },
                         {
-                            "full_text": "refdesk.com - Fact-checking Index",
+                            "full_text": "Visit A Random Website - Find Random Sites",
                             "links": [
                                 {
-                                    "name": "refdesk.com",
-                                    "url": "https://www.refdesk.com/toc.html"
+                                    "name": "Visit A Random Website",
+                                    "url": "https://visitarandomwebsite.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Pixelated Pathways , 2 - Site / Tool Index",
+                            "full_text": "BoredButton - Find Random Sites",
                             "links": [
                                 {
-                                    "name": "Pixelated Pathways",
-                                    "url": "https://courage-1984.github.io/pixelated-pathways/"
+                                    "name": "BoredButton",
+                                    "url": "https://www.boredbutton.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Mx Tynehorne’s Cabinet - Find Random Sites",
+                            "links": [
+                                {
+                                    "name": "Mx Tynehorne’s Cabinet",
+                                    "url": "https://satyrs.eu/linkroll"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "The Useless Web , 2 - Find Random Sites",
+                            "links": [
+                                {
+                                    "name": "The Useless Web",
+                                    "url": "https://theuselessweb.com/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://rentry.org/Pixelated_Pathways"
+                                    "url": "https://theuselessweb.site/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "OSS Insight - GitHub Project Indexes",
+                            "full_text": "JumpStick - Find Random Sites",
                             "links": [
                                 {
-                                    "name": "OSS Insight",
-                                    "url": "https://ossinsight.io/"
+                                    "name": "JumpStick",
+                                    "url": "https://jumpstick.app/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "ibiblio - Site / Tool Index",
+                            "full_text": "Trilzo - Find Random Sites",
                             "links": [
                                 {
-                                    "name": "ibiblio",
-                                    "url": "https://www.ibiblio.org/"
+                                    "name": "Trilzo",
+                                    "url": "https://www.trilzo.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "unapothecary's terminal - Site / Tool Index",
+                            "full_text": "OpenBulkURL - Find Random Sites",
                             "links": [
                                 {
-                                    "name": "unapothecary's terminal",
-                                    "url": "https://unapothecary.neocities.org/websites"
+                                    "name": "OpenBulkURL",
+                                    "url": "https://openbulkurl.com/random/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "mw.rat.bz - Site / Tool Index",
+                            "full_text": "ViralWalk - Find Random Sites",
                             "links": [
                                 {
-                                    "name": "mw.rat.bz",
-                                    "url": "https://mw.rat.bz/index.html"
+                                    "name": "ViralWalk",
+                                    "url": "https://www.viralwalk.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Stumbleupon - Find Random Sites",
+                            "links": [
+                                {
+                                    "name": "Stumbleupon",
+                                    "url": "https://stumbleupon.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "The Forest - Find Random Sites",
+                            "links": [
+                                {
+                                    "name": "The Forest",
+                                    "url": "https://theforest.link/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PortalPioneer - Find Random Sites",
+                            "links": [
+                                {
+                                    "name": "PortalPioneer",
+                                    "url": "https://www.portalpioneer.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WhatsMYIP - Find Random Sites",
+                            "links": [
+                                {
+                                    "name": "WhatsMYIP",
+                                    "url": "http://random.whatsmyip.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Random-Website - Find Random Sites",
+                            "links": [
+                                {
+                                    "name": "Random-Website",
+                                    "url": "https://random-website.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Wilderness Land - Find Random Sites",
+                            "links": [
+                                {
+                                    "name": "Wilderness Land",
+                                    "url": "https://wilderness.land/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CloudHiker - Find Random Sites",
+                            "links": [
+                                {
+                                    "name": "CloudHiker",
+                                    "url": "https://cloudhiker.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WebRelic - Find Random Retro Sites",
+                            "links": [
+                                {
+                                    "name": "WebRelic",
+                                    "url": "https://www.webrelics.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HyperText - Random Sites / TV Channel Style /",
+                            "links": [
+                                {
+                                    "name": "HyperText",
+                                    "url": "https://hypertext.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/evadecker/hypertext.tv"
                                 }
                             ]
                         }
@@ -123783,12 +124024,6 @@
                     "heading": "Electronics",
                     "level": "h3",
                     "text_explanations": [],
-                    "resource_items": []
-                },
-                {
-                    "heading": "PC / Laptop Building",
-                    "level": "h3",
-                    "text_explanations": [],
                     "resource_items": [
                         {
                             "full_text": "PCPartPicker , BuildCores / / or CGDirector - PC Building Sites",
@@ -129654,29 +129889,11 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Funny / Useless - Funny / Useless Websites",
+                            "full_text": "️ Random Sites / Discovery",
                             "links": [
                                 {
-                                    "name": "Funny / Useless",
-                                    "url": "https://rentry.org/aksry2vc"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Websites From Hell - Shitty Websites",
-                            "links": [
-                                {
-                                    "name": "Websites From Hell",
-                                    "url": "https://websitesfromhell.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "404PageFound - Old Websites",
-                            "links": [
-                                {
-                                    "name": "404PageFound",
-                                    "url": "https://www.404pagefound.com/"
+                                    "name": "Random Sites / Discovery",
+                                    "url": "https://fmhy.net/misc/#random-sites-discovery"
                                 }
                             ]
                         },
@@ -129686,36 +129903,6 @@
                                 {
                                     "name": "Neal.fun",
                                     "url": "https://neal.fun/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Random FMHY Sites - Find Random Sites Listed on FMHY / Works Per Page / Use Button , 2",
-                            "links": [
-                                {
-                                    "name": "Random FMHY Sites",
-                                    "url": "https://ffmhy.pages.dev/"
-                                },
-                                {
-                                    "name": "Use Button",
-                                    "url": "https://i.ibb.co/xrqkVGJ/image.png"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://i.imgur.com/88eNtD4.png"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Vijay's Virtual Vibes - Find Random Sites / iFrame Version",
-                            "links": [
-                                {
-                                    "name": "Vijay's Virtual Vibes",
-                                    "url": "https://vijaysvibes.uk/"
-                                },
-                                {
-                                    "name": "iFrame Version",
-                                    "url": "https://vijaysvibes.uk/iframe-version.html"
                                 }
                             ]
                         },
@@ -130048,167 +130235,6 @@
                                 {
                                     "name": "The Red Button",
                                     "url": "https://clicktheredbutton.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Visit A Random Website - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "Visit A Random Website",
-                                    "url": "https://visitarandomwebsite.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BoredButton - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "BoredButton",
-                                    "url": "https://www.boredbutton.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Mx Tynehorne’s Cabinet - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "Mx Tynehorne’s Cabinet",
-                                    "url": "https://satyrs.eu/linkroll"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "The Useless Web , 2 - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "The Useless Web",
-                                    "url": "https://theuselessweb.com/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://theuselessweb.site/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "JumpStick - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "JumpStick",
-                                    "url": "https://jumpstick.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Trilzo - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "Trilzo",
-                                    "url": "https://www.trilzo.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "OpenBulkURL - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "OpenBulkURL",
-                                    "url": "https://openbulkurl.com/random/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ViralWalk - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "ViralWalk",
-                                    "url": "https://www.viralwalk.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Stumbleupon - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "Stumbleupon",
-                                    "url": "https://stumbleupon.cc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "The Forest - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "The Forest",
-                                    "url": "https://theforest.link/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PortalPioneer - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "PortalPioneer",
-                                    "url": "https://www.portalpioneer.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "WhatsMYIP - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "WhatsMYIP",
-                                    "url": "http://random.whatsmyip.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Random-Website - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "Random-Website",
-                                    "url": "https://random-website.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Wilderness Land - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "Wilderness Land",
-                                    "url": "https://wilderness.land/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "CloudHiker - Find Random Sites",
-                            "links": [
-                                {
-                                    "name": "CloudHiker",
-                                    "url": "https://cloudhiker.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "WebRelic - Find Random Retro Sites",
-                            "links": [
-                                {
-                                    "name": "WebRelic",
-                                    "url": "https://www.webrelics.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "HyperText - Random Sites / TV Channel Style /",
-                            "links": [
-                                {
-                                    "name": "HyperText",
-                                    "url": "https://hypertext.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/evadecker/hypertext.tv"
                                 }
                             ]
                         },
@@ -133848,6 +133874,27 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/B7e8cM76PM"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AudioRelay / Mobile (search), SnapCast or SonoBus - Sync Audio Input/Output between Devices",
+                            "links": [
+                                {
+                                    "name": "AudioRelay",
+                                    "url": "https://audiorelay.net/"
+                                },
+                                {
+                                    "name": "Mobile",
+                                    "url": "https://fmhy.net/mobile/#modded-apks"
+                                },
+                                {
+                                    "name": "SnapCast",
+                                    "url": "https://github.com/badaix/snapcast"
+                                },
+                                {
+                                    "name": "SonoBus",
+                                    "url": "https://sonobus.net/"
                                 }
                             ]
                         },
@@ -148432,7 +148479,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Disroot , ⁠Radical Servers , canine.tools , 4d2 , bloat.cat , Vern , ⁠NerdVPN , ⁠Privacy Redirect , ⁠Nadeko or alternative-frontends - Frontend Indexes",
+                            "full_text": "Disroot , ⁠Radical Servers , canine.tools , 4d2 , bloat.cat , ⁠NerdVPN , ⁠Privacy Redirect , ⁠Nadeko or alternative-frontends - Frontend Indexes",
                             "links": [
                                 {
                                     "name": "Disroot",
@@ -148444,7 +148491,7 @@
                                 },
                                 {
                                     "name": "canine.tools",
-                                    "url": "https://canine.tools/services/"
+                                    "url": "https://canine.tools/services"
                                 },
                                 {
                                     "name": "4d2",
@@ -148453,10 +148500,6 @@
                                 {
                                     "name": "bloat.cat",
                                     "url": "https://bloat.cat/"
-                                },
-                                {
-                                    "name": "Vern",
-                                    "url": "https://vern.cc/eng/services"
                                 },
                                 {
                                     "name": "⁠NerdVPN",
@@ -152548,15 +152591,11 @@
                             ]
                         },
                         {
-                            "full_text": "IMG_0001 , Farscroll , YTStalker , Gloria o Devoto or Random Video - Find Random / Obscure YouTube Videos",
+                            "full_text": "IMG_0001 , YTStalker , Gloria o Devoto or Random Video - Find Random / Obscure YouTube Videos",
                             "links": [
                                 {
                                     "name": "IMG_0001",
                                     "url": "https://walzr.com/IMG_0001"
-                                },
-                                {
-                                    "name": "Farscroll",
-                                    "url": "https://farscroll.vercel.app/"
                                 },
                                 {
                                     "name": "YTStalker",
@@ -153960,7 +153999,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "KittyGram , 2 / / , ⁠InstaScope or Imginn - Instagram Frontends / Viewers",
+                            "full_text": "KittyGram , 2 / / or Imginn - Instagram Frontends / Viewers",
                             "links": [
                                 {
                                     "name": "KittyGram",
@@ -153977,10 +154016,6 @@
                                 {
                                     "name": "",
                                     "url": "https://codeberg.org/irelephant/kittygram"
-                                },
-                                {
-                                    "name": "⁠InstaScope",
-                                    "url": "https://insta-profile-viewer.pages.dev/"
                                 },
                                 {
                                     "name": "Imginn",
@@ -165688,7 +165723,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://github.com/pelican-dev/panel"
+                                    "url": "https://github.com/pelican/panel"
                                 },
                                 {
                                     "name": "Pterodactyl",
@@ -166447,8 +166482,20 @@
                             ]
                         },
                         {
-                            "full_text": "LAN Play Status or Switch-LAN-Play / - Switch Multiplayer Servers",
+                            "full_text": "⁠Nextendo Network / / , LAN Play Status or Switch-LAN-Play / - Switch Multiplayer Servers",
                             "links": [
+                                {
+                                    "name": "⁠Nextendo Network",
+                                    "url": "https://www.nextendo.network/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/XPfeCMwnzQ"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/NextendoNetwork"
+                                },
                                 {
                                     "name": "LAN Play Status",
                                     "url": "http://www.lan-play.com/"
@@ -167449,7 +167496,7 @@
                             ]
                         },
                         {
-                            "full_text": "Skyblock Resources - ⁠Hypixel Skyblock Resources / Wiki",
+                            "full_text": "Skyblock Resources / Wiki or SkyblockRes - ⁠Hypixel Skyblock Resources",
                             "links": [
                                 {
                                     "name": "Skyblock Resources",
@@ -167458,6 +167505,10 @@
                                 {
                                     "name": "Wiki",
                                     "url": "https://hypixelskyblock.minecraft.wiki/"
+                                },
+                                {
+                                    "name": "SkyblockRes",
+                                    "url": "https://rentry.co/skyblockres"
                                 }
                             ]
                         },
@@ -175298,19 +175349,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠UTDR SoupGen or ⁠Undertale Text Gen / - ⁠Undertale / Deltarune Text Box Generators",
+                            "full_text": "⁠UTDR SoupGen or Undertale Textbox Gen - ⁠Undertale / Deltarune Text Box Generators",
                             "links": [
                                 {
                                     "name": "⁠UTDR SoupGen",
                                     "url": "https://github.com/SoupTaels/UTDR-SoupGen"
                                 },
                                 {
-                                    "name": "⁠Undertale Text Gen",
-                                    "url": "https://undertaletextboxgenerator.online/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/3EzQmbGz6h"
+                                    "name": "Undertale Textbox Gen",
+                                    "url": "https://www.demirramon.com/generators/undertale_text_box_generator"
                                 }
                             ]
                         },
@@ -188859,11 +188906,15 @@
                             ]
                         },
                         {
-                            "full_text": "AccuRadio - Online Radio Directory",
+                            "full_text": "AccuRadio - Online Radio Directory / Add Features",
                             "links": [
                                 {
                                     "name": "AccuRadio",
                                     "url": "https://www.accuradio.com/"
+                                },
+                                {
+                                    "name": "Add Features",
+                                    "url": "https://greasyfork.org/scripts/591641"
                                 }
                             ]
                         },
@@ -194292,19 +194343,6 @@
                             ]
                         },
                         {
-                            "full_text": "AudioRelay - Stream Audio Between Devices / Mobile (search)",
-                            "links": [
-                                {
-                                    "name": "AudioRelay",
-                                    "url": "https://audiorelay.net/"
-                                },
-                                {
-                                    "name": "Mobile",
-                                    "url": "https://fmhy.net/mobile/#modded-apks"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Lyrion / Extensions",
                             "links": [
                                 {
@@ -194314,19 +194352,6 @@
                                 {
                                     "name": "Extensions",
                                     "url": "https://lyrion.org/extensions/applications/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SnapCast or SonoBus - Sound System Sync",
-                            "links": [
-                                {
-                                    "name": "SnapCast",
-                                    "url": "https://github.com/badaix/snapcast"
-                                },
-                                {
-                                    "name": "SonoBus",
-                                    "url": "https://sonobus.net/"
                                 }
                             ]
                         },
@@ -202780,8 +202805,12 @@
                             ]
                         },
                         {
-                            "full_text": "⁠The Dreadnought Project - Naval History Wiki (1880-1920) /",
+                            "full_text": "NHHC or ⁠The Dreadnought Project / - Naval History Sites",
                             "links": [
+                                {
+                                    "name": "NHHC",
+                                    "url": "https://www.history.navy.mil/"
+                                },
                                 {
                                     "name": "⁠The Dreadnought Project",
                                     "url": "https://www.dreadnoughtproject.org/"
@@ -209648,7 +209677,7 @@
                             "links": [
                                 {
                                     "name": "Beej's Guide to Git",
-                                    "url": "https://beej.us/guide//"
+                                    "url": "https://beej.us/guide/"
                                 },
                                 {
                                     "name": "Git Tips",
@@ -213480,6 +213509,15 @@
                             ]
                         },
                         {
+                            "full_text": "Temp .edu Mail - Temp .edu Email Addresses",
+                            "links": [
+                                {
+                                    "name": "Temp .edu Mail",
+                                    "url": "https://fmhy.net/internet-tools/#temp-mail"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Better Canvas - Canvas Enhancement Extension",
                             "links": [
                                 {
@@ -216727,7 +216765,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "OSS Insight - GitHub Project Index",
+                            "full_text": "OSS Insight - GitHub Project Indexes",
                             "links": [
                                 {
                                     "name": "OSS Insight",
@@ -227665,6 +227703,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "rophim - Movies / TV / Anime (Removed in 8ed864c )",
+                            "links": [
+                                {
+                                    "name": "8ed864c",
+                                    "url": "https://github.com/fmhy/edit/commit/8ed864c4ae77028dc63097a0aea582ab37e750a5#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1785"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "refdesk.com - Fact-checking Index (Removed in b13d431 )",
+                            "links": [
+                                {
+                                    "name": "b13d431",
+                                    "url": "https://github.com/fmhy/edit/commit/b13d4311a7beed94a1a2ead3a642df1c4dd081ec#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL51"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Radiooooo - Radio / Time Machine (Removed in 5447178 )",
                             "links": [
                                 {
@@ -228711,24 +228767,6 @@
                                     "url": "https://github.com/fmhy/edit/commit/28cbdbe4e89b78ba5ba0658dc40a3212836b3c5c#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL500"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "⁠Hy3-preview - ⁠Hy3-preview / Unlimited (Removed in 48d06b5 )",
-                            "links": [
-                                {
-                                    "name": "48d06b5",
-                                    "url": "https://github.com/fmhy/edit/commit/48d06b513aa87f4e19b5aca5386eef1f672b8e88#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L35"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "LiveHDTV - TV (Removed in 48d06b5 )",
-                            "links": [
-                                {
-                                    "name": "48d06b5",
-                                    "url": "https://github.com/fmhy/edit/commit/48d06b513aa87f4e19b5aca5386eef1f672b8e88#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL495"
-                                }
-                            ]
                         }
                     ]
                 }
@@ -229066,7 +229104,7 @@
                     "heading": "Design Resources",
                     "level": "h2",
                     "text_explanations": [
-                        "design-resources-for-developers,Freebies.ByPeople,Design Bundles,Design Resources,PSDDD.co,GraphicsFuel,Pixeden,Sketch Repo,Interfacer,Freebiesbug,Sketch App Sources,FreebiesUI,Creative Fabrica,Toools.design/2/3,Evernote.Design,GFXTRA,XSGames,design.dev,UI STORE DESIGN,Pixelbuddha,squax,𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕,all 4 designer,GFXMountain,degreeless,CraftWork"
+                        "design-resources-for-developers,Freebies.ByPeople,Design Bundles,Design Resources,PSDDD.co,GraphicsFuel,Pixeden,Sketch Repo,Interfacer,Freebiesbug,Sketch App Sources,FreebiesUI,Creative Fabrica,Toools.design/2/3,Evernote.Design,GFXTRA,XSGames,design.dev,UI STORE DESIGN,Pixelbuddha,squax,𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕,all 4 designer,GFXMountain,degreeless,CraftWork,Delightful Creative Tools"
                     ],
                     "resource_items": [
                         {
