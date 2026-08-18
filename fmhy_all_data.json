@@ -11748,6 +11748,19 @@
                             ]
                         },
                         {
+                            "full_text": "NOVERA - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "NOVERA",
+                                    "url": "https://novera.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/g7J4AmpRJg"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "NetPlay or Cinelove - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -11774,6 +11787,15 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/ScreenScapee"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "DULO - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "DULO",
+                                    "url": "https://dulo.cx/"
                                 }
                             ]
                         },
@@ -12166,6 +12188,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/nepu"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "SceneLumen - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "SceneLumen",
+                                    "url": "https://scenelumen.com/"
                                 }
                             ]
                         },
@@ -16709,11 +16740,15 @@
                             ]
                         },
                         {
-                            "full_text": "TimStreams - Live Events /",
+                            "full_text": "TimStreams , 2 - Live Events /",
                             "links": [
                                 {
                                     "name": "TimStreams",
                                     "url": "https://timstreams.st/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://timst.cfd/"
                                 },
                                 {
                                     "name": "",
@@ -17061,7 +17096,7 @@
                                 },
                                 {
                                     "name": "Mirrors",
-                                    "url": "https://daddylive.nl/"
+                                    "url": "https://daddylive.at/"
                                 },
                                 {
                                     "name": "",
@@ -41418,11 +41453,15 @@
                             ]
                         },
                         {
-                            "full_text": "PandaBomber - Multiplayer Bomberman Style Game /",
+                            "full_text": "PandaBomber or Game Of Bombs / - Multiplayer Bomberman Style Games",
                             "links": [
                                 {
                                     "name": "PandaBomber",
                                     "url": "https://pandabomber.gg/"
+                                },
+                                {
+                                    "name": "Game Of Bombs",
+                                    "url": "https://gameofbombs.com/"
                                 },
                                 {
                                     "name": "",
@@ -53307,6 +53346,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Dan's Library - Book Recommendations",
+                            "links": [
+                                {
+                                    "name": "⁠Dan's Library",
+                                    "url": "https://rentry.co/danslibrary/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Hacker Recommended Books - Book Recommendations",
                             "links": [
                                 {
@@ -62830,6 +62878,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "⁠WW2 Links - Educational WW2 Resources",
+                            "links": [
+                                {
+                                    "name": "⁠WW2 Links",
+                                    "url": "https://ww2links.ca/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "️ Historical Film Archives",
                             "links": [
                                 {
@@ -62862,15 +62919,6 @@
                                 {
                                     "name": "Historical Maps",
                                     "url": "https://fmhy.net/misc/#historical-maps"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "️ ⁠WW2 Links - Educational WW2 Resources",
-                            "links": [
-                                {
-                                    "name": "⁠WW2 Links",
-                                    "url": "https://ww2links.ca/"
                                 }
                             ]
                         },
@@ -63103,6 +63151,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/Keeping-History/rt911"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠World War II Database - WW2 History Database",
+                            "links": [
+                                {
+                                    "name": "⁠World War II Database",
+                                    "url": "https://ww2db.com/"
                                 }
                             ]
                         },
@@ -92365,7 +92422,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://github.com/madoiscool/ltsteamplugin"
+                                    "url": "https://github.com/madoiscool/LuaTools"
                                 }
                             ]
                         },
@@ -104614,15 +104671,6 @@
                             ]
                         },
                         {
-                            "full_text": "lk21official - Movies / TV / Anime / Region Locked",
-                            "links": [
-                                {
-                                    "name": "lk21official",
-                                    "url": "https://tv6.lk21official.cc/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Kusonime - Anime / Sub / Dub / 1080p /",
                             "links": [
                                 {
@@ -104775,15 +104823,6 @@
                                 {
                                     "name": "Komiku",
                                     "url": "https://komiku.id/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Komikcast - Manga",
-                            "links": [
-                                {
-                                    "name": "Komikcast",
-                                    "url": "https://komikcast.com"
                                 }
                             ]
                         },
@@ -113794,7 +113833,7 @@
                             ]
                         },
                         {
-                            "full_text": "Websites From Hell - Shitty Websites",
+                            "full_text": "Websites From Hell - Sites with Questionable Designs",
                             "links": [
                                 {
                                     "name": "Websites From Hell",
@@ -113809,19 +113848,6 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
-                        {
-                            "full_text": "GitHub Rankings - Git Project Rankings /",
-                            "links": [
-                                {
-                                    "name": "GitHub Rankings",
-                                    "url": "https://evanli.github.io/Github-Ranking/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/EvanLi/Github-Ranking"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "Active GitHub Forks - Active Fork Index",
                             "links": [
@@ -113909,6 +113935,19 @@
                                 {
                                     "name": "GitPlanet",
                                     "url": "https://gitplanet.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "GitHub Rankings - Git Project Rankings /",
+                            "links": [
+                                {
+                                    "name": "GitHub Rankings",
+                                    "url": "https://evanli.github.io/Github-Ranking/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/EvanLi/Github-Ranking"
                                 }
                             ]
                         }
@@ -164325,7 +164364,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://github.com/madoiscool/ltsteamplugin"
+                                    "url": "https://github.com/madoiscool/LuaTools"
                                 }
                             ]
                         },
@@ -164799,7 +164838,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://github.com/madoiscool/ltsteamplugin"
+                                    "url": "https://github.com/madoiscool/LuaTools"
                                 }
                             ]
                         },
@@ -173722,11 +173761,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "ObjectRemover , Inpaint or HAMA - Object Removers",
+                            "full_text": "ObjectRemover , wipe.photos , Inpaint or HAMA - Object Removers",
                             "links": [
                                 {
                                     "name": "ObjectRemover",
                                     "url": "https://objectremover.com/"
+                                },
+                                {
+                                    "name": "wipe.photos",
+                                    "url": "https://wipe.photos/"
                                 },
                                 {
                                     "name": "Inpaint",
@@ -175443,6 +175486,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠OneShot Textbox Generator - OneShot Text Box Generator",
+                            "links": [
+                                {
+                                    "name": "⁠OneShot Textbox Generator",
+                                    "url": "https://www.nikodev.xyz/textbox"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Objection! - Ace Attorney Courtroom / Objection Generator",
                             "links": [
                                 {
@@ -175640,6 +175692,15 @@
                                 {
                                     "name": "SMPoster",
                                     "url": "https://www.smposter.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Annual Report Archive - Vintage Corporate Annual Report Covers",
+                            "links": [
+                                {
+                                    "name": "⁠Annual Report Archive",
+                                    "url": "https://annualreport.gallery/"
                                 }
                             ]
                         },
@@ -202592,6 +202653,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "⁠WW2 Links - Educational WW2 Resources",
+                            "links": [
+                                {
+                                    "name": "⁠WW2 Links",
+                                    "url": "https://ww2links.ca/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "️ Historical Film Archives",
                             "links": [
                                 {
@@ -202624,15 +202694,6 @@
                                 {
                                     "name": "Historical Maps",
                                     "url": "https://fmhy.net/misc/#historical-maps"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "️ ⁠WW2 Links - Educational WW2 Resources",
-                            "links": [
-                                {
-                                    "name": "⁠WW2 Links",
-                                    "url": "https://ww2links.ca/"
                                 }
                             ]
                         },
@@ -202865,6 +202926,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/Keeping-History/rt911"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠World War II Database - WW2 History Database",
+                            "links": [
+                                {
+                                    "name": "⁠World War II Database",
+                                    "url": "https://ww2db.com/"
                                 }
                             ]
                         },
@@ -227784,6 +227854,24 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "lk21official - Movies / TV / Anime / Region Locked (Removed in e9c2e59 )",
+                            "links": [
+                                {
+                                    "name": "e9c2e59",
+                                    "url": "https://github.com/fmhy/edit/commit/e9c2e598fccb34b943564be035a428c68182ef5e#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L802"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Komikcast - Manga (Removed in e9c2e59 )",
+                            "links": [
+                                {
+                                    "name": "e9c2e59",
+                                    "url": "https://github.com/fmhy/edit/commit/e9c2e598fccb34b943564be035a428c68182ef5e#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L823"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "maestral - Dropbox Client (Removed in dce684a )",
                             "links": [
                                 {
@@ -227924,15 +228012,6 @@
                                 {
                                     "name": "2235ceb",
                                     "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL434"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Game Of Bombs - Multiplayer Bomberman Style MMO (Removed in 2235ceb )",
-                            "links": [
-                                {
-                                    "name": "2235ceb",
-                                    "url": "https://github.com/fmhy/edit/commit/2235ceb2b7cca4e06009661aa1c35c31180da73c#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL856"
                                 }
                             ]
                         },
