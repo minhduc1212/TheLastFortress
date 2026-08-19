@@ -314,7 +314,7 @@
                 "url": "https://github.com/pystardust/ani-cli"
               }
             ],
-            "info": "note: Contents are exactly the same as animepahe, but it's their own host."
+            "info": "note: Contents are exactly the same as animepahe with few additions, everything on their own host (doesn't rely on animepahe)."
           }
         },
         {
@@ -1358,36 +1358,6 @@
           }
         },
         {
-          "id": "2dhive",
-          "title": "2Dhive",
-          "link": "https://2dhive.com/",
-          "icon": "https://static.everythingmoe.com/icons/2dhive.png",
-          "tags": [
-            "Self-host",
-            "Hard-sub",
-            "Soft-sub",
-            "Easy download"
-          ],
-          "rank": 31,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Large library",
-              "Self-hosted server",
-              "Simple mp4 stream"
-            ],
-            "negatives": [
-              "Very new site",
-              "Missing recently airing anime"
-            ],
-            "info": "note: Also embed third party stream as additional options"
-          }
-        },
-        {
           "id": "animotvslash",
           "title": "Animotvslash",
           "link": "https://www.animotvslash.org/",
@@ -1398,7 +1368,7 @@
             "Soft-sub",
             "Easy download"
           ],
-          "rank": 32,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1445,7 +1415,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 33,
+          "rank": 32,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -1473,7 +1443,7 @@
             "Scraper",
             "Soft-sub"
           ],
-          "rank": 34,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1501,7 +1471,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 35,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1528,7 +1498,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 36,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1555,7 +1525,7 @@
             "Simple interface",
             "Hard-sub"
           ],
-          "rank": 37,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1587,7 +1557,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 38,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1621,7 +1591,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 39,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1655,7 +1625,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 40,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1688,7 +1658,7 @@
             "Hard-sub",
             "Easy download"
           ],
-          "rank": 41,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1704,6 +1674,37 @@
               "Medium-small library"
             ],
             "info": "note: This site also have some Asian drama and Live action."
+          }
+        },
+        {
+          "id": "2dhive",
+          "title": "2Dhive",
+          "link": "https://2dhive.com/",
+          "icon": "https://static.everythingmoe.com/icons/2dhive.png",
+          "tags": [
+            "Self-host",
+            "Hard-sub",
+            "Soft-sub",
+            "Easy download"
+          ],
+          "rank": 41,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Large library",
+              "Self-hosted server",
+              "Simple mp4 stream"
+            ],
+            "negatives": [
+              "New site",
+              "Missing recently airing anime",
+              "Slow stream"
+            ],
+            "info": "note: Also embed third party stream as additional options"
           }
         },
         {
@@ -11773,7 +11774,7 @@
             "altlinks": [
               {
                 "name": "Git repo",
-                "url": "https://github.com/dipu-bd/lightnovel-crawler"
+                "url": "https://github.com/lncrawl/lightnovel-crawler"
               }
             ]
           }
@@ -15392,6 +15393,10 @@
                 "url": "https://aniyomi.org/forks/"
               },
               {
+                "name": "Fork 4",
+                "url": "https://github.com/Seguaz/Nekoyomi"
+              },
+              {
                 "name": "Anime Extensions",
                 "url": "https://everythingmoe.com/post/aniyomirepo.html"
               },
@@ -15944,7 +15949,7 @@
         {
           "id": "lncrawlerapp",
           "title": "Lightnovel Crawler",
-          "link": "https://github.com/dipu-bd/lightnovel-crawler",
+          "link": "https://github.com/lncrawl/lightnovel-crawler",
           "icon": "https://static.everythingmoe.com/icons/lncrawler.png",
           "tags": [
             "Windows",
@@ -36968,7 +36973,7 @@
             "url": "https://github.com/pystardust/ani-cli"
           }
         ],
-        "info": "note: Contents are exactly the same as animepahe, but it's their own host."
+        "info": "note: Contents are exactly the same as animepahe with few additions, everything on their own host (doesn't rely on animepahe)."
       }
     },
     "anizone": {
@@ -38011,36 +38016,6 @@
         ]
       }
     },
-    "2dhive": {
-      "id": "2dhive",
-      "title": "2Dhive",
-      "link": "https://2dhive.com/",
-      "icon": "https://static.everythingmoe.com/icons/2dhive.png",
-      "tags": [
-        "Self-host",
-        "Hard-sub",
-        "Soft-sub",
-        "Easy download"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Large library",
-          "Self-hosted server",
-          "Simple mp4 stream"
-        ],
-        "negatives": [
-          "Very new site",
-          "Missing recently airing anime"
-        ],
-        "info": "note: Also embed third party stream as additional options"
-      }
-    },
     "animotvslash": {
       "id": "animotvslash",
       "title": "Animotvslash",
@@ -38358,6 +38333,37 @@
           "Medium-small library"
         ],
         "info": "note: This site also have some Asian drama and Live action."
+      }
+    },
+    "2dhive": {
+      "id": "2dhive",
+      "title": "2Dhive",
+      "link": "https://2dhive.com/",
+      "icon": "https://static.everythingmoe.com/icons/2dhive.png",
+      "tags": [
+        "Self-host",
+        "Hard-sub",
+        "Soft-sub",
+        "Easy download"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Large library",
+          "Self-hosted server",
+          "Simple mp4 stream"
+        ],
+        "negatives": [
+          "New site",
+          "Missing recently airing anime",
+          "Slow stream"
+        ],
+        "info": "note: Also embed third party stream as additional options"
       }
     },
     "WCO": {
@@ -48373,7 +48379,7 @@
         "altlinks": [
           {
             "name": "Git repo",
-            "url": "https://github.com/dipu-bd/lightnovel-crawler"
+            "url": "https://github.com/lncrawl/lightnovel-crawler"
           }
         ]
       }
@@ -51965,6 +51971,10 @@
             "url": "https://aniyomi.org/forks/"
           },
           {
+            "name": "Fork 4",
+            "url": "https://github.com/Seguaz/Nekoyomi"
+          },
+          {
             "name": "Anime Extensions",
             "url": "https://everythingmoe.com/post/aniyomirepo.html"
           },
@@ -52517,7 +52527,7 @@
     "lncrawlerapp": {
       "id": "lncrawlerapp",
       "title": "Lightnovel Crawler",
-      "link": "https://github.com/dipu-bd/lightnovel-crawler",
+      "link": "https://github.com/lncrawl/lightnovel-crawler",
       "icon": "https://static.everythingmoe.com/icons/lncrawler.png",
       "tags": [
         "Windows",
