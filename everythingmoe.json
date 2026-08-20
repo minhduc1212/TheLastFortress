@@ -2742,33 +2742,6 @@
           }
         },
         {
-          "id": "anikura",
-          "title": "Anikura",
-          "link": "https://anikura.club/",
-          "icon": "https://static.everythingmoe.com/icons/anikura.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 70,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options",
-              "Nice interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes",
-              "New site"
-            ]
-          }
-        },
-        {
           "id": "watchanimez",
           "title": "WatchAnimeX",
           "link": "https://watchanimez.me/",
@@ -2776,7 +2749,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 71,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2803,7 +2776,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 72,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2829,7 +2802,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2854,7 +2827,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2881,7 +2854,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2905,7 +2878,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 76,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2931,7 +2904,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2971,7 +2944,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3006,7 +2979,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3039,7 +3012,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3064,7 +3037,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3104,7 +3077,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 82,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3116,6 +3089,35 @@
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
+          "id": "anikura",
+          "title": "Anikura",
+          "link": "https://anikura.club/",
+          "icon": "https://static.everythingmoe.com/icons/anikura.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "mult",
+            "login"
+          ],
+          "rank": 82,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Login restricted",
+              "Content depends on the websites it scrapes",
+              "New site"
             ]
           }
         },
@@ -15801,6 +15803,48 @@
           }
         },
         {
+          "id": "mangapin",
+          "title": "MangaPin",
+          "link": "https://mangapin.com/",
+          "icon": "https://static.everythingmoe.com/icons/mangapin.png",
+          "tags": [
+            "Android",
+            "iOS",
+            "Windows",
+            "MacOS",
+            "Linux",
+            "Manga"
+          ],
+          "rank": 24,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "apps",
+          "details": {
+            "positives": [
+              "Manga reading app",
+              "Many sources available",
+              "Support Android, iOS, and desktop extension"
+            ],
+            "negatives": [
+              "Closed source",
+              "Some features locked behind paywall"
+            ],
+            "info": "note: This app behave like web browser hybrid",
+            "altlinks": [
+              {
+                "name": "Android",
+                "url": "https://play.google.com/store/apps/details?id=com.endyq.trackkun"
+              },
+              {
+                "name": "iOS",
+                "url": "https://apps.apple.com/en/app/trackkun/id6466486279"
+              }
+            ]
+          }
+        },
+        {
           "id": "shiru",
           "title": "Shiru",
           "link": "https://github.com/RockinChaos/Shiru",
@@ -15812,7 +15856,7 @@
             "Linux",
             "Anime"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15858,7 +15902,7 @@
             "Anime",
             "Manga"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15895,7 +15939,7 @@
             "Android",
             "Manga"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15932,7 +15976,7 @@
             "Linux",
             "Light Novel"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15959,7 +16003,7 @@
             "Android",
             "Light Novel"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -15998,7 +16042,7 @@
             "Manga",
             "Light Novel"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16041,7 +16085,7 @@
             "Windows",
             "Manga"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -16073,48 +16117,6 @@
               {
                 "name": "Extensions",
                 "url": "https://nyora.xyz/docs/android-add-sources/"
-              }
-            ]
-          }
-        },
-        {
-          "id": "mangapin",
-          "title": "MangaPin",
-          "link": "https://mangapin.com/",
-          "icon": "https://static.everythingmoe.com/icons/mangapin.png",
-          "tags": [
-            "Android",
-            "iOS",
-            "Windows",
-            "MacOS",
-            "Linux",
-            "Manga"
-          ],
-          "rank": 31,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "apps",
-          "details": {
-            "positives": [
-              "Manga reading app",
-              "Many sources available",
-              "Support Android, iOS, and desktop extension"
-            ],
-            "negatives": [
-              "Closed source",
-              "Some features locked behind paywall"
-            ],
-            "info": "note: This app behave like web browser hybrid",
-            "altlinks": [
-              {
-                "name": "Android",
-                "url": "https://play.google.com/store/apps/details?id=com.endyq.trackkun"
-              },
-              {
-                "name": "iOS",
-                "url": "https://apps.apple.com/en/app/trackkun/id6466486279"
               }
             ]
           }
@@ -19100,6 +19102,35 @@
           }
         },
         {
+          "id": "otakuness",
+          "title": "Otakuness",
+          "link": "https://otakuness.top/",
+          "icon": "https://static.everythingmoe.com/icons/otakuness.png",
+          "tags": [
+            "Anime",
+            "Manga",
+            "Novel",
+            "Music",
+            "DDL",
+            "ddl"
+          ],
+          "rank": 24,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "download",
+          "details": {
+            "positives": [
+              "Reupload torrent to third party host"
+            ],
+            "negatives": [
+              "New site",
+              "No old release"
+            ]
+          }
+        },
+        {
           "id": "moriyashrine",
           "title": "Moriya Shrine",
           "link": "https://moriyashrine.org/",
@@ -19110,7 +19141,7 @@
             "touhou",
             "ddl"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19136,7 +19167,7 @@
             "ddl",
             "tokusatsu"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19160,7 +19191,7 @@
             "torrent",
             "ddl"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19198,7 +19229,7 @@
             "ddl",
             "sub"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19225,7 +19256,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19255,7 +19286,7 @@
             "ddl",
             "sub"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19281,7 +19312,7 @@
             "XDCC",
             "xdcc"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19317,7 +19348,7 @@
             "XDCC",
             "xdcc"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19351,7 +19382,7 @@
             "torrent",
             "xdcc"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19383,7 +19414,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19415,7 +19446,7 @@
             "physical",
             "licensed"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -19447,7 +19478,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19487,7 +19518,7 @@
             "torrent",
             "ddl"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -19516,7 +19547,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19539,7 +19570,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19571,7 +19602,7 @@
             "xdcc",
             "music"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19598,7 +19629,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19630,7 +19661,7 @@
             "Torrent",
             "usenet"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19657,7 +19688,7 @@
             "Torrent",
             "usenet"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19685,7 +19716,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19711,7 +19742,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19739,7 +19770,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19766,7 +19797,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19794,7 +19825,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19834,7 +19865,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19863,7 +19894,7 @@
             "raw",
             "ddl"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19897,7 +19928,7 @@
             "raw",
             "ddl"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19925,7 +19956,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19958,7 +19989,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -19986,7 +20017,7 @@
             "DDL",
             "ddl"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -20012,7 +20043,7 @@
             "Torrent",
             "torrent"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -39400,33 +39431,6 @@
         "ex-info": "note: Just embed other site stream"
       }
     },
-    "anikura": {
-      "id": "anikura",
-      "title": "Anikura",
-      "link": "https://anikura.club/",
-      "icon": "https://static.everythingmoe.com/icons/anikura.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options",
-          "Nice interface"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes",
-          "New site"
-        ]
-      }
-    },
     "watchanimez": {
       "id": "watchanimez",
       "title": "WatchAnimeX",
@@ -39775,6 +39779,35 @@
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
+        ]
+      }
+    },
+    "anikura": {
+      "id": "anikura",
+      "title": "Anikura",
+      "link": "https://anikura.club/",
+      "icon": "https://static.everythingmoe.com/icons/anikura.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult",
+        "login"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Login restricted",
+          "Content depends on the websites it scrapes",
+          "New site"
         ]
       }
     },
@@ -52378,6 +52411,48 @@
         ]
       }
     },
+    "mangapin": {
+      "id": "mangapin",
+      "title": "MangaPin",
+      "link": "https://mangapin.com/",
+      "icon": "https://static.everythingmoe.com/icons/mangapin.png",
+      "tags": [
+        "Android",
+        "iOS",
+        "Windows",
+        "MacOS",
+        "Linux",
+        "Manga"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "apps"
+      ],
+      "details": {
+        "positives": [
+          "Manga reading app",
+          "Many sources available",
+          "Support Android, iOS, and desktop extension"
+        ],
+        "negatives": [
+          "Closed source",
+          "Some features locked behind paywall"
+        ],
+        "info": "note: This app behave like web browser hybrid",
+        "altlinks": [
+          {
+            "name": "Android",
+            "url": "https://play.google.com/store/apps/details?id=com.endyq.trackkun"
+          },
+          {
+            "name": "iOS",
+            "url": "https://apps.apple.com/en/app/trackkun/id6466486279"
+          }
+        ]
+      }
+    },
     "shiru": {
       "id": "shiru",
       "title": "Shiru",
@@ -52651,48 +52726,6 @@
           {
             "name": "Extensions",
             "url": "https://nyora.xyz/docs/android-add-sources/"
-          }
-        ]
-      }
-    },
-    "mangapin": {
-      "id": "mangapin",
-      "title": "MangaPin",
-      "link": "https://mangapin.com/",
-      "icon": "https://static.everythingmoe.com/icons/mangapin.png",
-      "tags": [
-        "Android",
-        "iOS",
-        "Windows",
-        "MacOS",
-        "Linux",
-        "Manga"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "apps"
-      ],
-      "details": {
-        "positives": [
-          "Manga reading app",
-          "Many sources available",
-          "Support Android, iOS, and desktop extension"
-        ],
-        "negatives": [
-          "Closed source",
-          "Some features locked behind paywall"
-        ],
-        "info": "note: This app behave like web browser hybrid",
-        "altlinks": [
-          {
-            "name": "Android",
-            "url": "https://play.google.com/store/apps/details?id=com.endyq.trackkun"
-          },
-          {
-            "name": "iOS",
-            "url": "https://apps.apple.com/en/app/trackkun/id6466486279"
           }
         ]
       }
@@ -55665,6 +55698,35 @@
         "negatives": [
           "Login required",
           "Non donator got url shortener ads"
+        ]
+      }
+    },
+    "otakuness": {
+      "id": "otakuness",
+      "title": "Otakuness",
+      "link": "https://otakuness.top/",
+      "icon": "https://static.everythingmoe.com/icons/otakuness.png",
+      "tags": [
+        "Anime",
+        "Manga",
+        "Novel",
+        "Music",
+        "DDL",
+        "ddl"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "download"
+      ],
+      "details": {
+        "positives": [
+          "Reupload torrent to third party host"
+        ],
+        "negatives": [
+          "New site",
+          "No old release"
         ]
       }
     },
