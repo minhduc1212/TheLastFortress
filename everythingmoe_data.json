@@ -2766,6 +2766,33 @@
           }
         },
         {
+          "id": "anikura",
+          "title": "Anikura",
+          "link": "https://anikura.club/",
+          "icon": "https://static.everythingmoe.com/icons/anikura.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 71,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes",
+              "New site"
+            ]
+          }
+        },
+        {
           "id": "onianime",
           "title": "Onianime",
           "link": "https://onianime.eu/home",
@@ -2776,7 +2803,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2802,7 +2829,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2827,7 +2854,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2854,7 +2881,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2878,7 +2905,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2904,7 +2931,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2944,7 +2971,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2979,7 +3006,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3012,7 +3039,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3037,7 +3064,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3077,7 +3104,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3089,35 +3116,6 @@
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
-            ]
-          }
-        },
-        {
-          "id": "anikura",
-          "title": "Anikura",
-          "link": "https://anikura.club/",
-          "icon": "https://static.everythingmoe.com/icons/anikura.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "mult",
-            "login"
-          ],
-          "rank": 82,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options",
-              "Nice interface"
-            ],
-            "negatives": [
-              "Login restricted",
-              "Content depends on the websites it scrapes",
-              "New site"
             ]
           }
         },
@@ -39455,6 +39453,33 @@
         ]
       }
     },
+    "anikura": {
+      "id": "anikura",
+      "title": "Anikura",
+      "link": "https://anikura.club/",
+      "icon": "https://static.everythingmoe.com/icons/anikura.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes",
+          "New site"
+        ]
+      }
+    },
     "onianime": {
       "id": "onianime",
       "title": "Onianime",
@@ -39779,35 +39804,6 @@
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
-        ]
-      }
-    },
-    "anikura": {
-      "id": "anikura",
-      "title": "Anikura",
-      "link": "https://anikura.club/",
-      "icon": "https://static.everythingmoe.com/icons/anikura.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult",
-        "login"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options",
-          "Nice interface"
-        ],
-        "negatives": [
-          "Login restricted",
-          "Content depends on the websites it scrapes",
-          "New site"
         ]
       }
     },
