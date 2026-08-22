@@ -324,7 +324,7 @@
                                 },
                                 {
                                     "name": "Virgil Game Search",
-                                    "url": "https://virgil.samidy.com/Games/"
+                                    "url": "https://virgil.samidy.com/?engine=games"
                                 },
                                 {
                                     "name": "AnkerGames",
@@ -523,7 +523,7 @@
                             "links": [
                                 {
                                     "name": "Virgil Software Search",
-                                    "url": "https://virgil.samidy.com/Software/"
+                                    "url": "https://virgil.samidy.com/?engine=software"
                                 },
                                 {
                                     "name": "CracksURL",
@@ -3268,15 +3268,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Phoenix - Firefox Privacy Tweak / /",
+                            "full_text": "Helium Browser - Privacy Chromium Browser",
                             "links": [
                                 {
-                                    "name": "⁠Phoenix",
-                                    "url": "https://codeberg.org/celenity/Phoenix"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/celenityy/Phoenix"
+                                    "name": "Helium Browser",
+                                    "url": "https://helium.computer/"
                                 }
                             ]
                         },
@@ -3298,6 +3294,19 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/brave/brave-browser"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Phoenix - Firefox Privacy Tweak / /",
+                            "links": [
+                                {
+                                    "name": "⁠Phoenix",
+                                    "url": "https://codeberg.org/celenity/Phoenix"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/celenityy/Phoenix"
                                 }
                             ]
                         },
@@ -6458,15 +6467,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠K2Think - K2 Think V2",
-                            "links": [
-                                {
-                                    "name": "⁠K2Think",
-                                    "url": "https://www.k2think.ai/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "⁠Inception - Mercury 2 (High) / Unlimited",
                             "links": [
                                 {
@@ -6496,7 +6496,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Tryingopen - Kimi K3 / GLM-5.2 / Qwen3.8-2.4T / DeepSeek-V4-Pro / Unlimited",
+                            "full_text": "⁠Tryingopen - Kimi K3 / GLM-5.3 / Qwen3.8-2.4T / DeepSeek-V4-Pro / Unlimited",
                             "links": [
                                 {
                                     "name": "⁠Tryingopen",
@@ -6505,7 +6505,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠ISH - Claude Opus 5 / Claude Sonnet 5 / Sign-Up (GitHub) / / /",
+                            "full_text": "⁠ISH - Claude Opus 5 / GPT 5.6 Sol / Kimi K3 / 50k Tokens Daily / / /",
                             "links": [
                                 {
                                     "name": "⁠ISH",
@@ -6547,15 +6547,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Woozlit - Multiple Models / ≈40K Monthly / Sign-Up /",
+                            "full_text": "⁠ChatWave - Fable 5 / Opus 5 / GPT 5.6 Sol",
                             "links": [
                                 {
-                                    "name": "⁠Woozlit",
-                                    "url": "https://woozlit.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/rdBN6TYf66"
+                                    "name": "⁠ChatWave",
+                                    "url": "https://chatwave.crunchflix.site/"
                                 }
                             ]
                         },
@@ -6582,11 +6578,11 @@
                             ]
                         },
                         {
-                            "full_text": "Cerebras Chat - Gemma 4 31B / GLM 4.7 / gpt-oss-120b / Sign-Up",
+                            "full_text": "⁠Woozlit - Multiple Models / ≈40K Monthly / Sign-Up",
                             "links": [
                                 {
-                                    "name": "Cerebras Chat",
-                                    "url": "https://chat.cerebras.ai/chat"
+                                    "name": "⁠Woozlit",
+                                    "url": "https://woozlit.com/"
                                 }
                             ]
                         },
@@ -6831,6 +6827,15 @@
                                 {
                                     "name": "Scinito",
                                     "url": "https://ekb.scinito.ai/ai/chat"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Sakana Chat - Research Chatbot",
+                            "links": [
+                                {
+                                    "name": "⁠Sakana Chat",
+                                    "url": "https://chat.sakana.ai/"
                                 }
                             ]
                         },
@@ -11146,20 +11151,7 @@
                             ]
                         },
                         {
-                            "full_text": "Coreflix - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Coreflix",
-                                    "url": "https://coreflix.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/FkaeFU32nr"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MeowTV , FlickyStream or CineMora - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "MeowTV or FlickyStream - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "MeowTV",
@@ -11170,12 +11162,21 @@
                                     "url": "https://flickystream.dad/"
                                 },
                                 {
-                                    "name": "CineMora",
-                                    "url": "https://cinemora.ru/"
+                                    "name": "",
+                                    "url": "https://discord.gg/the-raven"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Coreflix - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Coreflix",
+                                    "url": "https://coreflix.tv/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/the-raven"
+                                    "url": "https://discord.com/invite/FkaeFU32nr"
                                 }
                             ]
                         },
@@ -11206,23 +11207,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/us5-and-toustream-1157125685178007672"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Vyla Entertainment , 2 - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Vyla Entertainment",
-                                    "url": "https://vyla.cc/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://vyla.qzz.io/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/5eqRhKeywG"
                                 }
                             ]
                         },
@@ -11296,6 +11280,15 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/4yGUxdz3h9"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Vuflix - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Vuflix",
+                                    "url": "https://vuflix.co/"
                                 }
                             ]
                         },
@@ -11395,15 +11388,6 @@
                             ]
                         },
                         {
-                            "full_text": "Vuflix - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Vuflix",
-                                    "url": "https://vuflix.co/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Cinegram - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11444,6 +11428,19 @@
                                 {
                                     "name": "Cinemove",
                                     "url": "https://cinemove.cc/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FlyStream - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "FlyStream",
+                                    "url": "https://flystream.net/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/3w7w5VewNJ"
                                 }
                             ]
                         },
@@ -11560,19 +11557,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/jT6daX7q2u"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FlyStream - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "FlyStream",
-                                    "url": "https://flystream.net/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/3w7w5VewNJ"
                                 }
                             ]
                         },
@@ -12506,11 +12490,15 @@
                             ]
                         },
                         {
-                            "full_text": "AuroraScreen - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "AuroraScreen , 2 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "AuroraScreen",
                                     "url": "https://www.aurorascreen.org/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://aurorascreen.pages.dev/"
                                 },
                                 {
                                     "name": "",
@@ -14405,6 +14393,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠MeguAnimes - Sub / Dub / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "⁠MeguAnimes",
+                                    "url": "https://meguanime.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Aniwave or 123anime - Sub / Dub / Auto-Next",
                             "links": [
                                 {
@@ -14549,15 +14546,6 @@
                                 {
                                     "name": "AniDB (.app)",
                                     "url": "https://anidb.app/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniKitty - Sub / Dub / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "AniKitty",
-                                    "url": "https://anikitty.moe/"
                                 }
                             ]
                         },
@@ -16267,15 +16255,11 @@
                             ]
                         },
                         {
-                            "full_text": "DamiTV , 2 or 90minutes - TV / Sports",
+                            "full_text": "DamiTV or 90minutes - TV / Sports",
                             "links": [
                                 {
                                     "name": "DamiTV",
                                     "url": "https://damitv.st//livetv"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://damitvsports.com/"
                                 },
                                 {
                                     "name": "90minutes",
@@ -16988,15 +16972,11 @@
                             ]
                         },
                         {
-                            "full_text": "DamiTV , 2 or 90minutes - Stream Aggregator",
+                            "full_text": "DamiTV or 90minutes - Stream Aggregator",
                             "links": [
                                 {
                                     "name": "DamiTV",
                                     "url": "https://damitv.st/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://damitvsports.com/"
                                 },
                                 {
                                     "name": "90minutes",
@@ -19247,15 +19227,11 @@
                             ]
                         },
                         {
-                            "full_text": "FlickyStream or CineMora - Movies / TV / Anime /",
+                            "full_text": "FlickyStream - Movies / TV / Anime /",
                             "links": [
                                 {
                                     "name": "FlickyStream",
                                     "url": "https://flickystream.dad/"
-                                },
-                                {
-                                    "name": "CineMora",
-                                    "url": "https://cinemora.ru/"
                                 },
                                 {
                                     "name": "",
@@ -22607,7 +22583,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠ytsubdl or YT Subtitle Downloader / - Extract Subtitles from YouTube Videos",
+                            "full_text": "⁠ytsubdl or YT Subtitle Downloader / - Extract Subtitles/Transcript from YouTube Videos",
                             "links": [
                                 {
                                     "name": "⁠ytsubdl",
@@ -23170,7 +23146,7 @@
                             ]
                         },
                         {
-                            "full_text": "WAVE - YouTube Music Client",
+                            "full_text": "WAVE - YouTube Music Client / FLAC",
                             "links": [
                                 {
                                     "name": "WAVE",
@@ -33220,7 +33196,7 @@
                                 },
                                 {
                                     "name": "Virgil Game Search",
-                                    "url": "https://virgil.samidy.com/Games/"
+                                    "url": "https://virgil.samidy.com/?engine=games"
                                 },
                                 {
                                     "name": "2",
@@ -53853,7 +53829,7 @@
                             "links": [
                                 {
                                     "name": "Virgil Software Search",
-                                    "url": "https://virgil.samidy.com/Software/"
+                                    "url": "https://virgil.samidy.com/?engine=software"
                                 },
                                 {
                                     "name": "2",
@@ -75585,7 +75561,7 @@
                             "links": [
                                 {
                                     "name": "Virgil APK Search",
-                                    "url": "https://virgil.samidy.com/Mobile"
+                                    "url": "https://virgil.samidy.com/?engine=android#gsc.tab=0"
                                 },
                                 {
                                     "name": "Android APK CSE",
@@ -77225,15 +77201,11 @@
                             ]
                         },
                         {
-                            "full_text": "Materialbook or Nobook - Ad-Free Facebook Lite",
+                            "full_text": "Materialbook - Ad-Free Facebook Lite",
                             "links": [
                                 {
                                     "name": "Materialbook",
                                     "url": "https://github.com/eepiemi/Materialbook"
-                                },
-                                {
-                                    "name": "Nobook",
-                                    "url": "https://github.com/ycngmn/Nobook"
                                 }
                             ]
                         },
@@ -84184,7 +84156,7 @@
                             ]
                         },
                         {
-                            "full_text": "WAVE - YouTube Music Player",
+                            "full_text": "WAVE - YouTube Music Player / FLAC",
                             "links": [
                                 {
                                     "name": "WAVE",
@@ -84942,11 +84914,15 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "⁠mpvEx or mpvRx",
+                            "full_text": "⁠mpvEx , ⁠mpvRex or mpvRx",
                             "links": [
                                 {
                                     "name": "⁠mpvEx",
                                     "url": "https://github.com/marlboro-advance/mpvEx"
+                                },
+                                {
+                                    "name": "⁠mpvRex",
+                                    "url": "https://github.com/sfsakhawat999/mpvRex"
                                 },
                                 {
                                     "name": "mpvRx",
@@ -88417,7 +88393,7 @@
                             ]
                         },
                         {
-                            "full_text": "WAVE - YouTube Music / Ad-Free",
+                            "full_text": "WAVE - YouTube Music / Ad-Free / FLAC",
                             "links": [
                                 {
                                     "name": "WAVE",
@@ -103762,6 +103738,15 @@
                                 {
                                     "name": "BollyMod",
                                     "url": "https://bollymod.forum/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠MoviesDrive - Movies / TV / 1080p",
+                            "links": [
+                                {
+                                    "name": "⁠MoviesDrive",
+                                    "url": "https://new2.moviesdrive.christmas/"
                                 }
                             ]
                         },
@@ -125681,19 +125666,19 @@
                             ]
                         },
                         {
-                            "full_text": "Parcelsapp , Informed Delivery or 17Track - Mail Package Tracking",
+                            "full_text": "17Track , Informed Delivery or Parcelsapp - Mail Package Tracking",
                             "links": [
                                 {
-                                    "name": "Parcelsapp",
-                                    "url": "https://parcelsapp.com/en/"
+                                    "name": "17Track",
+                                    "url": "https://www.17track.net/en"
                                 },
                                 {
                                     "name": "Informed Delivery",
                                     "url": "https://informeddelivery.usps.com/"
                                 },
                                 {
-                                    "name": "17Track",
-                                    "url": "https://www.17track.net/en"
+                                    "name": "Parcelsapp",
+                                    "url": "https://parcelsapp.com/en/"
                                 }
                             ]
                         },
@@ -127687,15 +127672,6 @@
                                 {
                                     "name": "Ccclaymoji",
                                     "url": "https://fffuel.co/ccclaymoji/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MyPokeCard - Create Pokémon Cards",
-                            "links": [
-                                {
-                                    "name": "MyPokeCard",
-                                    "url": "https://www.mypokecard.com/en/"
                                 }
                             ]
                         },
@@ -130586,15 +130562,6 @@
                                 {
                                     "name": "JUST SCREAM!",
                                     "url": "https://justscream.baby/listen/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Text to LinkedIn Translator - Turn Text to LinkedIn Speech",
-                            "links": [
-                                {
-                                    "name": "Text to LinkedIn Translator",
-                                    "url": "https://translate.kagi.com/?from=auto&to=linkedin"
                                 }
                             ]
                         },
@@ -142514,7 +142481,7 @@
                                 },
                                 {
                                     "name": "Virgil Game Search",
-                                    "url": "https://virgil.samidy.com/Games/"
+                                    "url": "https://virgil.samidy.com/?engine=games"
                                 },
                                 {
                                     "name": "",
@@ -142578,7 +142545,7 @@
                             "links": [
                                 {
                                     "name": "Virgil Software Search",
-                                    "url": "https://virgil.samidy.com/Software/"
+                                    "url": "https://virgil.samidy.com/?engine=software"
                                 },
                                 {
                                     "name": "",
@@ -142668,7 +142635,7 @@
                             "links": [
                                 {
                                     "name": "Virgil APK Search",
-                                    "url": "https://virgil.samidy.com/Mobile"
+                                    "url": "https://virgil.samidy.com/?engine=android#gsc.tab=0"
                                 },
                                 {
                                     "name": "Android APK CSE",
@@ -152531,7 +152498,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠ytsubdl or YT Subtitle Downloader / - Extract Subtitles from YouTube Videos",
+                            "full_text": "⁠ytsubdl or YT Subtitle Downloader / - Extract Subtitles/Transcript from YouTube Videos",
                             "links": [
                                 {
                                     "name": "⁠ytsubdl",
@@ -155887,6 +155854,19 @@
                             ]
                         },
                         {
+                            "full_text": "Pastebin.com - Multi-Syntax / Proxy",
+                            "links": [
+                                {
+                                    "name": "Pastebin.com",
+                                    "url": "https://pastebin.com/"
+                                },
+                                {
+                                    "name": "Proxy",
+                                    "url": "https://pastebinp.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Ghostbin - Multi-Syntax / Markdown Support /",
                             "links": [
                                 {
@@ -156018,15 +155998,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/interaapps/pastefy"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Pastebin.com - Multi-Syntax",
-                            "links": [
-                                {
-                                    "name": "Pastebin.com",
-                                    "url": "https://pastebin.com/"
                                 }
                             ]
                         },
@@ -162222,7 +162193,7 @@
                             ]
                         },
                         {
-                            "full_text": "Lossless Scaling (search) OptiScaler / Manager or Magpie - Game Upscaling /",
+                            "full_text": "Lossless Scaling (search), OptiScaler / Manager or Magpie - Game Upscaling",
                             "links": [
                                 {
                                     "name": "Lossless Scaling",
@@ -162825,11 +162796,15 @@
                             ]
                         },
                         {
-                            "full_text": "Nexus Mods - Game Mods / Requires Sign-Up / Bulk Downloader / Redirect Skip / Download Archived Mods , 2 /",
+                            "full_text": "Nexus Mods - Game Mods / Requires Sign-Up / Add Features / Bulk Downloader / Redirect Skip / Download Archived Mods , 2 /",
                             "links": [
                                 {
                                     "name": "Nexus Mods",
                                     "url": "https://www.nexusmods.com/"
+                                },
+                                {
+                                    "name": "Add Features",
+                                    "url": "https://github.com/Zendevve/nexus-mods-downloader"
                                 },
                                 {
                                     "name": "Bulk Downloader",
@@ -174304,11 +174279,15 @@
                             ]
                         },
                         {
-                            "full_text": "ordered-dither-maker , BDFM , Ditherista or Dither Me This - Image Dithering / Bitmap Generators",
+                            "full_text": "ordered-dither-maker , ⁠Dithering Studio , BDFM , Ditherista or Dither Me This - Image Dithering / Bitmap Generators",
                             "links": [
                                 {
                                     "name": "ordered-dither-maker",
                                     "url": "https://seleb.github.io/ordered-dither-maker/"
+                                },
+                                {
+                                    "name": "⁠Dithering Studio",
+                                    "url": "https://ditheringstudio.com/"
                                 },
                                 {
                                     "name": "BDFM",
@@ -186203,6 +186182,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Dithering Studio - Video Dithering Tool",
+                            "links": [
+                                {
+                                    "name": "⁠Dithering Studio",
+                                    "url": "https://ditheringstudio.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "OpenColorIO - Video Color Manager",
                             "links": [
                                 {
@@ -187142,7 +187130,7 @@
                             ]
                         },
                         {
-                            "full_text": "WAVE - YouTube Music Client",
+                            "full_text": "WAVE - YouTube Music Client / FLAC",
                             "links": [
                                 {
                                     "name": "WAVE",
@@ -220361,6 +220349,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠DeepSeek Harness - Coding AI",
+                            "links": [
+                                {
+                                    "name": "⁠DeepSeek Harness",
+                                    "url": "https://github.com/deepseek-ai/deepseek-harness"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Google Antigravity - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / VSCode Marketplace / Add Skills / Usage Tracker",
                             "links": [
                                 {
@@ -222792,7 +222789,7 @@
                             ]
                         },
                         {
-                            "full_text": "Caddy - Web Server /",
+                            "full_text": "Caddy / - Web Servers",
                             "links": [
                                 {
                                     "name": "Caddy",
@@ -222800,7 +222797,7 @@
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://github.com/caddyserver/caddy"
+                                    "url": "https://github.com/caddyserver/caddy or [Nginx](https://nginx.org/"
                                 }
                             ]
                         },
@@ -227919,6 +227916,51 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "⁠K2Think - K2 Think V2 (Removed in 32331ac )",
+                            "links": [
+                                {
+                                    "name": "32331ac",
+                                    "url": "https://github.com/fmhy/edit/commit/32331acea3742b62908b6623dad9ad66d0ec0855#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L37"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Cerebras Chat - Gemma 4 31B / GLM 4.7 / gpt-oss-120b / Sign-Up (Removed in 32331ac )",
+                            "links": [
+                                {
+                                    "name": "32331ac",
+                                    "url": "https://github.com/fmhy/edit/commit/32331acea3742b62908b6623dad9ad66d0ec0855#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L52"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Text to LinkedIn Translator - Turn Text to LinkedIn Speech (Removed in 32331ac )",
+                            "links": [
+                                {
+                                    "name": "32331ac",
+                                    "url": "https://github.com/fmhy/edit/commit/32331acea3742b62908b6623dad9ad66d0ec0855#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1875"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AniKitty - Sub / Dub / Auto-Next (Removed in 32331ac )",
+                            "links": [
+                                {
+                                    "name": "32331ac",
+                                    "url": "https://github.com/fmhy/edit/commit/32331acea3742b62908b6623dad9ad66d0ec0855#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL332"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MyPokeCard - Create Pokémon Cards (Removed in c41a806 )",
+                            "links": [
+                                {
+                                    "name": "c41a806",
+                                    "url": "https://github.com/fmhy/edit/commit/c41a806c0dcdc3f8dc833b6b2b35f7c0addcdcb0#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1573"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠UploadHive - Unlimited / 50 Days After Last Download / Use uBlock (Removed in cf172e1 )",
                             "links": [
                                 {
@@ -229067,69 +229109,6 @@
                                 {
                                     "name": "c1cab23",
                                     "url": "https://github.com/fmhy/edit/commit/c1cab2323cdbd739f72ef1d85a93756b6df4a87c#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL415"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AIOWares - Software Forum (Removed in 74a8e75 )",
-                            "links": [
-                                {
-                                    "name": "74a8e75",
-                                    "url": "https://github.com/fmhy/edit/commit/74a8e7548d5a3905b78112cd3b5f8472b81681a5#diff-e99a29dbd027c863fb08fa8efa6696239b223807b373c3d8f9778e14fc122a1fL24"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "learningDL - Courses / Requires Leech (Removed in 74a8e75 )",
-                            "links": [
-                                {
-                                    "name": "74a8e75",
-                                    "url": "https://github.com/fmhy/edit/commit/74a8e7548d5a3905b78112cd3b5f8472b81681a5#diff-746b6166ea508f55865eb08106648e1232da9268205e87f0578d081d8d18373dL76"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FilePizza - Online / Web (Removed in 74a8e75 )",
-                            "links": [
-                                {
-                                    "name": "74a8e75",
-                                    "url": "https://github.com/fmhy/edit/commit/74a8e7548d5a3905b78112cd3b5f8472b81681a5#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL293"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "RetroNDS - ROMs / Switch / Requires Telegram (Removed in 74a8e75 )",
-                            "links": [
-                                {
-                                    "name": "74a8e75",
-                                    "url": "https://github.com/fmhy/edit/commit/74a8e7548d5a3905b78112cd3b5f8472b81681a5#diff-9782aa3f72833c23c2c2ac13638e409c19a8299d8b7f9c3a6d676160714a20baL402"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Liber3 - Book Search / Download (Removed in 74a8e75 )",
-                            "links": [
-                                {
-                                    "name": "74a8e75",
-                                    "url": "https://github.com/fmhy/edit/commit/74a8e7548d5a3905b78112cd3b5f8472b81681a5#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L19"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Novel12 - Books / Online Reading (Removed in 74a8e75 )",
-                            "links": [
-                                {
-                                    "name": "74a8e75",
-                                    "url": "https://github.com/fmhy/edit/commit/74a8e7548d5a3905b78112cd3b5f8472b81681a5#diff-ebbfa2400cefcba56833139cdbdd27ca8562c07b38555a9c409e666124636891L27"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Find-Unfinished-YT - Find Partially Watched Videos (Removed in 74a8e75 )",
-                            "links": [
-                                {
-                                    "name": "74a8e75",
-                                    "url": "https://github.com/fmhy/edit/commit/74a8e7548d5a3905b78112cd3b5f8472b81681a5#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L446"
                                 }
                             ]
                         }
