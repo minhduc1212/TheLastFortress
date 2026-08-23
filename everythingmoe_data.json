@@ -2089,6 +2089,29 @@
           }
         },
         {
+          "id": "anixo",
+          "title": "AniXo",
+          "link": "https://anixo.online/",
+          "icon": "https://static.everythingmoe.com/icons/anixo.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 52,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "fanime",
           "title": "Fanime",
           "link": "https://fanime.tv/",
@@ -2099,7 +2122,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2128,7 +2151,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2156,7 +2179,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2183,7 +2206,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2206,7 +2229,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2223,6 +2246,29 @@
           }
         },
         {
+          "id": "last1234",
+          "title": "AniLast",
+          "link": "https://last1234.fun/",
+          "icon": "https://static.everythingmoe.com/icons/last1234.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 58,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "itachitv",
           "title": "Itachi",
           "link": "https://itachi.tv/",
@@ -2232,7 +2278,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 57,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2259,7 +2305,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 58,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2286,7 +2332,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 59,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2333,7 +2379,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 60,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2359,7 +2405,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 61,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2432,7 +2478,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 62,
+          "rank": 64,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2460,7 +2506,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 63,
+          "rank": 65,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2490,7 +2536,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 64,
+          "rank": 66,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2519,7 +2565,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 65,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2586,7 +2632,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 66,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2675,7 +2721,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 67,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2700,7 +2746,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 68,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2724,7 +2770,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 69,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2749,7 +2795,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 70,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2775,7 +2821,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 71,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2803,7 +2849,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 72,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2829,7 +2875,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2854,7 +2900,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2881,7 +2927,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2898,29 +2944,6 @@
           }
         },
         {
-          "id": "anixo",
-          "title": "AniXo",
-          "link": "https://anixo.online/",
-          "icon": "https://static.everythingmoe.com/icons/anixo.png",
-          "tags": [
-            "mult"
-          ],
-          "rank": 76,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ]
-          }
-        },
-        {
           "id": "1anime",
           "title": "1Anime",
           "link": "https://1anime.app",
@@ -2931,7 +2954,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2971,7 +2994,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3006,7 +3029,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3039,7 +3062,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3064,7 +3087,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3104,7 +3127,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3130,7 +3153,7 @@
             "Hard-sub",
             "koto"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3177,7 +3200,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3222,7 +3245,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -3250,7 +3273,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3284,7 +3307,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 87,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3330,7 +3353,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 88,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3357,7 +3380,7 @@
             "Scraper",
             "Hard-sub"
           ],
-          "rank": 89,
+          "rank": 90,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3391,7 +3414,7 @@
           "link": "https://watchanimeworld.net/",
           "icon": "https://static.everythingmoe.com/icons/animeworldin.png",
           "tags": [],
-          "rank": 90,
+          "rank": 91,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3464,7 +3487,7 @@
           "link": "https://animedekho.app/home/",
           "icon": "https://static.everythingmoe.com/icons/animedekho.png",
           "tags": [],
-          "rank": 91,
+          "rank": 92,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -6543,8 +6566,7 @@
             "Mostly Scans",
             "Modern interface",
             "Scanlator Hub",
-            "HUB",
-            "ISSUE"
+            "HUB"
           ],
           "rank": 1,
           "is_licensed": false,
@@ -8232,8 +8254,38 @@
           }
         },
         {
+          "id": "comico",
+          "title": "comico.moe",
+          "link": "https://comico.moe/",
+          "icon": "https://static.everythingmoe.com/icons/comico.png",
+          "tags": [
+            "Official Rips",
+            "Multi Language",
+            "Modern interface",
+            "mult"
+          ],
+          "rank": 48,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Nice interface",
+              "Detailed filtering options",
+              "Multi language selection"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes",
+              "New site"
+            ],
+            "info": "note: Scrap multiple websites."
+          }
+        },
+        {
           "id": "lunaranimemanga",
-          "title": "Lunar Animes - Manga",
+          "title": "Lunar - Manga",
           "link": "https://lunarx.to/manga",
           "icon": "https://static.everythingmoe.com/icons/lunaranime.png",
           "tags": [
@@ -8243,7 +8295,7 @@
             "Scanlator Hub",
             "mult"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8268,7 +8320,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8292,7 +8344,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8320,7 +8372,7 @@
             "Official Rips",
             "login"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8356,7 +8408,7 @@
             "Modern interface",
             "Scanlator Hub"
           ],
-          "rank": 52,
+          "rank": 53,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8393,7 +8445,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 53,
+          "rank": 54,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8429,7 +8481,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 54,
+          "rank": 55,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8481,7 +8533,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8506,7 +8558,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8531,7 +8583,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8565,7 +8617,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 58,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8603,7 +8655,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8627,7 +8679,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8651,7 +8703,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8675,7 +8727,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8705,7 +8757,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8736,7 +8788,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8760,7 +8812,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8784,7 +8836,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8816,7 +8868,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8847,7 +8899,7 @@
             "raw",
             "manhua"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8886,7 +8938,7 @@
             "raw",
             "manhua"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8918,7 +8970,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8943,7 +8995,7 @@
             "Raws",
             "raw"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8968,7 +9020,7 @@
             "Licensed",
             "licensed"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -8995,7 +9047,7 @@
             "Licensed",
             "licensed"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -9018,7 +9070,7 @@
           "link": "https://mangamikan.com/",
           "icon": "https://static.everythingmoe.com/icons/mangamikan.png",
           "tags": [],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9049,7 +9101,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9083,7 +9135,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9108,7 +9160,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9127,7 +9179,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9146,7 +9198,7 @@
             "Mostly Scans",
             "scan"
           ],
-          "rank": 79,
+          "rank": 80,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9164,7 +9216,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 80,
+          "rank": 81,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9185,7 +9237,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 81,
+          "rank": 82,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9209,7 +9261,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 82,
+          "rank": 83,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9233,7 +9285,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 83,
+          "rank": 84,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9263,7 +9315,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 84,
+          "rank": 85,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9287,7 +9339,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 85,
+          "rank": 86,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9317,7 +9369,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 86,
+          "rank": 87,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9342,7 +9394,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 87,
+          "rank": 88,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9367,7 +9419,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 88,
+          "rank": 89,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9444,7 +9496,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 89,
+          "rank": 90,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -9472,7 +9524,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 90,
+          "rank": 91,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -17196,7 +17248,11 @@
             ],
             "altlinks": [
               {
-                "name": "Extension guide",
+                "name": "Extensions",
+                "url": "https://inkdex.github.io/"
+              },
+              {
+                "name": "Guide",
                 "url": "https://www.youtube.com/watch?v=GU9prPNmRt8"
               },
               {
@@ -38777,6 +38833,29 @@
         "ex-info": "note : each made by different people, uses CF worker proxy."
       }
     },
+    "anixo": {
+      "id": "anixo",
+      "title": "AniXo",
+      "link": "https://anixo.online/",
+      "icon": "https://static.everythingmoe.com/icons/anixo.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "fanime": {
       "id": "fanime",
       "title": "Fanime",
@@ -38909,6 +38988,29 @@
           "Content depends on the websites it scrapes"
         ],
         "info": "note: Similar interface with Kuroiru"
+      }
+    },
+    "last1234": {
+      "id": "last1234",
+      "title": "AniLast",
+      "link": "https://last1234.fun/",
+      "icon": "https://static.everythingmoe.com/icons/last1234.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
       }
     },
     "itachitv": {
@@ -39584,29 +39686,6 @@
           "Content depends on the websites it scrapes"
         ],
         "info": "note: Arabic website, but have english language"
-      }
-    },
-    "anixo": {
-      "id": "anixo",
-      "title": "AniXo",
-      "link": "https://anixo.online/",
-      "icon": "https://static.everythingmoe.com/icons/anixo.png",
-      "tags": [
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
       }
     },
     "1anime": {
@@ -43196,8 +43275,7 @@
         "Mostly Scans",
         "Modern interface",
         "Scanlator Hub",
-        "HUB",
-        "ISSUE"
+        "HUB"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -44884,9 +44962,39 @@
         "info": "note: Images reuploaded from multiple sources"
       }
     },
+    "comico": {
+      "id": "comico",
+      "title": "comico.moe",
+      "link": "https://comico.moe/",
+      "icon": "https://static.everythingmoe.com/icons/comico.png",
+      "tags": [
+        "Official Rips",
+        "Multi Language",
+        "Modern interface",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Nice interface",
+          "Detailed filtering options",
+          "Multi language selection"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes",
+          "New site"
+        ],
+        "info": "note: Scrap multiple websites."
+      }
+    },
     "lunaranimemanga": {
       "id": "lunaranimemanga",
-      "title": "Lunar Animes - Manga",
+      "title": "Lunar - Manga",
       "link": "https://lunarx.to/manga",
       "icon": "https://static.everythingmoe.com/icons/lunaranime.png",
       "tags": [
@@ -53804,7 +53912,11 @@
         ],
         "altlinks": [
           {
-            "name": "Extension guide",
+            "name": "Extensions",
+            "url": "https://inkdex.github.io/"
+          },
+          {
+            "name": "Guide",
             "url": "https://www.youtube.com/watch?v=GU9prPNmRt8"
           },
           {
