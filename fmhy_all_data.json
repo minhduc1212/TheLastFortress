@@ -12486,6 +12486,19 @@
                             ]
                         },
                         {
+                            "full_text": "AniCine - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "AniCine",
+                                    "url": "https://anicine.xyz/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/2GYMjGuh3"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "7Movies - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
@@ -12495,32 +12508,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/JxgRaYMVHF"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AuroraScreen - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "AuroraScreen",
-                                    "url": "https://aurorascreen.pages.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/kPUWwAQCzk"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AniCine - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "AniCine",
-                                    "url": "https://anicine.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/2GYMjGuh3"
                                 }
                             ]
                         },
@@ -12593,6 +12580,19 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/HDHYDRAHD"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AuroraScreen - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "AuroraScreen",
+                                    "url": "https://aurorascreen.pages.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/kPUWwAQCzk"
                                 }
                             ]
                         },
@@ -13155,6 +13155,15 @@
                                 {
                                     "name": "Zerostream",
                                     "url": "https://zerostream.alwaysdata.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FreeInterTV - TV / Sports",
+                            "links": [
+                                {
+                                    "name": "FreeInterTV",
+                                    "url": "http://www.freeintertv.com/"
                                 }
                             ]
                         },
@@ -17019,15 +17028,11 @@
                             ]
                         },
                         {
-                            "full_text": "⁠CMVTV , 2 - Stream Aggregator /",
+                            "full_text": "⁠CMVTV - Stream Aggregator /",
                             "links": [
                                 {
                                     "name": "⁠CMVTV",
                                     "url": "https://cmvstrm.lovable.app/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://cmv-tv.strms.workers.dev/"
                                 },
                                 {
                                     "name": "",
@@ -21632,7 +21637,7 @@
                                 },
                                 {
                                     "name": "Popular Picks",
-                                    "url": "https://rentry.co/cc40"
+                                    "url": "https://closet-picks.com/"
                                 }
                             ]
                         },
@@ -25105,6 +25110,23 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "NTS Radio - DJ Radio Shows / SoundCloud / Discovery Guide",
+                            "links": [
+                                {
+                                    "name": "NTS Radio",
+                                    "url": "https://www.nts.live/"
+                                },
+                                {
+                                    "name": "SoundCloud",
+                                    "url": "https://soundcloud.com/user-202286394-991268468"
+                                },
+                                {
+                                    "name": "Discovery Guide",
+                                    "url": "https://rentry.co/musicdiscovery/#nts-radio"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SomaFM - Online Radio / User Supported / Discovery Guide",
                             "links": [
                                 {
@@ -25127,23 +25149,6 @@
                                 {
                                     "name": "Add Features",
                                     "url": "https://greasyfork.org/scripts/591641"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NTS Radio - DJ Radio Shows / SoundCloud / Discovery Guide",
-                            "links": [
-                                {
-                                    "name": "NTS Radio",
-                                    "url": "https://www.nts.live/"
-                                },
-                                {
-                                    "name": "SoundCloud",
-                                    "url": "https://soundcloud.com/user-202286394-991268468"
-                                },
-                                {
-                                    "name": "Discovery Guide",
-                                    "url": "https://rentry.co/musicdiscovery/#nts-radio"
                                 }
                             ]
                         },
@@ -36320,7 +36325,7 @@
                             "links": [
                                 {
                                     "name": "Dats.site",
-                                    "url": "https://dats.site/home.php"
+                                    "url": "https://dats.site/"
                                 }
                             ]
                         },
@@ -68328,11 +68333,19 @@
                             ]
                         },
                         {
-                            "full_text": "Cantonese Sheik , ⁠Baúl Chino , ⁠Refold Mandarin or SinoSplice - Chinese Learning Resources",
+                            "full_text": "Cantonese Sheik , ⁠Heavenly Path / , ⁠Baúl Chino , ⁠Refold Mandarin or SinoSplice - Chinese Learning Resources",
                             "links": [
                                 {
                                     "name": "Cantonese Sheik",
                                     "url": "https://www.cantonese.sheik.co.uk/"
+                                },
+                                {
+                                    "name": "⁠Heavenly Path",
+                                    "url": "https://heavenlypath.notion.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/chinesejourney"
                                 },
                                 {
                                     "name": "⁠Baúl Chino",
@@ -73657,7 +73670,7 @@
                                 },
                                 {
                                     "name": "OpenBoard",
-                                    "url": "https://openboard.ch/index.en.html"
+                                    "url": "https://openboard.ch/en"
                                 },
                                 {
                                     "name": "tldraw",
@@ -77383,7 +77396,7 @@
                             ]
                         },
                         {
-                            "full_text": "Nagram / , ⁠Nnngram / , ⁠NagramX / or Momogram - NekoX Forks",
+                            "full_text": "Nagram / , ⁠Nnngram / or Momogram - NekoX Forks",
                             "links": [
                                 {
                                     "name": "Nagram",
@@ -77400,14 +77413,6 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/NextAlone/Nnngram"
-                                },
-                                {
-                                    "name": "⁠NagramX",
-                                    "url": "https://t.me/NagramX"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/risin42/NagramX"
                                 },
                                 {
                                     "name": "Momogram",
@@ -103914,19 +103919,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/32taxtj5BC"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Anime World India , 2 - Anime",
-                            "links": [
-                                {
-                                    "name": "Anime World India",
-                                    "url": "https://watchanimeworld.net/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://animesalt.top/"
                                 }
                             ]
                         },
@@ -143802,11 +143794,15 @@
                             ]
                         },
                         {
-                            "full_text": "Outlook or ⁠Aster Mail - Number-Free Email Services",
+                            "full_text": "Outlook , navi.land or ⁠Aster Mail - Number-Free Email Services",
                             "links": [
                                 {
                                     "name": "Outlook",
                                     "url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook"
+                                },
+                                {
+                                    "name": "navi.land",
+                                    "url": "https://navi.land/"
                                 },
                                 {
                                     "name": "⁠Aster Mail",
@@ -166283,15 +166279,6 @@
                                 {
                                     "name": "",
                                     "url": "https://dsc.gg/elefrac"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NolfRevival - NOLF, NOLF 2 & Contract Jack",
-                            "links": [
-                                {
-                                    "name": "NolfRevival",
-                                    "url": "http://nolfrevival.tk/"
                                 }
                             ]
                         },
@@ -189051,6 +189038,23 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "NTS Radio - DJ Radio Shows / SoundCloud / Discovery Guide",
+                            "links": [
+                                {
+                                    "name": "NTS Radio",
+                                    "url": "https://www.nts.live/"
+                                },
+                                {
+                                    "name": "SoundCloud",
+                                    "url": "https://soundcloud.com/user-202286394-991268468"
+                                },
+                                {
+                                    "name": "Discovery Guide",
+                                    "url": "https://rentry.co/musicdiscovery/#nts-radio"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SomaFM - Online Radio / User Supported / Discovery Guide",
                             "links": [
                                 {
@@ -189073,23 +189077,6 @@
                                 {
                                     "name": "Add Features",
                                     "url": "https://greasyfork.org/scripts/591641"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NTS Radio - DJ Radio Shows / SoundCloud / Discovery Guide",
-                            "links": [
-                                {
-                                    "name": "NTS Radio",
-                                    "url": "https://www.nts.live/"
-                                },
-                                {
-                                    "name": "SoundCloud",
-                                    "url": "https://soundcloud.com/user-202286394-991268468"
-                                },
-                                {
-                                    "name": "Discovery Guide",
-                                    "url": "https://rentry.co/musicdiscovery/#nts-radio"
                                 }
                             ]
                         },
@@ -208272,11 +208259,19 @@
                             ]
                         },
                         {
-                            "full_text": "Cantonese Sheik , ⁠Baúl Chino , ⁠Refold Mandarin or SinoSplice - Chinese Learning Resources",
+                            "full_text": "Cantonese Sheik , ⁠Heavenly Path / , ⁠Baúl Chino , ⁠Refold Mandarin or SinoSplice - Chinese Learning Resources",
                             "links": [
                                 {
                                     "name": "Cantonese Sheik",
                                     "url": "https://www.cantonese.sheik.co.uk/"
+                                },
+                                {
+                                    "name": "⁠Heavenly Path",
+                                    "url": "https://heavenlypath.notion.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/chinesejourney"
                                 },
                                 {
                                     "name": "⁠Baúl Chino",
@@ -213601,7 +213596,7 @@
                                 },
                                 {
                                     "name": "OpenBoard",
-                                    "url": "https://openboard.ch/index.en.html"
+                                    "url": "https://openboard.ch/en"
                                 },
                                 {
                                     "name": "tldraw",
@@ -217900,6 +217895,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/meilisearch/meilisearch"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Secrets To AI - AI API Gateway",
+                            "links": [
+                                {
+                                    "name": "Secrets To AI",
+                                    "url": "https://discord.com/invite/mMyN7dYdCJ"
                                 }
                             ]
                         },
@@ -226780,6 +226784,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠crt.name - Passive Subdomain Index / Search",
+                            "links": [
+                                {
+                                    "name": "⁠crt.name",
+                                    "url": "https://crt.name/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "SupaBase - Database / Authentication Service",
                             "links": [
                                 {
@@ -227849,6 +227862,15 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "NolfRevival - NOLF, NOLF 2 & Contract Jack (Removed in 2861134 : updayed 9 pages)",
+                            "links": [
+                                {
+                                    "name": "2861134",
+                                    "url": "https://github.com/fmhy/edit/commit/2861134494fd193caeaab3aaec52172a417be4b1#diff-edda16a4b9528e44dfe58308519fa18af27159354d2c7106303a0bf485a69759L515"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠FreeTheAI - AI API Gateway (Removed in 40d2e1f )",
                             "links": [
                                 {
@@ -227908,15 +227930,6 @@
                                 {
                                     "name": "40d2e1f",
                                     "url": "https://github.com/fmhy/edit/commit/40d2e1f7cadbebd0716c5b3d53a3e6152a84957c#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L719"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "FreeInterTV - TV / Sports (Removed in 40d2e1f )",
-                            "links": [
-                                {
-                                    "name": "40d2e1f",
-                                    "url": "https://github.com/fmhy/edit/commit/40d2e1f7cadbebd0716c5b3d53a3e6152a84957c#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL518"
                                 }
                             ]
                         },
@@ -229096,42 +229109,6 @@
                                 {
                                     "name": "cbf7ce5",
                                     "url": "https://github.com/fmhy/edit/commit/cbf7ce56a4d5858e2c73adc1a5ad96b470bffde5#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL507"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Tencent AI Studio - ⁠Hy3 / Unlimited / Sign-Up (Removed in c1cab23 )",
-                            "links": [
-                                {
-                                    "name": "c1cab23",
-                                    "url": "https://github.com/fmhy/edit/commit/c1cab2323cdbd739f72ef1d85a93756b6df4a87c#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L36"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "SD Toons - Movies / TV / Anime / 1080p / Some NSFW (Removed in c1cab23 )",
-                            "links": [
-                                {
-                                    "name": "c1cab23",
-                                    "url": "https://github.com/fmhy/edit/commit/c1cab2323cdbd739f72ef1d85a93756b6df4a87c#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L703"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Tokuzilla - Tokuzilla Movies / Shows (Removed in c1cab23 )",
-                            "links": [
-                                {
-                                    "name": "c1cab23",
-                                    "url": "https://github.com/fmhy/edit/commit/c1cab2323cdbd739f72ef1d85a93756b6df4a87c#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL270"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AsianSubs - TV / Movies (Removed in c1cab23 )",
-                            "links": [
-                                {
-                                    "name": "c1cab23",
-                                    "url": "https://github.com/fmhy/edit/commit/c1cab2323cdbd739f72ef1d85a93756b6df4a87c#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL415"
                                 }
                             ]
                         }
