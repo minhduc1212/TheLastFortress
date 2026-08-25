@@ -2266,6 +2266,32 @@
           }
         },
         {
+          "id": "kaorii",
+          "title": "Kaori",
+          "link": "https://kaorii.app/",
+          "icon": "https://static.everythingmoe.com/icons/kaorii.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 59,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "animekizz",
           "title": "AnimeKizz",
           "link": "https://animekizz.live/",
@@ -2276,7 +2302,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 59,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2303,7 +2329,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2350,7 +2376,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2376,7 +2402,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 62,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2449,7 +2475,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2477,7 +2503,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2507,7 +2533,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2536,7 +2562,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2603,7 +2629,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2692,31 +2718,6 @@
           "tags": [
             "mult"
           ],
-          "rank": 68,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ]
-          }
-        },
-        {
-          "id": "kaorii",
-          "title": "Kaori",
-          "link": "https://kaorii.app/",
-          "icon": "https://static.everythingmoe.com/icons/kaorii.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "mult"
-          ],
           "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
@@ -2725,8 +2726,7 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Multiple source options",
-              "Nice interface"
+              "Multiple source options"
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
@@ -3416,7 +3416,7 @@
               },
               {
                 "name": "animesalt",
-                "url": "https://animesalt.top/"
+                "url": "https://animesalt.cx/"
               },
               {
                 "name": "piratexplay",
@@ -8251,7 +8251,7 @@
               "Content depends on the websites it scrapes",
               "New site"
             ],
-            "info": "note: Scrap multiple websites."
+            "info": "note: Scrap multiple websites. Also allow user uploads."
           }
         },
         {
@@ -39003,6 +39003,32 @@
         "domain": "https://anilink.cc/"
       }
     },
+    "kaorii": {
+      "id": "kaorii",
+      "title": "Kaori",
+      "link": "https://kaorii.app/",
+      "icon": "https://static.everythingmoe.com/icons/kaorii.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "animekizz": {
       "id": "animekizz",
       "title": "AnimeKizz",
@@ -39439,32 +39465,6 @@
       "details": {
         "positives": [
           "Multiple source options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
-      }
-    },
-    "kaorii": {
-      "id": "kaorii",
-      "title": "Kaori",
-      "link": "https://kaorii.app/",
-      "icon": "https://static.everythingmoe.com/icons/kaorii.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options",
-          "Nice interface"
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
@@ -40154,7 +40154,7 @@
           },
           {
             "name": "animesalt",
-            "url": "https://animesalt.top/"
+            "url": "https://animesalt.cx/"
           },
           {
             "name": "piratexplay",
@@ -44953,7 +44953,7 @@
           "Content depends on the websites it scrapes",
           "New site"
         ],
-        "info": "note: Scrap multiple websites."
+        "info": "note: Scrap multiple websites. Also allow user uploads."
       }
     },
     "lunaranimemanga": {

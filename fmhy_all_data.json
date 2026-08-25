@@ -548,7 +548,7 @@
                         "Do I need a VPN to torrent?",
                         "Downloading files through torrenting can cause issues with your ISP, so using aVPNis a must in most countries. You should alsobind your VPNto your torrent client. This ensures that if your VPN connection drops, your torrent client stops all traffic, preventing your real IP address from being exposed. You can also useRemote Torrenting Servicesto avoid the need for a VPN altogether.",
                         "What is Port Forwarding? Do I need it?",
-                        "Port forwarding(having an open port) is an essential part of torrenting and it's recommended to set it up. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectivity for torrents with fewer seeds."
+                        "Port forwarding(having an open port) is recommended for users torrenting without a VPN, or those with a VPN that supports port forwarding. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectivity for torrents with fewer seeds."
                     ],
                     "resource_items": []
                 },
@@ -13871,15 +13871,6 @@
                             ]
                         },
                         {
-                            "full_text": "JP-Films - Japanese Movies / TV",
-                            "links": [
-                                {
-                                    "name": "JP-Films",
-                                    "url": "https://jp-films.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "GizmoPlex - MST3K Movies",
                             "links": [
                                 {
@@ -18858,6 +18849,19 @@
                             ]
                         },
                         {
+                            "full_text": "MKV BASE - Movies / TV / Anime / 4K / Remuxes / 3D /",
+                            "links": [
+                                {
+                                    "name": "MKV BASE",
+                                    "url": "https://mkvbase.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/MkVBase"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "DDLBase , 2 - Movies / TV / 4K / 3D / Remuxes / Use Bypass",
                             "links": [
                                 {
@@ -18901,19 +18905,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/hpkMqrwRCE"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MKV BASE - Movies / TV / Anime / 4K / Remuxes / 3D /",
-                            "links": [
-                                {
-                                    "name": "MKV BASE",
-                                    "url": "https://mkvbase.site/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/MkVBase"
                                 }
                             ]
                         },
@@ -33168,6 +33159,23 @@
                             ]
                         },
                         {
+                            "full_text": "⁠GOG Revived or GOG Games / - Download / Torrent / GOG Games Only",
+                            "links": [
+                                {
+                                    "name": "⁠GOG Revived",
+                                    "url": "https://gog-rev.com/"
+                                },
+                                {
+                                    "name": "GOG Games",
+                                    "url": "https://gog-games.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "GameBounty - Download / Pre-installed / Achievements /",
                             "links": [
                                 {
@@ -33301,23 +33309,6 @@
                                 {
                                     "name": "",
                                     "url": "https://t.me/appnetica_info"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GOG Games / or ⁠GOG Revived - Download / Torrent / GOG Games Only",
-                            "links": [
-                                {
-                                    "name": "GOG Games",
-                                    "url": "https://gog-games.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/"
-                                },
-                                {
-                                    "name": "⁠GOG Revived",
-                                    "url": "https://gog-rev.com/"
                                 }
                             ]
                         },
@@ -102238,7 +102229,7 @@
                             "links": [
                                 {
                                     "name": "Bookys",
-                                    "url": "https://www6.bookys-ebooks.com/"
+                                    "url": "https://www.bookys-ebooks.com/"
                                 }
                             ]
                         },
@@ -103970,6 +103961,19 @@
                             ]
                         },
                         {
+                            "full_text": "Anime World India , 2 - Anime",
+                            "links": [
+                                {
+                                    "name": "Anime World India",
+                                    "url": "https://watchanimeworld.one/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://animesalt.top/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "TamilMV - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages",
                             "links": [
                                 {
@@ -105332,15 +105336,6 @@
                                 {
                                     "name": "Desktop",
                                     "url": "https://github.com/tor4kichi/Hohoema"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "JP-Films - Classic Japanese Movies / TV / 1080p",
-                            "links": [
-                                {
-                                    "name": "JP-Films",
-                                    "url": "https://jp-films.com/"
                                 }
                             ]
                         },
@@ -163967,6 +163962,15 @@
                                 {
                                     "name": "⁠hoGAMEGATA",
                                     "url": "https://gamegata.xyz/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠GOG Database - GOG Game Database",
+                            "links": [
+                                {
+                                    "name": "⁠GOG Database",
+                                    "url": "https://www.gogdb.org/"
                                 }
                             ]
                         },
@@ -227930,6 +227934,15 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "JP-Films - Classic Japanese Movies / TV / 1080p (Removed in 08faca4 )",
+                            "links": [
+                                {
+                                    "name": "08faca4",
+                                    "url": "https://github.com/fmhy/edit/commit/08faca4f78ed02e85cc71bcc9a4349f017fbc7e2#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L905"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Software Heritage - Software Source Code Archive (Removed in 20b42ef )",
                             "links": [
