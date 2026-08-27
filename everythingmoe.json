@@ -2784,6 +2784,36 @@
           }
         },
         {
+          "id": "aniclipse",
+          "title": "AniCipse",
+          "link": "https://aniclipse.com/",
+          "icon": "https://static.everythingmoe.com/icons/aniclipse.png",
+          "tags": [
+            "mult"
+          ],
+          "rank": 72,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "altlinks": [
+              {
+                "name": "anikoto.cx",
+                "url": "https://anikoto.cx/"
+              }
+            ],
+            "domain": "vidhawk.buzz"
+          }
+        },
+        {
           "id": "anikura",
           "title": "Anikura",
           "link": "https://anikura.club/",
@@ -2793,7 +2823,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2821,7 +2851,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2847,7 +2877,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2872,7 +2902,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2899,7 +2929,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2913,30 +2943,6 @@
               "Content depends on the websites it scrapes"
             ],
             "info": "note: Arabic website, but have english language"
-          }
-        },
-        {
-          "id": "aniclipse",
-          "title": "AniCipse",
-          "link": "https://aniclipse.com/",
-          "icon": "https://static.everythingmoe.com/icons/aniclipse.png",
-          "tags": [
-            "mult"
-          ],
-          "rank": 77,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ],
-            "domain": "vidhawk.buzz"
           }
         },
         {
@@ -6023,6 +6029,29 @@
           }
         },
         {
+          "id": "kurahentai",
+          "title": "KuraHentai",
+          "link": "https://kurahentai.com/",
+          "icon": "https://static.everythingmoe.com/icons/kurahentai.png",
+          "tags": [
+            "nsfw"
+          ],
+          "rank": 32,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "hentairead",
+          "details": {
+            "positives": [
+              "Medium-small library"
+            ],
+            "negatives": [
+              "New site"
+            ]
+          }
+        },
+        {
           "id": "mhentai",
           "title": "M-Hentai",
           "link": "https://m-hentai.net/",
@@ -6030,7 +6059,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6050,7 +6079,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6074,7 +6103,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6098,7 +6127,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6128,7 +6157,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6148,7 +6177,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6172,7 +6201,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6195,7 +6224,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6215,7 +6244,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6238,7 +6267,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6258,7 +6287,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6284,7 +6313,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6309,7 +6338,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6332,7 +6361,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6355,7 +6384,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6379,7 +6408,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6399,7 +6428,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6417,7 +6446,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -6439,7 +6468,7 @@
             "nsfw",
             "licensed"
           ],
-          "rank": 50,
+          "rank": 51,
           "is_licensed": true,
           "is_nsfw": true,
           "has_details": true,
@@ -6458,7 +6487,7 @@
             "nsfw",
             "licensed"
           ],
-          "rank": 51,
+          "rank": 52,
           "is_licensed": true,
           "is_nsfw": true,
           "has_details": true,
@@ -39603,6 +39632,36 @@
         ]
       }
     },
+    "aniclipse": {
+      "id": "aniclipse",
+      "title": "AniCipse",
+      "link": "https://aniclipse.com/",
+      "icon": "https://static.everythingmoe.com/icons/aniclipse.png",
+      "tags": [
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "altlinks": [
+          {
+            "name": "anikoto.cx",
+            "url": "https://anikoto.cx/"
+          }
+        ],
+        "domain": "vidhawk.buzz"
+      }
+    },
     "anikura": {
       "id": "anikura",
       "title": "Anikura",
@@ -39733,30 +39792,6 @@
           "Content depends on the websites it scrapes"
         ],
         "info": "note: Arabic website, but have english language"
-      }
-    },
-    "aniclipse": {
-      "id": "aniclipse",
-      "title": "AniCipse",
-      "link": "https://aniclipse.com/",
-      "icon": "https://static.everythingmoe.com/icons/aniclipse.png",
-      "tags": [
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ],
-        "domain": "vidhawk.buzz"
       }
     },
     "shinora": {
@@ -42812,6 +42847,29 @@
       "details": {
         "positives": [
           "Medium-large library"
+        ]
+      }
+    },
+    "kurahentai": {
+      "id": "kurahentai",
+      "title": "KuraHentai",
+      "link": "https://kurahentai.com/",
+      "icon": "https://static.everythingmoe.com/icons/kurahentai.png",
+      "tags": [
+        "nsfw"
+      ],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "hentairead"
+      ],
+      "details": {
+        "positives": [
+          "Medium-small library"
+        ],
+        "negatives": [
+          "New site"
         ]
       }
     },
