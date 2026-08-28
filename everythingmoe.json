@@ -583,40 +583,6 @@
           }
         },
         {
-          "id": "AnimeOnsen",
-          "title": "AnimeOnsen",
-          "link": "https://www.animeonsen.xyz/",
-          "icon": "https://static.everythingmoe.com/icons/animeonsen.png",
-          "tags": [
-            "Self-host",
-            "Modern interface",
-            "Dub friendly",
-            "Soft-sub"
-          ],
-          "rank": 12,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Simple interface",
-              "Soft subtitles (multi language supported)"
-            ],
-            "negatives": [
-              "Small library",
-              "No comments section"
-            ],
-            "ex-altlinks": [
-              {
-                "name": "beta",
-                "url": "https://v3-dev.animeonsen.xyz/"
-              }
-            ]
-          }
-        },
-        {
           "id": "animenexus",
           "title": "Anime Nexus",
           "link": "https://anime.nexus/",
@@ -626,7 +592,7 @@
             "Modern interface",
             "Soft-sub"
           ],
-          "rank": 13,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -662,7 +628,7 @@
             "Soft-sub",
             "Dub friendly"
           ],
-          "rank": 14,
+          "rank": 13,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -698,7 +664,7 @@
             "Soft-sub",
             "Dub friendly"
           ],
-          "rank": 15,
+          "rank": 14,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -766,7 +732,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 16,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -808,7 +774,7 @@
             "Self-host",
             "Hard-sub"
           ],
-          "rank": 17,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -898,6 +864,40 @@
               }
             ],
             "domains": "hlsx3cdn.burntburst45.store"
+          }
+        },
+        {
+          "id": "AnimeOnsen",
+          "title": "AnimeOnsen",
+          "link": "https://www.animeonsen.xyz/",
+          "icon": "https://static.everythingmoe.com/icons/animeonsen.png",
+          "tags": [
+            "Self-host",
+            "Modern interface",
+            "Dub friendly",
+            "Soft-sub"
+          ],
+          "rank": 17,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Simple interface",
+              "Soft subtitles (multi language supported)"
+            ],
+            "negatives": [
+              "Small library",
+              "No comments section"
+            ],
+            "ex-altlinks": [
+              {
+                "name": "beta",
+                "url": "https://v3-dev.animeonsen.xyz/"
+              }
+            ]
           }
         },
         {
@@ -37431,40 +37431,6 @@
         "domains": "krussdomi.com"
       }
     },
-    "AnimeOnsen": {
-      "id": "AnimeOnsen",
-      "title": "AnimeOnsen",
-      "link": "https://www.animeonsen.xyz/",
-      "icon": "https://static.everythingmoe.com/icons/animeonsen.png",
-      "tags": [
-        "Self-host",
-        "Modern interface",
-        "Dub friendly",
-        "Soft-sub"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Simple interface",
-          "Soft subtitles (multi language supported)"
-        ],
-        "negatives": [
-          "Small library",
-          "No comments section"
-        ],
-        "ex-altlinks": [
-          {
-            "name": "beta",
-            "url": "https://v3-dev.animeonsen.xyz/"
-          }
-        ]
-      }
-    },
     "animenexus": {
       "id": "animenexus",
       "title": "Anime Nexus",
@@ -37747,6 +37713,40 @@
           }
         ],
         "domains": "hlsx3cdn.burntburst45.store"
+      }
+    },
+    "AnimeOnsen": {
+      "id": "AnimeOnsen",
+      "title": "AnimeOnsen",
+      "link": "https://www.animeonsen.xyz/",
+      "icon": "https://static.everythingmoe.com/icons/animeonsen.png",
+      "tags": [
+        "Self-host",
+        "Modern interface",
+        "Dub friendly",
+        "Soft-sub"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Simple interface",
+          "Soft subtitles (multi language supported)"
+        ],
+        "negatives": [
+          "Small library",
+          "No comments section"
+        ],
+        "ex-altlinks": [
+          {
+            "name": "beta",
+            "url": "https://v3-dev.animeonsen.xyz/"
+          }
+        ]
       }
     },
     "anisnatch": {
