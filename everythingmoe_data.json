@@ -10315,6 +10315,10 @@
             "info": "note: also provides JP manga translated into korean",
             "altlinks": [
               {
+                "name": "999",
+                "url": "https://wfwf999.com"
+              },
+              {
                 "name": "늑대닷컴",
                 "url": "https://xn--ph1bph0az41x.com/"
               },
@@ -10342,7 +10346,7 @@
         {
           "id": "jjaptoon",
           "title": "jjaptoon",
-          "link": "https://jjaptoon006.com/",
+          "link": "https://jjaptoon007.com/",
           "icon": "https://static.everythingmoe.com/icons/jjaptoon006.png",
           "tags": [
             "Raws",
@@ -10452,7 +10456,7 @@
         {
           "id": "joatoon",
           "title": "Joatoon",
-          "link": "https://joa-new.com/",
+          "link": "https://t.me/s/joatoon",
           "icon": "https://static.everythingmoe.com/icons/joatoon.png",
           "tags": [
             "Raws",
@@ -10474,6 +10478,10 @@
               "Untranslated (RAW)"
             ],
             "altlinks": [
+              {
+                "name": "joa-new",
+                "url": "https://joa-new.com"
+              },
               {
                 "name": "joa-vip",
                 "url": "https://joa-vip.com/"
@@ -47131,6 +47139,10 @@
         "info": "note: also provides JP manga translated into korean",
         "altlinks": [
           {
+            "name": "999",
+            "url": "https://wfwf999.com"
+          },
+          {
             "name": "늑대닷컴",
             "url": "https://xn--ph1bph0az41x.com/"
           },
@@ -47158,7 +47170,7 @@
     "jjaptoon": {
       "id": "jjaptoon",
       "title": "jjaptoon",
-      "link": "https://jjaptoon006.com/",
+      "link": "https://jjaptoon007.com/",
       "icon": "https://static.everythingmoe.com/icons/jjaptoon006.png",
       "tags": [
         "Raws",
@@ -47268,7 +47280,7 @@
     "joatoon": {
       "id": "joatoon",
       "title": "Joatoon",
-      "link": "https://joa-new.com/",
+      "link": "https://t.me/s/joatoon",
       "icon": "https://static.everythingmoe.com/icons/joatoon.png",
       "tags": [
         "Raws",
@@ -47290,6 +47302,10 @@
           "Untranslated (RAW)"
         ],
         "altlinks": [
+          {
+            "name": "joa-new",
+            "url": "https://joa-new.com"
+          },
           {
             "name": "joa-vip",
             "url": "https://joa-vip.com/"

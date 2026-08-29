@@ -2791,14 +2791,10 @@
                             ]
                         },
                         {
-                            "full_text": "paranoiaprivacy.wiki - Educational Guide / Codeberg",
+                            "full_text": "paranoiaprivacy.wiki - Educational Guide",
                             "links": [
                                 {
                                     "name": "paranoiaprivacy.wiki",
-                                    "url": "https://paranoiaprivacy.wiki/"
-                                },
-                                {
-                                    "name": "Codeberg",
                                     "url": "https://codeberg.org/Sauul/paranoiaprivacy"
                                 }
                             ]
@@ -6518,11 +6514,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Tryingopen - Kimi K3 / GLM 5.3 / Qwen3.8 2.4T A95B / GLM-5.3-Flash / Unlimited",
+                            "full_text": "⁠Tryingopen - Kimi K3 / GLM 5.3 / Qwen3.8 2.4T A95B / GLM-5.3-Flash / Unlimited / OpenAI Bridge",
                             "links": [
                                 {
                                     "name": "⁠Tryingopen",
                                     "url": "https://www.tryingopen.com/"
+                                },
+                                {
+                                    "name": "OpenAI Bridge",
+                                    "url": "https://github.com/khrotu/radio-house-api"
                                 }
                             ]
                         },
@@ -11082,6 +11082,19 @@
                             ]
                         },
                         {
+                            "full_text": "Cinejoy - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Cinejoy",
+                                    "url": "https://cinejoy.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/TWKxstBuv9"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "PopcornMovies or BingeBox - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11126,19 +11139,6 @@
                                 {
                                     "name": "Fmovies+",
                                     "url": "https://www.fmovies.gd/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cinejoy - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cinejoy",
-                                    "url": "https://cinejoy.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/TWKxstBuv9"
                                 }
                             ]
                         },
@@ -11202,7 +11202,24 @@
                             ]
                         },
                         {
-                            "full_text": "MeowTV or FlickyStream - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "Reelix or Coreflix / - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Reelix",
+                                    "url": "https://reelix.ac/"
+                                },
+                                {
+                                    "name": "Coreflix",
+                                    "url": "https://coreflix.tv/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/FkaeFU32nr"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MeowTV or FlickyStream , 2 - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "MeowTV",
@@ -11211,6 +11228,10 @@
                                 {
                                     "name": "FlickyStream",
                                     "url": "https://flickystream.dad/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://flickystream.mov/"
                                 },
                                 {
                                     "name": "",
@@ -11245,6 +11266,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/us5-and-toustream-1157125685178007672"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "7Movies - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "7Movies",
+                                    "url": "https://7movies.in/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/JxgRaYMVHF"
                                 }
                             ]
                         },
@@ -11287,6 +11321,23 @@
                             ]
                         },
                         {
+                            "full_text": "Chillflix - Movies / TV / Anime / Auto-Next / /",
+                            "links": [
+                                {
+                                    "name": "Chillflix",
+                                    "url": "https://chillflix.lol/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/+jXrFnrO-TYA4ZGMy"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/6r5KTZgqXV"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Moovie - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11322,19 +11373,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/ygexZUCXVa"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "7Movies - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "7Movies",
-                                    "url": "https://7movies.in/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/JxgRaYMVHF"
                                 }
                             ]
                         },
@@ -11440,23 +11478,6 @@
                                 {
                                     "name": "HiveX",
                                     "url": "https://hivex.stream/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Chillflix - Movies / TV / Anime / Auto-Next / /",
-                            "links": [
-                                {
-                                    "name": "Chillflix",
-                                    "url": "https://chillflix.lol/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/+jXrFnrO-TYA4ZGMy"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/6r5KTZgqXV"
                                 }
                             ]
                         },
@@ -11621,23 +11642,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/jT6daX7q2u"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Reelix or Coreflix / - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "Reelix",
-                                    "url": "https://reelix.ac/"
-                                },
-                                {
-                                    "name": "Coreflix",
-                                    "url": "https://coreflix.tv/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/FkaeFU32nr"
                                 }
                             ]
                         },
@@ -14244,7 +14248,7 @@
                             ]
                         },
                         {
-                            "full_text": "Re:ANIME , 2 - Sub / Dub / Auto-Next / Status / /",
+                            "full_text": "Re:ANIME , 2 , 3 - Sub / Dub / Auto-Next / Status / /",
                             "links": [
                                 {
                                     "name": "Re:ANIME",
@@ -14253,6 +14257,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://reanime.cz/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://reanime.wtf/"
                                 },
                                 {
                                     "name": "Status",
@@ -16449,15 +16457,6 @@
                             ]
                         },
                         {
-                            "full_text": "DistroTV - TV",
-                            "links": [
-                                {
-                                    "name": "DistroTV",
-                                    "url": "https://distro.tv/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "AwardStreams - Live Award Shows / /",
                             "links": [
                                 {
@@ -17272,19 +17271,6 @@
                                 {
                                     "name": "FawaNews",
                                     "url": "http://www.fawanews.sc/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Sportera - Football /",
-                            "links": [
-                                {
-                                    "name": "Sportera",
-                                    "url": "https://sportera.fans/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/sportera_sports"
                                 }
                             ]
                         },
@@ -20713,6 +20699,15 @@
                             ]
                         },
                         {
+                            "full_text": "Heartive - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "Heartive",
+                                    "url": "https://heartivelovestv.pages.dev/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Youplex Torrents - Movies / TV / Anime / 4K",
                             "links": [
                                 {
@@ -20754,15 +20749,6 @@
                                 {
                                     "name": "TorrentSurf",
                                     "url": "https://torrentsurf.to/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Heartive - Movies / TV / Anime",
-                            "links": [
-                                {
-                                    "name": "Heartive",
-                                    "url": "https://heartivelovestv.pages.dev/"
                                 }
                             ]
                         },
@@ -33343,7 +33329,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Kryoto - Download / Pre-Installed",
+                            "full_text": "⁠Kryoto - Download / Pre-Installed / Some NSFW",
                             "links": [
                                 {
                                     "name": "⁠Kryoto",
@@ -37929,19 +37915,11 @@
                             ]
                         },
                         {
-                            "full_text": "RetroFab or LCD Games / - Retro LCD Game Emulators",
+                            "full_text": "RetroFab - Retro LCD Game Emulators",
                             "links": [
                                 {
                                     "name": "RetroFab",
                                     "url": "https://itizso.itch.io/retrofab"
-                                },
-                                {
-                                    "name": "LCD Games",
-                                    "url": "http://bdrgames.nl/lcdgames/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/BdR76/lcdgame.js"
                                 }
                             ]
                         }
@@ -41182,7 +41160,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Eaglercraft / , Eaglercraft.dev , q13x's Distros , MessCraft / Site List / , Hiracraft , WebMC / 2 / 3 , EaglerCraftX / 2 or Minecraft Classic - Online Browser Minecraft /",
+                            "full_text": "Eaglercraft / , Eaglercraft.dev , q13x's Distros , MessCraft / Site List / , Hiracraft , WebMC / 2 / 3 , EaglerCraftX or Minecraft Classic - Online Browser Minecraft /",
                             "links": [
                                 {
                                     "name": "Eaglercraft",
@@ -41230,10 +41208,6 @@
                                 },
                                 {
                                     "name": "EaglerCraftX",
-                                    "url": "https://fastest.eaglercraft.win/"
-                                },
-                                {
-                                    "name": "2",
                                     "url": "https://client.eaglercraft.win/"
                                 },
                                 {
@@ -50611,15 +50585,11 @@
                             ]
                         },
                         {
-                            "full_text": "Sci-Hub , 2 - Science Articles / Research Papers / Mirrors / VK /",
+                            "full_text": "Sci-Hub - Science Articles / Research Papers / Mirrors / VK /",
                             "links": [
                                 {
                                     "name": "Sci-Hub",
                                     "url": "https://sci-hub.ru/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://sci-hub.red/"
                                 },
                                 {
                                     "name": "Mirrors",
@@ -77695,7 +77665,23 @@
                 {
                     "heading": "Android Device",
                     "level": "h2",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "Manufacturer Specific- Manufacturer-Specific Mobile Tools",
+                        "️Phone Comparisons",
+                        "XDA/- Android Discussion Forums",
+                        "ADB AppControl/WebUI/GUI,2/,scrcpy/Mobile App/,PlainApp,WebADB,QtScrcpyorOcti- Android Device Managers / Controllers",
+                        "Shizuku Fork,Shizuku/Tools/orDhizuku- Let Apps Use System API",
+                        "Plexus- De-Googled Device Compatibility /",
+                        "GSMHosting- GSM Discussion Forum",
+                        "AVNCorDroidVNC-NG- Remote Desktop Clients / VNC",
+                        "EtchDroid/or⁠Ventoid- Create Bootable USB Drives via Android",
+                        "Techbone- Android Usage Guide",
+                        "ADB101- Android Debug Bridge Setup Guide",
+                        "Device Info(search),Castro,G-CPU,Device Info HW,Athena,DevCheckorSysLog- Device Info / Monitors",
+                        "TaskManager(root) - Task Manager for Android",
+                        "Swappa/orSickW- IMEI, MEID, ESN Checker",
+                        "FlashDim- Adjust Flashlight Brightness"
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Manufacturer Specific - Manufacturer-Specific Mobile Tools",
@@ -131350,7 +131336,7 @@
                             ]
                         },
                         {
-                            "full_text": "EarTrumpet / , BetterTrumpet / or Volume2 - Tweaked Volume Mixer",
+                            "full_text": "EarTrumpet / , BetterTrumpet / / or Volume2 - Tweaked Volume Mixer",
                             "links": [
                                 {
                                     "name": "EarTrumpet",
@@ -131363,6 +131349,10 @@
                                 {
                                     "name": "BetterTrumpet",
                                     "url": "https://bettertrumpet.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/Bettertrumpet/"
                                 },
                                 {
                                     "name": "",
@@ -138750,6 +138740,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠DropDrive - 100GB / 30 Days After Last Download",
+                            "links": [
+                                {
+                                    "name": "⁠DropDrive",
+                                    "url": "https://dropdrive.org/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "FileQ - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / Use uBlock /",
                             "links": [
                                 {
@@ -138873,15 +138872,6 @@
                                 {
                                     "name": "Proxy",
                                     "url": "https://fatbox.moe/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠DropDrive - 100GB / 30 Days After Last Download",
-                            "links": [
-                                {
-                                    "name": "⁠DropDrive",
-                                    "url": "https://dropdrive.org/"
                                 }
                             ]
                         },
@@ -140439,15 +140429,6 @@
                                 {
                                     "name": "SwitchHosts",
                                     "url": "https://github.com/oldj/SwitchHosts"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "MAC Address - MAC Address Lookup",
-                            "links": [
-                                {
-                                    "name": "MAC Address",
-                                    "url": "https://macaddress.io/"
                                 }
                             ]
                         },
@@ -150708,15 +150689,6 @@
                     ],
                     "resource_items": [
                         {
-                            "full_text": "⁠DownloaderForReddit - Download / Archive Subreddits",
-                            "links": [
-                                {
-                                    "name": "⁠DownloaderForReddit",
-                                    "url": "https://github.com/MalloyDelacroix/DownloaderForReddit"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "gallery-dl - Reddit Bulk Image Downloader /",
                             "links": [
                                 {
@@ -152693,16 +152665,8 @@
                             ]
                         },
                         {
-                            "full_text": "yoink.tools / , ⁠YT1s or CNVMP3 / - Online YT-DL Downloaders",
+                            "full_text": "⁠YT1s or CNVMP3 / - Online YT-DL Downloaders",
                             "links": [
-                                {
-                                    "name": "yoink.tools",
-                                    "url": "https://yoink.tools/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/coah80/yoink"
-                                },
                                 {
                                     "name": "⁠YT1s",
                                     "url": "https://yt1s.com.co/"
@@ -170409,6 +170373,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Rose - LoL Skin Manager / Unlocker",
+                            "links": [
+                                {
+                                    "name": "⁠Rose",
+                                    "url": "https://github.com/Alban1911/Rose"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "MobaFire - LoL Champion Guides",
                             "links": [
                                 {
@@ -170528,15 +170501,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/runeforge"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Rose - LoL Skin Manager / Unlocker",
-                            "links": [
-                                {
-                                    "name": "⁠Rose",
-                                    "url": "https://github.com/Alban1911/Rose"
                                 }
                             ]
                         },
@@ -181227,15 +181191,6 @@
                             ]
                         },
                         {
-                            "full_text": "⁠EasyCaptures - Forever",
-                            "links": [
-                                {
-                                    "name": "⁠EasyCaptures",
-                                    "url": "https://easycaptures.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "PicoShare - Self-Hosted",
                             "links": [
                                 {
@@ -182529,14 +182484,10 @@
                             ]
                         },
                         {
-                            "full_text": "MakeMKV - Create MKV from Blu-ray / DVD / Beta Version , 2",
+                            "full_text": "MakeMKV , 2 - Create MKV from Blu-ray / DVD",
                             "links": [
                                 {
                                     "name": "MakeMKV",
-                                    "url": "https://www.makemkv.com/"
-                                },
-                                {
-                                    "name": "Beta Version",
                                     "url": "https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053"
                                 },
                                 {
@@ -228457,6 +228408,33 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "⁠EasyCaptures - Forever (Removed in 8249848 )",
+                            "links": [
+                                {
+                                    "name": "8249848",
+                                    "url": "https://github.com/fmhy/edit/commit/8249848dfc8c80ca28e4a50a810f5fabd0ffc457#diff-9a603568bae984413eba5057de77305c5b7ccdd887e63827868b6c9c6cc8dd7cL847"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "MAC Address - MAC Address Lookup (Removed in 8249848 )",
+                            "links": [
+                                {
+                                    "name": "8249848",
+                                    "url": "https://github.com/fmhy/edit/commit/8249848dfc8c80ca28e4a50a810f5fabd0ffc457#diff-b64a22c87e29bacceea9082dfa1587bbb47711c33d8a8e8e392c28aa8ff36be0L34"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠DownloaderForReddit - Download / Archive Subreddits (Removed in 8249848 )",
+                            "links": [
+                                {
+                                    "name": "8249848",
+                                    "url": "https://github.com/fmhy/edit/commit/8249848dfc8c80ca28e4a50a810f5fabd0ffc457#diff-5d156d50e9081516dcc29662f17b8ccd18012e17834d37b60f845c5f73c7d665L196"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Incredibox - Make Beatboxing Beats (Removed in d65a33d )",
                             "links": [
                                 {
@@ -230069,15 +230047,11 @@
                             ]
                         },
                         {
-                            "full_text": "Pie Chart Maker , 2 - Create Pie Charts",
+                            "full_text": "Pie Chart Maker - Create Pie Charts",
                             "links": [
                                 {
                                     "name": "Pie Chart Maker",
                                     "url": "https://piechartmaker.co/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://www.piechartmaker.me/"
                                 }
                             ]
                         },
