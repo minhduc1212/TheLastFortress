@@ -171,6 +171,14 @@
               {
                 "name": ".cz",
                 "url": "https://reanime.cz/home"
+              },
+              {
+                "name": ".wtf",
+                "url": "https://reanime.wtf/home"
+              },
+              {
+                "name": "mirrors",
+                "url": "https://reindex.to/"
               }
             ],
             "domains": "stronghole.site",
@@ -6979,6 +6987,10 @@
             ],
             "altlinks": [
               {
+                "name": "Comizy",
+                "url": "https://comizy.io/home"
+              },
+              {
                 "name": "old site",
                 "url": "https://mangabuddy.com/home"
               }
@@ -7425,70 +7437,6 @@
           }
         },
         {
-          "id": "coolmic",
-          "title": "Coolmic",
-          "link": "https://coolmic.me/",
-          "icon": "https://static.everythingmoe.com/icons/coolmic.png",
-          "tags": [
-            "Licensed",
-            "licensed"
-          ],
-          "rank": 25,
-          "is_licensed": true,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Licensed",
-              "Medium library",
-              "Free to some manga / chapters"
-            ],
-            "negatives": [
-              "Need to pay / subscribe to unlock other chapters"
-            ],
-            "info": "note: Also have a lot of hentai manga, doujinshi, and some anime. This site is western branch of ComicFesta/AnimeFesta."
-          }
-        },
-        {
-          "id": "azuki",
-          "title": "Omoi",
-          "link": "https://www.omoi.com/",
-          "icon": "https://static.everythingmoe.com/icons/omoi.png",
-          "tags": [
-            "Licensed",
-            "licensed"
-          ],
-          "rank": 26,
-          "is_licensed": true,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Licensed",
-              "Free to some manga / chapters"
-            ],
-            "negatives": [
-              "Limited library",
-              "Need to pay / subscribe for other chapters access"
-            ],
-            "altlinks": [
-              {
-                "name": "iOS",
-                "url": "https://apps.apple.com/us/app/azuki-your-digital-manga-cafe/id1545075904"
-              },
-              {
-                "name": "Android",
-                "url": "https://play.google.com/store/apps/details?id=co.azuki.app"
-              }
-            ],
-            "info": "note: Formerly known as Azuki"
-          }
-        },
-        {
           "id": "manganato",
           "title": "Manganato.gg",
           "link": "https://www.manganato.gg/",
@@ -7496,7 +7444,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 27,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7604,6 +7552,70 @@
             ],
             "info": "note: This is not the original <a href=\"/s/originalmanganato\">Manganato</a> (already shutdown). This site run by different people from <a href=\"/s/zinmanga\">Zinmanga</a>, this site also clones comick, bato, and many other sites.",
             "domains": "2xstorage.com"
+          }
+        },
+        {
+          "id": "coolmic",
+          "title": "Coolmic",
+          "link": "https://coolmic.me/",
+          "icon": "https://static.everythingmoe.com/icons/coolmic.png",
+          "tags": [
+            "Licensed",
+            "licensed"
+          ],
+          "rank": 26,
+          "is_licensed": true,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Licensed",
+              "Medium library",
+              "Free to some manga / chapters"
+            ],
+            "negatives": [
+              "Need to pay / subscribe to unlock other chapters"
+            ],
+            "info": "note: Also have a lot of hentai manga, doujinshi, and some anime. This site is western branch of ComicFesta/AnimeFesta."
+          }
+        },
+        {
+          "id": "azuki",
+          "title": "Omoi",
+          "link": "https://www.omoi.com/",
+          "icon": "https://static.everythingmoe.com/icons/omoi.png",
+          "tags": [
+            "Licensed",
+            "licensed"
+          ],
+          "rank": 27,
+          "is_licensed": true,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Licensed",
+              "Free to some manga / chapters"
+            ],
+            "negatives": [
+              "Limited library",
+              "Need to pay / subscribe for other chapters access"
+            ],
+            "altlinks": [
+              {
+                "name": "iOS",
+                "url": "https://apps.apple.com/us/app/azuki-your-digital-manga-cafe/id1545075904"
+              },
+              {
+                "name": "Android",
+                "url": "https://play.google.com/store/apps/details?id=co.azuki.app"
+              }
+            ],
+            "info": "note: Formerly known as Azuki"
           }
         },
         {
@@ -7718,6 +7730,30 @@
           }
         },
         {
+          "id": "omanga",
+          "title": "oManga",
+          "link": "https://omanga.to/",
+          "icon": "https://static.everythingmoe.com/icons/omanga.png",
+          "tags": [
+            "Official Rips"
+          ],
+          "rank": 30,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Nice interface",
+              "Multi scan support"
+            ],
+            "negatives": [
+              "Medium library"
+            ]
+          }
+        },
+        {
           "id": "mfreak",
           "title": "MangaFreak",
           "link": "https://mangafreak.me",
@@ -7725,7 +7761,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7750,7 +7786,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7775,7 +7811,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7800,7 +7836,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7816,27 +7852,6 @@
               "Old interface"
             ],
             "info": "note: Same with MangaTown, but specialized content."
-          }
-        },
-        {
-          "id": "linkmanga",
-          "title": "Mangalink",
-          "link": "https://linkmanga.com/",
-          "icon": "https://static.everythingmoe.com/icons/linkmanga.png",
-          "tags": [],
-          "rank": 34,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Large library"
-            ],
-            "negatives": [
-              "Barebone features & interface"
-            ]
           }
         },
         {
@@ -7861,6 +7876,33 @@
           }
         },
         {
+          "id": "demonicscans",
+          "title": "YomiManga",
+          "link": "https://yomimanga.com/",
+          "icon": "https://static.everythingmoe.com/icons/yomimanga.png",
+          "tags": [
+            "Mostly Scans"
+          ],
+          "rank": 36,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manga",
+          "details": {
+            "positives": [
+              "Medium library"
+            ],
+            "altlinks": [
+              {
+                "name": "Demonicscans",
+                "url": "https://demonicscans.org/"
+              }
+            ],
+            "info": "note: Scanlator site, but also aggregate other manga"
+          }
+        },
+        {
           "id": "ninekon",
           "title": "Ninekon",
           "link": "https://app.ninekon.com/",
@@ -7868,7 +7910,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7895,7 +7937,7 @@
           "tags": [
             "manhua"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7919,7 +7961,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7951,7 +7993,7 @@
             "Scanlator Hub",
             "hub"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -7976,7 +8018,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8001,14 +8043,12 @@
           }
         },
         {
-          "id": "omanga",
-          "title": "oManga",
-          "link": "https://omanga.to/",
-          "icon": "https://static.everythingmoe.com/icons/omanga.png",
-          "tags": [
-            "Official Rips"
-          ],
-          "rank": 41,
+          "id": "linkmanga",
+          "title": "Mangalink",
+          "link": "https://linkmanga.com/",
+          "icon": "https://static.everythingmoe.com/icons/linkmanga.png",
+          "tags": [],
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8016,12 +8056,10 @@
           "section": "manga",
           "details": {
             "positives": [
-              "Nice interface",
-              "Multi scan support"
+              "Large library"
             ],
             "negatives": [
-              "New site",
-              "Medium library"
+              "Barebone features & interface"
             ]
           }
         },
@@ -8033,7 +8071,7 @@
           "tags": [
             "Official Rips"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8066,7 +8104,7 @@
             "licensed",
             "physical"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -8097,7 +8135,7 @@
           "tags": [
             "licensed"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -8137,7 +8175,7 @@
             "raw",
             "licensed"
           ],
-          "rank": 45,
+          "rank": 46,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -8162,7 +8200,7 @@
             "Licensed",
             "licensed"
           ],
-          "rank": 46,
+          "rank": 47,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -8190,7 +8228,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 47,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8221,7 +8259,7 @@
             "Scanlator Hub",
             "mult"
           ],
-          "rank": 48,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8246,7 +8284,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 49,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -8260,33 +8298,6 @@
             "negatives": [
               "Basic reader features"
             ]
-          }
-        },
-        {
-          "id": "demonicscans",
-          "title": "YomiManga",
-          "link": "https://yomimanga.com/",
-          "icon": "https://static.everythingmoe.com/icons/yomimanga.png",
-          "tags": [
-            "Mostly Scans"
-          ],
-          "rank": 50,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "manga",
-          "details": {
-            "positives": [
-              "Medium library"
-            ],
-            "altlinks": [
-              {
-                "name": "Demonicscans",
-                "url": "https://demonicscans.org/"
-              }
-            ],
-            "info": "note: Scanlator site, but also aggregate other manga"
           }
         },
         {
@@ -37021,6 +37032,14 @@
           {
             "name": ".cz",
             "url": "https://reanime.cz/home"
+          },
+          {
+            "name": ".wtf",
+            "url": "https://reanime.wtf/home"
+          },
+          {
+            "name": "mirrors",
+            "url": "https://reindex.to/"
           }
         ],
         "domains": "stronghole.site",
@@ -43793,6 +43812,10 @@
         ],
         "altlinks": [
           {
+            "name": "Comizy",
+            "url": "https://comizy.io/home"
+          },
+          {
             "name": "old site",
             "url": "https://mangabuddy.com/home"
           }
@@ -44238,70 +44261,6 @@
         "info": "note: This site contain mostly Yuri, Anthology, 4-koma, doujins, short manga, etc"
       }
     },
-    "coolmic": {
-      "id": "coolmic",
-      "title": "Coolmic",
-      "link": "https://coolmic.me/",
-      "icon": "https://static.everythingmoe.com/icons/coolmic.png",
-      "tags": [
-        "Licensed",
-        "licensed"
-      ],
-      "is_licensed": true,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Licensed",
-          "Medium library",
-          "Free to some manga / chapters"
-        ],
-        "negatives": [
-          "Need to pay / subscribe to unlock other chapters"
-        ],
-        "info": "note: Also have a lot of hentai manga, doujinshi, and some anime. This site is western branch of ComicFesta/AnimeFesta."
-      }
-    },
-    "azuki": {
-      "id": "azuki",
-      "title": "Omoi",
-      "link": "https://www.omoi.com/",
-      "icon": "https://static.everythingmoe.com/icons/omoi.png",
-      "tags": [
-        "Licensed",
-        "licensed"
-      ],
-      "is_licensed": true,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Licensed",
-          "Free to some manga / chapters"
-        ],
-        "negatives": [
-          "Limited library",
-          "Need to pay / subscribe for other chapters access"
-        ],
-        "altlinks": [
-          {
-            "name": "iOS",
-            "url": "https://apps.apple.com/us/app/azuki-your-digital-manga-cafe/id1545075904"
-          },
-          {
-            "name": "Android",
-            "url": "https://play.google.com/store/apps/details?id=co.azuki.app"
-          }
-        ],
-        "info": "note: Formerly known as Azuki"
-      }
-    },
     "manganato": {
       "id": "manganato",
       "title": "Manganato.gg",
@@ -44420,6 +44379,70 @@
         "domains": "2xstorage.com"
       }
     },
+    "coolmic": {
+      "id": "coolmic",
+      "title": "Coolmic",
+      "link": "https://coolmic.me/",
+      "icon": "https://static.everythingmoe.com/icons/coolmic.png",
+      "tags": [
+        "Licensed",
+        "licensed"
+      ],
+      "is_licensed": true,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Licensed",
+          "Medium library",
+          "Free to some manga / chapters"
+        ],
+        "negatives": [
+          "Need to pay / subscribe to unlock other chapters"
+        ],
+        "info": "note: Also have a lot of hentai manga, doujinshi, and some anime. This site is western branch of ComicFesta/AnimeFesta."
+      }
+    },
+    "azuki": {
+      "id": "azuki",
+      "title": "Omoi",
+      "link": "https://www.omoi.com/",
+      "icon": "https://static.everythingmoe.com/icons/omoi.png",
+      "tags": [
+        "Licensed",
+        "licensed"
+      ],
+      "is_licensed": true,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Licensed",
+          "Free to some manga / chapters"
+        ],
+        "negatives": [
+          "Limited library",
+          "Need to pay / subscribe for other chapters access"
+        ],
+        "altlinks": [
+          {
+            "name": "iOS",
+            "url": "https://apps.apple.com/us/app/azuki-your-digital-manga-cafe/id1545075904"
+          },
+          {
+            "name": "Android",
+            "url": "https://play.google.com/store/apps/details?id=co.azuki.app"
+          }
+        ],
+        "info": "note: Formerly known as Azuki"
+      }
+    },
     "zinmanga": {
       "id": "zinmanga",
       "title": "Zinmanga",
@@ -44531,6 +44554,30 @@
         ]
       }
     },
+    "omanga": {
+      "id": "omanga",
+      "title": "oManga",
+      "link": "https://omanga.to/",
+      "icon": "https://static.everythingmoe.com/icons/omanga.png",
+      "tags": [
+        "Official Rips"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Nice interface",
+          "Multi scan support"
+        ],
+        "negatives": [
+          "Medium library"
+        ]
+      }
+    },
     "mfreak": {
       "id": "mfreak",
       "title": "MangaFreak",
@@ -44632,27 +44679,6 @@
         "info": "note: Same with MangaTown, but specialized content."
       }
     },
-    "linkmanga": {
-      "id": "linkmanga",
-      "title": "Mangalink",
-      "link": "https://linkmanga.com/",
-      "icon": "https://static.everythingmoe.com/icons/linkmanga.png",
-      "tags": [],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Large library"
-        ],
-        "negatives": [
-          "Barebone features & interface"
-        ]
-      }
-    },
     "reimanga": {
       "id": "reimanga",
       "title": "ReiManga",
@@ -44672,6 +44698,33 @@
           "Medium-large library"
         ],
         "info": "note: Library curated by site admin."
+      }
+    },
+    "demonicscans": {
+      "id": "demonicscans",
+      "title": "YomiManga",
+      "link": "https://yomimanga.com/",
+      "icon": "https://static.everythingmoe.com/icons/yomimanga.png",
+      "tags": [
+        "Mostly Scans"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manga"
+      ],
+      "details": {
+        "positives": [
+          "Medium library"
+        ],
+        "altlinks": [
+          {
+            "name": "Demonicscans",
+            "url": "https://demonicscans.org/"
+          }
+        ],
+        "info": "note: Scanlator site, but also aggregate other manga"
       }
     },
     "ninekon": {
@@ -44814,14 +44867,12 @@
         ]
       }
     },
-    "omanga": {
-      "id": "omanga",
-      "title": "oManga",
-      "link": "https://omanga.to/",
-      "icon": "https://static.everythingmoe.com/icons/omanga.png",
-      "tags": [
-        "Official Rips"
-      ],
+    "linkmanga": {
+      "id": "linkmanga",
+      "title": "Mangalink",
+      "link": "https://linkmanga.com/",
+      "icon": "https://static.everythingmoe.com/icons/linkmanga.png",
+      "tags": [],
       "is_licensed": false,
       "is_nsfw": false,
       "status": "active",
@@ -44830,12 +44881,10 @@
       ],
       "details": {
         "positives": [
-          "Nice interface",
-          "Multi scan support"
+          "Large library"
         ],
         "negatives": [
-          "New site",
-          "Medium library"
+          "Barebone features & interface"
         ]
       }
     },
@@ -45074,33 +45123,6 @@
         "negatives": [
           "Basic reader features"
         ]
-      }
-    },
-    "demonicscans": {
-      "id": "demonicscans",
-      "title": "YomiManga",
-      "link": "https://yomimanga.com/",
-      "icon": "https://static.everythingmoe.com/icons/yomimanga.png",
-      "tags": [
-        "Mostly Scans"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "manga"
-      ],
-      "details": {
-        "positives": [
-          "Medium library"
-        ],
-        "altlinks": [
-          {
-            "name": "Demonicscans",
-            "url": "https://demonicscans.org/"
-          }
-        ],
-        "info": "note: Scanlator site, but also aggregate other manga"
       }
     },
     "dreammanga": {

@@ -128982,15 +128982,6 @@
                             ]
                         },
                         {
-                            "full_text": "Incredibox - Make Beatboxing Beats",
-                            "links": [
-                                {
-                                    "name": "Incredibox",
-                                    "url": "https://www.incredibox.com/demo/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "DJ Phonetic - Historical Speech Beatboxing",
                             "links": [
                                 {
@@ -138843,7 +138834,7 @@
                             ]
                         },
                         {
-                            "full_text": "Mocha - 15GB / 30 Days / Signup Required / Multi-Tool App / Lite Version (500MB, No Signup)",
+                            "full_text": "Mocha - 15GB / 30 Days / Signup Required / Multi-Tool App / Lite Version (500MB, No Signup) /",
                             "links": [
                                 {
                                     "name": "Mocha",
@@ -138856,6 +138847,10 @@
                                 {
                                     "name": "Lite Version",
                                     "url": "https://lite.mocha.my/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/hWPqHpCD3A"
                                 }
                             ]
                         },
@@ -228462,6 +228457,15 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "Incredibox - Make Beatboxing Beats (Removed in d65a33d )",
+                            "links": [
+                                {
+                                    "name": "d65a33d",
+                                    "url": "https://github.com/fmhy/edit/commit/d65a33df90861027df509e577c6a685a5525e42c#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL1679"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠RemovePaywalls - Paywall Bypass Tool (Removed in 6da1f90 )",
                             "links": [
                                 {
@@ -229835,15 +229839,6 @@
                                 {
                                     "name": "5986339",
                                     "url": "https://github.com/fmhy/edit/commit/5986339802b3833e700d854d1f2736c4db42e9d8#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL59"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠ZonerAI - Editing (Sign-Up) + Generating (No Sign-Up) / Unlimited (Removed in 43f3931 )",
-                            "links": [
-                                {
-                                    "name": "43f3931",
-                                    "url": "https://github.com/fmhy/edit/commit/43f393103bc8732f2d61bcfbca2f11e9d7a91bbe#diff-6a1a64f5717fb7bc99f50864bca0091295db3edf026d0ca93ead863f0fb585d8L199"
                                 }
                             ]
                         }
