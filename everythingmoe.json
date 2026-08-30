@@ -2259,31 +2259,6 @@
           }
         },
         {
-          "id": "last1234",
-          "title": "AniLast",
-          "link": "https://last1234.fun/",
-          "icon": "https://static.everythingmoe.com/icons/last1234.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 58,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ]
-          }
-        },
-        {
           "id": "itachitv",
           "title": "Itachi",
           "link": "https://itachi.tv/",
@@ -2293,7 +2268,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 59,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2319,7 +2294,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 60,
+          "rank": 59,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2346,7 +2321,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 61,
+          "rank": 60,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2373,7 +2348,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 62,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2420,7 +2395,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 63,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2445,7 +2420,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 64,
+          "rank": 63,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2518,7 +2493,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 65,
+          "rank": 64,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2546,7 +2521,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 66,
+          "rank": 65,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2576,7 +2551,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 67,
+          "rank": 66,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2605,7 +2580,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 68,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2672,7 +2647,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 69,
+          "rank": 68,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2763,7 +2738,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 70,
+          "rank": 69,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2788,7 +2763,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 71,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2815,7 +2790,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2841,7 +2816,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2873,7 +2848,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2901,7 +2876,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 75,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2927,7 +2902,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 76,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2936,6 +2911,31 @@
           "details": {
             "positives": [
               "Multiple sources & language"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
+          "id": "last1234",
+          "title": "AniLast",
+          "link": "https://last1234.fun/",
+          "icon": "https://static.everythingmoe.com/icons/last1234.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 76,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options"
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
@@ -39223,31 +39223,6 @@
         "info": "note: Similar interface with Kuroiru"
       }
     },
-    "last1234": {
-      "id": "last1234",
-      "title": "AniLast",
-      "link": "https://last1234.fun/",
-      "icon": "https://static.everythingmoe.com/icons/last1234.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
-      }
-    },
     "itachitv": {
       "id": "itachitv",
       "title": "Itachi",
@@ -39901,6 +39876,31 @@
       "details": {
         "positives": [
           "Multiple sources & language"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
+    "last1234": {
+      "id": "last1234",
+      "title": "AniLast",
+      "link": "https://last1234.fun/",
+      "icon": "https://static.everythingmoe.com/icons/last1234.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options"
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
