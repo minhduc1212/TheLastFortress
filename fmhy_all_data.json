@@ -72,7 +72,7 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Streaming: NEPU / Rive / Aether / Z-Stream",
+                            "full_text": "Streaming: NEPU / Rive / Aether",
                             "links": [
                                 {
                                     "name": "NEPU",
@@ -85,10 +85,6 @@
                                 {
                                     "name": "Aether",
                                     "url": "https://aether.ist/"
-                                },
-                                {
-                                    "name": "Z-Stream",
-                                    "url": "https://zstream.mov/"
                                 }
                             ]
                         },
@@ -4327,7 +4323,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠I didn't set a cookie - Browser Cookie Privacy Check",
+                            "full_text": "⁠I didn't set a cookie - Cookie Free Fingerprinting Demonstration",
                             "links": [
                                 {
                                     "name": "⁠I didn't set a cookie",
@@ -4467,7 +4463,7 @@
                             ]
                         },
                         {
-                            "full_text": "DuckDuckGo - Metasearch / Bing Based / AI Free / Lite / HTML / Bangs / Bangs Extension / Bangs Script /",
+                            "full_text": "DuckDuckGo - Metasearch / Bing Based / AI Free / Lite / HTML / / Bangs / Bangs Extension / Bangs Script /",
                             "links": [
                                 {
                                     "name": "DuckDuckGo",
@@ -4484,6 +4480,10 @@
                                 {
                                     "name": "HTML",
                                     "url": "https://html.duckduckgo.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/"
                                 },
                                 {
                                     "name": "Bangs",
@@ -6514,7 +6514,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Tryingopen - Kimi K3 / GLM 5.3 / Qwen3.8 2.4T A95B / GLM-5.3-Flash / Unlimited / OpenAI Bridge",
+                            "full_text": "⁠Tryingopen - Kimi K3 / Qwen3.8 27B / GLM-5.3-Flash / Unlimited (12 per chat) / OpenAI Bridge",
                             "links": [
                                 {
                                     "name": "⁠Tryingopen",
@@ -11126,23 +11126,6 @@
                             ]
                         },
                         {
-                            "full_text": "Cineby , Cineplay or Fmovies+ - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Cineby",
-                                    "url": "https://cineby.at/"
-                                },
-                                {
-                                    "name": "Cineplay",
-                                    "url": "https://www.cineplay.to/"
-                                },
-                                {
-                                    "name": "Fmovies+",
-                                    "url": "https://www.fmovies.gd/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Flixer , 2 , 3 or Hexa - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11330,6 +11313,19 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/6r5KTZgqXV"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Vivarium - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Vivarium",
+                                    "url": "https://vivarium.wtf/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/jT6daX7q2u"
                                 }
                             ]
                         },
@@ -11630,19 +11626,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/S7XYrYesr2"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Vivarium - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "Vivarium",
-                                    "url": "https://vivarium.wtf/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/jT6daX7q2u"
                                 }
                             ]
                         },
@@ -12009,27 +11992,6 @@
                         "Sites that fork the original P-Stream / movie-web projects. You can addextra sourcesto these by using this. Default sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings."
                     ],
                     "resource_items": [
-                        {
-                            "full_text": "Z-Stream - Movies / TV / Anime / Auto-Next / 4K / Status / /",
-                            "links": [
-                                {
-                                    "name": "Z-Stream",
-                                    "url": "https://zstream.mov/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://rentry.co/xpstream"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/mtSMCeTM2z"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/xp-technologies-dev/p-stream"
-                                }
-                            ]
-                        },
                         {
                             "full_text": "Aether , 2 - Movies / TV / Anime / Auto-Next / 4K / Status /",
                             "links": [
@@ -16858,27 +16820,35 @@
                             ]
                         },
                         {
-                            "full_text": "PPV.TO , 2 , 3 , 4 - Live Events / Mirrors /",
+                            "full_text": "PPV.ST , 2 , 3 , 4 , 5 , 6 - Live Events / Mirrors /",
                             "links": [
                                 {
-                                    "name": "PPV.TO",
+                                    "name": "PPV.ST",
                                     "url": "https://ppv.st/"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://ppv.is/"
+                                    "url": "https://ppv.tj"
                                 },
                                 {
                                     "name": "3",
-                                    "url": "https://ppv.cx/"
+                                    "url": "https://ppv.rw/"
                                 },
                                 {
                                     "name": "4",
-                                    "url": "https://ppv.lc/"
+                                    "url": "https://ppv.ms/"
+                                },
+                                {
+                                    "name": "5",
+                                    "url": "https://ppv.bi/"
+                                },
+                                {
+                                    "name": "6",
+                                    "url": "https://ppvs.pk/"
                                 },
                                 {
                                     "name": "Mirrors",
-                                    "url": "https://ppv.domains/"
+                                    "url": "https://mirrors.st/"
                                 },
                                 {
                                     "name": "",
@@ -19195,19 +19165,6 @@
                                 {
                                     "name": "StagaTV",
                                     "url": "https://www.stagatv.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cineby , 2 - Movies / TV / Anime / 4K /",
-                            "links": [
-                                {
-                                    "name": "Cineby",
-                                    "url": "https://cineby.at/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://www.cineplay.to/"
                                 }
                             ]
                         },
@@ -33725,19 +33682,37 @@
                 {
                     "heading": "Special Interest",
                     "level": "h2",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "TheGamingEmporium- Open-Source, Decomps, Ports, Translations & more",
+                        "OSGL,Open Source Games,Awesome Open Source GamesorLibreGameWiki- Open-Source Games",
+                        "Awesome Terminal Games- ASCII Terminal Games",
+                        "Playtester/orAlpha Beta Gamer/- Play Games in Alpha / Beta Testing",
+                        "Necromanthus- 3D Shockwave Games",
+                        "LemmaSoft- Visual Novel Games /",
+                        "⁠Adventure Game Studio- Point-And-Click Games //",
+                        "vgperson- Simple Japanese Games",
+                        "Visual Pinball- Pinball Table Editor / Simulator /Tables",
+                        "DoujinStyle- Doujin Games /",
+                        "MoriyaShrine- Touhou Games / Signup Required",
+                        "Kahvibreak- Java 2 Micro (J2ME) Games /",
+                        "Cemetech- Calculator Games",
+                        "UnorthodoxFun- Games on Unorthodox Platforms",
+                        "⁠Fangame Archive/orDelicious Fruit- I Wanna Be the Guy Fan Game Archives",
+                        "GamesOnPDF- PDF Games",
+                        "Flashtro- Cracker Intros"
+                    ],
                     "resource_items": [
                         {
-                            "full_text": "Awesome Terminal Games - ASCII Terminal Games",
+                            "full_text": "TheGamingEmporium - Open-Source, Decomps, Ports, Translations & more",
                             "links": [
                                 {
-                                    "name": "Awesome Terminal Games",
-                                    "url": "https://ligurio.github.io/awesome-ttygames/"
+                                    "name": "TheGamingEmporium",
+                                    "url": "https://thegamingemporium.com/categories/open-source/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "OSGL , Open Source Games , TheGamingEmporium , Awesome Open Source Games or LibreGameWiki - Open-Source Games",
+                            "full_text": "OSGL , Open Source Games , Awesome Open Source Games or LibreGameWiki - Open-Source Games",
                             "links": [
                                 {
                                     "name": "OSGL",
@@ -33748,16 +33723,21 @@
                                     "url": "https://github.com/bobeff/open-source-games"
                                 },
                                 {
-                                    "name": "TheGamingEmporium",
-                                    "url": "https://thegamingemporium.com/categories/open-source/"
-                                },
-                                {
                                     "name": "Awesome Open Source Games",
                                     "url": "https://github.com/michelpereira/awesome-open-source-games"
                                 },
                                 {
                                     "name": "LibreGameWiki",
                                     "url": "https://libregamewiki.org/List_of_games"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Awesome Terminal Games - ASCII Terminal Games",
+                            "links": [
+                                {
+                                    "name": "Awesome Terminal Games",
+                                    "url": "https://ligurio.github.io/awesome-ttygames/"
                                 }
                             ]
                         },
@@ -33957,7 +33937,7 @@
                             ]
                         },
                         {
-                            "full_text": "ARMGDDN Browser - VR Games / Avoid Software / /",
+                            "full_text": "ARMGDDN Browser - PCVR Games / Avoid Software / /",
                             "links": [
                                 {
                                     "name": "ARMGDDN Browser",
@@ -36132,15 +36112,11 @@
                             ]
                         },
                         {
-                            "full_text": "Motion Support Bypass - Fix Cemu BOTW Motion Shrines / DL",
+                            "full_text": "Motion Support Bypass - Fix Cemu BOTW Motion Shrines",
                             "links": [
                                 {
                                     "name": "Motion Support Bypass",
                                     "url": "https://redd.it/gobcne"
-                                },
-                                {
-                                    "name": "DL",
-                                    "url": "https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc"
                                 }
                             ]
                         },
@@ -77225,7 +77201,7 @@
                             ]
                         },
                         {
-                            "full_text": "piko (Twitter) / (Prebuilts on Telegram), ⁠Nitterium , ⁠QuaX or Squawker - Twitter / X Apps",
+                            "full_text": "piko (Twitter) / / , ⁠Nitterium , ⁠QuaX or Squawker - Twitter / X Apps",
                             "links": [
                                 {
                                     "name": "piko (Twitter)",
@@ -102888,19 +102864,6 @@
                             ]
                         },
                         {
-                            "full_text": "Cineby - Movies / TV / Anime / 1080p / Auto-Next / /",
-                            "links": [
-                                {
-                                    "name": "Cineby",
-                                    "url": "https://www.cineby.at/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/C2zGTdUbHE"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Kinoking - Movies / TV / Anime / Dub / 1080p",
                             "links": [
                                 {
@@ -104303,19 +104266,6 @@
                                 {
                                     "name": "flixsix",
                                     "url": "https://flixsix.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cineby - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / /",
-                            "links": [
-                                {
-                                    "name": "Cineby",
-                                    "url": "https://www.cineby.at/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/C2zGTdUbHE"
                                 }
                             ]
                         },
@@ -107426,19 +107376,6 @@
                             ]
                         },
                         {
-                            "full_text": "Cineby - Movies / TV / Anime / 1080p / Auto-Next / /",
-                            "links": [
-                                {
-                                    "name": "Cineby",
-                                    "url": "https://www.cineby.at/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/C2zGTdUbHE"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "redecanais - Movies / TV / Anime",
                             "links": [
                                 {
@@ -108763,11 +108700,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "yummyani - Anime / Sub / 1080p",
+                            "full_text": "YummyAnime - Anime / Sub / 1080p / /",
                             "links": [
                                 {
-                                    "name": "yummyani",
+                                    "name": "YummyAnime",
                                     "url": "https://ru.yummyani.me/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/yummyanime"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/yummyanime-1103691943881474048"
                                 }
                             ]
                         },
@@ -108838,15 +108783,6 @@
                                 {
                                     "name": "Zona Plus",
                                     "url": "https://w140.zona.plus/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "IVI - Movies / TV / Anime / Dub",
-                            "links": [
-                                {
-                                    "name": "IVI",
-                                    "url": "https://www.ivi.tv/"
                                 }
                             ]
                         },
@@ -108940,11 +108876,11 @@
                             ]
                         },
                         {
-                            "full_text": "anilib , 2 - Anime / Dub / 1080p",
+                            "full_text": "AnimeLIB , 2 - Anime / Sub / Dub / 1080p (account required)",
                             "links": [
                                 {
-                                    "name": "anilib",
-                                    "url": "https://anilib.me/"
+                                    "name": "AnimeLIB",
+                                    "url": "https://animelib.org/"
                                 },
                                 {
                                     "name": "2",
@@ -109567,15 +109503,6 @@
                                 {
                                     "name": "MangaPoisk",
                                     "url": "https://mangapoisk.me/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Manga Club - Manga",
-                            "links": [
-                                {
-                                    "name": "Manga Club",
-                                    "url": "https://mangaclub.ru/"
                                 }
                             ]
                         },
@@ -110644,19 +110571,6 @@
                                 {
                                     "name": "hackstore2",
                                     "url": "https://hackstore2.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cineby - Movies / TV / Anime / 1080p / Auto-Next / /",
-                            "links": [
-                                {
-                                    "name": "Cineby",
-                                    "url": "https://www.cineby.at/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/C2zGTdUbHE"
                                 }
                             ]
                         },
@@ -153916,11 +153830,15 @@
                             ]
                         },
                         {
-                            "full_text": "Twitter Archive Parser or twitter-web-exporter - Tweet Archivers",
+                            "full_text": "Twitter Archive Parser , ⁠twitter.cat or twitter-web-exporter - Tweet / Post Archives",
                             "links": [
                                 {
                                     "name": "Twitter Archive Parser",
                                     "url": "https://github.com/timhutton/twitter-archive-parser"
+                                },
+                                {
+                                    "name": "⁠twitter.cat",
+                                    "url": "https://twitter.cat/"
                                 },
                                 {
                                     "name": "twitter-web-exporter",
@@ -219434,7 +219352,7 @@
                             "links": [
                                 {
                                     "name": "GRAM",
-                                    "url": "https://gram.liten.app/"
+                                    "url": "https://gram-editor.com/"
                                 },
                                 {
                                     "name": "",
@@ -227383,11 +227301,11 @@
                             ]
                         },
                         {
-                            "full_text": "Mozilla SSL - SSL Configuration Generator",
+                            "full_text": "TLSRef - SSL Configuration Generator",
                             "links": [
                                 {
-                                    "name": "Mozilla SSL",
-                                    "url": "https://ssl-config.mozilla.org/"
+                                    "name": "TLSRef",
+                                    "url": "https://configurator.tlsref.org/"
                                 }
                             ]
                         },
@@ -228325,6 +228243,33 @@
                         "For more information about why a site was removed, feel free to join our."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "Mozilla SSL - SSL Configuration Generator (Removed in 4c23e18 )",
+                            "links": [
+                                {
+                                    "name": "4c23e18",
+                                    "url": "https://github.com/fmhy/edit/commit/4c23e18753fb75bd390da44097b6001ae3e91b5a#diff-84d0aa5875154e226f7b9b3324ad571f29f4ff02e856e8dfd627bb3bacaf6bceL1223"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "IVI - Movies / TV / Anime / Dub (Removed in 4c23e18 )",
+                            "links": [
+                                {
+                                    "name": "4c23e18",
+                                    "url": "https://github.com/fmhy/edit/commit/4c23e18753fb75bd390da44097b6001ae3e91b5a#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1314"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Manga Club - Manga (Removed in 4c23e18 )",
+                            "links": [
+                                {
+                                    "name": "4c23e18",
+                                    "url": "https://github.com/fmhy/edit/commit/4c23e18753fb75bd390da44097b6001ae3e91b5a#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1391"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "⁠Sonosano - Self-Hosted P2P Lossless Music Player / GitHub (Removed in 4bcf1ad )",
                             "links": [
@@ -229861,33 +229806,6 @@
                                 {
                                     "name": "ff2d2d7",
                                     "url": "https://github.com/fmhy/edit/commit/ff2d2d7f6f30b0c741ec263883d70057aae2c508#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L1091"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Data Recovery - Data Recovery Tool Index (Removed in 2244b0a )",
-                            "links": [
-                                {
-                                    "name": "2244b0a",
-                                    "url": "https://github.com/fmhy/edit/commit/2244b0a81f8cab8c1cdf91bdc680e199fafe965c#diff-d62c81bceb4d2901a9094cbcb4df4267353310e2e7759d233f35fe8dd02e42caL171"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Remotedom - Remote Jobs (Removed in 2244b0a )",
-                            "links": [
-                                {
-                                    "name": "2244b0a",
-                                    "url": "https://github.com/fmhy/edit/commit/2244b0a81f8cab8c1cdf91bdc680e199fafe965c#diff-06cdd5e1cf37350ee983e13a4661be168e6a4c0244540e78e4c750072eb85f1fL945"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Cromite - Chromium-Based / Extensions (Settings > Dev Options) / Built-in Adblock / Filter / Adblock Scripts (Removed in 2244b0a )",
-                            "links": [
-                                {
-                                    "name": "2244b0a",
-                                    "url": "https://github.com/fmhy/edit/commit/2244b0a81f8cab8c1cdf91bdc680e199fafe965c#diff-70ef219ed39d3a187e87d76c31c6c414448b35e05d608c6723ce469aaba56710L565"
                                 }
                             ]
                         }
