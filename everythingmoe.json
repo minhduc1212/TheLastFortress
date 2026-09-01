@@ -359,7 +359,7 @@
         {
           "id": "anitakuto",
           "title": "AniNeko",
-          "link": "https://anineko.to/",
+          "link": "https://anidao.to/",
           "icon": "https://static.everythingmoe.com/icons/anineko.png",
           "tags": [
             "Self-host",
@@ -416,6 +416,10 @@
             ],
             "info": "note: It has many alt domain which copies other websites brand and interface.",
             "ex-altlinks": [
+              {
+                "name": "anineko",
+                "url": "https://anineko.to/"
+              },
               {
                 "name": "animedao1",
                 "url": "https://animedao.ac/"
@@ -2455,6 +2459,33 @@
           }
         },
         {
+          "id": "pimpanime",
+          "title": "PimpAnime",
+          "link": "https://pimpanime.nl/",
+          "icon": "https://static.everythingmoe.com/icons/pimpanime.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 64,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options",
+              "Nice interface"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "info": "note: Also self host some anime"
+          }
+        },
+        {
           "id": "luffytv",
           "title": "LuffyTV",
           "link": "https://luffytv.live/",
@@ -2465,7 +2496,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2490,7 +2521,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2563,7 +2594,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2591,7 +2622,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2621,7 +2652,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2650,7 +2681,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2713,7 +2744,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2804,7 +2835,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2829,7 +2860,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2856,7 +2887,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 73,
+          "rank": 74,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2882,7 +2913,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 74,
+          "rank": 75,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2914,7 +2945,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 75,
+          "rank": 76,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2942,7 +2973,7 @@
             "Modern interface",
             "mult"
           ],
-          "rank": 76,
+          "rank": 77,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2968,7 +2999,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 77,
+          "rank": 78,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2993,7 +3024,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 78,
+          "rank": 79,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -3006,33 +3037,6 @@
             "negatives": [
               "Content depends on the websites it scrapes"
             ]
-          }
-        },
-        {
-          "id": "pimpanime",
-          "title": "PimpAnime",
-          "link": "https://pimpanime.nl/",
-          "icon": "https://static.everythingmoe.com/icons/pimpanime.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 79,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options",
-              "Nice interface"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ],
-            "info": "note: Also self host some anime"
           }
         },
         {
@@ -37416,7 +37420,7 @@
     "anitakuto": {
       "id": "anitakuto",
       "title": "AniNeko",
-      "link": "https://anineko.to/",
+      "link": "https://anidao.to/",
       "icon": "https://static.everythingmoe.com/icons/anineko.png",
       "tags": [
         "Self-host",
@@ -37473,6 +37477,10 @@
         ],
         "info": "note: It has many alt domain which copies other websites brand and interface.",
         "ex-altlinks": [
+          {
+            "name": "anineko",
+            "url": "https://anineko.to/"
+          },
           {
             "name": "animedao1",
             "url": "https://animedao.ac/"
@@ -39511,6 +39519,33 @@
         "info": "note: formerly known as HiddenLeaf and Animerulz."
       }
     },
+    "pimpanime": {
+      "id": "pimpanime",
+      "title": "PimpAnime",
+      "link": "https://pimpanime.nl/",
+      "icon": "https://static.everythingmoe.com/icons/pimpanime.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options",
+          "Nice interface"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "info": "note: Also self host some anime"
+      }
+    },
     "luffytv": {
       "id": "luffytv",
       "title": "LuffyTV",
@@ -40063,33 +40098,6 @@
         "negatives": [
           "Content depends on the websites it scrapes"
         ]
-      }
-    },
-    "pimpanime": {
-      "id": "pimpanime",
-      "title": "PimpAnime",
-      "link": "https://pimpanime.nl/",
-      "icon": "https://static.everythingmoe.com/icons/pimpanime.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options",
-          "Nice interface"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ],
-        "info": "note: Also self host some anime"
       }
     },
     "kawaiianime": {
