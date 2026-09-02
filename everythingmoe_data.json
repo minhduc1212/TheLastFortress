@@ -209,11 +209,9 @@
           "details": {
             "positives": [
               "Multiple sources & language",
+              "Large library",
               "Modern interface",
               "Long track record"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
             ],
             "altlinks": [
               {
@@ -239,7 +237,7 @@
             ],
             "exx-info": "note: animeuwutv is a fork / clone made by other people.",
             "ex-info": "note: animeyee is a fork / clone made by other people.",
-            "info": "note: Also self host on some server. Open source but only old version.",
+            "info": "note: Scraper but then self host the stream on most servers. Open source but only old version.",
             "ex-altlinks": [
               {
                 "name": ".online",
@@ -299,7 +297,8 @@
           "tags": [
             "Hard-sub",
             "Self-host",
-            "Modern interface"
+            "Modern interface",
+            "ISSUE"
           ],
           "rank": 6,
           "is_licensed": false,
@@ -357,89 +356,6 @@
           }
         },
         {
-          "id": "anitakuto",
-          "title": "AniNeko",
-          "link": "https://anidao.to/",
-          "icon": "https://static.everythingmoe.com/icons/anineko.png",
-          "tags": [
-            "Self-host",
-            "Third party",
-            "Hard-sub",
-            "Soft-sub",
-            "Easy download"
-          ],
-          "rank": 8,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Large library",
-              "Reliable stream servers",
-              "Provide both soft-sub and Hard-sub"
-            ],
-            "negatives": [
-              "Hard subtitles formatted improperly",
-              "Bad ads"
-            ],
-            "altlinks": [
-              {
-                "name": "anidao.to",
-                "url": "https://anidao.to/"
-              },
-              {
-                "name": "anikai.cc",
-                "url": "https://anikai.cc/home"
-              },
-              {
-                "name": "anitaku.online",
-                "url": "https://anitaku.online/"
-              },
-              {
-                "name": "hianime.ad",
-                "url": "https://hianime.ad/home"
-              },
-              {
-                "name": "anivibe.live",
-                "url": "https://anivibe.live/"
-              },
-              {
-                "name": "gogoanimez.cc",
-                "url": "https://gogoanimez.cc/home"
-              },
-              {
-                "name": "aniwatch.icu",
-                "url": "https://aniwatch.icu/"
-              }
-            ],
-            "info": "note: It has many alt domain which copies other websites brand and interface.",
-            "ex-altlinks": [
-              {
-                "name": "anineko",
-                "url": "https://anineko.to/"
-              },
-              {
-                "name": "animedao1",
-                "url": "https://animedao.ac/"
-              },
-              {
-                "name": "animedao2",
-                "url": "https://animedao.watch/home/"
-              },
-              {
-                "name": "animedao3",
-                "url": "https://animedao.space/"
-              },
-              {
-                "name": "anitakuto",
-                "url": "https://anitaku.to/"
-              }
-            ]
-          }
-        },
-        {
           "id": "uniquestream",
           "title": "AnimeStream",
           "link": "https://anime.uniquestream.net/",
@@ -450,7 +366,7 @@
             "Hard-sub",
             "Dub friendly"
           ],
-          "rank": 9,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -486,7 +402,7 @@
             "Dub friendly",
             "Soft-sub"
           ],
-          "rank": 10,
+          "rank": 9,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -523,7 +439,7 @@
             "Modern interface",
             "Soft-sub"
           ],
-          "rank": 11,
+          "rank": 10,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -592,6 +508,107 @@
               }
             ],
             "domains": "krussdomi.com"
+          }
+        },
+        {
+          "id": "123animes",
+          "title": "aniwaves.ru",
+          "link": "https://aniwaves.ru/home",
+          "icon": "https://static.everythingmoe.com/icons/animetto2.png",
+          "tags": [
+            "Self-host",
+            "Hard-sub"
+          ],
+          "rank": 11,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Very large library (was reupload Gogoanime videos)",
+              "Long track record",
+              "Self hosted server"
+            ],
+            "negatives": [
+              "Some server have low audio quality",
+              "Bad ads"
+            ],
+            "info": "note: It has many alt domain and brand names. It usually copies other websites. unrelated with original <a href=\"/s/AniWave\">AniWave</a>. This site also provide several third party stream options",
+            "altlinks": [
+              {
+                "name": "aniwaves.ru lite",
+                "url": "https://lite.aniwaves.ru/home"
+              },
+              {
+                "name": "123animehub.cc",
+                "url": "https://123animehub.cc/"
+              },
+              {
+                "name": "123anime.la",
+                "url": "https://123anime.la/"
+              },
+              {
+                "name": "animixplay.la",
+                "url": "https://animixplay.la/"
+              },
+              {
+                "name": "hianimes.ru",
+                "url": "https://hianimes.ru/home"
+              },
+              {
+                "name": "guts.to",
+                "url": "https://guts.to/"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": "123animes.ru",
+                "url": "https://123animes.ru/home"
+              },
+              {
+                "name": "zorotvcc",
+                "url": "https://zorotv.cc/home"
+              },
+              {
+                "name": "okarun",
+                "url": "https://okarun.moe/home"
+              },
+              {
+                "name": "kissanimefree",
+                "url": "https://kissanimefree.cc/"
+              },
+              {
+                "name": "zoro.se",
+                "url": "https://w1.zoro.se/"
+              },
+              {
+                "name": "9animecc",
+                "url": "https://9anime.cc/"
+              },
+              {
+                "name": "animixplayst",
+                "url": "https://animixplay.st/"
+              },
+              {
+                "name": "animixplayname",
+                "url": "https://animixplay.name/"
+              },
+              {
+                "name": "animecool",
+                "url": "https://animecool.xyz/"
+              },
+              {
+                "name": "aniwavese",
+                "url": "https://aniwave.se/home-anime"
+              },
+              {
+                "name": "animet",
+                "url": "https://animet.to/home"
+              }
+            ],
+            "domains": "hlsx3cdn.burntburst45.store#echovideo.ru"
           }
         },
         {
@@ -733,6 +750,89 @@
           }
         },
         {
+          "id": "anitakuto",
+          "title": "AniNeko",
+          "link": "https://anidao.to/",
+          "icon": "https://static.everythingmoe.com/icons/anineko.png",
+          "tags": [
+            "Self-host",
+            "Third party",
+            "Hard-sub",
+            "Soft-sub",
+            "Easy download"
+          ],
+          "rank": 15,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Large library",
+              "Reliable stream servers",
+              "Provide both soft-sub and Hard-sub"
+            ],
+            "negatives": [
+              "Hard subtitles formatted improperly",
+              "Bad ads"
+            ],
+            "altlinks": [
+              {
+                "name": "anidao.to",
+                "url": "https://anidao.to/"
+              },
+              {
+                "name": "anikai.cc",
+                "url": "https://anikai.cc/home"
+              },
+              {
+                "name": "anitaku.online",
+                "url": "https://anitaku.online/"
+              },
+              {
+                "name": "hianime.ad",
+                "url": "https://hianime.ad/home"
+              },
+              {
+                "name": "anivibe.live",
+                "url": "https://anivibe.live/"
+              },
+              {
+                "name": "gogoanimez.cc",
+                "url": "https://gogoanimez.cc/home"
+              },
+              {
+                "name": "aniwatch.icu",
+                "url": "https://aniwatch.icu/"
+              }
+            ],
+            "info": "note: It has many alt domain which copies other websites brand and interface.",
+            "ex-altlinks": [
+              {
+                "name": "anineko",
+                "url": "https://anineko.to/"
+              },
+              {
+                "name": "animedao1",
+                "url": "https://animedao.ac/"
+              },
+              {
+                "name": "animedao2",
+                "url": "https://animedao.watch/home/"
+              },
+              {
+                "name": "animedao3",
+                "url": "https://animedao.space/"
+              },
+              {
+                "name": "anitakuto",
+                "url": "https://anitaku.to/"
+              }
+            ]
+          }
+        },
+        {
           "id": "animedefenders",
           "title": "Anibd.app",
           "link": "https://anibd.app/",
@@ -744,7 +844,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -775,107 +875,6 @@
               }
             ],
             "domains": "playeng.animeapps.top,nukitashith.top"
-          }
-        },
-        {
-          "id": "123animes",
-          "title": "aniwaves.ru",
-          "link": "https://aniwaves.ru/home",
-          "icon": "https://static.everythingmoe.com/icons/animetto2.png",
-          "tags": [
-            "Self-host",
-            "Hard-sub"
-          ],
-          "rank": 16,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Very large library (was reupload Gogoanime videos)",
-              "Long track record",
-              "Self hosted server"
-            ],
-            "negatives": [
-              "No quality change",
-              "Bad ads"
-            ],
-            "info": "note: It has many alt domain and brand names. It usually copies other websites. unrelated with original <a href=\"/s/AniWave\">AniWave</a>",
-            "altlinks": [
-              {
-                "name": "aniwaves.ru lite",
-                "url": "https://lite.aniwaves.ru/home"
-              },
-              {
-                "name": "123animehub.cc",
-                "url": "https://123animehub.cc/"
-              },
-              {
-                "name": "123anime.la",
-                "url": "https://123anime.la/"
-              },
-              {
-                "name": "animixplay.la",
-                "url": "https://animixplay.la/"
-              },
-              {
-                "name": "hianimes.ru",
-                "url": "https://hianimes.ru/home"
-              },
-              {
-                "name": "guts.to",
-                "url": "https://guts.to/"
-              }
-            ],
-            "ex-altlinks": [
-              {
-                "name": "123animes.ru",
-                "url": "https://123animes.ru/home"
-              },
-              {
-                "name": "zorotvcc",
-                "url": "https://zorotv.cc/home"
-              },
-              {
-                "name": "okarun",
-                "url": "https://okarun.moe/home"
-              },
-              {
-                "name": "kissanimefree",
-                "url": "https://kissanimefree.cc/"
-              },
-              {
-                "name": "zoro.se",
-                "url": "https://w1.zoro.se/"
-              },
-              {
-                "name": "9animecc",
-                "url": "https://9anime.cc/"
-              },
-              {
-                "name": "animixplayst",
-                "url": "https://animixplay.st/"
-              },
-              {
-                "name": "animixplayname",
-                "url": "https://animixplay.name/"
-              },
-              {
-                "name": "animecool",
-                "url": "https://animecool.xyz/"
-              },
-              {
-                "name": "aniwavese",
-                "url": "https://aniwave.se/home-anime"
-              },
-              {
-                "name": "animet",
-                "url": "https://animet.to/home"
-              }
-            ],
-            "domains": "hlsx3cdn.burntburst45.store#echovideo.ru"
           }
         },
         {
@@ -913,6 +912,51 @@
           }
         },
         {
+          "id": "anifyto",
+          "title": "Anify",
+          "link": "https://anify.to/",
+          "icon": "https://static.everythingmoe.com/icons/anifyto.png",
+          "tags": [
+            "Hard-sub",
+            "Self-host",
+            "Third party"
+          ],
+          "rank": 18,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Medium library",
+              "Self-host on some anime",
+              "Long track record"
+            ],
+            "negatives": [
+              "On old / unpopular show some servers are unavailable",
+              "Barebone features"
+            ],
+            "info": "note: formerly known as AnimeDao. Recent release their own upload to own host and third party. Older one reupload gogoanime library",
+            "altlinks": [
+              {
+                "name": "AnimeNana",
+                "url": "https://animenana.com/"
+              },
+              {
+                "name": "AnimeTake",
+                "url": "https://animetake.tv/"
+              }
+            ],
+            "ex-altlinks": [
+              {
+                "name": "anime-update",
+                "url": "https://anime-update.com/"
+              }
+            ]
+          }
+        },
+        {
           "id": "anisnatch",
           "title": "AniSnatch",
           "link": "https://anisnatch.to/home",
@@ -925,7 +969,7 @@
             "Soft-sub",
             "MULT"
           ],
-          "rank": 18,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -965,7 +1009,7 @@
             "Modern interface",
             "MULT"
           ],
-          "rank": 19,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -991,51 +1035,6 @@
             ],
             "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
             "info": "note: formerly known as Otakuu. Also self host some anime"
-          }
-        },
-        {
-          "id": "anifyto",
-          "title": "Anify",
-          "link": "https://anify.to/",
-          "icon": "https://static.everythingmoe.com/icons/anifyto.png",
-          "tags": [
-            "Hard-sub",
-            "Self-host",
-            "Third party"
-          ],
-          "rank": 20,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Medium library",
-              "Self-host on some anime",
-              "Long track record"
-            ],
-            "negatives": [
-              "On old / unpopular show some servers are unavailable",
-              "Barebone features"
-            ],
-            "info": "note: formerly known as AnimeDao. Recent release their own upload to own host and third party. Older one reupload gogoanime library",
-            "altlinks": [
-              {
-                "name": "AnimeNana",
-                "url": "https://animenana.com/"
-              },
-              {
-                "name": "AnimeTake",
-                "url": "https://animetake.tv/"
-              }
-            ],
-            "ex-altlinks": [
-              {
-                "name": "anime-update",
-                "url": "https://anime-update.com/"
-              }
-            ]
           }
         },
         {
@@ -37271,11 +37270,9 @@
       "details": {
         "positives": [
           "Multiple sources & language",
+          "Large library",
           "Modern interface",
           "Long track record"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
         ],
         "altlinks": [
           {
@@ -37301,7 +37298,7 @@
         ],
         "exx-info": "note: animeuwutv is a fork / clone made by other people.",
         "ex-info": "note: animeyee is a fork / clone made by other people.",
-        "info": "note: Also self host on some server. Open source but only old version.",
+        "info": "note: Scraper but then self host the stream on most servers. Open source but only old version.",
         "ex-altlinks": [
           {
             "name": ".online",
@@ -37361,7 +37358,8 @@
       "tags": [
         "Hard-sub",
         "Self-host",
-        "Modern interface"
+        "Modern interface",
+        "ISSUE"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -37416,89 +37414,6 @@
           "No comments section"
         ],
         "info": "note: Great for watching recent or currently airing anime. Older release use Hard-sub, but recent one is Soft-sub."
-      }
-    },
-    "anitakuto": {
-      "id": "anitakuto",
-      "title": "AniNeko",
-      "link": "https://anidao.to/",
-      "icon": "https://static.everythingmoe.com/icons/anineko.png",
-      "tags": [
-        "Self-host",
-        "Third party",
-        "Hard-sub",
-        "Soft-sub",
-        "Easy download"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Large library",
-          "Reliable stream servers",
-          "Provide both soft-sub and Hard-sub"
-        ],
-        "negatives": [
-          "Hard subtitles formatted improperly",
-          "Bad ads"
-        ],
-        "altlinks": [
-          {
-            "name": "anidao.to",
-            "url": "https://anidao.to/"
-          },
-          {
-            "name": "anikai.cc",
-            "url": "https://anikai.cc/home"
-          },
-          {
-            "name": "anitaku.online",
-            "url": "https://anitaku.online/"
-          },
-          {
-            "name": "hianime.ad",
-            "url": "https://hianime.ad/home"
-          },
-          {
-            "name": "anivibe.live",
-            "url": "https://anivibe.live/"
-          },
-          {
-            "name": "gogoanimez.cc",
-            "url": "https://gogoanimez.cc/home"
-          },
-          {
-            "name": "aniwatch.icu",
-            "url": "https://aniwatch.icu/"
-          }
-        ],
-        "info": "note: It has many alt domain which copies other websites brand and interface.",
-        "ex-altlinks": [
-          {
-            "name": "anineko",
-            "url": "https://anineko.to/"
-          },
-          {
-            "name": "animedao1",
-            "url": "https://animedao.ac/"
-          },
-          {
-            "name": "animedao2",
-            "url": "https://animedao.watch/home/"
-          },
-          {
-            "name": "animedao3",
-            "url": "https://animedao.space/"
-          },
-          {
-            "name": "anitakuto",
-            "url": "https://anitaku.to/"
-          }
-        ]
       }
     },
     "uniquestream": {
@@ -37656,6 +37571,107 @@
         "domains": "krussdomi.com"
       }
     },
+    "123animes": {
+      "id": "123animes",
+      "title": "aniwaves.ru",
+      "link": "https://aniwaves.ru/home",
+      "icon": "https://static.everythingmoe.com/icons/animetto2.png",
+      "tags": [
+        "Self-host",
+        "Hard-sub"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Very large library (was reupload Gogoanime videos)",
+          "Long track record",
+          "Self hosted server"
+        ],
+        "negatives": [
+          "Some server have low audio quality",
+          "Bad ads"
+        ],
+        "info": "note: It has many alt domain and brand names. It usually copies other websites. unrelated with original <a href=\"/s/AniWave\">AniWave</a>. This site also provide several third party stream options",
+        "altlinks": [
+          {
+            "name": "aniwaves.ru lite",
+            "url": "https://lite.aniwaves.ru/home"
+          },
+          {
+            "name": "123animehub.cc",
+            "url": "https://123animehub.cc/"
+          },
+          {
+            "name": "123anime.la",
+            "url": "https://123anime.la/"
+          },
+          {
+            "name": "animixplay.la",
+            "url": "https://animixplay.la/"
+          },
+          {
+            "name": "hianimes.ru",
+            "url": "https://hianimes.ru/home"
+          },
+          {
+            "name": "guts.to",
+            "url": "https://guts.to/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": "123animes.ru",
+            "url": "https://123animes.ru/home"
+          },
+          {
+            "name": "zorotvcc",
+            "url": "https://zorotv.cc/home"
+          },
+          {
+            "name": "okarun",
+            "url": "https://okarun.moe/home"
+          },
+          {
+            "name": "kissanimefree",
+            "url": "https://kissanimefree.cc/"
+          },
+          {
+            "name": "zoro.se",
+            "url": "https://w1.zoro.se/"
+          },
+          {
+            "name": "9animecc",
+            "url": "https://9anime.cc/"
+          },
+          {
+            "name": "animixplayst",
+            "url": "https://animixplay.st/"
+          },
+          {
+            "name": "animixplayname",
+            "url": "https://animixplay.name/"
+          },
+          {
+            "name": "animecool",
+            "url": "https://animecool.xyz/"
+          },
+          {
+            "name": "aniwavese",
+            "url": "https://aniwave.se/home-anime"
+          },
+          {
+            "name": "animet",
+            "url": "https://animet.to/home"
+          }
+        ],
+        "domains": "hlsx3cdn.burntburst45.store#echovideo.ru"
+      }
+    },
     "animenexus": {
       "id": "animenexus",
       "title": "Anime Nexus",
@@ -37794,6 +37810,89 @@
         "info": "note: Anime availability depend on your region. You can use VPN to get the most of it."
       }
     },
+    "anitakuto": {
+      "id": "anitakuto",
+      "title": "AniNeko",
+      "link": "https://anidao.to/",
+      "icon": "https://static.everythingmoe.com/icons/anineko.png",
+      "tags": [
+        "Self-host",
+        "Third party",
+        "Hard-sub",
+        "Soft-sub",
+        "Easy download"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Large library",
+          "Reliable stream servers",
+          "Provide both soft-sub and Hard-sub"
+        ],
+        "negatives": [
+          "Hard subtitles formatted improperly",
+          "Bad ads"
+        ],
+        "altlinks": [
+          {
+            "name": "anidao.to",
+            "url": "https://anidao.to/"
+          },
+          {
+            "name": "anikai.cc",
+            "url": "https://anikai.cc/home"
+          },
+          {
+            "name": "anitaku.online",
+            "url": "https://anitaku.online/"
+          },
+          {
+            "name": "hianime.ad",
+            "url": "https://hianime.ad/home"
+          },
+          {
+            "name": "anivibe.live",
+            "url": "https://anivibe.live/"
+          },
+          {
+            "name": "gogoanimez.cc",
+            "url": "https://gogoanimez.cc/home"
+          },
+          {
+            "name": "aniwatch.icu",
+            "url": "https://aniwatch.icu/"
+          }
+        ],
+        "info": "note: It has many alt domain which copies other websites brand and interface.",
+        "ex-altlinks": [
+          {
+            "name": "anineko",
+            "url": "https://anineko.to/"
+          },
+          {
+            "name": "animedao1",
+            "url": "https://animedao.ac/"
+          },
+          {
+            "name": "animedao2",
+            "url": "https://animedao.watch/home/"
+          },
+          {
+            "name": "animedao3",
+            "url": "https://animedao.space/"
+          },
+          {
+            "name": "anitakuto",
+            "url": "https://anitaku.to/"
+          }
+        ]
+      }
+    },
     "animedefenders": {
       "id": "animedefenders",
       "title": "Anibd.app",
@@ -37839,107 +37938,6 @@
         "domains": "playeng.animeapps.top,nukitashith.top"
       }
     },
-    "123animes": {
-      "id": "123animes",
-      "title": "aniwaves.ru",
-      "link": "https://aniwaves.ru/home",
-      "icon": "https://static.everythingmoe.com/icons/animetto2.png",
-      "tags": [
-        "Self-host",
-        "Hard-sub"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Very large library (was reupload Gogoanime videos)",
-          "Long track record",
-          "Self hosted server"
-        ],
-        "negatives": [
-          "No quality change",
-          "Bad ads"
-        ],
-        "info": "note: It has many alt domain and brand names. It usually copies other websites. unrelated with original <a href=\"/s/AniWave\">AniWave</a>",
-        "altlinks": [
-          {
-            "name": "aniwaves.ru lite",
-            "url": "https://lite.aniwaves.ru/home"
-          },
-          {
-            "name": "123animehub.cc",
-            "url": "https://123animehub.cc/"
-          },
-          {
-            "name": "123anime.la",
-            "url": "https://123anime.la/"
-          },
-          {
-            "name": "animixplay.la",
-            "url": "https://animixplay.la/"
-          },
-          {
-            "name": "hianimes.ru",
-            "url": "https://hianimes.ru/home"
-          },
-          {
-            "name": "guts.to",
-            "url": "https://guts.to/"
-          }
-        ],
-        "ex-altlinks": [
-          {
-            "name": "123animes.ru",
-            "url": "https://123animes.ru/home"
-          },
-          {
-            "name": "zorotvcc",
-            "url": "https://zorotv.cc/home"
-          },
-          {
-            "name": "okarun",
-            "url": "https://okarun.moe/home"
-          },
-          {
-            "name": "kissanimefree",
-            "url": "https://kissanimefree.cc/"
-          },
-          {
-            "name": "zoro.se",
-            "url": "https://w1.zoro.se/"
-          },
-          {
-            "name": "9animecc",
-            "url": "https://9anime.cc/"
-          },
-          {
-            "name": "animixplayst",
-            "url": "https://animixplay.st/"
-          },
-          {
-            "name": "animixplayname",
-            "url": "https://animixplay.name/"
-          },
-          {
-            "name": "animecool",
-            "url": "https://animecool.xyz/"
-          },
-          {
-            "name": "aniwavese",
-            "url": "https://aniwave.se/home-anime"
-          },
-          {
-            "name": "animet",
-            "url": "https://animet.to/home"
-          }
-        ],
-        "domains": "hlsx3cdn.burntburst45.store#echovideo.ru"
-      }
-    },
     "AnimeOnsen": {
       "id": "AnimeOnsen",
       "title": "AnimeOnsen",
@@ -37970,6 +37968,51 @@
           {
             "name": "beta",
             "url": "https://v3-dev.animeonsen.xyz/"
+          }
+        ]
+      }
+    },
+    "anifyto": {
+      "id": "anifyto",
+      "title": "Anify",
+      "link": "https://anify.to/",
+      "icon": "https://static.everythingmoe.com/icons/anifyto.png",
+      "tags": [
+        "Hard-sub",
+        "Self-host",
+        "Third party"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Medium library",
+          "Self-host on some anime",
+          "Long track record"
+        ],
+        "negatives": [
+          "On old / unpopular show some servers are unavailable",
+          "Barebone features"
+        ],
+        "info": "note: formerly known as AnimeDao. Recent release their own upload to own host and third party. Older one reupload gogoanime library",
+        "altlinks": [
+          {
+            "name": "AnimeNana",
+            "url": "https://animenana.com/"
+          },
+          {
+            "name": "AnimeTake",
+            "url": "https://animetake.tv/"
+          }
+        ],
+        "ex-altlinks": [
+          {
+            "name": "anime-update",
+            "url": "https://anime-update.com/"
           }
         ]
       }
@@ -38053,51 +38096,6 @@
         ],
         "ex-info": "note: formerly known as Otakuu. Anistream is unrelated site that use same stream.",
         "info": "note: formerly known as Otakuu. Also self host some anime"
-      }
-    },
-    "anifyto": {
-      "id": "anifyto",
-      "title": "Anify",
-      "link": "https://anify.to/",
-      "icon": "https://static.everythingmoe.com/icons/anifyto.png",
-      "tags": [
-        "Hard-sub",
-        "Self-host",
-        "Third party"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Medium library",
-          "Self-host on some anime",
-          "Long track record"
-        ],
-        "negatives": [
-          "On old / unpopular show some servers are unavailable",
-          "Barebone features"
-        ],
-        "info": "note: formerly known as AnimeDao. Recent release their own upload to own host and third party. Older one reupload gogoanime library",
-        "altlinks": [
-          {
-            "name": "AnimeNana",
-            "url": "https://animenana.com/"
-          },
-          {
-            "name": "AnimeTake",
-            "url": "https://animetake.tv/"
-          }
-        ],
-        "ex-altlinks": [
-          {
-            "name": "anime-update",
-            "url": "https://anime-update.com/"
-          }
-        ]
       }
     },
     "AnimeParadise": {
