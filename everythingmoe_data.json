@@ -297,8 +297,7 @@
           "tags": [
             "Hard-sub",
             "Self-host",
-            "Modern interface",
-            "ISSUE"
+            "Modern interface"
           ],
           "rank": 6,
           "is_licensed": false,
@@ -752,7 +751,7 @@
         {
           "id": "anitakuto",
           "title": "AniNeko",
-          "link": "https://anidao.to/",
+          "link": "https://anineko.to/",
           "icon": "https://static.everythingmoe.com/icons/anineko.png",
           "tags": [
             "Self-host",
@@ -809,10 +808,6 @@
             ],
             "info": "note: It has many alt domain which copies other websites brand and interface.",
             "ex-altlinks": [
-              {
-                "name": "anineko",
-                "url": "https://anineko.to/"
-              },
               {
                 "name": "animedao1",
                 "url": "https://animedao.ac/"
@@ -3413,7 +3408,8 @@
             ],
             "negatives": [
               "Medium-small library",
-              "Blocked multiple country"
+              "Blocked multiple country",
+              "Only 480p free to watch"
             ],
             "info": "note: Country blocked are US, DE, UK, CA, AU, BR, and JP. You can VPN to other country for access."
           }
@@ -3551,12 +3547,7 @@
               "Multiple shortlink ads",
               "Block some country"
             ],
-            "altlinks": [
-              {
-                "name": "animoye",
-                "url": "https://animoye.com/"
-              }
-            ],
+            "exxx-altlink": "animoye<<https://animoye.com/",
             "exx-altlinks": [
               {
                 "name": "toono",
@@ -3590,7 +3581,7 @@
               }
             ],
             "ex-info": "note: tooniboy, multishows, animahd, and toono is different but similar website",
-            "info": "note: toono & animoye is different but similar website"
+            "exx-info": "note: toono & animoye is different but similar website"
           }
         }
       ]
@@ -37358,8 +37349,7 @@
       "tags": [
         "Hard-sub",
         "Self-host",
-        "Modern interface",
-        "ISSUE"
+        "Modern interface"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -37813,7 +37803,7 @@
     "anitakuto": {
       "id": "anitakuto",
       "title": "AniNeko",
-      "link": "https://anidao.to/",
+      "link": "https://anineko.to/",
       "icon": "https://static.everythingmoe.com/icons/anineko.png",
       "tags": [
         "Self-host",
@@ -37870,10 +37860,6 @@
         ],
         "info": "note: It has many alt domain which copies other websites brand and interface.",
         "ex-altlinks": [
-          {
-            "name": "anineko",
-            "url": "https://anineko.to/"
-          },
           {
             "name": "animedao1",
             "url": "https://animedao.ac/"
@@ -40474,7 +40460,8 @@
         ],
         "negatives": [
           "Medium-small library",
-          "Blocked multiple country"
+          "Blocked multiple country",
+          "Only 480p free to watch"
         ],
         "info": "note: Country blocked are US, DE, UK, CA, AU, BR, and JP. You can VPN to other country for access."
       }
@@ -40612,12 +40599,7 @@
           "Multiple shortlink ads",
           "Block some country"
         ],
-        "altlinks": [
-          {
-            "name": "animoye",
-            "url": "https://animoye.com/"
-          }
-        ],
+        "exxx-altlink": "animoye<<https://animoye.com/",
         "exx-altlinks": [
           {
             "name": "toono",
@@ -40651,7 +40633,7 @@
           }
         ],
         "ex-info": "note: tooniboy, multishows, animahd, and toono is different but similar website",
-        "info": "note: toono & animoye is different but similar website"
+        "exx-info": "note: toono & animoye is different but similar website"
       }
     },
     "animekhor": {
