@@ -76,7 +76,7 @@
                             "links": [
                                 {
                                     "name": "NEPU",
-                                    "url": "https://nepu.to/"
+                                    "url": "https://nepu.io/"
                                 },
                                 {
                                     "name": "Rive",
@@ -6161,7 +6161,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Z.ai - GLM 5.3 / Agent / Slides / Sign-Up / /",
+                            "full_text": "⁠Z.ai - GLM 5.3 / GLM 5.3 Flash / Agent / Slides / Sign-Up / /",
                             "links": [
                                 {
                                     "name": "⁠Z.ai",
@@ -6178,7 +6178,7 @@
                             ]
                         },
                         {
-                            "full_text": "Google AI Studio - Gemini 3.7 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Add Features / /",
+                            "full_text": "Google AI Studio - Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Add Features / /",
                             "links": [
                                 {
                                     "name": "Google AI Studio",
@@ -11049,7 +11049,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each site's respective pros & cons."
+                        "Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites have no popups/redirect ads, or allow you to turn them off in settings. We note popup/redirect ad statuses of each site, as well as their other respective pros & cons on thegrading page/2."
                     ],
                     "resource_items": [
                         {
@@ -11206,7 +11206,7 @@
                             ]
                         },
                         {
-                            "full_text": "MeowTV or FlickyStream , 2 - Movies / TV / Anime / Auto-Next /",
+                            "full_text": "MeowTV or FlickyStream - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "MeowTV",
@@ -11214,10 +11214,6 @@
                                 },
                                 {
                                     "name": "FlickyStream",
-                                    "url": "https://flickystream.dad/"
-                                },
-                                {
-                                    "name": "2",
                                     "url": "https://flickystream.mov/"
                                 },
                                 {
@@ -11240,19 +11236,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/wsPmVB7ZJZ"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TouStream - Movies / TV / Anime / Auto-Next /",
-                            "links": [
-                                {
-                                    "name": "TouStream",
-                                    "url": "https://toustream.xyz/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/us5-and-toustream-1157125685178007672"
                                 }
                             ]
                         },
@@ -11351,11 +11334,19 @@
                             ]
                         },
                         {
-                            "full_text": "Moovie - Movies / TV / Anime / Auto-Next",
+                            "full_text": "Moovie or StreamAggregator - Movies / TV / Anime / Auto-Next /",
                             "links": [
                                 {
                                     "name": "Moovie",
                                     "url": "https://moovie.fun/"
+                                },
+                                {
+                                    "name": "StreamAggregator",
+                                    "url": "https://streamaggregator.in/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/CYphBERWvD"
                                 }
                             ]
                         },
@@ -11660,15 +11651,6 @@
                             ]
                         },
                         {
-                            "full_text": "CineBolt - Movies / TV / Anime / Auto-Next",
-                            "links": [
-                                {
-                                    "name": "CineBolt",
-                                    "url": "https://cinebolt.org/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "ZXCSTREAM - Movies / TV / /",
                             "links": [
                                 {
@@ -11745,6 +11727,48 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.gg/UHYrFbvu4z"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Nippleflix , 2 or Redflix , 2 - Movies / TV / Anime / Auto-Next / /",
+                            "links": [
+                                {
+                                    "name": "Nippleflix",
+                                    "url": "https://nippleflix.com/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://pantyflix.com/"
+                                },
+                                {
+                                    "name": "Redflix",
+                                    "url": "https://redflix.one/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://redflix.club/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/multichannelofficial"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/wp5SkSWHW5"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Spacedom - Movies / TV / Anime / Auto-Next /",
+                            "links": [
+                                {
+                                    "name": "Spacedom",
+                                    "url": "https://spacedom.live/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/6NU9thcPYs"
                                 }
                             ]
                         },
@@ -11875,6 +11899,19 @@
                             ]
                         },
                         {
+                            "full_text": "PopcornTime , 2 - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "PopcornTime",
+                                    "url": "https://popwatch.to/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://popwatch.cc/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Surface Stream - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -11902,6 +11939,15 @@
                                 {
                                     "name": "Apexmovies",
                                     "url": "https://apexmovies.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Avero TV - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "Avero TV",
+                                    "url": "https://averotv.top/"
                                 }
                             ]
                         },
@@ -11954,73 +12000,6 @@
                                 {
                                     "name": "Vegeta TV",
                                     "url": "http://vegetatv.duckdns.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Vyla Home , 2 - Streaming Desktop App / /",
-                            "links": [
-                                {
-                                    "name": "⁠Vyla Home",
-                                    "url": "https://vyla.cc/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://vyla.qzz.io"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "http://discord.gg/5eqRhKeywG"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://gitlab.com/vyla-entertainment/home"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "PlayTorrio , 2 - Streaming Desktop App / Use Streaming Mode / / /",
-                            "links": [
-                                {
-                                    "name": "PlayTorrio",
-                                    "url": "https://playtorrio.xyz/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://playtorrio.pages.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/PlayTorrio/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV2"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "mov-cli - Streaming CLI / Plugins / /",
-                            "links": [
-                                {
-                                    "name": "mov-cli",
-                                    "url": "https://mov-cli.github.io/"
-                                },
-                                {
-                                    "name": "Plugins",
-                                    "url": "https://github.com/topics/mov-cli-plugin"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/BMzC7ePsBV"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/mov-cli/mov-cli"
                                 }
                             ]
                         }
@@ -12107,7 +12086,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠P-Stream Fork - Movies / TV / Anime / Auto-Next / 4K / Status / / Source",
+                            "full_text": "⁠P-Stream Fork - Movies / TV / Anime / Auto-Next / 4K / Status / /",
                             "links": [
                                 {
                                     "name": "⁠P-Stream Fork",
@@ -12122,7 +12101,7 @@
                                     "url": "https://discord.com/invite/Yd3HG2N4Pv"
                                 },
                                 {
-                                    "name": "Source",
+                                    "name": "",
                                     "url": "https://codeberg.org/pee"
                                 }
                             ]
@@ -12179,6 +12158,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠FMFAU - Movies / TV / Anime / Auto-Next",
+                            "links": [
+                                {
+                                    "name": "⁠FMFAU",
+                                    "url": "https://fmfau.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "IceFY - Movies / TV / Anime / Auto-Next",
                             "links": [
                                 {
@@ -12203,9 +12191,38 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each site's respective pros & cons."
+                        "Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites have no popups/redirect ads, or allow you to turn them off in settings. We note popup/redirect ad statuses of each site, as well as their other respective pros & cons on thegrading page/2."
                     ],
                     "resource_items": [
+                        {
+                            "full_text": "NEPU , 2 , 3 , 4 - Movies / TV / Anime / Auto-Next / 4K / Status /",
+                            "links": [
+                                {
+                                    "name": "NEPU",
+                                    "url": "https://nepu.io/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://nepu.net/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://nepu.app/"
+                                },
+                                {
+                                    "name": "4",
+                                    "url": "https://nepu.is/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://rar.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/nepu"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "EE3 or RIPS - Movies / Invite Codes: mpgh or 1hack / Requires Sign-Up",
                             "links": [
@@ -12242,39 +12259,6 @@
                                 {
                                     "name": "",
                                     "url": "https://discord.com/invite/2cG7pyvq38"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "NEPU , 2 , 3 , 4 , 5 - Movies / TV / Anime / Auto-Next / 4K / Status /",
-                            "links": [
-                                {
-                                    "name": "NEPU",
-                                    "url": "https://nepu.to/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://nepu.io/"
-                                },
-                                {
-                                    "name": "3",
-                                    "url": "https://nepu.net/"
-                                },
-                                {
-                                    "name": "4",
-                                    "url": "https://nepu.app/"
-                                },
-                                {
-                                    "name": "5",
-                                    "url": "https://nepu.is/"
-                                },
-                                {
-                                    "name": "Status",
-                                    "url": "https://rar.to/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/nepu"
                                 }
                             ]
                         },
@@ -12569,15 +12553,6 @@
                                     "url": "https://lookmovie2.la/"
                                 }
                             ]
-                        },
-                        {
-                            "full_text": "Gir Society - Movies / TV / Anime / Requires Plex or Jellyfin",
-                            "links": [
-                                {
-                                    "name": "Gir Society",
-                                    "url": "https://discord.gg/WHxeZ3aTtb"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -12586,7 +12561,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each site's respective pros & cons."
+                        "Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites have no popups/redirect ads, or allow you to turn them off in settings. We note popup/redirect ad statuses of each site, as well as their other respective pros & cons on thegrading page/2."
                     ],
                     "resource_items": [
                         {
@@ -12863,27 +12838,6 @@
                             ]
                         },
                         {
-                            "full_text": "Redflix , 2 or CineHub - Movies / TV / Anime /",
-                            "links": [
-                                {
-                                    "name": "Redflix",
-                                    "url": "https://redflix.one/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://redflix.club/"
-                                },
-                                {
-                                    "name": "CineHub",
-                                    "url": "https://cinehub.one/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/wp5SkSWHW5"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "Flyflix - Movies / TV / Anime /",
                             "links": [
                                 {
@@ -13028,7 +12982,7 @@
                     "level": "h3",
                     "text_explanations": [
                         "TIP",
-                        "More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check thegrading page/2to see each site's respective pros & cons."
+                        "More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install anadblocker(full version of uBlock Origin), and keep in mind some sites have no popups/redirect ads, or allow you to turn them off in settings. We note popup/redirect ad statuses of each site, as well as their other respective pros & cons on thegrading page/2."
                     ],
                     "resource_items": [
                         {
@@ -13136,6 +13090,23 @@
                                 {
                                     "name": "FLNK",
                                     "url": "https://flnk.fun/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "WatchSeries , 2 , 3 - Movies / TV / Anime",
+                            "links": [
+                                {
+                                    "name": "WatchSeries",
+                                    "url": "https://watchseries.bar/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://watchseries.plus/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://watchseries.show/"
                                 }
                             ]
                         },
@@ -13864,6 +13835,216 @@
                     ]
                 },
                 {
+                    "heading": "Streaming Apps",
+                    "level": "h2",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "️ Torrent Streaming - Torrent Streaming Apps",
+                            "links": [
+                                {
+                                    "name": "Torrent Streaming",
+                                    "url": "https://fmhy.net/video/#torrent-apps"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "PlayTorrio , 2 - Streaming App / Use PlayTorrioHTTP Plugin / / / /",
+                            "links": [
+                                {
+                                    "name": "PlayTorrio",
+                                    "url": "https://playtorrio.xyz/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://playtorrio.pages.dev/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://www.reddit.com/r/PlayTorrio/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/bbkVHRHnRk"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/ayman708-UX/PlayTorrioV2"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Vyla Home , 2 - Streaming App / / /",
+                            "links": [
+                                {
+                                    "name": "⁠Vyla Home",
+                                    "url": "https://vyla.cc/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://vyla.qzz.io"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "http://discord.gg/5eqRhKeywG"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://gitlab.com/vyla-entertainment/home"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "mov-cli - Streaming CLI / Plugins / / /",
+                            "links": [
+                                {
+                                    "name": "mov-cli",
+                                    "url": "https://mov-cli.github.io/"
+                                },
+                                {
+                                    "name": "Plugins",
+                                    "url": "https://github.com/topics/mov-cli-plugin"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/BMzC7ePsBV"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/mov-cli/mov-cli"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Gir Society - Plex + Jellyfin Public Playlist /",
+                            "links": [
+                                {
+                                    "name": "Gir Society",
+                                    "url": "https://discord.gg/WHxeZ3aTtb"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Anime Streaming Apps",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": [
+                        {
+                            "full_text": "Seanime - Anime Streaming App / / /",
+                            "links": [
+                                {
+                                    "name": "Seanime",
+                                    "url": "https://seanime.app/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/3AuhRGqUqh"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/5rahim/seanime"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AnymeX - Anime Streaming App / Extension Guide / / /",
+                            "links": [
+                                {
+                                    "name": "AnymeX",
+                                    "url": "https://anymex.vercel.app/"
+                                },
+                                {
+                                    "name": "Extension Guide",
+                                    "url": "https://wotaku.wiki/guides/ext/mangayomi"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/hDwQ3heJ8V"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/RyanYuuki/AnymeX"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Anikin - Anime Streaming App / /",
+                            "links": [
+                                {
+                                    "name": "Anikin",
+                                    "url": "https://github.com/jerry08/Anikin"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.com/invite/U7XweVubJN"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Anisurge - Anime Streaming App / /",
+                            "links": [
+                                {
+                                    "name": "Anisurge",
+                                    "url": "https://www.anisurge.lol/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Anisurge/App"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Unyo - Anime Streaming App /",
+                            "links": [
+                                {
+                                    "name": "Unyo",
+                                    "url": "https://github.com/K3vinb5/Unyo"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Miru - Anime Streaming App / / /",
+                            "links": [
+                                {
+                                    "name": "Miru",
+                                    "url": "https://miru.js.org/en/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/MiruChat"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/miru-project/miru-app"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "ani-cli - Anime Streaming CLI /",
+                            "links": [
+                                {
+                                    "name": "ani-cli",
+                                    "url": "https://github.com/pystardust/ani-cli"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Android Streaming",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": []
+                },
+                {
+                    "heading": "iOS Streaming",
+                    "level": "h3",
+                    "text_explanations": [],
+                    "resource_items": []
+                },
+                {
                     "heading": "Specialty Streaming",
                     "level": "h2",
                     "text_explanations": [],
@@ -13921,11 +14102,15 @@
                             ]
                         },
                         {
-                            "full_text": "RareFilmm - Rare Movies",
+                            "full_text": "RareFilmm or 0xDB - Rare Movies",
                             "links": [
                                 {
                                     "name": "RareFilmm",
                                     "url": "https://rarefilmm.com/"
+                                },
+                                {
+                                    "name": "0xDB",
+                                    "url": "https://0xdb.org/"
                                 }
                             ]
                         },
@@ -14023,15 +14208,6 @@
                                 {
                                     "name": "Zero1Cine",
                                     "url": "https://zero1cine.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "0xDB - Rare Movies",
-                            "links": [
-                                {
-                                    "name": "0xDB",
-                                    "url": "https://0xdb.org/"
                                 }
                             ]
                         },
@@ -14134,6 +14310,15 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
+                        {
+                            "full_text": "️ Anime Streaming Apps",
+                            "links": [
+                                {
+                                    "name": "Anime Streaming Apps",
+                                    "url": "https://fmhy.net/video/#anime-streaming-apps"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "Wotaku - Anime Site Index / /",
                             "links": [
@@ -14503,6 +14688,43 @@
                             ]
                         },
                         {
+                            "full_text": "AniNeko , 2 , 3 , 4 , 5 , 6 , 7 , 8 - Sub / Dub",
+                            "links": [
+                                {
+                                    "name": "AniNeko",
+                                    "url": "https://anineko.to/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://www3.anikai.cc/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://aniwatch.icu/"
+                                },
+                                {
+                                    "name": "4",
+                                    "url": "https://gogoanimez.cc/"
+                                },
+                                {
+                                    "name": "5",
+                                    "url": "https://anivibe.live/"
+                                },
+                                {
+                                    "name": "6",
+                                    "url": "https://hianime.ad/"
+                                },
+                                {
+                                    "name": "7",
+                                    "url": "https://anitaku.online/"
+                                },
+                                {
+                                    "name": "8",
+                                    "url": "https://anidao.to/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Aniwave or 123anime - Sub / Dub / Auto-Next",
                             "links": [
                                 {
@@ -14836,6 +15058,19 @@
                             ]
                         },
                         {
+                            "full_text": "⁠bAnime - Sub / Dub /",
+                            "links": [
+                                {
+                                    "name": "⁠bAnime",
+                                    "url": "https://banime.dedyn.io/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/tJqRjg5WzH"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "⁠Animelok - Sub / Dub / Mirrors / /",
                             "links": [
                                 {
@@ -14896,91 +15131,6 @@
                                 {
                                     "name": "Anime Streaming CSE",
                                     "url": "https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Seanime / / , AnymeX / Extension Guide / / , PlayTorrio , 2 / / / , Anikin / , Anisurge / , Unyo or Miru / / - Desktop Streaming Apps",
-                            "links": [
-                                {
-                                    "name": "Seanime",
-                                    "url": "https://seanime.app/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/3AuhRGqUqh"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/5rahim/seanime"
-                                },
-                                {
-                                    "name": "AnymeX",
-                                    "url": "https://anymex.vercel.app/"
-                                },
-                                {
-                                    "name": "Extension Guide",
-                                    "url": "https://wotaku.wiki/guides/ext/mangayomi"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/hDwQ3heJ8V"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/RyanYuuki/AnymeX"
-                                },
-                                {
-                                    "name": "PlayTorrio",
-                                    "url": "https://playtorrio.xyz/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://playtorrio.pages.dev/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://www.reddit.com/r/PlayTorrio/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/bbkVHRHnRk"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/ayman708-UX/PlayTorrioV2"
-                                },
-                                {
-                                    "name": "Anikin",
-                                    "url": "https://github.com/jerry08/Anikin"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.com/invite/U7XweVubJN"
-                                },
-                                {
-                                    "name": "Anisurge",
-                                    "url": "https://www.anisurge.lol/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/Anisurge/App"
-                                },
-                                {
-                                    "name": "Unyo",
-                                    "url": "https://github.com/K3vinb5/Unyo"
-                                },
-                                {
-                                    "name": "Miru",
-                                    "url": "https://miru.js.org/en/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/MiruChat"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/miru-project/miru-app"
                                 }
                             ]
                         },
@@ -16417,15 +16567,6 @@
                             ]
                         },
                         {
-                            "full_text": "CineBolt TV - TV / Sports",
-                            "links": [
-                                {
-                                    "name": "CineBolt TV",
-                                    "url": "https://cinebolt.org/live"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "TV247US - TV / Sports",
                             "links": [
                                 {
@@ -16985,6 +17126,31 @@
                                 {
                                     "name": "Sportsurge",
                                     "url": "https://v2.sportsurge.net/home5/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Reedstreams , 2 , 3 - Stream Aggregator / Status /",
+                            "links": [
+                                {
+                                    "name": "Reedstreams",
+                                    "url": "https://reedstreams.cc/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://reedstreams.watch/"
+                                },
+                                {
+                                    "name": "3",
+                                    "url": "https://reedstreams.ws/"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://reedstreams.link/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/fGfgxcnXUv"
                                 }
                             ]
                         },
@@ -18009,6 +18175,19 @@
                             ]
                         },
                         {
+                            "full_text": "ynoTV - IPTV Player / / Docs",
+                            "links": [
+                                {
+                                    "name": "ynoTV",
+                                    "url": "https://github.com/tbeezy/ynotv/"
+                                },
+                                {
+                                    "name": "Docs",
+                                    "url": "https://tbeezy.github.io/ynotvdoc/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "IPTVNator - IPTV Player / / /",
                             "links": [
                                 {
@@ -18031,19 +18210,6 @@
                                 {
                                     "name": "Open TV",
                                     "url": "https://github.com/fredolx/open-tv"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ynoTV - IPTV Player / / Docs",
-                            "links": [
-                                {
-                                    "name": "ynoTV",
-                                    "url": "https://github.com/tbeezy/ynotv/"
-                                },
-                                {
-                                    "name": "Docs",
-                                    "url": "https://tbeezy.github.io/ynotvdoc/"
                                 }
                             ]
                         },
@@ -18164,11 +18330,15 @@
                             ]
                         },
                         {
-                            "full_text": "Nuvio / Plugins / Wiki / Guides , 2 / , Stremio / Tools , WuPlay or ⁠RealStream / - Streaming App / Stremio Support",
+                            "full_text": "Nuvio / Tools / Plugins / Wiki / Guides , 2 / , Stremio / Tools , WuPlay or ⁠RealStream / - Streaming App / Stremio Support",
                             "links": [
                                 {
                                     "name": "Nuvio",
                                     "url": "https://github.com/NuvioMedia/NuvioWeb#install"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video/#stremio-tools"
                                 },
                                 {
                                     "name": "Plugins",
@@ -18430,11 +18600,15 @@
                             ]
                         },
                         {
-                            "full_text": "NuvioTV / Stremio Sync / Plugins / Wiki / Guides / - Streaming App / Stremio Support",
+                            "full_text": "NuvioTV / Tools / Stremio Sync / Plugins / Wiki / Guides / - Streaming App / Stremio Support",
                             "links": [
                                 {
                                     "name": "NuvioTV",
                                     "url": "https://github.com/NuvioMedia/NuvioTV"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video/#stremio-tools"
                                 },
                                 {
                                     "name": "Stremio Sync",
@@ -18794,18 +18968,6 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "heading": "Android Streaming",
-                    "level": "h2",
-                    "text_explanations": [],
-                    "resource_items": []
-                },
-                {
-                    "heading": "iOS Streaming",
-                    "level": "h2",
-                    "text_explanations": [],
-                    "resource_items": []
                 },
                 {
                     "heading": "Download Sites",
@@ -19247,15 +19409,6 @@
                             ]
                         },
                         {
-                            "full_text": "TVSeries - TV / Anime",
-                            "links": [
-                                {
-                                    "name": "TVSeries",
-                                    "url": "https://www.tvseries.in/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "StagaTV - Movies / TV",
                             "links": [
                                 {
@@ -19269,7 +19422,7 @@
                             "links": [
                                 {
                                     "name": "FlickyStream",
-                                    "url": "https://flickystream.dad/"
+                                    "url": "https://flickystream.mov/"
                                 },
                                 {
                                     "name": "",
@@ -20111,7 +20264,16 @@
                             ]
                         },
                         {
-                            "full_text": "Stremio / / , ⁠Stremio Desktop (full mpv) or Stremio Kai / (full mpv) - Torrent Streaming App / WebUI / Tools",
+                            "full_text": "️ Anime Torrent Streaming Apps",
+                            "links": [
+                                {
+                                    "name": "Anime Torrent Streaming Apps",
+                                    "url": "https://fmhy.net/video/#anime-torrenting"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Stremio / / , ⁠Stremio Desktop (full mpv), Harbor / or Stremio Kai / (full mpv) - Torrent Streaming App / WebUI / Tools",
                             "links": [
                                 {
                                     "name": "Stremio",
@@ -20128,6 +20290,14 @@
                                 {
                                     "name": "⁠Stremio Desktop",
                                     "url": "https://github.com/Zaarrg/stremio-community-v5"
+                                },
+                                {
+                                    "name": "Harbor",
+                                    "url": "https://www.harbor.site/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/harborstremio/harbor"
                                 },
                                 {
                                     "name": "Stremio Kai",
@@ -20281,11 +20451,19 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Nuvio Desktop - Torrent Streaming App / Stremio Sync / Plugins / Wiki / Guides",
+                            "full_text": "⁠Nuvio Desktop or ⁠NuvioLinux - Torrent Streaming App / Tools / Stremio Sync / Plugins / Wiki / Guides",
                             "links": [
                                 {
                                     "name": "⁠Nuvio Desktop",
                                     "url": "https://github.com/NuvioMedia/NuvioDesktop"
+                                },
+                                {
+                                    "name": "⁠NuvioLinux",
+                                    "url": "https://github.com/JJDizz1L/NuvioLinux"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video/#stremio-tools"
                                 },
                                 {
                                     "name": "Stremio Sync",
@@ -20532,7 +20710,10 @@
                 {
                     "heading": "Stremio Tools",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "TIP",
+                        "Note that much of what is listed here will also be compatible with Nuvio as well."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Stremio Addons / / or Midnight's Addons - Stremio Addons",
@@ -20625,6 +20806,31 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/Viren070/AIOStreams"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AIOMetadata - Multi-Source Metadata & Catalogs Addon / Public Instances / Configure , 2 / /",
+                            "links": [
+                                {
+                                    "name": "⁠AIOMetadata",
+                                    "url": "https://aiometadata.elfhosted.com/"
+                                },
+                                {
+                                    "name": "Public Instances",
+                                    "url": "https://uptime.ibbylabs.dev/aiometadata"
+                                },
+                                {
+                                    "name": "Configure",
+                                    "url": "https://aiometadata.elfhosted.com/configure/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://aiometadatafortheweak.nhyira.dev/configure/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/cedya77/aiometadata"
                                 }
                             ]
                         },
@@ -26567,6 +26773,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠AudioFetcher - YouTube / 320kb MP3",
+                            "links": [
+                                {
+                                    "name": "⁠AudioFetcher",
+                                    "url": "https://audiofetcher.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Spotisaver - YouTube / 320kb MP3",
                             "links": [
                                 {
@@ -27459,105 +27674,91 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Take Metal - Metal / MP3",
+                            "full_text": "HQ Hip Hop or GoldHipHop - Hip Hop / MP3 / FLAC",
                             "links": [
                                 {
-                                    "name": "Take Metal",
-                                    "url": "https://takemetal.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Metalminos - Metal / MP3",
-                            "links": [
-                                {
-                                    "name": "Metalminos",
-                                    "url": "https://metalminos.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "In The Fog - Metal / MP3",
-                            "links": [
-                                {
-                                    "name": "In The Fog",
-                                    "url": "https://in-the-fog.ru/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TechnicalDeathMetal - Metal / MP3",
-                            "links": [
-                                {
-                                    "name": "TechnicalDeathMetal",
-                                    "url": "https://technicaldeathmetal.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "HeavyMetalRarities - Metal / MP3",
-                            "links": [
-                                {
-                                    "name": "HeavyMetalRarities",
-                                    "url": "https://heavymetalrarities.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GetMetal Club - Metal / MP3 / FLAC",
-                            "links": [
-                                {
-                                    "name": "GetMetal Club",
-                                    "url": "https://getmetal.club/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Nuclear Holocaust - Metal / FLAC",
-                            "links": [
-                                {
-                                    "name": "Nuclear Holocaust",
-                                    "url": "https://nuclear-holocaust.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "We Need Match - Metal / FLAC / M4A",
-                            "links": [
-                                {
-                                    "name": "We Need Match",
-                                    "url": "https://we-need-match.ru/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "F.P.F.T.P. - Punk / MP3 / Use Translator",
-                            "links": [
-                                {
-                                    "name": "F.P.F.T.P.",
-                                    "url": "https://fpftp.blogspot.com/"
+                                    "name": "HQ Hip Hop",
+                                    "url": "https://94hiphop.com/"
                                 },
                                 {
-                                    "name": "Translator",
-                                    "url": "https://fmhy.net/text-tools/#translators"
+                                    "name": "GoldHipHop",
+                                    "url": "https://goldhiphop.pro/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Sophie's Floorboard - Hardcore / MP3",
+                            "full_text": "Rapload or HipHopa - Hip Hop / MP3",
                             "links": [
                                 {
-                                    "name": "Sophie's Floorboard",
-                                    "url": "https://sophiesfloorboard.blogspot.com/"
+                                    "name": "Rapload",
+                                    "url": "https://rapload.org/"
+                                },
+                                {
+                                    "name": "HipHopa",
+                                    "url": "https://hiphopa.net/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Lost Songs - Hardcore / MP3",
+                            "full_text": "Rap War - Hip Hop / MP3",
                             "links": [
                                 {
-                                    "name": "Lost Songs",
-                                    "url": "https://lostsongshc.blogspot.com/"
+                                    "name": "Rap War",
+                                    "url": "https://rap-war-fam.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Dez Flight Underground - Underground Hip Hop",
+                            "links": [
+                                {
+                                    "name": "Dez Flight Underground",
+                                    "url": "https://dezflight-underground.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Certified Mixtapez - Mixtapes / MP3",
+                            "links": [
+                                {
+                                    "name": "⁠Certified Mixtapez",
+                                    "url": "https://www.certifiedmixtapez.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Mixtape Collections - Mixtape Collections",
+                            "links": [
+                                {
+                                    "name": "Mixtape Collections",
+                                    "url": "https://rentry.co/FMHYB64#mixtape-collections"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hipstrumentals - Instrumentals / MP3",
+                            "links": [
+                                {
+                                    "name": "Hipstrumentals",
+                                    "url": "https://hipstrumentals.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Ektoplazm - Electronic / MP3 / FLAC",
+                            "links": [
+                                {
+                                    "name": "Ektoplazm",
+                                    "url": "https://ektoplazm.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KTI Music - Electronic / MP3 / FLAC",
+                            "links": [
+                                {
+                                    "name": "KTI Music",
+                                    "url": "https://ktimusic.blogspot.com/"
                                 }
                             ]
                         },
@@ -27634,24 +27835,6 @@
                             ]
                         },
                         {
-                            "full_text": "Ektoplazm - Electronic / MP3 / FLAC",
-                            "links": [
-                                {
-                                    "name": "Ektoplazm",
-                                    "url": "https://ektoplazm.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KTI Music - Electronic / MP3 / FLAC",
-                            "links": [
-                                {
-                                    "name": "KTI Music",
-                                    "url": "https://ktimusic.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "r/xTrill - Electronic / Backup",
                             "links": [
                                 {
@@ -27661,6 +27844,15 @@
                                 {
                                     "name": "Backup",
                                     "url": "https://reddit.com/r/xTrillBackup"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "EssentialHouse - House / MP3",
+                            "links": [
+                                {
+                                    "name": "EssentialHouse",
+                                    "url": "https://essentialhouse.club/"
                                 }
                             ]
                         },
@@ -27723,55 +27915,74 @@
                             ]
                         },
                         {
-                            "full_text": "inconstant sol , David W. Niven Collection or JazznBlues - Jazz / MP3",
+                            "full_text": "GetMetal Club - Metal / MP3 / FLAC",
                             "links": [
                                 {
-                                    "name": "inconstant sol",
-                                    "url": "https://inconstantsol.blogspot.com/"
-                                },
-                                {
-                                    "name": "David W. Niven Collection",
-                                    "url": "https://archive.org/details/davidwnivenjazz"
-                                },
-                                {
-                                    "name": "JazznBlues",
-                                    "url": "https://jazznblues.club/"
+                                    "name": "GetMetal Club",
+                                    "url": "https://getmetal.club/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "EssentialHouse - House / MP3",
+                            "full_text": "Nuclear Holocaust - Metal / FLAC",
                             "links": [
                                 {
-                                    "name": "EssentialHouse",
-                                    "url": "https://essentialhouse.club/"
+                                    "name": "Nuclear Holocaust",
+                                    "url": "https://nuclear-holocaust.blogspot.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Bluegrass Archive - Bluegrass / FLAC",
+                            "full_text": "We Need Match - Metal / FLAC / M4A",
                             "links": [
                                 {
-                                    "name": "Bluegrass Archive",
-                                    "url": "https://rentry.co/FMHYB64#bluegrass-archive"
+                                    "name": "We Need Match",
+                                    "url": "https://we-need-match.ru/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "BurningTheGround - 80s / 90s / FLAC",
+                            "full_text": "Take Metal - Metal / MP3",
                             "links": [
                                 {
-                                    "name": "BurningTheGround",
-                                    "url": "https://burningtheground.net/"
+                                    "name": "Take Metal",
+                                    "url": "https://takemetal.org/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "aboutdisco - Disco / MP3",
+                            "full_text": "Metalminos - Metal / MP3",
                             "links": [
                                 {
-                                    "name": "aboutdisco",
-                                    "url": "https://aboutdiscowithlove.blogspot.com/"
+                                    "name": "Metalminos",
+                                    "url": "https://metalminos.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "In The Fog - Metal / MP3",
+                            "links": [
+                                {
+                                    "name": "In The Fog",
+                                    "url": "https://in-the-fog.ru/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TechnicalDeathMetal - Metal / MP3",
+                            "links": [
+                                {
+                                    "name": "TechnicalDeathMetal",
+                                    "url": "https://technicaldeathmetal.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HeavyMetalRarities - Metal / MP3",
+                            "links": [
+                                {
+                                    "name": "HeavyMetalRarities",
+                                    "url": "https://heavymetalrarities.com/"
                                 }
                             ]
                         },
@@ -27785,11 +27996,87 @@
                             ]
                         },
                         {
+                            "full_text": "F.P.F.T.P. - Punk / MP3 / Use Translator",
+                            "links": [
+                                {
+                                    "name": "F.P.F.T.P.",
+                                    "url": "https://fpftp.blogspot.com/"
+                                },
+                                {
+                                    "name": "Translator",
+                                    "url": "https://fmhy.net/text-tools/#translators"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Sophie's Floorboard - Hardcore / MP3",
+                            "links": [
+                                {
+                                    "name": "Sophie's Floorboard",
+                                    "url": "https://sophiesfloorboard.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Lost Songs - Hardcore / MP3",
+                            "links": [
+                                {
+                                    "name": "Lost Songs",
+                                    "url": "https://lostsongshc.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "BurningTheGround - 80s / 90s / FLAC",
+                            "links": [
+                                {
+                                    "name": "BurningTheGround",
+                                    "url": "https://burningtheground.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KPopFLAC - K-Pop / FLAC",
+                            "links": [
+                                {
+                                    "name": "KPopFLAC",
+                                    "url": "https://www.kpopflac.xyz/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KPopMusicDownload - K-Pop / MP3",
+                            "links": [
+                                {
+                                    "name": "KPopMusicDownload",
+                                    "url": "https://kpopdownloadscmm.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "aboutdisco - Disco / MP3",
+                            "links": [
+                                {
+                                    "name": "aboutdisco",
+                                    "url": "https://aboutdiscowithlove.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Classical Music Download - Classical / FLAC",
                             "links": [
                                 {
                                     "name": "Classical Music Download",
                                     "url": "https://classical-music-download.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FlatblackAndClassical - Classic Indian Music / FLAC",
+                            "links": [
+                                {
+                                    "name": "FlatblackAndClassical",
+                                    "url": "https://www.flatblackandclassical.com/"
                                 }
                             ]
                         },
@@ -27816,118 +28103,37 @@
                             ]
                         },
                         {
-                            "full_text": "FlatblackAndClassical - Classic Indian Music / FLAC",
+                            "full_text": "The T-SQUARE Plaza - Japanese / International Jazz Fusion / City Pop / FLAC",
                             "links": [
                                 {
-                                    "name": "FlatblackAndClassical",
-                                    "url": "https://www.flatblackandclassical.com/"
+                                    "name": "The T-SQUARE Plaza",
+                                    "url": "https://tsquareplaza.blogspot.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "madrotter-treasure-hunt - Indonesian Music",
+                            "full_text": "inconstant sol , David W. Niven Collection or JazznBlues - Jazz / MP3",
                             "links": [
                                 {
-                                    "name": "madrotter-treasure-hunt",
-                                    "url": "https://madrotter-treasure-hunt.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Kiddie Records - Classic Children's Records",
-                            "links": [
-                                {
-                                    "name": "Kiddie Records",
-                                    "url": "http://www.kiddierecords.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "HQ Hip Hop or GoldHipHop - Hip Hop / MP3 / FLAC",
-                            "links": [
-                                {
-                                    "name": "HQ Hip Hop",
-                                    "url": "https://94hiphop.com/"
+                                    "name": "inconstant sol",
+                                    "url": "https://inconstantsol.blogspot.com/"
                                 },
                                 {
-                                    "name": "GoldHipHop",
-                                    "url": "https://goldhiphop.pro/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rapload or HipHopa - Hip Hop / MP3",
-                            "links": [
-                                {
-                                    "name": "Rapload",
-                                    "url": "https://rapload.org/"
+                                    "name": "David W. Niven Collection",
+                                    "url": "https://archive.org/details/davidwnivenjazz"
                                 },
                                 {
-                                    "name": "HipHopa",
-                                    "url": "https://hiphopa.net/"
+                                    "name": "JazznBlues",
+                                    "url": "https://jazznblues.club/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Rap War - Hip Hop / MP3",
+                            "full_text": "Bluegrass Archive - Bluegrass / FLAC",
                             "links": [
                                 {
-                                    "name": "Rap War",
-                                    "url": "https://rap-war-fam.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Dez Flight Underground - Underground Hip Hop",
-                            "links": [
-                                {
-                                    "name": "Dez Flight Underground",
-                                    "url": "https://dezflight-underground.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Certified Mixtapez - Mixtapes / MP3",
-                            "links": [
-                                {
-                                    "name": "⁠Certified Mixtapez",
-                                    "url": "https://www.certifiedmixtapez.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Mixtape Collections - Mixtape Collections",
-                            "links": [
-                                {
-                                    "name": "Mixtape Collections",
-                                    "url": "https://rentry.co/FMHYB64#mixtape-collections"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "The Noise-Arch Archive - Underground Cassette Tapes",
-                            "links": [
-                                {
-                                    "name": "The Noise-Arch Archive",
-                                    "url": "https://archive.org/details/noise-arch"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bootleg Radioclash - Mashups / MP3",
-                            "links": [
-                                {
-                                    "name": "Bootleg Radioclash",
-                                    "url": "https://rentry.co/FMHYB64#bootleg-radioclash"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Tom Lehrer Songs - All Tom Lehrer Songs / Public Domain",
-                            "links": [
-                                {
-                                    "name": "Tom Lehrer Songs",
-                                    "url": "https://tomlehrersongs.com/"
+                                    "name": "Bluegrass Archive",
+                                    "url": "https://rentry.co/FMHYB64#bluegrass-archive"
                                 }
                             ]
                         },
@@ -27941,29 +28147,11 @@
                             ]
                         },
                         {
-                            "full_text": "KPopFLAC - K-Pop / FLAC",
+                            "full_text": "madrotter-treasure-hunt - Indonesian Music",
                             "links": [
                                 {
-                                    "name": "KPopFLAC",
-                                    "url": "https://www.kpopflac.xyz/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KPopMusicDownload - K-Pop / MP3",
-                            "links": [
-                                {
-                                    "name": "KPopMusicDownload",
-                                    "url": "https://kpopdownloadscmm.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "The T-SQUARE Plaza - Japanese / International Jazz Fusion / City Pop / FLAC",
-                            "links": [
-                                {
-                                    "name": "The T-SQUARE Plaza",
-                                    "url": "https://tsquareplaza.blogspot.com/"
+                                    "name": "madrotter-treasure-hunt",
+                                    "url": "https://madrotter-treasure-hunt.blogspot.com/"
                                 }
                             ]
                         },
@@ -27977,11 +28165,38 @@
                             ]
                         },
                         {
-                            "full_text": "Hipstrumentals - Instrumentals / MP3",
+                            "full_text": "Bootleg Radioclash - Mashups / MP3",
                             "links": [
                                 {
-                                    "name": "Hipstrumentals",
-                                    "url": "https://hipstrumentals.com/"
+                                    "name": "Bootleg Radioclash",
+                                    "url": "https://rentry.co/FMHYB64#bootleg-radioclash"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "The Noise-Arch Archive - Underground Cassette Tapes",
+                            "links": [
+                                {
+                                    "name": "The Noise-Arch Archive",
+                                    "url": "https://archive.org/details/noise-arch"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Tom Lehrer Songs - All Tom Lehrer Songs / Public Domain",
+                            "links": [
+                                {
+                                    "name": "Tom Lehrer Songs",
+                                    "url": "https://tomlehrersongs.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Kiddie Records - Classic Children's Records",
+                            "links": [
+                                {
+                                    "name": "Kiddie Records",
+                                    "url": "http://www.kiddierecords.com/"
                                 }
                             ]
                         }
@@ -31558,12 +31773,26 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Acoustic Spectrum Analyzer or ⁠WhatsMyBitrate - Web-Based",
+                            "full_text": "⁠Musigram /",
+                            "links": [
+                                {
+                                    "name": "⁠Musigram",
+                                    "url": "https://musitools.xyz/musigram/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Acoustic Spectrum Analyzer /",
                             "links": [
                                 {
                                     "name": "⁠Acoustic Spectrum Analyzer",
                                     "url": "https://spec.squid.wtf/"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠WhatsMyBitrate /",
+                            "links": [
                                 {
                                     "name": "⁠WhatsMyBitrate",
                                     "url": "https://whatsmybitrate.com/"
@@ -33085,6 +33314,15 @@
                             ]
                         },
                         {
+                            "full_text": "️ Game Download Clients - Launchers with Built-In Downloading & Torrenting",
+                            "links": [
+                                {
+                                    "name": "Game Download Clients",
+                                    "url": "https://fmhy.net/gaming-tools/#game-launchers"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "CS.RIN.RU - Download / Sign-Up / PW: cs.rin.ru / csrin.org /",
                             "links": [
                                 {
@@ -33804,25 +34042,7 @@
                 {
                     "heading": "Special Interest",
                     "level": "h2",
-                    "text_explanations": [
-                        "TheGamingEmporium- Open-Source, Decomps, Ports, Translations & more",
-                        "OSGL,Open Source Games,Awesome Open Source GamesorLibreGameWiki- Open-Source Games",
-                        "Awesome Terminal Games- ASCII Terminal Games",
-                        "Playtester/orAlpha Beta Gamer/- Play Games in Alpha / Beta Testing",
-                        "Necromanthus- 3D Shockwave Games",
-                        "LemmaSoft- Visual Novel Games /",
-                        "⁠Adventure Game Studio- Point-And-Click Games //",
-                        "vgperson- Simple Japanese Games",
-                        "Visual Pinball- Pinball Table Editor / Simulator /Tables",
-                        "DoujinStyle- Doujin Games /",
-                        "MoriyaShrine- Touhou Games / Signup Required",
-                        "Kahvibreak- Java 2 Micro (J2ME) Games /",
-                        "Cemetech- Calculator Games",
-                        "UnorthodoxFun- Games on Unorthodox Platforms",
-                        "⁠Fangame Archive/orDelicious Fruit- I Wanna Be the Guy Fan Game Archives",
-                        "GamesOnPDF- PDF Games",
-                        "Flashtro- Cracker Intros"
-                    ],
+                    "text_explanations": [],
                     "resource_items": [
                         {
                             "full_text": "TheGamingEmporium - Open-Source, Decomps, Ports, Translations & more",
@@ -41235,11 +41455,11 @@
                             "links": [
                                 {
                                     "name": "⁠anko",
-                                    "url": "https://anko.lol/"
+                                    "url": "https://useanko.xyz/"
                                 },
                                 {
                                     "name": "",
-                                    "url": "https://discord.gg/bSJwwBTn4j"
+                                    "url": "https://discord.gg/anko"
                                 }
                             ]
                         },
@@ -47808,27 +48028,31 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "NEPU Audiobooks , 2 , 3 , 4 , 5",
+                            "full_text": "NEPU Audiobooks , 2 , 3 , 4 / Status /",
                             "links": [
                                 {
                                     "name": "NEPU Audiobooks",
-                                    "url": "https://nepu.to/ebooks"
+                                    "url": "https://nepu.io/ebooks"
                                 },
                                 {
                                     "name": "2",
-                                    "url": "https://nepu.is/ebooks"
-                                },
-                                {
-                                    "name": "3",
                                     "url": "https://nepu.net/ebooks"
                                 },
                                 {
-                                    "name": "4",
+                                    "name": "3",
                                     "url": "https://nepu.app/ebooks"
                                 },
                                 {
-                                    "name": "5",
+                                    "name": "4",
                                     "url": "https://nepu.is/ebooks"
+                                },
+                                {
+                                    "name": "Status",
+                                    "url": "https://rar.to/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://discord.gg/nepu"
                                 }
                             ]
                         },
@@ -53363,6 +53587,15 @@
                                 {
                                     "name": "Readow",
                                     "url": "https://readow.ai/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠The Greatest Literature - Book Recommendations / Top Lists",
+                            "links": [
+                                {
+                                    "name": "⁠The Greatest Literature",
+                                    "url": "https://editoreric.com/"
                                 }
                             ]
                         },
@@ -66704,7 +66937,7 @@
                             ]
                         },
                         {
-                            "full_text": "Listudy - Blindfolded Tactics / Openings",
+                            "full_text": "Listudy - Spaced Repetition Tactics / Blind Tactics / Pieceless Tactics",
                             "links": [
                                 {
                                     "name": "Listudy",
@@ -66758,6 +66991,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/ChessMD/ChessMD"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Maia Chess - Human-Like AI Chess Opponent",
+                            "links": [
+                                {
+                                    "name": "⁠Maia Chess",
+                                    "url": "https://www.maiachess.com/"
                                 }
                             ]
                         },
@@ -72168,15 +72410,6 @@
                                 {
                                     "name": "R for Data Science",
                                     "url": "https://r4ds.had.co.nz/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Zero to Nix - Nix Learning Guide",
-                            "links": [
-                                {
-                                    "name": "Zero to Nix",
-                                    "url": "https://zero-to-nix.com/"
                                 }
                             ]
                         },
@@ -82826,7 +83059,7 @@
                             "links": [
                                 {
                                     "name": "JoiPlay",
-                                    "url": "https://joiiplay.com/"
+                                    "url": "https://joiplay.net/"
                                 }
                             ]
                         },
@@ -84929,7 +85162,7 @@
                             ]
                         },
                         {
-                            "full_text": "Nuvio , 2 - Movies / TV / Plugins / Wiki / Guides /",
+                            "full_text": "Nuvio , 2 - Movies / TV / Tools / Plugins / Wiki / Guides /",
                             "links": [
                                 {
                                     "name": "Nuvio",
@@ -84938,6 +85171,10 @@
                                 {
                                     "name": "2",
                                     "url": "https://nuvio.tv/"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video/#stremio-tools"
                                 },
                                 {
                                     "name": "Plugins",
@@ -89153,11 +89390,15 @@
                             ]
                         },
                         {
-                            "full_text": "⁠NuvioMobile iOS / Plugins / Wiki / Guides / / or Stremio - Movies / TV / Anime / Tools",
+                            "full_text": "⁠NuvioMobile iOS / Tools / Plugins / Wiki / Guides / / or Stremio - Movies / TV / Anime / Tools",
                             "links": [
                                 {
                                     "name": "⁠NuvioMobile iOS",
                                     "url": "https://github.com/NuvioMedia/NuvioMobile"
+                                },
+                                {
+                                    "name": "Tools",
+                                    "url": "https://fmhy.net/video/#stremio-tools"
                                 },
                                 {
                                     "name": "Plugins",
@@ -89254,15 +89495,11 @@
                             ]
                         },
                         {
-                            "full_text": "Eclipse - Movies / TV / Anime / Extension-Based / Test Flight /",
+                            "full_text": "Eclipse - Movies / TV / Anime / Extension-Based /",
                             "links": [
                                 {
                                     "name": "Eclipse",
                                     "url": "https://github.com/Soupy-dev/Eclipse"
-                                },
-                                {
-                                    "name": "Test Flight",
-                                    "url": "https://testflight.apple.com/join/FDXvrxVg"
                                 },
                                 {
                                     "name": "",
@@ -89930,6 +90167,15 @@
                                 {
                                     "name": "Linux Roadmap",
                                     "url": "https://roadmap.sh/linux"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Zero to Nix - Nix Learning Guide",
+                            "links": [
+                                {
+                                    "name": "Zero to Nix",
+                                    "url": "https://zero-to-nix.com/"
                                 }
                             ]
                         },
@@ -91602,6 +91848,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "️ Streaming Apps / Torrent Streaming",
+                            "links": [
+                                {
+                                    "name": "Streaming Apps",
+                                    "url": "https://fmhy.net/video/#streaming-apps"
+                                },
+                                {
+                                    "name": "Torrent Streaming",
+                                    "url": "https://fmhy.net/video/#streaming-apps"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "️ Media Servers / Tools",
                             "links": [
                                 {
@@ -91758,58 +92017,6 @@
                                 {
                                     "name": "Linux-Fake-Background-Webcam",
                                     "url": "https://github.com/fangfufu/Linux-Fake-Background-Webcam/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠NuvioLinux - Streaming App / Stremio Support / Nuvio Fork",
-                            "links": [
-                                {
-                                    "name": "⁠NuvioLinux",
-                                    "url": "https://github.com/JJDizz1L/NuvioLinux"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnymeX - Anime Streaming App / Extension Guide / /",
-                            "links": [
-                                {
-                                    "name": "AnymeX",
-                                    "url": "https://anymex.vercel.app/"
-                                },
-                                {
-                                    "name": "Extension Guide",
-                                    "url": "https://wotaku.wiki/guides/ext/mangayomi"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/hDwQ3heJ8V"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/RyanYuuki/AnymeX"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hayase - Anime Torrent Streaming App / Extensions",
-                            "links": [
-                                {
-                                    "name": "Hayase",
-                                    "url": "https://hayase.watch/"
-                                },
-                                {
-                                    "name": "Extensions",
-                                    "url": "https://rentry.co/FMHYB64#hayase"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "ani-cli - Anime Streaming Terminal",
-                            "links": [
-                                {
-                                    "name": "ani-cli",
-                                    "url": "https://github.com/pystardust/ani-cli"
                                 }
                             ]
                         },
@@ -92307,6 +92514,15 @@
                                 {
                                     "name": "NSXIV",
                                     "url": "https://github.com/nsxiv/nsxiv"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Lightroom Classic on Linux - Scripts to run Lightroom Classic on Linux",
+                            "links": [
+                                {
+                                    "name": "Lightroom Classic on Linux",
+                                    "url": "https://github.com/6im0n/lightroom-classic-on-linux"
                                 }
                             ]
                         },
@@ -94167,6 +94383,44 @@
                                     "url": "https://mailinabox.email/"
                                 }
                             ]
+                        },
+                        {
+                            "full_text": "⁠AIOStreams - Multi-Source Addon + Debrid Aggregator /",
+                            "links": [
+                                {
+                                    "name": "⁠AIOStreams",
+                                    "url": "https://docs.aiostreams.viren070.me/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/Viren070/AIOStreams"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠AIOMetadata - Multi-Source Metadata & Catalogs Addon / Public Instances / Configure , 2 / /",
+                            "links": [
+                                {
+                                    "name": "⁠AIOMetadata",
+                                    "url": "https://aiometadata.elfhosted.com/"
+                                },
+                                {
+                                    "name": "Public Instances",
+                                    "url": "https://uptime.ibbylabs.dev/aiometadata"
+                                },
+                                {
+                                    "name": "Configure",
+                                    "url": "https://aiometadata.elfhosted.com/configure/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://aiometadatafortheweak.nhyira.dev/configure/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/cedya77/aiometadata"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -95704,6 +95958,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠Wallpiper - Wallpaper Engine Translation Layer for Linux",
+                            "links": [
+                                {
+                                    "name": "⁠Wallpiper",
+                                    "url": "https://github.com/shdwmtr/wallpiper"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Video Wallpaper or Hidamari - Use Videos as Animated Wallpapers",
                             "links": [
                                 {
@@ -96702,6 +96965,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "️ Streaming Apps / Torrent Streaming",
+                            "links": [
+                                {
+                                    "name": "Streaming Apps",
+                                    "url": "https://fmhy.net/video/#streaming-apps"
+                                },
+                                {
+                                    "name": "Torrent Streaming",
+                                    "url": "https://fmhy.net/video/#streaming-apps"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "️ Media Servers / Tools",
                             "links": [
                                 {
@@ -96725,44 +97001,6 @@
                                 {
                                     "name": "IINA",
                                     "url": "https://iina.io/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Hayase - Anime Torrent Streaming App / Extensions / Wiki",
-                            "links": [
-                                {
-                                    "name": "Hayase",
-                                    "url": "https://hayase.watch/"
-                                },
-                                {
-                                    "name": "Extensions",
-                                    "url": "https://rentry.co/FMHYB64#hayase"
-                                },
-                                {
-                                    "name": "Wiki",
-                                    "url": "https://wiki.hayase.watch/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnymeX - Anime Streaming App / Extension Guide / /",
-                            "links": [
-                                {
-                                    "name": "AnymeX",
-                                    "url": "https://anymex.vercel.app/"
-                                },
-                                {
-                                    "name": "Extension Guide",
-                                    "url": "https://wotaku.wiki/guides/ext/mangayomi"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://discord.gg/hDwQ3heJ8V"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/RyanYuuki/AnymeX"
                                 }
                             ]
                         },
@@ -99055,7 +99293,7 @@
                             ]
                         },
                         {
-                            "full_text": "PlayTorrio , 2 - All Platforms / Use Streaming Mode / / /",
+                            "full_text": "PlayTorrio , 2 - All Platforms / Use PlayTorrioHTTP Plugin / / /",
                             "links": [
                                 {
                                     "name": "PlayTorrio",
@@ -100585,6 +100823,15 @@
                                 {
                                     "name": "AGE Anime",
                                     "url": "https://www.agedm.tv/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠OMOFUN - Anime / Cartoon / Sub / 1080p",
+                            "links": [
+                                {
+                                    "name": "⁠OMOFUN",
+                                    "url": "https://www.omofuns.com/"
                                 }
                             ]
                         },
@@ -102190,6 +102437,24 @@
                     "level": "h3",
                     "text_explanations": [],
                     "resource_items": [
+                        {
+                            "full_text": "OpenFlix - Movies / TV / Anime / Discord Required",
+                            "links": [
+                                {
+                                    "name": "OpenFlix",
+                                    "url": "https://openflix.pro/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Bowd - Movies / TV / Live TV",
+                            "links": [
+                                {
+                                    "name": "⁠Bowd",
+                                    "url": "https://bowdtv.com/"
+                                }
+                            ]
+                        },
                         {
                             "full_text": "yablom , Kordoz or Dotriv - Movies / TV / Anime",
                             "links": [
@@ -108985,6 +109250,28 @@
                             ]
                         },
                         {
+                            "full_text": "AnimeLIB , 2 - Anime / Sub / Dub / 1080p (account required)",
+                            "links": [
+                                {
+                                    "name": "AnimeLIB",
+                                    "url": "https://animelib.org/"
+                                },
+                                {
+                                    "name": "2",
+                                    "url": "https://v3.animelib.org"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "AnimeGO - Anime / Sub / Dub / 1080p",
+                            "links": [
+                                {
+                                    "name": "AnimeGO",
+                                    "url": "https://animego.me/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "HD VideoBox - Movies / TV / Anime / Aggregator / Android App / AMOLED",
                             "links": [
                                 {
@@ -109118,19 +109405,6 @@
                             ]
                         },
                         {
-                            "full_text": "AnimeLIB , 2 - Anime / Sub / Dub / 1080p (account required)",
-                            "links": [
-                                {
-                                    "name": "AnimeLIB",
-                                    "url": "https://animelib.org/"
-                                },
-                                {
-                                    "name": "2",
-                                    "url": "https://v3.animelib.org"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "AniFilm - Anime / Sub / 1080p",
                             "links": [
                                 {
@@ -109162,15 +109436,6 @@
                                 {
                                     "name": "Animestars",
                                     "url": "https://animestars.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "AnimeGO - Anime / Sub / Dub / 1080p",
-                            "links": [
-                                {
-                                    "name": "AnimeGO",
-                                    "url": "https://animego.me/"
                                 }
                             ]
                         },
@@ -115370,6 +115635,15 @@
                                 {
                                     "name": "Hari Recipes",
                                     "url": "https://hari.recipes/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Delicious Recipes - Recipe Search",
+                            "links": [
+                                {
+                                    "name": "⁠Delicious Recipes",
+                                    "url": "https://www.gzrecipes.com/en/"
                                 }
                             ]
                         },
@@ -130533,6 +130807,19 @@
                                 {
                                     "name": "Scattergories",
                                     "url": "https://swellgarfo.com/scattergories"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Jerma Sites or Jerma - Jerma Resources / Content Sites",
+                            "links": [
+                                {
+                                    "name": "⁠Jerma Sites",
+                                    "url": "https://jerma.io/"
+                                },
+                                {
+                                    "name": "Jerma",
+                                    "url": "https://www.jerma.org/"
                                 }
                             ]
                         },
@@ -153496,11 +153783,15 @@
                             ]
                         },
                         {
-                            "full_text": "Twitch Drops Miner - Auto Claim Twitch Drops",
+                            "full_text": "Twitch Drops Miner Twitch Drops Miner (Fork) - Auto Claim Twitch Drops",
                             "links": [
                                 {
                                     "name": "Twitch Drops Miner",
                                     "url": "https://github.com/DevilXD/TwitchDropsMiner"
+                                },
+                                {
+                                    "name": "Twitch Drops Miner (Fork)",
+                                    "url": "https://github.com/SimpliAj/twitchdropsminer"
                                 }
                             ]
                         },
@@ -154606,6 +154897,19 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
+                            "full_text": "⁠TikTrack - TikToks Insight Tools /",
+                            "links": [
+                                {
+                                    "name": "⁠TikTrack",
+                                    "url": "https://einzzcookie.org/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://t.me/tiktracksite"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Urlebird - TikTok Frontend / Viewer",
                             "links": [
                                 {
@@ -154650,19 +154954,6 @@
                                 {
                                     "name": "tiktok-to-ytdlp",
                                     "url": "https://github.com/Dinoosauro/tiktok-to-ytdlp"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠TikTrack - TikToks Insight Tools /",
-                            "links": [
-                                {
-                                    "name": "⁠TikTrack",
-                                    "url": "https://einzzcookie.org/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://t.me/tiktracksite"
                                 }
                             ]
                         },
@@ -157826,10 +158117,10 @@
                             ]
                         },
                         {
-                            "full_text": "AnyType - Note-Taking / E2EE / All Platforms / /",
+                            "full_text": "Anytype - Note-Taking / E2EE / All Platforms / /",
                             "links": [
                                 {
-                                    "name": "AnyType",
+                                    "name": "Anytype",
                                     "url": "https://anytype.io/"
                                 },
                                 {
@@ -162295,7 +162586,10 @@
                 {
                     "heading": "Game Launchers",
                     "level": "h3",
-                    "text_explanations": [],
+                    "text_explanations": [
+                        "TIP",
+                        "Many of these launchers also allow you to download or torrent games directly within them."
+                    ],
                     "resource_items": [
                         {
                             "full_text": "Playnite - Game Library / Launcher / Extensions , 2 / / / /",
@@ -162327,7 +162621,7 @@
                             ]
                         },
                         {
-                            "full_text": "Hydra - Game Launcher / Torrent Client / Achievement Support / Plugins / Themes / / /",
+                            "full_text": "Hydra - Game Launcher / Downloader / Torrent Client / Achievement Support / Plugins / Themes / / /",
                             "links": [
                                 {
                                     "name": "Hydra",
@@ -162399,7 +162693,7 @@
                             ]
                         },
                         {
-                            "full_text": "Fit Launcher - Unofficial Game Launcher / Torrent Client / /",
+                            "full_text": "Fit Launcher - Unofficial Game Launcher / Torrent Client / Downloader / /",
                             "links": [
                                 {
                                     "name": "Fit Launcher",
@@ -170329,6 +170623,23 @@
                             ]
                         },
                         {
+                            "full_text": "BDStudio , ⁠BDEngine or ⁠Bedrock Editor - 3D Editors",
+                            "links": [
+                                {
+                                    "name": "BDStudio",
+                                    "url": "https://eszesbalint.github.io/bdstudio/editor"
+                                },
+                                {
+                                    "name": "⁠BDEngine",
+                                    "url": "https://bdengine.app/"
+                                },
+                                {
+                                    "name": "⁠Bedrock Editor",
+                                    "url": "https://github.com/Mojang/minecraft-editor"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Mine-imator - Animation Tool / 2.0 Version / Forum / /",
                             "links": [
                                 {
@@ -170376,19 +170687,6 @@
                                 {
                                     "name": "⁠Minecraft Generator",
                                     "url": "https://minecraftgenerator.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "BDStudio or ⁠Bedrock Editor - 3D Editors",
-                            "links": [
-                                {
-                                    "name": "BDStudio",
-                                    "url": "https://eszesbalint.github.io/bdstudio/editor"
-                                },
-                                {
-                                    "name": "⁠Bedrock Editor",
-                                    "url": "https://github.com/Mojang/minecraft-editor"
                                 }
                             ]
                         },
@@ -182088,7 +182386,7 @@
                             ]
                         },
                         {
-                            "full_text": "⁠DaVinci Resolve / , darktable / , ⁠RapidRAW / / , RawTherapee / or ⁠LightZone - RAW Photo Editors /",
+                            "full_text": "⁠DaVinci Resolve / , darktable / , ⁠RapidRAW / / , RawTherapee / , ⁠LightZone or Lightroom Classic on Linux - RAW Photo Editors /",
                             "links": [
                                 {
                                     "name": "⁠DaVinci Resolve",
@@ -182129,6 +182427,10 @@
                                 {
                                     "name": "⁠LightZone",
                                     "url": "https://github.com/ktgw0316/LightZone"
+                                },
+                                {
+                                    "name": "Lightroom Classic on Linux",
+                                    "url": "https://github.com/6im0n/lightroom-classic-on-linux"
                                 }
                             ]
                         },
@@ -191122,6 +191424,15 @@
                             ]
                         },
                         {
+                            "full_text": "⁠AudioFetcher - YouTube / 320kb MP3",
+                            "links": [
+                                {
+                                    "name": "⁠AudioFetcher",
+                                    "url": "https://audiofetcher.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Spotisaver - YouTube / 320kb MP3",
                             "links": [
                                 {
@@ -192014,105 +192325,91 @@
                     "text_explanations": [],
                     "resource_items": [
                         {
-                            "full_text": "Take Metal - Metal / MP3",
+                            "full_text": "HQ Hip Hop or GoldHipHop - Hip Hop / MP3 / FLAC",
                             "links": [
                                 {
-                                    "name": "Take Metal",
-                                    "url": "https://takemetal.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Metalminos - Metal / MP3",
-                            "links": [
-                                {
-                                    "name": "Metalminos",
-                                    "url": "https://metalminos.net/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "In The Fog - Metal / MP3",
-                            "links": [
-                                {
-                                    "name": "In The Fog",
-                                    "url": "https://in-the-fog.ru/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "TechnicalDeathMetal - Metal / MP3",
-                            "links": [
-                                {
-                                    "name": "TechnicalDeathMetal",
-                                    "url": "https://technicaldeathmetal.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "HeavyMetalRarities - Metal / MP3",
-                            "links": [
-                                {
-                                    "name": "HeavyMetalRarities",
-                                    "url": "https://heavymetalrarities.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "GetMetal Club - Metal / MP3 / FLAC",
-                            "links": [
-                                {
-                                    "name": "GetMetal Club",
-                                    "url": "https://getmetal.club/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Nuclear Holocaust - Metal / FLAC",
-                            "links": [
-                                {
-                                    "name": "Nuclear Holocaust",
-                                    "url": "https://nuclear-holocaust.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "We Need Match - Metal / FLAC / M4A",
-                            "links": [
-                                {
-                                    "name": "We Need Match",
-                                    "url": "https://we-need-match.ru/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "F.P.F.T.P. - Punk / MP3 / Use Translator",
-                            "links": [
-                                {
-                                    "name": "F.P.F.T.P.",
-                                    "url": "https://fpftp.blogspot.com/"
+                                    "name": "HQ Hip Hop",
+                                    "url": "https://94hiphop.com/"
                                 },
                                 {
-                                    "name": "Translator",
-                                    "url": "https://fmhy.net/text-tools/#translators"
+                                    "name": "GoldHipHop",
+                                    "url": "https://goldhiphop.pro/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Sophie's Floorboard - Hardcore / MP3",
+                            "full_text": "Rapload or HipHopa - Hip Hop / MP3",
                             "links": [
                                 {
-                                    "name": "Sophie's Floorboard",
-                                    "url": "https://sophiesfloorboard.blogspot.com/"
+                                    "name": "Rapload",
+                                    "url": "https://rapload.org/"
+                                },
+                                {
+                                    "name": "HipHopa",
+                                    "url": "https://hiphopa.net/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Lost Songs - Hardcore / MP3",
+                            "full_text": "Rap War - Hip Hop / MP3",
                             "links": [
                                 {
-                                    "name": "Lost Songs",
-                                    "url": "https://lostsongshc.blogspot.com/"
+                                    "name": "Rap War",
+                                    "url": "https://rap-war-fam.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Dez Flight Underground - Underground Hip Hop",
+                            "links": [
+                                {
+                                    "name": "Dez Flight Underground",
+                                    "url": "https://dezflight-underground.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Certified Mixtapez - Mixtapes / MP3",
+                            "links": [
+                                {
+                                    "name": "⁠Certified Mixtapez",
+                                    "url": "https://www.certifiedmixtapez.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Mixtape Collections - Mixtape Collections",
+                            "links": [
+                                {
+                                    "name": "Mixtape Collections",
+                                    "url": "https://rentry.co/FMHYB64#mixtape-collections"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Hipstrumentals - Instrumentals / MP3",
+                            "links": [
+                                {
+                                    "name": "Hipstrumentals",
+                                    "url": "https://hipstrumentals.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Ektoplazm - Electronic / MP3 / FLAC",
+                            "links": [
+                                {
+                                    "name": "Ektoplazm",
+                                    "url": "https://ektoplazm.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KTI Music - Electronic / MP3 / FLAC",
+                            "links": [
+                                {
+                                    "name": "KTI Music",
+                                    "url": "https://ktimusic.blogspot.com/"
                                 }
                             ]
                         },
@@ -192189,24 +192486,6 @@
                             ]
                         },
                         {
-                            "full_text": "Ektoplazm - Electronic / MP3 / FLAC",
-                            "links": [
-                                {
-                                    "name": "Ektoplazm",
-                                    "url": "https://ektoplazm.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KTI Music - Electronic / MP3 / FLAC",
-                            "links": [
-                                {
-                                    "name": "KTI Music",
-                                    "url": "https://ktimusic.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "r/xTrill - Electronic / Backup",
                             "links": [
                                 {
@@ -192216,6 +192495,15 @@
                                 {
                                     "name": "Backup",
                                     "url": "https://reddit.com/r/xTrillBackup"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "EssentialHouse - House / MP3",
+                            "links": [
+                                {
+                                    "name": "EssentialHouse",
+                                    "url": "https://essentialhouse.club/"
                                 }
                             ]
                         },
@@ -192278,55 +192566,74 @@
                             ]
                         },
                         {
-                            "full_text": "inconstant sol , David W. Niven Collection or JazznBlues - Jazz / MP3",
+                            "full_text": "GetMetal Club - Metal / MP3 / FLAC",
                             "links": [
                                 {
-                                    "name": "inconstant sol",
-                                    "url": "https://inconstantsol.blogspot.com/"
-                                },
-                                {
-                                    "name": "David W. Niven Collection",
-                                    "url": "https://archive.org/details/davidwnivenjazz"
-                                },
-                                {
-                                    "name": "JazznBlues",
-                                    "url": "https://jazznblues.club/"
+                                    "name": "GetMetal Club",
+                                    "url": "https://getmetal.club/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "EssentialHouse - House / MP3",
+                            "full_text": "Nuclear Holocaust - Metal / FLAC",
                             "links": [
                                 {
-                                    "name": "EssentialHouse",
-                                    "url": "https://essentialhouse.club/"
+                                    "name": "Nuclear Holocaust",
+                                    "url": "https://nuclear-holocaust.blogspot.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Bluegrass Archive - Bluegrass / FLAC",
+                            "full_text": "We Need Match - Metal / FLAC / M4A",
                             "links": [
                                 {
-                                    "name": "Bluegrass Archive",
-                                    "url": "https://rentry.co/FMHYB64#bluegrass-archive"
+                                    "name": "We Need Match",
+                                    "url": "https://we-need-match.ru/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "BurningTheGround - 80s / 90s / FLAC",
+                            "full_text": "Take Metal - Metal / MP3",
                             "links": [
                                 {
-                                    "name": "BurningTheGround",
-                                    "url": "https://burningtheground.net/"
+                                    "name": "Take Metal",
+                                    "url": "https://takemetal.org/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "aboutdisco - Disco / MP3",
+                            "full_text": "Metalminos - Metal / MP3",
                             "links": [
                                 {
-                                    "name": "aboutdisco",
-                                    "url": "https://aboutdiscowithlove.blogspot.com/"
+                                    "name": "Metalminos",
+                                    "url": "https://metalminos.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "In The Fog - Metal / MP3",
+                            "links": [
+                                {
+                                    "name": "In The Fog",
+                                    "url": "https://in-the-fog.ru/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TechnicalDeathMetal - Metal / MP3",
+                            "links": [
+                                {
+                                    "name": "TechnicalDeathMetal",
+                                    "url": "https://technicaldeathmetal.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "HeavyMetalRarities - Metal / MP3",
+                            "links": [
+                                {
+                                    "name": "HeavyMetalRarities",
+                                    "url": "https://heavymetalrarities.com/"
                                 }
                             ]
                         },
@@ -192340,11 +192647,87 @@
                             ]
                         },
                         {
+                            "full_text": "F.P.F.T.P. - Punk / MP3 / Use Translator",
+                            "links": [
+                                {
+                                    "name": "F.P.F.T.P.",
+                                    "url": "https://fpftp.blogspot.com/"
+                                },
+                                {
+                                    "name": "Translator",
+                                    "url": "https://fmhy.net/text-tools/#translators"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Sophie's Floorboard - Hardcore / MP3",
+                            "links": [
+                                {
+                                    "name": "Sophie's Floorboard",
+                                    "url": "https://sophiesfloorboard.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Lost Songs - Hardcore / MP3",
+                            "links": [
+                                {
+                                    "name": "Lost Songs",
+                                    "url": "https://lostsongshc.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "BurningTheGround - 80s / 90s / FLAC",
+                            "links": [
+                                {
+                                    "name": "BurningTheGround",
+                                    "url": "https://burningtheground.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KPopFLAC - K-Pop / FLAC",
+                            "links": [
+                                {
+                                    "name": "KPopFLAC",
+                                    "url": "https://www.kpopflac.xyz/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "KPopMusicDownload - K-Pop / MP3",
+                            "links": [
+                                {
+                                    "name": "KPopMusicDownload",
+                                    "url": "https://kpopdownloadscmm.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "aboutdisco - Disco / MP3",
+                            "links": [
+                                {
+                                    "name": "aboutdisco",
+                                    "url": "https://aboutdiscowithlove.blogspot.com/"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Classical Music Download - Classical / FLAC",
                             "links": [
                                 {
                                     "name": "Classical Music Download",
                                     "url": "https://classical-music-download.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "FlatblackAndClassical - Classic Indian Music / FLAC",
+                            "links": [
+                                {
+                                    "name": "FlatblackAndClassical",
+                                    "url": "https://www.flatblackandclassical.com/"
                                 }
                             ]
                         },
@@ -192371,118 +192754,37 @@
                             ]
                         },
                         {
-                            "full_text": "FlatblackAndClassical - Classic Indian Music / FLAC",
+                            "full_text": "The T-SQUARE Plaza - Japanese / International Jazz Fusion / City Pop / FLAC",
                             "links": [
                                 {
-                                    "name": "FlatblackAndClassical",
-                                    "url": "https://www.flatblackandclassical.com/"
+                                    "name": "The T-SQUARE Plaza",
+                                    "url": "https://tsquareplaza.blogspot.com/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "madrotter-treasure-hunt - Indonesian Music",
+                            "full_text": "inconstant sol , David W. Niven Collection or JazznBlues - Jazz / MP3",
                             "links": [
                                 {
-                                    "name": "madrotter-treasure-hunt",
-                                    "url": "https://madrotter-treasure-hunt.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Kiddie Records - Classic Children's Records",
-                            "links": [
-                                {
-                                    "name": "Kiddie Records",
-                                    "url": "http://www.kiddierecords.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "HQ Hip Hop or GoldHipHop - Hip Hop / MP3 / FLAC",
-                            "links": [
-                                {
-                                    "name": "HQ Hip Hop",
-                                    "url": "https://94hiphop.com/"
+                                    "name": "inconstant sol",
+                                    "url": "https://inconstantsol.blogspot.com/"
                                 },
                                 {
-                                    "name": "GoldHipHop",
-                                    "url": "https://goldhiphop.pro/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Rapload or HipHopa - Hip Hop / MP3",
-                            "links": [
-                                {
-                                    "name": "Rapload",
-                                    "url": "https://rapload.org/"
+                                    "name": "David W. Niven Collection",
+                                    "url": "https://archive.org/details/davidwnivenjazz"
                                 },
                                 {
-                                    "name": "HipHopa",
-                                    "url": "https://hiphopa.net/"
+                                    "name": "JazznBlues",
+                                    "url": "https://jazznblues.club/"
                                 }
                             ]
                         },
                         {
-                            "full_text": "Rap War - Hip Hop / MP3",
+                            "full_text": "Bluegrass Archive - Bluegrass / FLAC",
                             "links": [
                                 {
-                                    "name": "Rap War",
-                                    "url": "https://rap-war-fam.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Dez Flight Underground - Underground Hip Hop",
-                            "links": [
-                                {
-                                    "name": "Dez Flight Underground",
-                                    "url": "https://dezflight-underground.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "⁠Certified Mixtapez - Mixtapes / MP3",
-                            "links": [
-                                {
-                                    "name": "⁠Certified Mixtapez",
-                                    "url": "https://www.certifiedmixtapez.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Mixtape Collections - Mixtape Collections",
-                            "links": [
-                                {
-                                    "name": "Mixtape Collections",
-                                    "url": "https://rentry.co/FMHYB64#mixtape-collections"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "The Noise-Arch Archive - Underground Cassette Tapes",
-                            "links": [
-                                {
-                                    "name": "The Noise-Arch Archive",
-                                    "url": "https://archive.org/details/noise-arch"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Bootleg Radioclash - Mashups / MP3",
-                            "links": [
-                                {
-                                    "name": "Bootleg Radioclash",
-                                    "url": "https://rentry.co/FMHYB64#bootleg-radioclash"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "Tom Lehrer Songs - All Tom Lehrer Songs / Public Domain",
-                            "links": [
-                                {
-                                    "name": "Tom Lehrer Songs",
-                                    "url": "https://tomlehrersongs.com/"
+                                    "name": "Bluegrass Archive",
+                                    "url": "https://rentry.co/FMHYB64#bluegrass-archive"
                                 }
                             ]
                         },
@@ -192496,29 +192798,11 @@
                             ]
                         },
                         {
-                            "full_text": "KPopFLAC - K-Pop / FLAC",
+                            "full_text": "madrotter-treasure-hunt - Indonesian Music",
                             "links": [
                                 {
-                                    "name": "KPopFLAC",
-                                    "url": "https://www.kpopflac.xyz/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "KPopMusicDownload - K-Pop / MP3",
-                            "links": [
-                                {
-                                    "name": "KPopMusicDownload",
-                                    "url": "https://kpopdownloadscmm.blogspot.com/"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "The T-SQUARE Plaza - Japanese / International Jazz Fusion / City Pop / FLAC",
-                            "links": [
-                                {
-                                    "name": "The T-SQUARE Plaza",
-                                    "url": "https://tsquareplaza.blogspot.com/"
+                                    "name": "madrotter-treasure-hunt",
+                                    "url": "https://madrotter-treasure-hunt.blogspot.com/"
                                 }
                             ]
                         },
@@ -192532,11 +192816,38 @@
                             ]
                         },
                         {
-                            "full_text": "Hipstrumentals - Instrumentals / MP3",
+                            "full_text": "Bootleg Radioclash - Mashups / MP3",
                             "links": [
                                 {
-                                    "name": "Hipstrumentals",
-                                    "url": "https://hipstrumentals.com/"
+                                    "name": "Bootleg Radioclash",
+                                    "url": "https://rentry.co/FMHYB64#bootleg-radioclash"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "The Noise-Arch Archive - Underground Cassette Tapes",
+                            "links": [
+                                {
+                                    "name": "The Noise-Arch Archive",
+                                    "url": "https://archive.org/details/noise-arch"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Tom Lehrer Songs - All Tom Lehrer Songs / Public Domain",
+                            "links": [
+                                {
+                                    "name": "Tom Lehrer Songs",
+                                    "url": "https://tomlehrersongs.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "Kiddie Records - Classic Children's Records",
+                            "links": [
+                                {
+                                    "name": "Kiddie Records",
+                                    "url": "http://www.kiddierecords.com/"
                                 }
                             ]
                         }
@@ -196113,12 +196424,26 @@
                             ]
                         },
                         {
-                            "full_text": "⁠Acoustic Spectrum Analyzer or ⁠WhatsMyBitrate - Web-Based",
+                            "full_text": "⁠Musigram /",
+                            "links": [
+                                {
+                                    "name": "⁠Musigram",
+                                    "url": "https://musitools.xyz/musigram/"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Acoustic Spectrum Analyzer /",
                             "links": [
                                 {
                                     "name": "⁠Acoustic Spectrum Analyzer",
                                     "url": "https://spec.squid.wtf/"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠WhatsMyBitrate /",
+                            "links": [
                                 {
                                     "name": "⁠WhatsMyBitrate",
                                     "url": "https://whatsmybitrate.com/"
@@ -207097,7 +207422,7 @@
                             ]
                         },
                         {
-                            "full_text": "Listudy - Blindfolded Tactics / Openings",
+                            "full_text": "Listudy - Spaced Repetition Tactics / Blind Tactics / Pieceless Tactics",
                             "links": [
                                 {
                                     "name": "Listudy",
@@ -207151,6 +207476,15 @@
                                 {
                                     "name": "",
                                     "url": "https://github.com/ChessMD/ChessMD"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "⁠Maia Chess - Human-Like AI Chess Opponent",
+                            "links": [
+                                {
+                                    "name": "⁠Maia Chess",
+                                    "url": "https://www.maiachess.com/"
                                 }
                             ]
                         },
@@ -212565,15 +212899,6 @@
                             ]
                         },
                         {
-                            "full_text": "Zero to Nix - Nix Learning Guide",
-                            "links": [
-                                {
-                                    "name": "Zero to Nix",
-                                    "url": "https://zero-to-nix.com/"
-                                }
-                            ]
-                        },
-                        {
                             "full_text": "ggplot2: Elegant Graphics for Data Analysis - ggplot2 Guide",
                             "links": [
                                 {
@@ -216937,10 +217262,10 @@
                             ]
                         },
                         {
-                            "full_text": "Every-programmer-should-know or bookmarks - Software Development Tools",
+                            "full_text": "Every Programmer Should Know or bookmarks - Software Development Tools",
                             "links": [
                                 {
-                                    "name": "Every-programmer-should-know",
+                                    "name": "Every Programmer Should Know",
                                     "url": "https://github.com/mtdvio/every-programmer-should-know"
                                 },
                                 {
@@ -217520,7 +217845,7 @@
                             ]
                         },
                         {
-                            "full_text": "Forge Comparison , Forgejo or Forgeperf.org - Git Collab Tool Comparison",
+                            "full_text": "Forge Comparison or Forgejo - Git Collab Tool Comparison",
                             "links": [
                                 {
                                     "name": "Forge Comparison",
@@ -217529,10 +217854,6 @@
                                 {
                                     "name": "Forgejo",
                                     "url": "https://forgejo.org/compare/#only-develops-free-software"
-                                },
-                                {
-                                    "name": "Forgeperf.org",
-                                    "url": "https://forgeperf.org/"
                                 }
                             ]
                         },
@@ -219621,6 +219942,23 @@
                             ]
                         },
                         {
+                            "full_text": "zed - Code Editor / Themes / /",
+                            "links": [
+                                {
+                                    "name": "zed",
+                                    "url": "https://zed.dev/"
+                                },
+                                {
+                                    "name": "Themes",
+                                    "url": "https://zed-themes.com/"
+                                },
+                                {
+                                    "name": "",
+                                    "url": "https://github.com/zed-industries/zed"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "JetBrains - Professional IDEs / Features /",
                             "links": [
                                 {
@@ -219643,23 +219981,6 @@
                                 {
                                     "name": "Matrix",
                                     "url": "https://matrix.to/#/#neovim:matrix.org"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "zed - Code Editor / Themes / /",
-                            "links": [
-                                {
-                                    "name": "zed",
-                                    "url": "https://zed.dev/"
-                                },
-                                {
-                                    "name": "Themes",
-                                    "url": "https://zed-themes.com/"
-                                },
-                                {
-                                    "name": "",
-                                    "url": "https://github.com/zed-industries/zed"
                                 }
                             ]
                         },
@@ -226244,7 +226565,7 @@
                             ]
                         },
                         {
-                            "full_text": "Uptime Kuma , Checkmate , ⁠Gatus / , UptimeRobot , AreWeDown? or StatPing - Uptime Monitors",
+                            "full_text": "Uptime Kuma , Checkmate , ⁠Gatus / or UptimeRobot - Uptime Monitors",
                             "links": [
                                 {
                                     "name": "Uptime Kuma",
@@ -226265,14 +226586,6 @@
                                 {
                                     "name": "UptimeRobot",
                                     "url": "https://uptimerobot.com/"
-                                },
-                                {
-                                    "name": "AreWeDown?",
-                                    "url": "https://github.com/shukriadams/arewedown"
-                                },
-                                {
-                                    "name": "StatPing",
-                                    "url": "https://github.com/statping/statping"
                                 }
                             ]
                         },
@@ -228743,6 +229056,33 @@
                     ],
                     "resource_items": [
                         {
+                            "full_text": "SlideShareSaver (Removed in 08b1880 )",
+                            "links": [
+                                {
+                                    "name": "08b1880",
+                                    "url": "https://github.com/fmhy/edit/commit/08b188082895d4909f9e2be3c26a96c2aa427624#diff-1e47e7218df597c79a882aa1c109e42c332234bd8c92e1c493a788f8f64bb328L357"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "TVSeries - TV / Anime (Removed in 08b1880 )",
+                            "links": [
+                                {
+                                    "name": "08b1880",
+                                    "url": "https://github.com/fmhy/edit/commit/08b188082895d4909f9e2be3c26a96c2aa427624#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL815"
+                                }
+                            ]
+                        },
+                        {
+                            "full_text": "CineBolt TV - TV / Sports (Removed in 468c8cb )",
+                            "links": [
+                                {
+                                    "name": "468c8cb",
+                                    "url": "https://github.com/fmhy/edit/commit/468c8cbfd5cf726fc645379caa197112a3326de7#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL514"
+                                }
+                            ]
+                        },
+                        {
                             "full_text": "Akira Box, 2 - 20GB Free / 30 Days After Last Download / Use uBlock (Removed in cc6356a )",
                             "links": [
                                 {
@@ -230390,15 +230730,6 @@
                                 {
                                     "name": "34da197",
                                     "url": "https://github.com/fmhy/edit/commit/34da197684ef841a12719bd288fa38f0b354612f#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL581"
-                                }
-                            ]
-                        },
-                        {
-                            "full_text": "kinozal - Movies (Removed in b44ce00 )",
-                            "links": [
-                                {
-                                    "name": "b44ce00",
-                                    "url": "https://github.com/fmhy/edit/commit/b44ce00d9d90cca6b38cd2ca4c342495fad335cf#diff-6eea4919f81ab0504b7334ce05d6ae08bf3fb4332847bb15871e37b4b05bcf03L1312"
                                 }
                             ]
                         }
@@ -232372,14 +232703,6 @@
                     "resource_items": []
                 },
                 {
-                    "heading": "Slideshare Downloaders",
-                    "level": "h3",
-                    "text_explanations": [
-                        "SlideShareSaver"
-                    ],
-                    "resource_items": []
-                },
-                {
                     "heading": "Proxy Lists",
                     "level": "h2",
                     "text_explanations": [
@@ -232401,7 +232724,7 @@
                     "heading": "Self-Hosted Wiki Alts",
                     "level": "h2",
                     "text_explanations": [
-                        "WikiDocs/GitHub,Media Wiki/GitHub,xWiki,DokuWiki/GitHub,Archivy,Miraheze,wikmd,Fandom"
+                        "WikiDocs/GitHub,Media Wiki/GitHub,xWiki,DokuWiki/GitHub,Miraheze,wikmd,Fandom"
                     ],
                     "resource_items": []
                 },
@@ -232546,7 +232869,7 @@
                     "heading": "SMS Verification Sites",
                     "level": "h2",
                     "text_explanations": [
-                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,7sim,yunjiema,shownumber,yunduanxin,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠TempSMSOnline,SMSReceiveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠Receive SMS Free,⁠TempBoxPro,gettempnumber,ZUSMS,PVAcodes,Anosim"
+                        "TemporaryNumber,TextNow,GetFreeSMSNUmber,Smser,Receive SMS Online,My Trash Mobile,temp-sms,temporary-phone-number,storytrain,Temp Number,receive-smss,receive-sms-free,quackr,smsnator,InboxSMS,anonymsms,receivesmsonline,jiemadi,7sim,yunjiema,yunduanxin,free-sms-receive,receivefreesms,smspinverify,receivefreesms.net,smspool,receive-smss,⁠eSIM Plus,receivesms,PVAPins,⁠OnlineSim,⁠ReceiveSMSFast,Receive-SMS,⁠Verify SMS,⁠TempSMSOnline,SMSReceiveFree,⁠Sanalonay,⁠Text Verification,⁠Online Sim,⁠FreePhone,⁠FreeReceiveSMS,⁠TempBoxPro,gettempnumber,ZUSMS,PVAcodes,Anosim"
                     ],
                     "resource_items": [
                         {

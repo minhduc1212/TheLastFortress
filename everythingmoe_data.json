@@ -297,7 +297,8 @@
           "tags": [
             "Hard-sub",
             "Self-host",
-            "Modern interface"
+            "Modern interface",
+            "ISSUE"
           ],
           "rank": 6,
           "is_licensed": false,
@@ -11210,6 +11211,24 @@
           }
         },
         {
+          "id": "manhuaus",
+          "title": "Manhuaus",
+          "link": "https://manhuaus.club/",
+          "icon": "https://static.everythingmoe.com/icons/manhuaus.png",
+          "tags": [],
+          "rank": 63,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "manhwa",
+          "details": {
+            "negatives": [
+              "Very small library"
+            ]
+          }
+        },
+        {
           "id": "mangack",
           "title": "mangack",
           "link": "https://mangack.com/home/",
@@ -11217,7 +11236,7 @@
           "tags": [
             "Mostly Scans"
           ],
-          "rank": 63,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -11237,7 +11256,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 64,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -11258,7 +11277,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 65,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -11278,7 +11297,7 @@
           "tags": [
             "mtl"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -37349,7 +37368,8 @@
       "tags": [
         "Hard-sub",
         "Self-host",
-        "Modern interface"
+        "Modern interface",
+        "ISSUE"
       ],
       "is_licensed": false,
       "is_nsfw": false,
@@ -48214,6 +48234,24 @@
       ],
       "details": {
         "info": "note: no review yet"
+      }
+    },
+    "manhuaus": {
+      "id": "manhuaus",
+      "title": "Manhuaus",
+      "link": "https://manhuaus.club/",
+      "icon": "https://static.everythingmoe.com/icons/manhuaus.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "manhwa"
+      ],
+      "details": {
+        "negatives": [
+          "Very small library"
+        ]
       }
     },
     "mangack": {
