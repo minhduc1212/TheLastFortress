@@ -22437,7 +22437,7 @@
         {
           "id": "hydrahd",
           "title": "HydraHD",
-          "link": "https://hydrahd.ru/",
+          "link": "https://hydrahd.ws/",
           "icon": "https://static.everythingmoe.com/icons/hydrahd.png",
           "tags": [
             "WESTERN"
@@ -22454,6 +22454,14 @@
               {
                 "name": ".com",
                 "url": "https://hydrahd.com/"
+              },
+              {
+                "name": ".ru",
+                "url": "https://hydrahd.ru/"
+              },
+              {
+                "name": ".me",
+                "url": "https://hydrahd.me/"
               }
             ]
           }
@@ -59382,7 +59390,7 @@
     "hydrahd": {
       "id": "hydrahd",
       "title": "HydraHD",
-      "link": "https://hydrahd.ru/",
+      "link": "https://hydrahd.ws/",
       "icon": "https://static.everythingmoe.com/icons/hydrahd.png",
       "tags": [
         "WESTERN"
@@ -59399,6 +59407,14 @@
           {
             "name": ".com",
             "url": "https://hydrahd.com/"
+          },
+          {
+            "name": ".ru",
+            "url": "https://hydrahd.ru/"
+          },
+          {
+            "name": ".me",
+            "url": "https://hydrahd.me/"
           }
         ]
       }
