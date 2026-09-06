@@ -1099,46 +1099,6 @@
           }
         },
         {
-          "id": "anikuro",
-          "title": "Anikuro",
-          "link": "https://anikuro.ru/",
-          "icon": "https://static.everythingmoe.com/icons/anikuro.png",
-          "tags": [
-            "Scraper",
-            "Self-host",
-            "Hard-sub",
-            "Soft-sub",
-            "Modern interface",
-            "mult"
-          ],
-          "rank": 23,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources options",
-              "Self-host option available on some anime"
-            ],
-            "negatives": [
-              "Most content depends on the websites it scrapes"
-            ],
-            "altlinks": [
-              {
-                "name": ".to",
-                "url": "https://anikuro.to/"
-              },
-              {
-                "name": "mirrors",
-                "url": "https://anikuro.site/"
-              }
-            ],
-            "note": "Decent features"
-          }
-        },
-        {
           "id": "anicore",
           "title": "Anikage",
           "link": "https://anikage.cc/home",
@@ -1150,7 +1110,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 24,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1185,7 +1145,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 25,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1221,7 +1181,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 26,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1250,7 +1210,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 27,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1274,7 +1234,7 @@
           "tags": [
             "mult"
           ],
-          "rank": 28,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1302,7 +1262,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 29,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1332,7 +1292,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 30,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1360,7 +1320,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 31,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1397,7 +1357,7 @@
             "Soft-sub",
             "Easy download"
           ],
-          "rank": 32,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1445,7 +1405,7 @@
             "Soft-sub",
             "Easy download"
           ],
-          "rank": 33,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1475,7 +1435,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 34,
+          "rank": 33,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -1503,7 +1463,7 @@
             "Scraper",
             "Soft-sub"
           ],
-          "rank": 35,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1531,7 +1491,7 @@
             "Self-host",
             "Soft-sub"
           ],
-          "rank": 36,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1558,7 +1518,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 37,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1585,7 +1545,7 @@
             "Simple interface",
             "Hard-sub"
           ],
-          "rank": 38,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1617,7 +1577,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 39,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1659,7 +1619,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 40,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1694,7 +1654,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 41,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1728,7 +1688,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 42,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1761,7 +1721,7 @@
             "Hard-sub",
             "Easy download"
           ],
-          "rank": 43,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1790,7 +1750,7 @@
             "Dub friendly",
             "Hard-sub"
           ],
-          "rank": 44,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1856,7 +1816,7 @@
             "Third party",
             "Hard-sub"
           ],
-          "rank": 45,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1887,7 +1847,7 @@
             "Easy download",
             "Hard-sub"
           ],
-          "rank": 46,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1917,7 +1877,7 @@
             "Hard-sub",
             "login"
           ],
-          "rank": 47,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -1962,7 +1922,7 @@
             "Easy download",
             "Soft-sub"
           ],
-          "rank": 48,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2001,7 +1961,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 49,
+          "rank": 48,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2029,7 +1989,7 @@
             "Soft-sub",
             "Hard-sub"
           ],
-          "rank": 50,
+          "rank": 49,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2066,7 +2026,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 51,
+          "rank": 50,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2096,6 +2056,46 @@
               }
             ],
             "info": "note: Also self host some anime"
+          }
+        },
+        {
+          "id": "anikuro",
+          "title": "Anikuro",
+          "link": "https://anikuro.ru/",
+          "icon": "https://static.everythingmoe.com/icons/anikuro.png",
+          "tags": [
+            "Scraper",
+            "Self-host",
+            "Hard-sub",
+            "Soft-sub",
+            "Modern interface",
+            "mult"
+          ],
+          "rank": 51,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources options",
+              "Self-host option available on some anime"
+            ],
+            "negatives": [
+              "Most content depends on the websites it scrapes"
+            ],
+            "altlinks": [
+              {
+                "name": ".to",
+                "url": "https://anikuro.to/"
+              },
+              {
+                "name": "mirrors",
+                "url": "https://anikuro.site/"
+              }
+            ],
+            "note": "Decent features"
           }
         },
         {
@@ -2193,6 +2193,32 @@
           }
         },
         {
+          "id": "otakutsu",
+          "title": "Otakutsu",
+          "link": "https://otakutsu.cc/",
+          "icon": "https://static.everythingmoe.com/icons/otakutsu.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Modern interface",
+            "mult"
+          ],
+          "rank": 55,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple sources & language"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ]
+          }
+        },
+        {
           "id": "anixo",
           "title": "AniXo",
           "link": "https://anixo.online/",
@@ -2202,7 +2228,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 55,
+          "rank": 56,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2228,7 +2254,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 56,
+          "rank": 57,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2256,7 +2282,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 57,
+          "rank": 58,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2266,32 +2292,6 @@
             "positives": [
               "Multiple source options",
               "Separate page for each sources"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes"
-            ]
-          }
-        },
-        {
-          "id": "otakutsu",
-          "title": "Otakutsu",
-          "link": "https://otakutsu.cc/",
-          "icon": "https://static.everythingmoe.com/icons/otakutsu.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "Modern interface",
-            "mult"
-          ],
-          "rank": 58,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple sources & language"
             ],
             "negatives": [
               "Content depends on the websites it scrapes"
@@ -2325,6 +2325,32 @@
           }
         },
         {
+          "id": "yumezone",
+          "title": "YumeZone",
+          "link": "https://yumezone.live/",
+          "icon": "https://static.everythingmoe.com/icons/yumezone.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "mult"
+          ],
+          "rank": 60,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes"
+            ],
+            "ex-info": "note: Just embed other site stream"
+          }
+        },
+        {
           "id": "itachitv",
           "title": "Itachi",
           "link": "https://itachi.tv/",
@@ -2334,7 +2360,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 60,
+          "rank": 61,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2360,7 +2386,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 61,
+          "rank": 62,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2377,6 +2403,40 @@
           }
         },
         {
+          "id": "luffytv",
+          "title": "LuffyTV",
+          "link": "https://luffytv.live/",
+          "icon": "https://static.everythingmoe.com/icons/luffytv.png",
+          "tags": [
+            "Scraper",
+            "Soft-sub",
+            "Hard-sub",
+            "mult"
+          ],
+          "rank": 63,
+          "is_licensed": false,
+          "is_nsfw": false,
+          "has_details": true,
+          "status": "active",
+          "section": "anime",
+          "details": {
+            "positives": [
+              "Multiple source options"
+            ],
+            "negatives": [
+              "Content depends on the websites it scrapes",
+              "New site"
+            ],
+            "altlinks": [
+              {
+                "name": ".online",
+                "url": "https://luffytv.online"
+              }
+            ],
+            "info": "note: Also self host some anime"
+          }
+        },
+        {
           "id": "animekizz",
           "title": "AnimeKizz",
           "link": "https://animekizz.live/",
@@ -2387,7 +2447,7 @@
             "Hard-sub",
             "mult"
           ],
-          "rank": 62,
+          "rank": 64,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2414,7 +2474,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 63,
+          "rank": 65,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2460,7 +2520,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 64,
+          "rank": 66,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2478,34 +2538,6 @@
           }
         },
         {
-          "id": "luffytv",
-          "title": "LuffyTV",
-          "link": "https://luffytv.live/",
-          "icon": "https://static.everythingmoe.com/icons/luffytv.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "Hard-sub",
-            "mult"
-          ],
-          "rank": 65,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes",
-              "New site"
-            ],
-            "info": "note: Also self host some anime (very few)"
-          }
-        },
-        {
           "id": "megaplaysu",
           "title": "megaplay.su",
           "link": "https://aniwatchtv.com.ro/",
@@ -2513,7 +2545,7 @@
           "tags": [
             "Self-host"
           ],
-          "rank": 66,
+          "rank": 67,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2586,7 +2618,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 67,
+          "rank": 68,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2614,7 +2646,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 68,
+          "rank": 69,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2644,7 +2676,7 @@
             "Soft-sub",
             "licensed"
           ],
-          "rank": 69,
+          "rank": 70,
           "is_licensed": true,
           "is_nsfw": false,
           "has_details": true,
@@ -2673,7 +2705,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 70,
+          "rank": 71,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2736,7 +2768,7 @@
             "Soft-sub",
             "koto"
           ],
-          "rank": 71,
+          "rank": 72,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2802,6 +2834,10 @@
               {
                 "name": "animeflixer",
                 "url": "https://animeflixer.com/"
+              },
+              {
+                "name": "flixeo.tv",
+                "url": "https://flixeo.tv/anime"
               }
             ],
             "ex-altlinks": [
@@ -2831,7 +2867,7 @@
             "Soft-sub",
             "mult"
           ],
-          "rank": 72,
+          "rank": 73,
           "is_licensed": false,
           "is_nsfw": false,
           "has_details": true,
@@ -2844,33 +2880,6 @@
             "negatives": [
               "Content depends on the websites it scrapes"
             ]
-          }
-        },
-        {
-          "id": "yumezone",
-          "title": "YumeZone",
-          "link": "https://yumezone.live/",
-          "icon": "https://static.everythingmoe.com/icons/yumezone.png",
-          "tags": [
-            "Scraper",
-            "Soft-sub",
-            "mult"
-          ],
-          "rank": 73,
-          "is_licensed": false,
-          "is_nsfw": false,
-          "has_details": true,
-          "status": "active",
-          "section": "anime",
-          "details": {
-            "positives": [
-              "Multiple source options"
-            ],
-            "negatives": [
-              "Content depends on the websites it scrapes",
-              "New site"
-            ],
-            "ex-info": "note: Just embed other site stream"
           }
         },
         {
@@ -4347,12 +4356,35 @@
           }
         },
         {
+          "id": "hentaidb",
+          "title": "hentaidb (Archive)",
+          "link": "https://hentaidb.xyz/",
+          "icon": "https://static.everythingmoe.com/icons/default.png",
+          "tags": [],
+          "rank": 10,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "hentai",
+          "details": {
+            "positives": [
+              "Decent library size",
+              "Advance tags and filtering",
+              "Provide multi quality download"
+            ],
+            "negatives": [
+              "New site"
+            ]
+          }
+        },
+        {
           "id": "zhentube",
           "title": "Zhentube",
           "link": "https://zhentube.com/",
           "icon": "https://static.everythingmoe.com/icons/zhentube.png",
           "tags": [],
-          "rank": 10,
+          "rank": 11,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4372,7 +4404,7 @@
           "link": "https://watchhentai.net/",
           "icon": "https://static.everythingmoe.com/icons/watchhentai.png",
           "tags": [],
-          "rank": 11,
+          "rank": 12,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4403,7 +4435,7 @@
           "tags": [
             "DDL"
           ],
-          "rank": 12,
+          "rank": 13,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4426,7 +4458,7 @@
           "link": "https://hentai.ht/",
           "icon": "https://static.everythingmoe.com/icons/hentaiht.png",
           "tags": [],
-          "rank": 13,
+          "rank": 14,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4457,7 +4489,7 @@
           "link": "https://tube.hentaistream.com/",
           "icon": "https://static.everythingmoe.com/icons/hentaistream.png",
           "tags": [],
-          "rank": 14,
+          "rank": 15,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4486,7 +4518,7 @@
           "link": "https://hentaiplay.net/",
           "icon": "https://static.everythingmoe.com/icons/hentaiplay.png",
           "tags": [],
-          "rank": 15,
+          "rank": 16,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4514,7 +4546,7 @@
           "link": "https://www.onlyhentaistuff.com/",
           "icon": "https://static.everythingmoe.com/icons/onlyhentaistuff.png",
           "tags": [],
-          "rank": 16,
+          "rank": 17,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4534,7 +4566,7 @@
           "link": "https://hanime1.me/",
           "icon": "https://static.everythingmoe.com/icons/hanime1me.png",
           "tags": [],
-          "rank": 17,
+          "rank": 18,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4559,7 +4591,7 @@
           "link": "https://hentaiworld.tv/",
           "icon": "https://static.everythingmoe.com/icons/hentaiworldtv.png",
           "tags": [],
-          "rank": 18,
+          "rank": 19,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4582,7 +4614,7 @@
           "link": "https://myhentaimovie.com/",
           "icon": "https://static.everythingmoe.com/icons/myhentaimovie.png",
           "tags": [],
-          "rank": 19,
+          "rank": 20,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4608,7 +4640,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4638,7 +4670,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4660,7 +4692,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4687,7 +4719,7 @@
             "licensed",
             "nsfw"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": true,
           "is_nsfw": true,
           "has_details": true,
@@ -4713,7 +4745,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4739,7 +4771,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4764,7 +4796,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 26,
+          "rank": 27,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4789,7 +4821,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 27,
+          "rank": 28,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4810,7 +4842,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 28,
+          "rank": 29,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4836,7 +4868,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 29,
+          "rank": 30,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4865,7 +4897,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 30,
+          "rank": 31,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4897,7 +4929,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 31,
+          "rank": 32,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4922,7 +4954,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 32,
+          "rank": 33,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4956,7 +4988,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 33,
+          "rank": 34,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -4984,7 +5016,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 34,
+          "rank": 35,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5007,7 +5039,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 35,
+          "rank": 36,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5035,7 +5067,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 36,
+          "rank": 37,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5066,7 +5098,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 37,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5090,7 +5122,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 38,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5108,7 +5140,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 39,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5134,7 +5166,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 40,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5160,7 +5192,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 41,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5193,7 +5225,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 42,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5214,7 +5246,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 43,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5237,7 +5269,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 44,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -9946,7 +9978,7 @@
                 "url": "https://hotcomics.io/"
               },
               {
-                "name": "heytoon",
+                "name": "toonhey",
                 "url": "https://toonhey.com/"
               }
             ],
@@ -10866,7 +10898,7 @@
             "negatives": [
               "Bad monetization"
             ],
-            "altlinks": [
+            "ex-altlinks": [
               {
                 "name": "heytoon",
                 "url": "https://heytoon.net/"
@@ -38224,46 +38256,6 @@
         "info": "note: Old videos was deleted, now mostly already restored, but still the library is not that large."
       }
     },
-    "anikuro": {
-      "id": "anikuro",
-      "title": "Anikuro",
-      "link": "https://anikuro.ru/",
-      "icon": "https://static.everythingmoe.com/icons/anikuro.png",
-      "tags": [
-        "Scraper",
-        "Self-host",
-        "Hard-sub",
-        "Soft-sub",
-        "Modern interface",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources options",
-          "Self-host option available on some anime"
-        ],
-        "negatives": [
-          "Most content depends on the websites it scrapes"
-        ],
-        "altlinks": [
-          {
-            "name": ".to",
-            "url": "https://anikuro.to/"
-          },
-          {
-            "name": "mirrors",
-            "url": "https://anikuro.site/"
-          }
-        ],
-        "note": "Decent features"
-      }
-    },
     "anicore": {
       "id": "anicore",
       "title": "Anikage",
@@ -39224,6 +39216,46 @@
         "info": "note: Also self host some anime"
       }
     },
+    "anikuro": {
+      "id": "anikuro",
+      "title": "Anikuro",
+      "link": "https://anikuro.ru/",
+      "icon": "https://static.everythingmoe.com/icons/anikuro.png",
+      "tags": [
+        "Scraper",
+        "Self-host",
+        "Hard-sub",
+        "Soft-sub",
+        "Modern interface",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources options",
+          "Self-host option available on some anime"
+        ],
+        "negatives": [
+          "Most content depends on the websites it scrapes"
+        ],
+        "altlinks": [
+          {
+            "name": ".to",
+            "url": "https://anikuro.to/"
+          },
+          {
+            "name": "mirrors",
+            "url": "https://anikuro.site/"
+          }
+        ],
+        "note": "Decent features"
+      }
+    },
     "justanime": {
       "id": "justanime",
       "title": "JustAnime",
@@ -39318,6 +39350,32 @@
         "ex-info": "note : each made by different people, uses CF worker proxy."
       }
     },
+    "otakutsu": {
+      "id": "otakutsu",
+      "title": "Otakutsu",
+      "link": "https://otakutsu.cc/",
+      "icon": "https://static.everythingmoe.com/icons/otakutsu.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Modern interface",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple sources & language"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ]
+      }
+    },
     "anixo": {
       "id": "anixo",
       "title": "AniXo",
@@ -39398,32 +39456,6 @@
         ]
       }
     },
-    "otakutsu": {
-      "id": "otakutsu",
-      "title": "Otakutsu",
-      "link": "https://otakutsu.cc/",
-      "icon": "https://static.everythingmoe.com/icons/otakutsu.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "Modern interface",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple sources & language"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes"
-        ]
-      }
-    },
     "kazora": {
       "id": "kazora",
       "title": "Kazora",
@@ -39448,6 +39480,32 @@
           "Content depends on the websites it scrapes"
         ],
         "info": "note: Similar interface with Kuroiru"
+      }
+    },
+    "yumezone": {
+      "id": "yumezone",
+      "title": "YumeZone",
+      "link": "https://yumezone.live/",
+      "icon": "https://static.everythingmoe.com/icons/yumezone.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes"
+        ],
+        "ex-info": "note: Just embed other site stream"
       }
     },
     "itachitv": {
@@ -39500,6 +39558,40 @@
         "negatives": [
           "Content depends on the websites it scrapes"
         ]
+      }
+    },
+    "luffytv": {
+      "id": "luffytv",
+      "title": "LuffyTV",
+      "link": "https://luffytv.live/",
+      "icon": "https://static.everythingmoe.com/icons/luffytv.png",
+      "tags": [
+        "Scraper",
+        "Soft-sub",
+        "Hard-sub",
+        "mult"
+      ],
+      "is_licensed": false,
+      "is_nsfw": false,
+      "status": "active",
+      "sections": [
+        "anime"
+      ],
+      "details": {
+        "positives": [
+          "Multiple source options"
+        ],
+        "negatives": [
+          "Content depends on the websites it scrapes",
+          "New site"
+        ],
+        "altlinks": [
+          {
+            "name": ".online",
+            "url": "https://luffytv.online"
+          }
+        ],
+        "info": "note: Also self host some anime"
       }
     },
     "animekizz": {
@@ -39601,34 +39693,6 @@
           "Content depends on the websites it scrapes"
         ],
         "info": "note: Also self host some anime"
-      }
-    },
-    "luffytv": {
-      "id": "luffytv",
-      "title": "LuffyTV",
-      "link": "https://luffytv.live/",
-      "icon": "https://static.everythingmoe.com/icons/luffytv.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "Hard-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes",
-          "New site"
-        ],
-        "info": "note: Also self host some anime (very few)"
       }
     },
     "megaplaysu": {
@@ -39928,6 +39992,10 @@
           {
             "name": "animeflixer",
             "url": "https://animeflixer.com/"
+          },
+          {
+            "name": "flixeo.tv",
+            "url": "https://flixeo.tv/anime"
           }
         ],
         "ex-altlinks": [
@@ -39970,33 +40038,6 @@
         "negatives": [
           "Content depends on the websites it scrapes"
         ]
-      }
-    },
-    "yumezone": {
-      "id": "yumezone",
-      "title": "YumeZone",
-      "link": "https://yumezone.live/",
-      "icon": "https://static.everythingmoe.com/icons/yumezone.png",
-      "tags": [
-        "Scraper",
-        "Soft-sub",
-        "mult"
-      ],
-      "is_licensed": false,
-      "is_nsfw": false,
-      "status": "active",
-      "sections": [
-        "anime"
-      ],
-      "details": {
-        "positives": [
-          "Multiple source options"
-        ],
-        "negatives": [
-          "Content depends on the websites it scrapes",
-          "New site"
-        ],
-        "ex-info": "note: Just embed other site stream"
       }
     },
     "watchanimez": {
@@ -41451,6 +41492,29 @@
             "name": "hentaiporn.li",
             "url": "https://hentaiporn.li/"
           }
+        ]
+      }
+    },
+    "hentaidb": {
+      "id": "hentaidb",
+      "title": "hentaidb (Archive)",
+      "link": "https://hentaidb.xyz/",
+      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "hentai"
+      ],
+      "details": {
+        "positives": [
+          "Decent library size",
+          "Advance tags and filtering",
+          "Provide multi quality download"
+        ],
+        "negatives": [
+          "New site"
         ]
       }
     },
@@ -47027,7 +47091,7 @@
             "url": "https://hotcomics.io/"
           },
           {
-            "name": "heytoon",
+            "name": "toonhey",
             "url": "https://toonhey.com/"
           }
         ],
@@ -47947,7 +48011,7 @@
         "negatives": [
           "Bad monetization"
         ],
-        "altlinks": [
+        "ex-altlinks": [
           {
             "name": "heytoon",
             "url": "https://heytoon.net/"
