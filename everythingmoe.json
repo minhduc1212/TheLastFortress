@@ -1649,13 +1649,13 @@
           "section": "anime",
           "details": {
             "positives": [
-              "Medium library",
+              "Very large library",
               "Soft subtitle multi languages"
             ],
             "negatives": [
               "New site"
             ],
-            "info": "note: jjba & weebtube is unrelated website that use AniGato stream",
+            "info": "note: jjba & weebtube is unrelated website that use AniGato stream. Reupload anikoto videos.",
             "altlinks": [
               {
                 "name": "jjba.lol",
@@ -5257,12 +5257,36 @@
           }
         },
         {
+          "id": "oceanveil",
+          "title": "OceanVeil",
+          "link": "https://oceanveil.net/",
+          "icon": "https://static.everythingmoe.com/icons/oceanveil.png",
+          "tags": [],
+          "rank": 20,
+          "is_licensed": true,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "active",
+          "section": "hentai",
+          "details": {
+            "positives": [
+              "Licensed",
+              "Has some exclusive anime/hentai"
+            ],
+            "negatives": [
+              "Expensive subscription",
+              "Small library"
+            ],
+            "info": "note: Mostly hentai, but also have some ecchi anime, uncensored"
+          }
+        },
+        {
           "id": "hanime1me",
           "title": "Hanime1.me",
           "link": "https://hanime1.me/",
           "icon": "https://static.everythingmoe.com/icons/hanime1me.png",
           "tags": [],
-          "rank": 20,
+          "rank": 21,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5287,7 +5311,7 @@
           "link": "https://myhentaimovie.com/",
           "icon": "https://static.everythingmoe.com/icons/myhentaimovie.png",
           "tags": [],
-          "rank": 21,
+          "rank": 22,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5313,7 +5337,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 22,
+          "rank": 23,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5338,7 +5362,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 23,
+          "rank": 24,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5360,7 +5384,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 24,
+          "rank": 25,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5386,7 +5410,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 25,
+          "rank": 26,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5402,33 +5426,6 @@
               "No quality change"
             ],
             "info": "note: Recent contents mostly reupload hanime video"
-          }
-        },
-        {
-          "id": "oceanveil",
-          "title": "OceanVeil",
-          "link": "https://oceanveil.net/",
-          "icon": "https://static.everythingmoe.com/icons/oceanveil.png",
-          "tags": [
-            "licensed",
-            "nsfw"
-          ],
-          "rank": 26,
-          "is_licensed": true,
-          "is_nsfw": true,
-          "has_details": true,
-          "status": "active",
-          "section": "hentai",
-          "details": {
-            "positives": [
-              "Licensed",
-              "Has some exclusive anime/hentai"
-            ],
-            "negatives": [
-              "Expensive subscription",
-              "Small library"
-            ],
-            "info": "note: Mostly hentai, but also have some ecchi anime, uncensored"
           }
         },
         {
@@ -5726,34 +5723,6 @@
           }
         },
         {
-          "id": "hentaivideoworld",
-          "title": "HentaiVideoWorld",
-          "link": "https://hentaivideoworld.com/",
-          "icon": "https://static.everythingmoe.com/icons/default.png",
-          "tags": [
-            "nsfw"
-          ],
-          "rank": 38,
-          "is_licensed": false,
-          "is_nsfw": true,
-          "has_details": true,
-          "status": "active",
-          "section": "hentai",
-          "details": {
-            "positives": [
-              "Curated contents",
-              "Reliable stream",
-              "Very long track record"
-            ],
-            "negatives": [
-              "Only have old hentai",
-              "Lock content behind login",
-              "Medium-small library",
-              "Old interface"
-            ]
-          }
-        },
-        {
           "id": "eshentai",
           "title": "ESHentai",
           "link": "https://eshentai.tv/",
@@ -5761,7 +5730,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 39,
+          "rank": 38,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5792,7 +5761,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 40,
+          "rank": 39,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5816,7 +5785,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 41,
+          "rank": 40,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5834,7 +5803,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 42,
+          "rank": 41,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5860,7 +5829,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 43,
+          "rank": 42,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5886,7 +5855,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 44,
+          "rank": 43,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5919,7 +5888,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 45,
+          "rank": 44,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5942,7 +5911,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 46,
+          "rank": 45,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5972,7 +5941,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 47,
+          "rank": 46,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -5994,7 +5963,7 @@
           "tags": [
             "nsfw"
           ],
-          "rank": 48,
+          "rank": 47,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -14938,8 +14907,8 @@
         },
         {
           "id": "katdrama",
-          "title": "Kat Drama",
-          "link": "https://k-drama.in/",
+          "title": "DramaHQ",
+          "link": "https://dramahq.tv/",
           "icon": "https://static.everythingmoe.com/icons/katdrama.png",
           "tags": [],
           "rank": 13,
@@ -14957,6 +14926,12 @@
               "Content mixed with other stuff"
             ],
             "altlinks": [
+              {
+                "name": "Kat Drama",
+                "url": "https://k-drama.in/"
+              }
+            ],
+            "ex-altlinks": [
               {
                 "name": "app",
                 "url": "https://k-drama.in/app"
@@ -34685,12 +34660,38 @@
           }
         },
         {
+          "id": "hentaivideoworld",
+          "title": "HentaiVideoWorld",
+          "link": "https://hentaivideoworld.com/",
+          "icon": "https://static.everythingmoe.com/icons/default.png",
+          "tags": [],
+          "rank": 6,
+          "is_licensed": false,
+          "is_nsfw": true,
+          "has_details": true,
+          "status": "graveyard",
+          "section": "hentai",
+          "details": {
+            "positives": [
+              "Curated contents",
+              "Reliable stream",
+              "Very long track record"
+            ],
+            "negatives": [
+              "Only have old hentai",
+              "Lock content behind login",
+              "Medium-small library",
+              "Old interface"
+            ]
+          }
+        },
+        {
           "id": "mitestream",
           "title": "MiteStream",
           "link": "https://mitestream.com/",
           "icon": "https://static.everythingmoe.com/icons/mitestream.png",
           "tags": [],
-          "rank": 6,
+          "rank": 7,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -34713,7 +34714,7 @@
           "link": "https://animeplex.fun/",
           "icon": "https://static.everythingmoe.com/icons/animeplex.png",
           "tags": [],
-          "rank": 7,
+          "rank": 8,
           "is_licensed": false,
           "is_nsfw": true,
           "has_details": true,
@@ -42099,13 +42100,13 @@
       ],
       "details": {
         "positives": [
-          "Medium library",
+          "Very large library",
           "Soft subtitle multi languages"
         ],
         "negatives": [
           "New site"
         ],
-        "info": "note: jjba & weebtube is unrelated website that use AniGato stream",
+        "info": "note: jjba & weebtube is unrelated website that use AniGato stream. Reupload anikoto videos.",
         "altlinks": [
           {
             "name": "jjba.lol",
@@ -45688,6 +45689,30 @@
         ]
       }
     },
+    "oceanveil": {
+      "id": "oceanveil",
+      "title": "OceanVeil",
+      "link": "https://oceanveil.net/",
+      "icon": "https://static.everythingmoe.com/icons/oceanveil.png",
+      "tags": [],
+      "is_licensed": true,
+      "is_nsfw": true,
+      "status": "active",
+      "sections": [
+        "hentai"
+      ],
+      "details": {
+        "positives": [
+          "Licensed",
+          "Has some exclusive anime/hentai"
+        ],
+        "negatives": [
+          "Expensive subscription",
+          "Small library"
+        ],
+        "info": "note: Mostly hentai, but also have some ecchi anime, uncensored"
+      }
+    },
     "hanime1me": {
       "id": "hanime1me",
       "title": "Hanime1.me",
@@ -45834,33 +45859,6 @@
           "No quality change"
         ],
         "info": "note: Recent contents mostly reupload hanime video"
-      }
-    },
-    "oceanveil": {
-      "id": "oceanveil",
-      "title": "OceanVeil",
-      "link": "https://oceanveil.net/",
-      "icon": "https://static.everythingmoe.com/icons/oceanveil.png",
-      "tags": [
-        "licensed",
-        "nsfw"
-      ],
-      "is_licensed": true,
-      "is_nsfw": true,
-      "status": "active",
-      "sections": [
-        "hentai"
-      ],
-      "details": {
-        "positives": [
-          "Licensed",
-          "Has some exclusive anime/hentai"
-        ],
-        "negatives": [
-          "Expensive subscription",
-          "Small library"
-        ],
-        "info": "note: Mostly hentai, but also have some ecchi anime, uncensored"
       }
     },
     "hentv": {
@@ -46154,34 +46152,6 @@
         ],
         "negatives": [
           "Medium-small library"
-        ]
-      }
-    },
-    "hentaivideoworld": {
-      "id": "hentaivideoworld",
-      "title": "HentaiVideoWorld",
-      "link": "https://hentaivideoworld.com/",
-      "icon": "https://static.everythingmoe.com/icons/default.png",
-      "tags": [
-        "nsfw"
-      ],
-      "is_licensed": false,
-      "is_nsfw": true,
-      "status": "active",
-      "sections": [
-        "hentai"
-      ],
-      "details": {
-        "positives": [
-          "Curated contents",
-          "Reliable stream",
-          "Very long track record"
-        ],
-        "negatives": [
-          "Only have old hentai",
-          "Lock content behind login",
-          "Medium-small library",
-          "Old interface"
         ]
       }
     },
@@ -55325,8 +55295,8 @@
     },
     "katdrama": {
       "id": "katdrama",
-      "title": "Kat Drama",
-      "link": "https://k-drama.in/",
+      "title": "DramaHQ",
+      "link": "https://dramahq.tv/",
       "icon": "https://static.everythingmoe.com/icons/katdrama.png",
       "tags": [],
       "is_licensed": false,
@@ -55344,6 +55314,12 @@
           "Content mixed with other stuff"
         ],
         "altlinks": [
+          {
+            "name": "Kat Drama",
+            "url": "https://k-drama.in/"
+          }
+        ],
+        "ex-altlinks": [
           {
             "name": "app",
             "url": "https://k-drama.in/app"
@@ -74877,6 +74853,32 @@
         ],
         "negatives": [
           "Content depends on the websites it scrapes"
+        ]
+      }
+    },
+    "hentaivideoworld": {
+      "id": "hentaivideoworld",
+      "title": "HentaiVideoWorld",
+      "link": "https://hentaivideoworld.com/",
+      "icon": "https://static.everythingmoe.com/icons/default.png",
+      "tags": [],
+      "is_licensed": false,
+      "is_nsfw": true,
+      "status": "graveyard",
+      "sections": [
+        "hentai"
+      ],
+      "details": {
+        "positives": [
+          "Curated contents",
+          "Reliable stream",
+          "Very long track record"
+        ],
+        "negatives": [
+          "Only have old hentai",
+          "Lock content behind login",
+          "Medium-small library",
+          "Old interface"
         ]
       }
     },
